@@ -161,7 +161,10 @@ let bg = {
     "This is not visible to your users. Set names to differentiate your calendars when using the Boom Calendar Sync function.":"Това не се вижда от вашите потребители. Задайте имена, за да разграничите вашите календари, когато използвате функцията Boom Calendar Sync.",
     "General Info" : "Обща информация",
     "Venue" : "Място на провеждане",
-    "Organizer"  : "Организатор"
+    "Organizer"  : "Организатор",
+ "uncategorized" : "Без категория",
+ "all view names" : "Всички имена на виждане",
+ "no events to show" : "Няма събития, които да показват",
+ "show more" : "Покажи повече"
 }
-
-export default bg;
+export default bg

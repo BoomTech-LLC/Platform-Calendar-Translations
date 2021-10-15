@@ -161,7 +161,10 @@ let ko = {
     "This is not visible to your users. Set names to differentiate your calendars when using the Boom Calendar Sync function.":"사용자에게는 보이지 않습니다. 붐 캘린더 동기화 기능을 사용할 때 캘린더를 구별 할 수 있도록 이름을 설정하십시오.",
     "General Info" : "일반 정보",
     "Venue" : "장소",
-    "Organizer"  : "조직자"
+    "Organizer"  : "조직자",
+ "uncategorized" : "분류되지 않은",
+ "all view names" : "모든보기 이름",
+ "no events to show" : "보여줄 이벤트가 없습니다",
+ "show more" : "자세히보기"
 }
-
-export default ko;
+export default ko

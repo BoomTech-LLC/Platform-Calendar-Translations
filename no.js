@@ -161,7 +161,10 @@ let no = {
     "This is not visible to your users. Set names to differentiate your calendars when using the Boom Calendar Sync function.":"Dette er ikke synlig for brukerne dine. Angi navn for å differensiere kalenderne dine når du bruker Boom Calendar Sync-funksjonen.",
     "General Info" : "Generell info",
     "Venue" : "Spillested",
-    "Organizer"  : "Planlegger"
-};
-
-export default no;
+    "Organizer"  : "Planlegger",
+ "uncategorized" : "Uncategorized.",
+ "all view names" : "Alle Vis navn",
+ "no events to show" : "Ingen hendelser å vise",
+ "show more" : "Vis mer"
+}
+export default no

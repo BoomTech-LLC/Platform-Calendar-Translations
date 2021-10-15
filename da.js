@@ -161,7 +161,10 @@ let da = {
     "This is not visible to your users. Set names to differentiate your calendars when using the Boom Calendar Sync function.":"Dette er ikke synligt for dine brugere. Indstil navne til at differentiere dine kalendere, når du bruger Boom Calendar Sync-funktionen.",
     "General Info" : "Generel Info",
     "Venue" : "Venue",
-    "Organizer"  : "Arrangør"
+    "Organizer"  : "Arrangør",
+ "uncategorized" : "ukategoriseret",
+ "all view names" : "Alle View Navne",
+ "no events to show" : "Ingen begivenheder at vise",
+ "show more" : "Vis mere"
 }
-
-export default da;
+export default da

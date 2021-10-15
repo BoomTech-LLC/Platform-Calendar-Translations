@@ -161,8 +161,10 @@ let uk = {
     "This is not visible to your users. Set names to differentiate your calendars when using the Boom Calendar Sync function.":"Це не видно користувачам. Встановіть імена для розмежування ваших календарів під час використання функції синхронізації календаря Boom.",
     "General Info" : "Загальна інформація",
     "Venue" : "Місце проведення",
-    "Organizer"  : "Організатор"
-
-};
-
-export default uk;
+    "Organizer"  : "Організатор",
+ "uncategorized" : "без рубрика",
+ "all view names" : "Всі переглядати імена",
+ "no events to show" : "Немає подій",
+ "show more" : "показати більше"
+}
+export default uk
