@@ -161,7 +161,10 @@ let ru = {
     "This is not visible to your users. Set names to differentiate your calendars when using the Boom Calendar Sync function.":"Это не видно вашим пользователям. Задайте имена, чтобы дифференцировать календари при использовании функции синхронизации календаря Boom.",
     "General Info" : "Общая информация",
     "Venue" : "Место проведения",
-    "Organizer"  : "Организатор"
-};
-
-export default ru;
+    "Organizer"  : "Организатор",
+ "uncategorized" : "без рубрики",
+ "all view names" : "Все имена просмотра",
+ "no events to show" : "Нет событий, чтобы показать",
+ "show more" : "показать больше"
+}
+export default ru

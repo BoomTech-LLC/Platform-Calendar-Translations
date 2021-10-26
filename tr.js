@@ -161,7 +161,10 @@ let tr = {
     "This is not visible to your users. Set names to differentiate your calendars when using the Boom Calendar Sync function.":"Bu, kullanıcılarınız tarafından görülemez. Boom Calendar Sync işlevini kullanırken takvimlerinizi ayırt etmek için adları ayarlayın.",
     "General Info" : "Genel Bilgi",
     "Venue" : "Mekan",
-    "Organizer"  : "Organizatör"
-};
-
-export default tr;
+    "Organizer"  : "Organizatör",
+ "uncategorized" : "kategorize edilmemiş",
+ "all view names" : "Tüm isimleri görüntüle",
+ "no events to show" : "Gösterecek etkinlik yok",
+ "show more" : "Daha fazla göster"
+}
+export default tr

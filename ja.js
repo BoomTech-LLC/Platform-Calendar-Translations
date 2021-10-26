@@ -161,7 +161,10 @@ let ja = {
     "This is not visible to your users. Set names to differentiate your calendars when using the Boom Calendar Sync function.":"これはユーザーには見えません。 ブームカレンダー同期機能を使用する場合は、名前を設定してカレンダーを区別します。",
     "General Info" : "一般的な情報",
     "Venue" : "会場",
-    "Organizer"  : "主催者"
+    "Organizer"  : "主催者",
+ "uncategorized" : "未分類",
+ "all view names" : "すべてのビュー名前",
+ "no events to show" : "見せるイベントはありません",
+ "show more" : "もっと見せる"
 }
-
-export default ja;
+export default ja

@@ -160,7 +160,10 @@ let ar = {
     "This is not visible to your users. Set names to differentiate your calendars when using the Boom Calendar Sync function.":"هذا غير مرئي للمستخدمين. قم بتعيين أسماء للتمييز بين التقاويم الخاصة بك عند استخدام وظيفة Boom Calendar Sync.",
     "General Info" : "معلومات عامة",
     "Venue" : "مكان",
-    "Organizer"  : "منظم"
-};
-
-export default ar;
+    "Organizer"  : "منظم",
+ "uncategorized" : "غير مصنف",
+ "all view names" : "جميع أسماء العرض",
+ "no events to show" : "لا توجد أحداث لإظهار",
+ "show more" : "أظهر المزيد"
+}
+export default ar

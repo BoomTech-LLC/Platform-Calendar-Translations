@@ -161,7 +161,10 @@ let zh = {
     "This is not visible to your users. Set names to differentiate your calendars when using the Boom Calendar Sync function.":"這對您的用戶不可見。 使用動臂日曆同步功能時，請設置名稱以區分您的日曆。",
     "General Info" : "基本信息",
     "Venue" : "會場",
-    "Organizer"  : "組織者"
-};
-
-export default zh;
+    "Organizer"  : "組織者",
+ "uncategorized" : "未分类",
+ "all view names" : "所有视图名称",
+ "no events to show" : "没有展示活动",
+ "show more" : "展示更多"
+}
+export default zh

@@ -161,8 +161,10 @@ let sv = {
     "This is not visible to your users. Set names to differentiate your calendars when using the Boom Calendar Sync function.":"Detta är inte synligt för dina användare. Ställ in namn för att skilja dina kalendrar när du använder funktionen Boom Calendar Sync.",
     "General Info" : "Generell information",
     "Venue" : "Mötesplats",
-    "Organizer"  : "Arrangör"
-
-};
-
-export default sv;
+    "Organizer"  : "Arrangör",
+ "uncategorized" : "okategoriserad",
+ "all view names" : "Alla visa namn",
+ "no events to show" : "Inga händelser att visa",
+ "show more" : "visa mer"
+}
+export default sv

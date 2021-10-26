@@ -158,7 +158,10 @@ let hu = {
     "This is not visible to your users. Set names to differentiate your calendars when using the Boom Calendar Sync function.":"Ez a felhasználók számára nem látható. Nevek beállítása a naptárak megkülönböztetésére a Boom Calendar Sync funkció használatakor.",
     "General Info" : "Általános információ",
     "Venue" : "Helyszín",
-    "Organizer"  : "Szervező"
+    "Organizer"  : "Szervező",
+ "uncategorized" : "korlátlanul",
+ "all view names" : "Minden nézetnév",
+ "no events to show" : "Nincsenek események",
+ "show more" : "mutass többet"
 }
-
-export default hu;
+export default hu

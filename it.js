@@ -161,7 +161,10 @@ let it = {
     "This is not visible to your users. Set names to differentiate your calendars when using the Boom Calendar Sync function.":"Questo non è visibile ai tuoi utenti. Imposta i nomi per differenziare i tuoi calendari quando usi la funzione Sincronizzazione Boom Calendar.",
     "General Info" : "Informazioni generali",
     "Venue" : "Sede",
-    "Organizer"  : "il promotore"
+    "Organizer"  : "il promotore",
+ "uncategorized" : "Non categorizzato",
+ "all view names" : "Tutti i nomi di visualizzazione",
+ "no events to show" : "Nessun evento da mostrare",
+ "show more" : "mostra di più"
 }
-
-export default it;
+export default it

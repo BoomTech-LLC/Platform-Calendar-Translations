@@ -161,7 +161,10 @@ let fa = {
     "This is not visible to your users. Set names to differentiate your calendars when using the Boom Calendar Sync function.":"این برای کاربران شما قابل مشاهده نیست. نام ها را برای تمایز تقویم های خود هنگام استفاده از عملکرد Boom Calendar Sync تنظیم کنید.",
     "General Info" : "اطلاعات عمومی",
     "Venue" : "محل",
-    "Organizer"  : "تنظیم کننده"
-};
-
-export default fa;
+    "Organizer"  : "تنظیم کننده",
+ "uncategorized" : "دستهبندی نشده",
+ "all view names" : "تمام نام های مشاهده",
+ "no events to show" : "هیچ رویدادی برای نشان دادن وجود ندارد",
+ "show more" : "بیشتر نشان بده، اطلاعات بیشتر"
+}
+export default fa

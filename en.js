@@ -159,7 +159,10 @@ let en = {
     "This is not visible to your users. Set names to differentiate your calendars when using the Boom Calendar Sync function.":"This is not visible to your users. Set names to differentiate your calendars when using the Boom Calendar Sync function.",
     "General Info" : "General Info",
     "Venue" : "Venue",
-    "Organizer"  : "Organizer"
+    "Organizer"  : "Organizer",
+ "uncategorized" : "uncategorized",
+ "all view names" : "all view names",
+ "no events to show" : "no events to show",
+ "show more" : "show more"
 }
-
-export default en;
+export default en

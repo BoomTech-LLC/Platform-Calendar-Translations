@@ -161,7 +161,10 @@ let hi = {
     "This is not visible to your users. Set names to differentiate your calendars when using the Boom Calendar Sync function.":"यह आपके उपयोगकर्ताओं को दिखाई नहीं देता है। बूम कैलेंडर सिंक फ़ंक्शन का उपयोग करते समय अपने कैलेंडर को अलग करने के लिए नाम सेट करें।",
     "General Info" : "सामान्य जानकारी",
     "Venue" : "स्थान",
-    "Organizer"  : "व्यवस्था करनेवाला"
-};
-
-export default hi;
+    "Organizer"  : "व्यवस्था करनेवाला",
+ "uncategorized" : "अवर्गीकृत",
+ "all view names" : "सभी नाम",
+ "no events to show" : "दिखाने के लिए कोई घटना नहीं",
+ "show more" : "और दिखाओ"
+}
+export default hi

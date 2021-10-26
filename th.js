@@ -161,8 +161,10 @@ let th = {
     "This is not visible to your users. Set names to differentiate your calendars when using the Boom Calendar Sync function.":"ผู้ใช้ของคุณจะไม่เห็นสิ่งนี้ ตั้งชื่อเพื่อแยกความแตกต่างปฏิทินของคุณเมื่อใช้ฟังก์ชัน Boom Calendar Sync",
     "General Info" : "ข้อมูลทั่วไป",
     "Venue" : "แห่ง",
-    "Organizer"  : "ออแกไนเซอร์"
-
-};
-
-export default th;
+    "Organizer"  : "ออแกไนเซอร์",
+ "uncategorized" : "ไม่มีหมวดหมู่",
+ "all view names" : "ทุกมุมมองชื่อ",
+ "no events to show" : "ไม่มีกิจกรรมที่จะแสดง",
+ "show more" : "แสดงมากขึ้น"
+}
+export default th

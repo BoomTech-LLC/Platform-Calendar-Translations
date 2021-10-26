@@ -162,8 +162,10 @@ let el = {
     "This is not visible to your users. Set names to differentiate your calendars when using the Boom Calendar Sync function.":"Αυτό δεν είναι ορατό στους χρήστες σας. Ορίστε ονόματα για να διαφοροποιήσετε τα ημερολόγιά σας όταν χρησιμοποιείτε τη λειτουργία Συγχρονισμός ημερολογίου Boom.",
     "General Info" : "Γενικές πληροφορίες",
     "Venue" : "Τόπος συναντήσεως",
-    "Organizer"  : "Διοργανωτής"
-
-};
-
-export default el;
+    "Organizer"  : "Διοργανωτής",
+ "uncategorized" : "ακινητοποιημένος",
+ "all view names" : "Όλα τα ονόματα προβολής",
+ "no events to show" : "Δεν υπάρχουν συμβάντα που να δείχνουν",
+ "show more" : "Δείτε περισσότερα"
+}
+export default el

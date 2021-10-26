@@ -161,8 +161,10 @@ let lv = {
     "This is not visible to your users. Set names to differentiate your calendars when using the Boom Calendar Sync function.":"Tas jūsu lietotājiem nav redzams. Iestatiet nosaukumus, lai atšķirtu kalendārus, kad izmantojat Boom Calendar Sync funkciju.",
     "General Info" : "Vispārīga informācija",
     "Venue" : "Norises vieta",
-    "Organizer"  : "Organizators"
-
+    "Organizer"  : "Organizators",
+ "uncategorized" : "Uncategorized",
+ "all view names" : "Visi skata nosaukumi",
+ "no events to show" : "Nav notikumu, lai parādītu",
+ "show more" : "parādīt vairāk"
 }
-
-export default lv;
+export default lv
