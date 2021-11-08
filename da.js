@@ -320,6 +320,7 @@ let da = {
   "Display at the" : "Display på",
   "top" : "top",
   "bottom" : "bund",
-  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Vis kategori filteret øverst eller nederst på kalenderen.Indstillingerne gælder kun for dagsorden og kortvisninger"
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Vis kategori filteret øverst eller nederst på kalenderen.Indstillingerne gælder kun for dagsorden og kortvisninger",
+ "Processing your events" : "Behandling af dine arrangementer."
 }
-export default da;
+export default da

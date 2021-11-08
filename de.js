@@ -320,6 +320,7 @@ let de = {
   "Display at the" : "Anzeige auf der",
   "top" : "oben",
   "bottom" : "Unterseite",
-  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Zeigen Sie den Kategoriefilter oben oder am unteren Rand des Kalenders an.Die Einstellungen gilt nur für Agenda- und Kartenansichten"
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Zeigen Sie den Kategoriefilter oben oder am unteren Rand des Kalenders an.Die Einstellungen gilt nur für Agenda- und Kartenansichten",
+ "Processing your events" : "Bearbeitung Ihrer Events"
 }
-export default de;
+export default de

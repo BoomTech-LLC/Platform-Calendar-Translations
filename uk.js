@@ -320,6 +320,7 @@ let uk = {
   "Display at the" : "Дисплей на",
   "top" : "вершина",
   "bottom" : "дно",
-  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Продемонструйте фільтр категорії у верхній або в нижній частині календаря.Налаштування стосується лише порядку денного та картки"
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Продемонструйте фільтр категорії у верхній або в нижній частині календаря.Налаштування стосується лише порядку денного та картки",
+ "Processing your events" : "Обробка ваших подій"
 }
-export default uk;
+export default uk

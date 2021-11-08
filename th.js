@@ -320,6 +320,7 @@ let th = {
   "Display at the" : "แสดงที่",
   "top" : "สูงสุด",
   "bottom" : "ล่าง",
-  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "แสดงตัวกรองหมวดหมู่ที่ด้านบนหรือด้านล่างของปฏิทินการตั้งค่าใช้กับวาระการประชุมและการดูบัตรเท่านั้น"
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "แสดงตัวกรองหมวดหมู่ที่ด้านบนหรือด้านล่างของปฏิทินการตั้งค่าใช้กับวาระการประชุมและการดูบัตรเท่านั้น",
+ "Processing your events" : "ประมวลผลกิจกรรมของคุณ"
 }
-export default th;
+export default th

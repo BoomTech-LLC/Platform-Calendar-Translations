@@ -320,6 +320,7 @@ let fa = {
   "Display at the" : "نمایش در",
   "top" : "بالا",
   "bottom" : "پایین",
-  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "نمایشگر دسته بندی را در بالای صفحه یا در پایین تقویم نمایش دهید.تنظیمات فقط به دستور کار و کارت های کارت اعمال می شود"
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "نمایشگر دسته بندی را در بالای صفحه یا در پایین تقویم نمایش دهید.تنظیمات فقط به دستور کار و کارت های کارت اعمال می شود",
+ "Processing your events" : "پردازش رویدادهای شما"
 }
-export default fa;
+export default fa

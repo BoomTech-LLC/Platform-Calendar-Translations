@@ -320,6 +320,7 @@ let nl = {
   "Display at the" : "Weergave op de",
   "top" : "bovenkant",
   "bottom" : "onderkant",
-  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Toon de categoriefilter aan de bovenkant of onderaan de kalender.De instellingen zijn alleen van toepassing op Agenda and Card-views"
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Toon de categoriefilter aan de bovenkant of onderaan de kalender.De instellingen zijn alleen van toepassing op Agenda and Card-views",
+ "Processing your events" : "Uw evenementen verwerken"
 }
-export default nl;
+export default nl

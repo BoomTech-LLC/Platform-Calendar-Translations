@@ -325,6 +325,7 @@ let sv = {
   "Display at the" : "Visa på",
   "top" : "topp",
   "bottom" : "botten",
-  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Visa kategorifiltret längst upp eller längst ner i kalendern.Inställningarna gäller endast för agenda och kortvisningar"
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Visa kategorifiltret längst upp eller längst ner i kalendern.Inställningarna gäller endast för agenda och kortvisningar",
+ "Processing your events" : "Bearbetar dina händelser"
 }
-export default sv;
+export default sv

@@ -320,6 +320,7 @@ let lv = {
   "Display at the" : "Displejs pie",
   "top" : "tops",
   "bottom" : "apakšējā daļa",
-  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Vitrīna kategorijas filtru augšpusē vai apakšā kalendāra.Uzstādījumi attiecas tikai uz darba kārtību un kartēm"
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Vitrīna kategorijas filtru augšpusē vai apakšā kalendāra.Uzstādījumi attiecas tikai uz darba kārtību un kartēm",
+ "Processing your events" : "Jūsu notikumu apstrāde"
 }
-export default lv;
+export default lv

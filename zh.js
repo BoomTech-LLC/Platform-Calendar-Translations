@@ -320,6 +320,7 @@ let zh = {
   "Display at the" : "在展示",
   "top" : "最佳",
   "bottom" : "底部",
-  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "在日历的顶部或底部展示类别过滤器。这些设置仅适用于议程和卡片视图"
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "在日历的顶部或底部展示类别过滤器。这些设置仅适用于议程和卡片视图",
+ "Processing your events" : "处理您的活动"
 }
-export default zh;
+export default zh

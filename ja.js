@@ -320,6 +320,7 @@ let ja = {
   "Display at the" : "に表示",
   "top" : "上",
   "bottom" : "下",
-  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "カレンダーの上部またはカレンダーの下部にあるカテゴリフィルタを表示します。設定は議題とカードの閲覧のみに適用されます"
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "カレンダーの上部またはカレンダーの下部にあるカテゴリフィルタを表示します。設定は議題とカードの閲覧のみに適用されます",
+ "Processing your events" : "あなたのイベントを処理する"
 }
-export default ja;
+export default ja

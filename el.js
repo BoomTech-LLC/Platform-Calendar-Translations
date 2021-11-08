@@ -320,6 +320,7 @@ let el = {
   "Display at the" : "Εμφάνιση στο",
   "top" : "μπλουζα",
   "bottom" : "κάτω μέρος",
-  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Παρουσιάστε το φίλτρο κατηγορίας στην κορυφή ή στο κάτω μέρος του ημερολογίου.Οι ρυθμίσεις ισχύουν μόνο για την ημερήσια διάταξη και τις προβολές καρτών"
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Παρουσιάστε το φίλτρο κατηγορίας στην κορυφή ή στο κάτω μέρος του ημερολογίου.Οι ρυθμίσεις ισχύουν μόνο για την ημερήσια διάταξη και τις προβολές καρτών",
+ "Processing your events" : "Επεξεργασία των γεγονότών σας"
 }
-export default el;
+export default el

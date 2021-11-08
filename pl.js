@@ -320,6 +320,7 @@ let pl = {
   "Display at the" : "Wyświetlacz w The.",
   "top" : "szczyt",
   "bottom" : "na dole",
-  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Pokaż filtr kategorii na górze lub na dole kalendarza.Ustawienia dotyczy tylko widoków programów i kart"
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Pokaż filtr kategorii na górze lub na dole kalendarza.Ustawienia dotyczy tylko widoków programów i kart",
+ "Processing your events" : "Przetwarzanie wydarzeń"
 }
-export default pl;
+export default pl

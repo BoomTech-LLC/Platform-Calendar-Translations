@@ -320,6 +320,7 @@ let cs = {
   "Display at the" : "Zobrazit na.",
   "top" : "horní",
   "bottom" : "dno",
-  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Představte filtr kategorie nahoře nebo v dolní části kalendáře.Nastavení se vztahuje pouze na zobrazení programu a karet"
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Představte filtr kategorie nahoře nebo v dolní části kalendáře.Nastavení se vztahuje pouze na zobrazení programu a karet",
+ "Processing your events" : "Zpracování vašich událostí"
 }
-export default cs;
+export default cs

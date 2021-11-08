@@ -317,6 +317,7 @@ let hu = {
   "Display at the" : "Megjelenik a",
   "top" : "top",
   "bottom" : "alsó",
-  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Mutassa be a kategória-szűrőt a naptár tetején vagy alján.A beállítások csak napirendre és kártyára vonatkoznak"
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Mutassa be a kategória-szűrőt a naptár tetején vagy alján.A beállítások csak napirendre és kártyára vonatkoznak",
+ "Processing your events" : "Az események feldolgozása"
 }
-export default hu;
+export default hu

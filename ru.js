@@ -320,6 +320,7 @@ let ru = {
   "Display at the" : "Отображать на то",
   "top" : "Топ",
   "bottom" : "Нижний",
-  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Продемонстрируйте фильтр категории сверху или в нижней части календаря.Настройки применяются только к представлениям повестки дня и открытки"
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Продемонстрируйте фильтр категории сверху или в нижней части календаря.Настройки применяются только к представлениям повестки дня и открытки",
+ "Processing your events" : "Обработка ваших событий"
 }
-export default ru;
+export default ru

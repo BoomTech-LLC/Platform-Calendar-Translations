@@ -315,6 +315,7 @@ let en = {
   "Display at the" : "Display at the",
   "top" : "top",
   "bottom" : "bottom",
-  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only"
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only",
+ "Processing your events" : "Processing your events"
 }
-export default en;
+export default en
