@@ -321,6 +321,7 @@ let tr = {
   "top" : "Tepe",
   "bottom" : "alt",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Kategori filtresini üstten veya takvimin altına sergileyin.Ayarlar sadece gündem ve kart görünümler için geçerlidir.",
- "Processing your events" : "Olaylarınızı işleme"
+ "Processing your events" : "Olaylarınızı işleme",
+ "Search for events" : "Etkinlikleri ara"
 }
 export default tr

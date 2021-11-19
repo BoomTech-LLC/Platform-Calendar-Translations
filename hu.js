@@ -318,6 +318,7 @@ let hu = {
   "top" : "top",
   "bottom" : "alsó",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Mutassa be a kategória-szűrőt a naptár tetején vagy alján.A beállítások csak napirendre és kártyára vonatkoznak",
- "Processing your events" : "Az események feldolgozása"
+ "Processing your events" : "Az események feldolgozása",
+ "Search for events" : "Események keresése"
 }
 export default hu

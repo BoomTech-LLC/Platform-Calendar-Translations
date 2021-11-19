@@ -321,6 +321,7 @@ let bg = {
   "top" : "Горна част",
   "bottom" : "дъно",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Покажете филтъра от категорията в горната част или в долната част на календара.Настройките се прилагат само за дневния ред и възгледите на картите",
- "Processing your events" : "Обработка на вашите събития"
+ "Processing your events" : "Обработка на вашите събития",
+ "Search for events" : "Търсене на събития"
 }
 export default bg

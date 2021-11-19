@@ -321,6 +321,7 @@ let he = {
   "top" : "חלק עליון",
   "bottom" : "תַחתִית",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "הצג את מסנן הקטגוריה בחלק העליון או בחלק התחתון של היומן.ההגדרות חלות על תצוגות אג'נדה וכרטיס בלבד",
- "Processing your events" : "עיבוד האירועים שלך"
+ "Processing your events" : "עיבוד האירועים שלך",
+ "Search for events" : "חפש אירועים"
 }
 export default he

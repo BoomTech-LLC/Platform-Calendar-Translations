@@ -316,6 +316,7 @@ let en = {
   "top" : "top",
   "bottom" : "bottom",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only",
- "Processing your events" : "Processing your events"
+ "Processing your events" : "Processing your events",
+ "Search for events" : "Search for events"
 }
 export default en

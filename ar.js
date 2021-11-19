@@ -321,6 +321,7 @@ let ar = {
   "top" : "أعلى",
   "bottom" : "قاع",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "عرض مرشح الفئة في الأعلى أو في الجزء السفلي من التقويم.تنطبق الإعدادات على جدول الأعمال وآراء الأوراق فقط",
- "Processing your events" : "معالجةالأحداث"
+ "Processing your events" : "معالجةالأحداث",
+ "Search for events" : "البحث عن الأحداث"
 }
 export default ar

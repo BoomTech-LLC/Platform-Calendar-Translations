@@ -321,6 +321,7 @@ let no = {
   "top" : "topp",
   "bottom" : "bunn",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Vis at kategorifilteret øverst eller nederst på kalenderen.Innstillingene gjelder bare for agenda- og kortvisninger",
- "Processing your events" : "Behandler hendelsene dine"
+ "Processing your events" : "Behandler hendelsene dine",
+ "Search for events" : "Søk etter arrangementer"
 }
 export default no
