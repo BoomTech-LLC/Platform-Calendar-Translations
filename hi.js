@@ -176,7 +176,7 @@ let hi = {
   "Less": "कम",
   "Register": "रजिस्टर करें",
   "Card": "कार्ड",
-  "There are no events": "कोई घटना नहीं है",
+  
   "Guests": "मेहमानों",
   "unlimited": "��सीमित",
   "Show more": "और दिखाओ",
@@ -322,6 +322,7 @@ let hi = {
   "bottom" : "नीचे",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "शीर्ष पर या कैलेंडर के नीचे श्रेणी फ़िल्टर का प्रदर्शन करें।सेटिंग्स केवल एजेंडा और कार्ड के दृश्यों पर लागू होती हैं",
  "Processing your events" : "अपनेघटनाओंका संसाधन",
- "Search for events" : "घटनाओं के लिए खोजें"
+ "Search for events" : "घटनाओं के लिए खोजें",
+ "There are no events added" : "कोई घटना नहीं है"
 }
 export default hi

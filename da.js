@@ -217,7 +217,7 @@ let da = {
   "More": "Mere",
   "Less": "Mindre",
   "Register": "Tilmeld",
-  "There are no events": "Der er ingen begivenheder",
+  
   "Guests": "Gæster",
   "unlimited": "ubegrænset",
   "Show more": "Vis mere",
@@ -322,6 +322,7 @@ let da = {
   "bottom" : "bund",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Vis kategori filteret øverst eller nederst på kalenderen.Indstillingerne gælder kun for dagsorden og kortvisninger",
  "Processing your events" : "Behandling af dine arrangementer.",
- "Search for events" : "Søg efter arrangementer."
+ "Search for events" : "Søg efter arrangementer.",
+ "There are no events added" : "Der er ingen begivenheder tilføjet"
 }
 export default da

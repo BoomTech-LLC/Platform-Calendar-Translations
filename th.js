@@ -176,7 +176,7 @@ let th = {
   "Less": "น้อยกว่า",
   "Register": "ลงทะเบียน",
   "Card": "การ์ด",
-  "There are no events": "ไม่มีเหตุการณ์ใด ๆ",
+  
   "Guests": "แขกรับเชิญ",
   "unlimited": "ไม่ จำกัด",
   "Show more": "แสดงมากขึ้น",
@@ -322,6 +322,7 @@ let th = {
   "bottom" : "ล่าง",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "แสดงตัวกรองหมวดหมู่ที่ด้านบนหรือด้านล่างของปฏิทินการตั้งค่าใช้กับวาระการประชุมและการดูบัตรเท่านั้น",
  "Processing your events" : "ประมวลผลกิจกรรมของคุณ",
- "Search for events" : "ค้นหากิจกรรม"
+ "Search for events" : "ค้นหากิจกรรม",
+ "There are no events added" : "ไม่มีการเพิ่มกิจกรรม"
 }
 export default th

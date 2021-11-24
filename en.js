@@ -215,7 +215,7 @@ let en = {
   "More": "More",
   "Less": "Less",
   "Register": "Register",
-  "There are no events": "There are no events",
+  
   "Guests": "Guests",
   "unlimited": "unlimited",
   "Show more": "Show more",
@@ -317,6 +317,7 @@ let en = {
   "bottom" : "bottom",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only",
  "Processing your events" : "Processing your events",
- "Search for events" : "Search for events"
+ "Search for events" : "Search for events",
+ "There are no events added" : "There are no events added"
 }
 export default en

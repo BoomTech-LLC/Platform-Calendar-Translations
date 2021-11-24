@@ -217,7 +217,6 @@ let ar = {
   "More": "أكثر",
   "Less": "أقل",
   "Register": "تسجيل",
-  "There are no events": "لا توجد أحداث",
   "Guests": "ضيوف",
   "unlimited": "غير محدود",
   "Show more": "أظهر المزيد",
@@ -322,6 +321,7 @@ let ar = {
   "bottom" : "قاع",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "عرض مرشح الفئة في الأعلى أو في الجزء السفلي من التقويم.تنطبق الإعدادات على جدول الأعمال وآراء الأوراق فقط",
  "Processing your events" : "معالجةالأحداث",
- "Search for events" : "البحث عن الأحداث"
+ "Search for events" : "البحث عن الأحداث",
+ "There are no events added" : "لا توجد أحداث مضافة"
 }
 export default ar

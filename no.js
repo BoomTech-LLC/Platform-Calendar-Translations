@@ -176,7 +176,7 @@ let no = {
   "Less": "Mindre",
   "Register": "Registrere",
   "Card": "Kaart",
-  "There are no events": "Det er ingen hendelser",
+  
   "Guests": "Gjestene",
   "unlimited": "ubegrenset",
   "Show more": "Vis mer",
@@ -322,6 +322,7 @@ let no = {
   "bottom" : "bunn",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Vis at kategorifilteret øverst eller nederst på kalenderen.Innstillingene gjelder bare for agenda- og kortvisninger",
  "Processing your events" : "Behandler hendelsene dine",
- "Search for events" : "Søk etter arrangementer"
+ "Search for events" : "Søk etter arrangementer",
+ "There are no events added" : "Det er ingen hendelser lagt til"
 }
 export default no

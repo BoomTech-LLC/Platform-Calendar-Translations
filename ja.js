@@ -176,7 +176,7 @@ let ja = {
   "Less": "もっと少なく",
   "Register": "登録",
   "Card": "カード",
-  "There are no events": "イベントはありません",
+  
   "Guests": "ゲスト",
   "unlimited": "無制限",
   "Show more": "もっと見せる",
@@ -322,6 +322,7 @@ let ja = {
   "bottom" : "下",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "カレンダーの上部またはカレンダーの下部にあるカテゴリフィルタを表示します。設定は議題とカードの閲覧のみに適用されます",
  "Processing your events" : "あなたのイベントを処理する",
- "Search for events" : "イベントを検索します"
+ "Search for events" : "イベントを検索します",
+ "There are no events added" : "イベントが追加されていません"
 }
 export default ja

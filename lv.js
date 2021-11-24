@@ -176,7 +176,7 @@ let lv = {
   "Less": "Mazāk",
   "Register": "Reģistrēties",
   "Card": "Karte",
-  "There are no events": "Nav notikumu",
+  
   "Guests": "Viesi",
   "unlimited": "neierobežots",
   "Show more": "Parādīt vairāk",
@@ -322,6 +322,7 @@ let lv = {
   "bottom" : "apakšējā daļa",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Vitrīna kategorijas filtru augšpusē vai apakšā kalendāra.Uzstādījumi attiecas tikai uz darba kārtību un kartēm",
  "Processing your events" : "Jūsu notikumu apstrāde",
- "Search for events" : "Meklēt notikumus"
+ "Search for events" : "Meklēt notikumus",
+ "There are no events added" : "Nav pievienoti notikumi"
 }
 export default lv

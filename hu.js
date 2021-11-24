@@ -173,7 +173,7 @@ let hu = {
   "Less": "Kevésbé",
   "Register": "Regisztráció",
   "Card": "Kártya",
-  "There are no events": "Nincsenek események",
+  
   "Guests": "Vendégek",
   "unlimited": "korlátlan",
   "Show more": "Mutass többet",
@@ -319,6 +319,7 @@ let hu = {
   "bottom" : "alsó",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Mutassa be a kategória-szűrőt a naptár tetején vagy alján.A beállítások csak napirendre és kártyára vonatkoznak",
  "Processing your events" : "Az események feldolgozása",
- "Search for events" : "Események keresése"
+ "Search for events" : "Események keresése",
+ "There are no events added" : "Nincsenek események hozzáadva"
 }
 export default hu

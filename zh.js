@@ -176,7 +176,7 @@ let zh = {
   "Less": "减",
   "Register": "寄存器",
   "Card": "卡",
-  "There are no events": "没有活动",
+  
   "Guests": "来宾",
   "unlimited": "无限",
   "Show more": "展示更多",
@@ -322,6 +322,7 @@ let zh = {
   "bottom" : "底部",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "在日历的顶部或底部展示类别过滤器。这些设置仅适用于议程和卡片视图",
  "Processing your events" : "处理您的活动",
- "Search for events" : "搜索事件"
+ "Search for events" : "搜索事件",
+ "There are no events added" : "没有添加活动"
 }
 export default zh

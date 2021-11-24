@@ -176,7 +176,7 @@ let tr = {
   "Less": "Az",
   "Register": "Kayıt ol",
   "Card": "Kart",
-  "There are no events": "Hiçbir olay yok",
+  
   "Guests": "Misafirler",
   "unlimited": "sınırsız",
   "Show more": "Daha fazla göster",
@@ -322,6 +322,7 @@ let tr = {
   "bottom" : "alt",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Kategori filtresini üstten veya takvimin altına sergileyin.Ayarlar sadece gündem ve kart görünümler için geçerlidir.",
  "Processing your events" : "Olaylarınızı işleme",
- "Search for events" : "Etkinlikleri ara"
+ "Search for events" : "Etkinlikleri ara",
+ "There are no events added" : "Eklenen hiçbir etkinlik yok"
 }
 export default tr

@@ -176,7 +176,7 @@ let it = {
   "Less": "Di meno",
   "Register": "Registrati",
   "Card": "Carta",
-  "There are no events": "Non ci sono eventi",
+  
   "Guests": "Ospiti",
   "unlimited": "illimitato",
   "Show more": "Mostra di più",
@@ -322,6 +322,7 @@ let it = {
   "bottom" : "parte inferiore",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Mostra il filtro della categoria in alto o nella parte inferiore del calendario.Le impostazioni si applicano solo all'agenda e alle viste delle carte",
  "Processing your events" : "Elaborare i tuoi eventi",
- "Search for events" : "Cerca eventi"
+ "Search for events" : "Cerca eventi",
+ "There are no events added" : "Non ci sono eventi aggiunti"
 }
 export default it

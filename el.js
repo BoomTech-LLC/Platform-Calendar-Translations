@@ -217,7 +217,7 @@ let el = {
   "More": "Περισσότερο",
   "Less": "Πιο λιγο",
   "Register": "Κανω ΕΓΓΡΑΦΗ",
-  "There are no events": "Δεν υπάρχουν εκδηλώσεις",
+  
   "Guests": "Επισκέπτες",
   "unlimited": "απεριόριστος",
   "Show more": "Δείτε περισσότερα",
@@ -322,6 +322,7 @@ let el = {
   "bottom" : "κάτω μέρος",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Παρουσιάστε το φίλτρο κατηγορίας στην κορυφή ή στο κάτω μέρος του ημερολογίου.Οι ρυθμίσεις ισχύουν μόνο για την ημερήσια διάταξη και τις προβολές καρτών",
  "Processing your events" : "Επεξεργασία των γεγονότών σας",
- "Search for events" : "Αναζήτηση για εκδηλώσεις"
+ "Search for events" : "Αναζήτηση για εκδηλώσεις",
+ "There are no events added" : "Δεν υπάρχουν συμβάντα"
 }
 export default el

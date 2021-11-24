@@ -176,7 +176,7 @@ let he = {
   "Less": "פָּחוּת",
   "Register": "הירשם",
   "Card": "כַּרְטִיס",
-  "There are no events": "אין אירועים",
+  
   "Guests": "אורחים",
   "unlimited": "ללא הגבלה",
   "Show more": "להראות יותר",
@@ -322,6 +322,7 @@ let he = {
   "bottom" : "תַחתִית",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "הצג את מסנן הקטגוריה בחלק העליון או בחלק התחתון של היומן.ההגדרות חלות על תצוגות אג'נדה וכרטיס בלבד",
  "Processing your events" : "עיבוד האירועים שלך",
- "Search for events" : "חפש אירועים"
+ "Search for events" : "חפש אירועים",
+ "There are no events added" : "לא הוסיף אירועים"
 }
 export default he

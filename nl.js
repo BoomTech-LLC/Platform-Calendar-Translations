@@ -176,7 +176,7 @@ let nl = {
   "Less": "Minder",
   "Register": "Registreren",
   "Card": "Kaart",
-  "There are no events": "Er zijn geen evenementen",
+  
   "Guests": "Gjestene",
   "unlimited": "ubegrenset",
   "Show more": "Vis mer",
@@ -322,6 +322,7 @@ let nl = {
   "bottom" : "onderkant",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Toon de categoriefilter aan de bovenkant of onderaan de kalender.De instellingen zijn alleen van toepassing op Agenda and Card-views",
  "Processing your events" : "Uw evenementen verwerken",
- "Search for events" : "Zoek naar evenementen"
+ "Search for events" : "Zoek naar evenementen",
+ "There are no events added" : "Er zijn geen gebeurtenissen toegevoegd"
 }
 export default nl

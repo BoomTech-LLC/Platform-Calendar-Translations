@@ -176,7 +176,7 @@ let ru = {
   "Less": "Меньше",
   "Register": "регистр",
   "Card": "Карта",
-  "There are no events": "Нет событий",
+  
   "Guests": "Гости",
   "unlimited": "неограниченный",
   "Show more": "Показать больше",
@@ -322,6 +322,7 @@ let ru = {
   "bottom" : "Нижний",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Продемонстрируйте фильтр категории сверху или в нижней части календаря.Настройки применяются только к представлениям повестки дня и открытки",
  "Processing your events" : "Обработка ваших событий",
- "Search for events" : "Поиск событий"
+ "Search for events" : "Поиск событий",
+ "There are no events added" : "Нет добавленных событий"
 }
 export default ru

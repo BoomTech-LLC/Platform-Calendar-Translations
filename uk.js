@@ -176,7 +176,7 @@ let uk = {
   "Less": "Менше",
   "Register": "Зареєструйтесь",
   "Card": "Картка",
-  "There are no events": "Події відсутні",
+  
   "Guests": "Гості",
   "unlimited": "необмежений",
   "Show more": "Показати більше",
@@ -322,6 +322,7 @@ let uk = {
   "bottom" : "дно",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Продемонструйте фільтр категорії у верхній або в нижній частині календаря.Налаштування стосується лише порядку денного та картки",
  "Processing your events" : "Обробка ваших подій",
- "Search for events" : "Пошук подій"
+ "Search for events" : "Пошук подій",
+ "There are no events added" : "Додано події"
 }
 export default uk
