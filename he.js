@@ -323,6 +323,7 @@ let he = {
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "הצג את מסנן הקטגוריה בחלק העליון או בחלק התחתון של היומן.ההגדרות חלות על תצוגות אג'נדה וכרטיס בלבד",
  "Processing your events" : "עיבוד האירועים שלך",
  "Search for events" : "חפש אירועים",
- "There are no events added" : "לא הוסיף אירועים"
+ "There are no events added" : "לא הוסיף אירועים",
+ "Location: To be determined" : "מיקום: כדי לקבוע"
 }
 export default he

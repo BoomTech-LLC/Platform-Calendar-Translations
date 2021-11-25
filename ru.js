@@ -323,6 +323,7 @@ let ru = {
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Продемонстрируйте фильтр категории сверху или в нижней части календаря.Настройки применяются только к представлениям повестки дня и открытки",
  "Processing your events" : "Обработка ваших событий",
  "Search for events" : "Поиск событий",
- "There are no events added" : "Нет добавленных событий"
+ "There are no events added" : "Нет добавленных событий",
+ "Location: To be determined" : "Расположение: быть определенным"
 }
 export default ru

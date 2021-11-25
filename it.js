@@ -323,6 +323,7 @@ let it = {
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Mostra il filtro della categoria in alto o nella parte inferiore del calendario.Le impostazioni si applicano solo all'agenda e alle viste delle carte",
  "Processing your events" : "Elaborare i tuoi eventi",
  "Search for events" : "Cerca eventi",
- "There are no events added" : "Non ci sono eventi aggiunti"
+ "There are no events added" : "Non ci sono eventi aggiunti",
+ "Location: To be determined" : "Posizione: da determinare"
 }
 export default it

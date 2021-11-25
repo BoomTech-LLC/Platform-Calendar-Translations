@@ -323,6 +323,7 @@ let lv = {
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Vitrīna kategorijas filtru augšpusē vai apakšā kalendāra.Uzstādījumi attiecas tikai uz darba kārtību un kartēm",
  "Processing your events" : "Jūsu notikumu apstrāde",
  "Search for events" : "Meklēt notikumus",
- "There are no events added" : "Nav pievienoti notikumi"
+ "There are no events added" : "Nav pievienoti notikumi",
+ "Location: To be determined" : "Atrašanās vieta: jānosaka"
 }
 export default lv

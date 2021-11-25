@@ -323,6 +323,7 @@ let th = {
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "แสดงตัวกรองหมวดหมู่ที่ด้านบนหรือด้านล่างของปฏิทินการตั้งค่าใช้กับวาระการประชุมและการดูบัตรเท่านั้น",
  "Processing your events" : "ประมวลผลกิจกรรมของคุณ",
  "Search for events" : "ค้นหากิจกรรม",
- "There are no events added" : "ไม่มีการเพิ่มกิจกรรม"
+ "There are no events added" : "ไม่มีการเพิ่มกิจกรรม",
+ "Location: To be determined" : "สถานที่ตั้ง: จะถูกกำหนด"
 }
 export default th

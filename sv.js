@@ -328,6 +328,7 @@ let sv = {
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Visa kategorifiltret längst upp eller längst ner i kalendern.Inställningarna gäller endast för agenda och kortvisningar",
  "Processing your events" : "Bearbetar dina händelser",
  "Search for events" : "Sök efter händelser",
- "There are no events added" : "Det finns inga händelser som läggs till"
+ "There are no events added" : "Det finns inga händelser som läggs till",
+ "Location: To be determined" : "Plats: att bestämmas"
 }
 export default sv

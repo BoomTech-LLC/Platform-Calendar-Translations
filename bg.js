@@ -322,6 +322,7 @@ let bg = {
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Покажете филтъра от категорията в горната част или в долната част на календара.Настройките се прилагат само за дневния ред и възгледите на картите",
  "Processing your events" : "Обработка на вашите събития",
  "Search for events" : "Търсене на събития",
- "There are no events added" : "Няма добавени събития"
+ "There are no events added" : "Няма добавени събития",
+ "Location: To be determined" : "Местоположение: да се определи"
 }
 export default bg

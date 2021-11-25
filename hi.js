@@ -323,6 +323,7 @@ let hi = {
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "शीर्ष पर या कैलेंडर के नीचे श्रेणी फ़िल्टर का प्रदर्शन करें।सेटिंग्स केवल एजेंडा और कार्ड के दृश्यों पर लागू होती हैं",
  "Processing your events" : "अपनेघटनाओंका संसाधन",
  "Search for events" : "घटनाओं के लिए खोजें",
- "There are no events added" : "कोई घटना नहीं है"
+ "There are no events added" : "कोई घटना नहीं है",
+ "Location: To be determined" : "स्थान: निर्धारित किया जाना है"
 }
 export default hi

@@ -323,6 +323,7 @@ let tr = {
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Kategori filtresini üstten veya takvimin altına sergileyin.Ayarlar sadece gündem ve kart görünümler için geçerlidir.",
  "Processing your events" : "Olaylarınızı işleme",
  "Search for events" : "Etkinlikleri ara",
- "There are no events added" : "Eklenen hiçbir etkinlik yok"
+ "There are no events added" : "Eklenen hiçbir etkinlik yok",
+ "Location: To be determined" : "Yer: Belirlenmek"
 }
 export default tr

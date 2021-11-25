@@ -323,6 +323,7 @@ let el = {
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Παρουσιάστε το φίλτρο κατηγορίας στην κορυφή ή στο κάτω μέρος του ημερολογίου.Οι ρυθμίσεις ισχύουν μόνο για την ημερήσια διάταξη και τις προβολές καρτών",
  "Processing your events" : "Επεξεργασία των γεγονότών σας",
  "Search for events" : "Αναζήτηση για εκδηλώσεις",
- "There are no events added" : "Δεν υπάρχουν συμβάντα"
+ "There are no events added" : "Δεν υπάρχουν συμβάντα",
+ "Location: To be determined" : "Τοποθεσία: Να προσδιοριστεί"
 }
 export default el

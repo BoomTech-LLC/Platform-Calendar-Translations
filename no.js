@@ -323,6 +323,7 @@ let no = {
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Vis at kategorifilteret øverst eller nederst på kalenderen.Innstillingene gjelder bare for agenda- og kortvisninger",
  "Processing your events" : "Behandler hendelsene dine",
  "Search for events" : "Søk etter arrangementer",
- "There are no events added" : "Det er ingen hendelser lagt til"
+ "There are no events added" : "Det er ingen hendelser lagt til",
+ "Location: To be determined" : "Sted: For å bli bestemt"
 }
 export default no

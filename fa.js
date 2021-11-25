@@ -323,6 +323,7 @@ let fa = {
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "نمایشگر دسته بندی را در بالای صفحه یا در پایین تقویم نمایش دهید.تنظیمات فقط به دستور کار و کارت های کارت اعمال می شود",
  "Processing your events" : "پردازش رویدادهای شما",
  "Search for events" : "جستجو برای رویدادها",
- "There are no events added" : "هیچ رویدادی اضافه نشده است"
+ "There are no events added" : "هیچ رویدادی اضافه نشده است",
+ "Location: To be determined" : "محل سکونت: تعیین شود"
 }
 export default fa

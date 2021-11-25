@@ -320,6 +320,7 @@ let hu = {
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Mutassa be a kategória-szűrőt a naptár tetején vagy alján.A beállítások csak napirendre és kártyára vonatkoznak",
  "Processing your events" : "Az események feldolgozása",
  "Search for events" : "Események keresése",
- "There are no events added" : "Nincsenek események hozzáadva"
+ "There are no events added" : "Nincsenek események hozzáadva",
+ "Location: To be determined" : "Helyszín: Meg kell határozni"
 }
 export default hu

@@ -323,6 +323,7 @@ let da = {
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Vis kategori filteret øverst eller nederst på kalenderen.Indstillingerne gælder kun for dagsorden og kortvisninger",
  "Processing your events" : "Behandling af dine arrangementer.",
  "Search for events" : "Søg efter arrangementer.",
- "There are no events added" : "Der er ingen begivenheder tilføjet"
+ "There are no events added" : "Der er ingen begivenheder tilføjet",
+ "Location: To be determined" : "Placering: At blive bestemt"
 }
 export default da

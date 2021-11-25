@@ -323,6 +323,7 @@ let ja = {
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "カレンダーの上部またはカレンダーの下部にあるカテゴリフィルタを表示します。設定は議題とカードの閲覧のみに適用されます",
  "Processing your events" : "あなたのイベントを処理する",
  "Search for events" : "イベントを検索します",
- "There are no events added" : "イベントが追加されていません"
+ "There are no events added" : "イベントが追加されていません",
+ "Location: To be determined" : "場所：決定するために"
 }
 export default ja

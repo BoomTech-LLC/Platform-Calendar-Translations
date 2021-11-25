@@ -323,6 +323,7 @@ let uk = {
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "Продемонструйте фільтр категорії у верхній або в нижній частині календаря.Налаштування стосується лише порядку денного та картки",
  "Processing your events" : "Обробка ваших подій",
  "Search for events" : "Пошук подій",
- "There are no events added" : "Додано події"
+ "There are no events added" : "Додано події",
+ "Location: To be determined" : "Розташування: визначити"
 }
 export default uk

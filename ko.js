@@ -323,6 +323,7 @@ let ko = {
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only" : "카테고리 필터를 맨 위 또는 캘린더 하단에 표시합니다.설정은 의제 및 카드 뷰에만 적용됩니다",
  "Processing your events" : "이벤트 처리",
  "Search for events" : "이벤트 검색",
- "There are no events added" : "추가 된 이벤트가 없습니다"
+ "There are no events added" : "추가 된 이벤트가 없습니다",
+ "Location: To be determined" : "위치 : 결정됩니다"
 }
 export default ko
