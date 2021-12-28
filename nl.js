@@ -105,7 +105,7 @@ let nl = {
   "Border Width": "Grensbreedte",
   "Border Type": "Rand Type",
   "Title": "Titel",
-  "Description": "Beskrivelse",
+  "Description": "Omschrijving",
   "Background Color": "Achtergrond Kleur",
   "Divider": "Verdeler",
   "Event Details Font": "Evenement Details Lettertype",
