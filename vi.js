@@ -1,4 +1,4 @@
-let vm = {
+let vi = {
    "Language":"Ngôn ngữ",
    "Show Time Zone":"Hiển thị múi giờ",
    "Custom Local Settings":"Cài đặt cục bộ tùy chỉnh",
@@ -321,4 +321,4 @@ let vm = {
    "Location: To be determined":"Vị trí: Được xác định"
 }
 
-export default vm
+export default vi
