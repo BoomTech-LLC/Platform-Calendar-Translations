@@ -204,7 +204,7 @@ let de = {
   "Section font": "Schriftbereich",
   "Section divider color": "Schnittteilerfarbe",
   "General Info": "Allgemeine Information",
-  "Venue": "Tagungsort",
+  "Venue": "Veranstaltungsort",
   "Organizer": "Veranstalter",
   "Search": "Suche",
   "calendar": "Kalender",
