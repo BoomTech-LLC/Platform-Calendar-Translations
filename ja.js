@@ -324,6 +324,7 @@ let ja = {
  "Processing your events" : "あなたのイベントを処理する",
  "Search for events" : "イベントを検索します",
  "There are no events added" : "イベントが追加されていません",
- "Location: To be determined" : "場所：決定するために"
+ "Location: To be determined" : "場所：決定するために",
+ "No events for selected date" : "選択日のイベントはありません"
 }
 export default ja

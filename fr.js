@@ -324,6 +324,7 @@ let fr = {
  "Processing your events" : "Traitement de vos événements",
  "Search for events" : "Recherche d'événements",
  "There are no events added" : "Il n'y a aucun événement ajouté",
- "Location: To be determined" : "Lieu: à déterminer"
+ "Location: To be determined" : "Lieu: à déterminer",
+ "No events for selected date" : "Aucun événement pour la date sélectionnée"
 }
 export default fr

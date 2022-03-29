@@ -324,6 +324,7 @@ let he = {
  "Processing your events" : "עיבוד האירועים שלך",
  "Search for events" : "חפש אירועים",
  "There are no events added" : "לא הוסיף אירועים",
- "Location: To be determined" : "מיקום: כדי לקבוע"
+ "Location: To be determined" : "מיקום: כדי לקבוע",
+ "No events for selected date" : "אין אירועים לתאריך שנבחר"
 }
 export default he

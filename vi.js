@@ -318,7 +318,7 @@ let vi = {
    "Processing your events":"Xử lý các sự kiện của bạn",
    "Search for events":"Tìm kiếm sự kiện",
    "There are no events added":"Không có sự kiện nào được thêm vào",
-   "Location: To be determined":"Vị trí: Được xác định"
+   "Location: To be determined":"Vị trí: Được xác định",
+ "No events for selected date" : "Không có sự kiện nào cho ngày đã chọn"
 }
-
 export default vi

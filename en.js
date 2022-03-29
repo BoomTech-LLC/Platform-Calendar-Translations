@@ -319,6 +319,7 @@ let en = {
  "Processing your events" : "Processing your events",
  "Search for events" : "Search for events",
  "There are no events added" : "There are no events added",
- "Location: To be determined" : "Location: To be determined"
+ "Location: To be determined" : "Location: To be determined",
+ "No events for selected date" : "No events for selected date"
 }
 export default en

@@ -324,6 +324,7 @@ let hi = {
  "Processing your events" : "अपनेघटनाओंका संसाधन",
  "Search for events" : "घटनाओं के लिए खोजें",
  "There are no events added" : "कोई घटना नहीं है",
- "Location: To be determined" : "स्थान: निर्धारित किया जाना है"
+ "Location: To be determined" : "स्थान: निर्धारित किया जाना है",
+ "No events for selected date" : "चयनित तिथि के लिए कोई घटना नहीं"
 }
 export default hi

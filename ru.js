@@ -324,6 +324,7 @@ let ru = {
  "Processing your events" : "Обработка ваших событий",
  "Search for events" : "Поиск событий",
  "There are no events added" : "Нет добавленных событий",
- "Location: To be determined" : "Расположение: быть определенным"
+ "Location: To be determined" : "Расположение: быть определенным",
+ "No events for selected date" : "Нет событий для выбранной даты"
 }
 export default ru

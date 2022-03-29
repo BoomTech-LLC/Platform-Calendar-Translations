@@ -324,6 +324,7 @@ let lv = {
  "Processing your events" : "Jūsu notikumu apstrāde",
  "Search for events" : "Meklēt notikumus",
  "There are no events added" : "Nav pievienoti notikumi",
- "Location: To be determined" : "Atrašanās vieta: jānosaka"
+ "Location: To be determined" : "Atrašanās vieta: jānosaka",
+ "No events for selected date" : "Nav notikumu izvēlētajam datumam"
 }
 export default lv

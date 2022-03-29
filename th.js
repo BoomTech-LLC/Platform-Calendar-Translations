@@ -324,6 +324,7 @@ let th = {
  "Processing your events" : "ประมวลผลกิจกรรมของคุณ",
  "Search for events" : "ค้นหากิจกรรม",
  "There are no events added" : "ไม่มีการเพิ่มกิจกรรม",
- "Location: To be determined" : "สถานที่ตั้ง: จะถูกกำหนด"
+ "Location: To be determined" : "สถานที่ตั้ง: จะถูกกำหนด",
+ "No events for selected date" : "ไม่มีกิจกรรมสำหรับวันที่ที่เลือก"
 }
 export default th

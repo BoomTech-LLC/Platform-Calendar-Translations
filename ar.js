@@ -323,6 +323,7 @@ let ar = {
  "Processing your events" : "معالجةالأحداث",
  "Search for events" : "البحث عن الأحداث",
  "There are no events added" : "لا توجد أحداث مضافة",
- "Location: To be determined" : "الموقع: أن تكون مصممة"
+ "Location: To be determined" : "الموقع: أن تكون مصممة",
+ "No events for selected date" : "لا توجد أحداث للتاريخ المحدد"
 }
 export default ar

@@ -324,6 +324,7 @@ let zh = {
  "Processing your events" : "处理您的活动",
  "Search for events" : "搜索事件",
  "There are no events added" : "没有添加活动",
- "Location: To be determined" : "位置：要确定"
+ "Location: To be determined" : "位置：要确定",
+ "No events for selected date" : "没有选定日期的活动"
 }
-export default zh
+export default zh-cn

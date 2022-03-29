@@ -324,6 +324,7 @@ let nl = {
  "Processing your events" : "Uw evenementen verwerken",
  "Search for events" : "Zoek naar evenementen",
  "There are no events added" : "Er zijn geen gebeurtenissen toegevoegd",
- "Location: To be determined" : "Locatie: te bepalen"
+ "Location: To be determined" : "Locatie: te bepalen",
+ "No events for selected date" : "Geen evenementen voor geselecteerde datum"
 }
 export default nl

@@ -324,6 +324,7 @@ let el = {
  "Processing your events" : "Επεξεργασία των γεγονότών σας",
  "Search for events" : "Αναζήτηση για εκδηλώσεις",
  "There are no events added" : "Δεν υπάρχουν συμβάντα",
- "Location: To be determined" : "Τοποθεσία: Να προσδιοριστεί"
+ "Location: To be determined" : "Τοποθεσία: Να προσδιοριστεί",
+ "No events for selected date" : "Δεν υπάρχουν συμβάντα για επιλεγμένη ημερομηνία"
 }
 export default el

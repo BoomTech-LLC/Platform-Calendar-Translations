@@ -324,6 +324,7 @@ let uk = {
  "Processing your events" : "Обробка ваших подій",
  "Search for events" : "Пошук подій",
  "There are no events added" : "Додано події",
- "Location: To be determined" : "Розташування: визначити"
+ "Location: To be determined" : "Розташування: визначити",
+ "No events for selected date" : "Немає подій для вибраної дати"
 }
 export default uk

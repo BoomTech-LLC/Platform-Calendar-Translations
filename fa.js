@@ -324,6 +324,7 @@ let fa = {
  "Processing your events" : "پردازش رویدادهای شما",
  "Search for events" : "جستجو برای رویدادها",
  "There are no events added" : "هیچ رویدادی اضافه نشده است",
- "Location: To be determined" : "محل سکونت: تعیین شود"
+ "Location: To be determined" : "محل سکونت: تعیین شود",
+ "No events for selected date" : "هیچ رویدادی برای تاریخ انتخاب نشده است"
 }
 export default fa

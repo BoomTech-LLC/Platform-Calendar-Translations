@@ -324,6 +324,7 @@ let ko = {
  "Processing your events" : "이벤트 처리",
  "Search for events" : "이벤트 검색",
  "There are no events added" : "추가 된 이벤트가 없습니다",
- "Location: To be determined" : "위치 : 결정됩니다"
+ "Location: To be determined" : "위치 : 결정됩니다",
+ "No events for selected date" : "선택한 날짜에 대한 이벤트가 없습니다"
 }
 export default ko

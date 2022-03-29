@@ -323,6 +323,7 @@ let cs = {
  "Processing your events" : "Zpracování vašich událostí",
  "Search for events" : "Vyhledávání událostí",
  "There are no events added" : "Neexistují žádné přidané události",
- "Location: To be determined" : "Umístění: Určeno"
+ "Location: To be determined" : "Umístění: Určeno",
+ "No events for selected date" : "Žádné události pro vybrané datum"
 }
 export default cs

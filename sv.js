@@ -329,6 +329,7 @@ let sv = {
  "Processing your events" : "Bearbetar dina händelser",
  "Search for events" : "Sök efter händelser",
  "There are no events added" : "Det finns inga händelser som läggs till",
- "Location: To be determined" : "Plats: att bestämmas"
+ "Location: To be determined" : "Plats: att bestämmas",
+ "No events for selected date" : "Inga händelser för valda datum"
 }
 export default sv

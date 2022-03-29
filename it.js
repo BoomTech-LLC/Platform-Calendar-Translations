@@ -324,6 +324,7 @@ let it = {
  "Processing your events" : "Elaborare i tuoi eventi",
  "Search for events" : "Cerca eventi",
  "There are no events added" : "Non ci sono eventi aggiunti",
- "Location: To be determined" : "Posizione: da determinare"
+ "Location: To be determined" : "Posizione: da determinare",
+ "No events for selected date" : "Nessun evento per data selezionata"
 }
 export default it

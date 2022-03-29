@@ -323,6 +323,7 @@ let bg = {
  "Processing your events" : "Обработка на вашите събития",
  "Search for events" : "Търсене на събития",
  "There are no events added" : "Няма добавени събития",
- "Location: To be determined" : "Местоположение: да се определи"
+ "Location: To be determined" : "Местоположение: да се определи",
+ "No events for selected date" : "Няма събития за избрана дата"
 }
 export default bg

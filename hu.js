@@ -321,6 +321,7 @@ let hu = {
  "Processing your events" : "Az események feldolgozása",
  "Search for events" : "Események keresése",
  "There are no events added" : "Nincsenek események hozzáadva",
- "Location: To be determined" : "Helyszín: Meg kell határozni"
+ "Location: To be determined" : "Helyszín: Meg kell határozni",
+ "No events for selected date" : "Nincsenek események a kiválasztott dátumra"
 }
 export default hu

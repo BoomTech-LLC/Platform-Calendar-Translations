@@ -324,6 +324,7 @@ let pt = {
  "Processing your events" : "Processando seus eventos",
  "Search for events" : "Procure por eventos",
  "There are no events added" : "Não há eventos adicionados",
- "Location: To be determined" : "Localização: para ser determinado"
+ "Location: To be determined" : "Localização: para ser determinado",
+ "No events for selected date" : "Nenhum evento para a data selecionada"
 }
 export default pt

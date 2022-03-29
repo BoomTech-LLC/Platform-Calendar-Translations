@@ -324,6 +324,7 @@ let tr = {
  "Processing your events" : "Olaylarınızı işleme",
  "Search for events" : "Etkinlikleri ara",
  "There are no events added" : "Eklenen hiçbir etkinlik yok",
- "Location: To be determined" : "Yer: Belirlenmek"
+ "Location: To be determined" : "Yer: Belirlenmek",
+ "No events for selected date" : "Seçilen tarih için etkinlik yok"
 }
 export default tr

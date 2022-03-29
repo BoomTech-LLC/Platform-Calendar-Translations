@@ -324,6 +324,7 @@ let da = {
  "Processing your events" : "Behandling af dine arrangementer.",
  "Search for events" : "Søg efter arrangementer.",
  "There are no events added" : "Der er ingen begivenheder tilføjet",
- "Location: To be determined" : "Placering: At blive bestemt"
+ "Location: To be determined" : "Placering: At blive bestemt",
+ "No events for selected date" : "Ingen begivenheder for valgt dato"
 }
 export default da
