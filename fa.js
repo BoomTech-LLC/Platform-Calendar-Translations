@@ -333,6 +333,7 @@ let fa = {
   "Copy as new event": "به عنوان رویداد جدید کپی کنید",
   "Delete event": "رویداد را حذف کنید",
   "Stop repeating on this date": "در این تاریخ تکرار کنید",
-  "Exclude this date": "این تاریخ را حذف کنید"
+  "Exclude this date": "این تاریخ را حذف کنید",
+  "Location is going to be announced": "مکان اعلام می شود"
 }
 export default fa

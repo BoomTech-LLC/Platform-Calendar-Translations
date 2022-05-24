@@ -330,6 +330,7 @@ let hu = {
   "Copy as new event": "Másoljon új eseményként",
   "Delete event": "Esemény törlése",
   "Stop repeating on this date": "Hagyd abba az ismétlést ezen a dátumon",
-  "Exclude this date": "Kivéve ezt a dátumot"
+  "Exclude this date": "Kivéve ezt a dátumot",
+  "Location is going to be announced": "A helyet bejelentik"
 }
 export default hu

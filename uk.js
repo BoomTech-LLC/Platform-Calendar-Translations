@@ -333,6 +333,7 @@ let uk = {
   "Copy as new event": "Копіювати як нову подію",
   "Delete event": "Видалити подію",
   "Stop repeating on this date": "Перестань повторювати на цій даті",
-  "Exclude this date": "Виключити цю дату"
+  "Exclude this date": "Виключити цю дату",
+  "Location is going to be announced": "Місце розташування буде оголошено"
 }
 export default uk

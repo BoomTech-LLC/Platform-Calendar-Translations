@@ -332,6 +332,7 @@ let cs = {
   "Copy as new event": "Zkopírujte jako nová událost",
   "Delete event": "Smazat událost",
   "Stop repeating on this date": "Přestaňte opakovat v tomto datu",
-  "Exclude this date": "Vyloučit toto datum"
+  "Exclude this date": "Vyloučit toto datum",
+  "Location is going to be announced": "Místo bude oznámeno"
 }
 export default cs

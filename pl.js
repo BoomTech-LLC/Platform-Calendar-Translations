@@ -333,6 +333,7 @@ let pl = {
   "Copy as new event": "Kopiuj jako nowe wydarzenie",
   "Delete event": "Usuń zdarzenie",
   "Stop repeating on this date": "Przestań powtarzać w tym dniu",
-  "Exclude this date": "Wyklucz tę datę"
+  "Exclude this date": "Wyklucz tę datę",
+  "Location is going to be announced": "Lokalizacja zostanie ogłoszona"
 }
 export default pl

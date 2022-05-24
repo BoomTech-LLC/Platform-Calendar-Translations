@@ -328,6 +328,7 @@ let en = {
   "Copy as new event": "Copy as new event",
   "Delete event": "Delete event",
   "Stop repeating on this date": "Stop repeating on this date",
-  "Exclude this date": "Exclude this date"
+  "Exclude this date": "Exclude this date",
+  "Location is going to be announced": "Location is going to be announced"
 }
 export default en

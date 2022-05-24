@@ -332,6 +332,7 @@ let bg = {
   "Copy as new event": "Копиране като ново събитие",
   "Delete event": "Изтриване на събитие",
   "Stop repeating on this date": "Спрете да повтаряте на тази дата",
-  "Exclude this date": "Изключете тази дата"
+  "Exclude this date": "Изключете тази дата",
+  "Location is going to be announced": "Местоположението ще бъде обявено"
 }
 export default bg

@@ -327,6 +327,8 @@ let vi = {
   "Copy as new event": "Sao chép làm sự kiện mới",
   "Delete event": "Xóa sự kiện",
   "Stop repeating on this date": "Ngừng lặp lại vào ngày này",
-  "Exclude this date": "Loại trừ ngày này"
+  "Exclude this date": "Loại trừ ngày này",
+  "Location is going to be announced": "Vị trí sẽ được công bố",
+  "Location is going to be announced": "Vị trí sẽ được công bố"
 }
 export default vi

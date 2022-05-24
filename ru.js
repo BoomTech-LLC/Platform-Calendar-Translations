@@ -333,6 +333,7 @@ let ru = {
   "Copy as new event": "Копировать как новое событие",
   "Delete event": "Удалить событие",
   "Stop repeating on this date": "Перестань повторять в эту дату",
-  "Exclude this date": "Исключить эту дату"
+  "Exclude this date": "Исключить эту дату",
+  "Location is going to be announced": "Место будет объявлено"
 }
 export default ru

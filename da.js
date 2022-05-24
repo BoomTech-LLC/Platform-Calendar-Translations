@@ -333,6 +333,7 @@ let da = {
   "Copy as new event": "Kopier som ny begivenhed",
   "Delete event": "Slet begivenhed",
   "Stop repeating on this date": "Stop med at gentage på denne dato",
-  "Exclude this date": "Ekskluder denne dato"
+  "Exclude this date": "Ekskluder denne dato",
+  "Location is going to be announced": "Placering vil blive annonceret"
 }
 export default da

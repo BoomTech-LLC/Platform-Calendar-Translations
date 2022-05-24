@@ -333,6 +333,7 @@ let es = {
   "Copy as new event": "Copiar como nuevo evento",
   "Delete event": "Evento de eliminación",
   "Stop repeating on this date": "Deja de repetir en esta fecha",
-  "Exclude this date": "Excluir esta fecha"
+  "Exclude this date": "Excluir esta fecha",
+  "Location is going to be announced": "La ubicación se anunciará"
 }
 export default es

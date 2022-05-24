@@ -333,6 +333,7 @@ let tr = {
   "Copy as new event": "Yeni olay olarak kopyala",
   "Delete event": "Etkinliği Sil",
   "Stop repeating on this date": "Bu tarihte tekrarlamayı bırak",
-  "Exclude this date": "Bu tarihi hariç tut"
+  "Exclude this date": "Bu tarihi hariç tut",
+  "Location is going to be announced": "Konum duyurulacak"
 }
 export default tr

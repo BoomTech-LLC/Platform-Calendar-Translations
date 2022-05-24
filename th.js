@@ -333,6 +333,7 @@ let th = {
   "Copy as new event": "คัดลอกเป็นกิจกรรมใหม่",
   "Delete event": "ลบเหตุการณ์",
   "Stop repeating on this date": "หยุดซ้ำในวันนี้",
-  "Exclude this date": "ไม่รวมวันที่นี้"
+  "Exclude this date": "ไม่รวมวันที่นี้",
+  "Location is going to be announced": "สถานที่จะประกาศ"
 }
 export default th

@@ -333,6 +333,7 @@ let hi = {
   "Copy as new event": "नई घटना के रूप में कॉपी करें",
   "Delete event": "घटना को हटा दें",
   "Stop repeating on this date": "इस तिथि को दोहराना बंद करें",
-  "Exclude this date": "इस तिथि को छोड़ दें"
+  "Exclude this date": "इस तिथि को छोड़ दें",
+  "Location is going to be announced": "स्थान की घोषणा की जा रही है"
 }
 export default hi

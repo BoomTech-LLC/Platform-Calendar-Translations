@@ -332,6 +332,7 @@ let ar = {
   "Copy as new event": "نسخ كحدث جديد",
   "Delete event": "حذف الحدث",
   "Stop repeating on this date": "توقف عن التكرار في هذا التاريخ",
-  "Exclude this date": "استبعاد هذا التاريخ"
+  "Exclude this date": "استبعاد هذا التاريخ",
+  "Location is going to be announced": "سيتم الإعلان عن الموقع"
 }
 export default ar

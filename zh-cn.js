@@ -333,6 +333,7 @@ let zh = {
   "Copy as new event": "复制为新活动",
   "Delete event": "删除事件",
   "Stop repeating on this date": "停止在这个日期重复",
-  "Exclude this date": "排除此日期"
+  "Exclude this date": "排除此日期",
+  "Location is going to be announced": "地点将宣布"
 }
 export default zh - CN

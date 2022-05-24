@@ -334,5 +334,6 @@ let el = {
   "Delete event": "Διαγραφή συμβάντος",
   "Stop repeating on this date": "Σταματήστε να επαναλαμβάνετε την ημερομηνία αυτή",
   "Exclude this date": "Εξαιρέστε αυτήν την ημερομηνία",
+  "Location is going to be announced": "Η τοποθεσία πρόκειται να ανακοινωθεί"
 }
 export default el

@@ -333,6 +333,7 @@ let pt = {
   "Copy as new event": "Cópia como novo evento",
   "Delete event": "Excluir evento",
   "Stop repeating on this date": "Pare de repetir nesta data",
-  "Exclude this date": "Exclua esta data"
+  "Exclude this date": "Exclua esta data",
+  "Location is going to be announced": "A localização será anunciada"
 }
 export default pt

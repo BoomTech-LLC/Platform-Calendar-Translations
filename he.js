@@ -333,6 +333,7 @@ let he = {
   "Copy as new event": "העתק כאירוע חדש",
   "Delete event": "מחק אירוע",
   "Stop repeating on this date": "הפסק לחזור בתאריך זה",
-  "Exclude this date": "תכלול תאריך זה"
+  "Exclude this date": "תכלול תאריך זה",
+  "Location is going to be announced": "המיקום הולך להיות מוכרז"
 }
 export default he

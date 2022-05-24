@@ -333,6 +333,7 @@ let ko = {
   "Copy as new event": "새 이벤트로 복사하십시오",
   "Delete event": "이벤트 삭제",
   "Stop repeating on this date": "이 날짜에 반복하지 마십시오",
-  "Exclude this date": "이 날짜를 제외하십시오"
+  "Exclude this date": "이 날짜를 제외하십시오",
+  "Location is going to be announced": "위치가 발표 될 예정입니다"
 }
 export default ko

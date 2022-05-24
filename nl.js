@@ -333,6 +333,7 @@ let nl = {
   "Copy as new event": "Kopieer als nieuw evenement",
   "Delete event": "Verwijder evenement",
   "Stop repeating on this date": "Stop met herhalen op deze datum",
-  "Exclude this date": "Sluit deze datum uit"
+  "Exclude this date": "Sluit deze datum uit",
+  "Location is going to be announced": "Locatie wordt aangekondigd"
 }
 export default nl

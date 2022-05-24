@@ -333,6 +333,7 @@ let ja = {
   "Copy as new event": "新しいイベントとしてコピーします",
   "Delete event": "イベントを削除します",
   "Stop repeating on this date": "この日付で繰り返すのをやめてください",
-  "Exclude this date": "この日付を除外してください"
+  "Exclude this date": "この日付を除外してください",
+  "Location is going to be announced": "場所が発表されます"
 }
 export default ja

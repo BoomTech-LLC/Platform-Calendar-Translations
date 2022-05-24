@@ -333,6 +333,7 @@ let lv = {
   "Copy as new event": "Kopēt kā jaunu notikumu",
   "Delete event": "Dzēst pasākumu",
   "Stop repeating on this date": "Pārtrauciet atkārtot šajā datumā",
-  "Exclude this date": "Izslēdziet šo datumu"
+  "Exclude this date": "Izslēdziet šo datumu",
+  "Location is going to be announced": "Atrašanās vieta tiks paziņota"
 }
 export default lv
