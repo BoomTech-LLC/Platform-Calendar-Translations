@@ -1,4 +1,4 @@
-let no = {
+let nb = {
   "Categories": "Kategorier",
   "Share this event": "Del dette arrangementet",
   "Language": "Språk",
@@ -327,4 +327,4 @@ let no = {
   "Location: To be determined": "Sted: For å bli bestemt",
   "No events for selected date": "Ingen hendelser for valgt dato"
 }
-export default no
+export default nb

@@ -334,6 +334,11 @@ let el = {
   "Delete event": "Διαγραφή συμβάντος",
   "Stop repeating on this date": "Σταματήστε να επαναλαμβάνετε την ημερομηνία αυτή",
   "Exclude this date": "Εξαιρέστε αυτήν την ημερομηνία",
-  "Location is going to be announced": "Η τοποθεσία πρόκειται να ανακοινωθεί"
+  "Location is going to be announced": "Η τοποθεσία πρόκειται να ανακοινωθεί",
+  "Fill your personal information": "Συμπληρώστε τα προσωπικά σας στοιχεία",
+  "Check Box": "Πλαίσιο ελέγχου",
+  "Single Choice": "Μεμονωμένη επιλογή",
+  "Option": "Επιλογή",
+  "Share Event": "Εκδήλωση κοινής χρήσης",
 }
 export default el

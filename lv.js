@@ -334,6 +334,11 @@ let lv = {
   "Delete event": "Dzēst pasākumu",
   "Stop repeating on this date": "Pārtrauciet atkārtot šajā datumā",
   "Exclude this date": "Izslēdziet šo datumu",
-  "Location is going to be announced": "Atrašanās vieta tiks paziņota"
+  "Location is going to be announced": "Atrašanās vieta tiks paziņota",
+  "Fill your personal information": "Aizpildiet savu personisko informāciju",
+  "Check Box": "Izvēles rūtiņa",
+  "Single Choice": "Viena izvēle",
+  "Option": "Izvēle",
+  "Share Event": "Dalīties pasākumā",
 }
 export default lv

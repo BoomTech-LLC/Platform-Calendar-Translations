@@ -334,6 +334,11 @@ let th = {
   "Delete event": "ลบเหตุการณ์",
   "Stop repeating on this date": "หยุดซ้ำในวันนี้",
   "Exclude this date": "ไม่รวมวันที่นี้",
-  "Location is going to be announced": "สถานที่จะประกาศ"
+  "Location is going to be announced": "สถานที่จะประกาศ",
+  "Fill your personal information": "กรอกข้อมูลส่วนบุคคลของคุณ",
+  "Check Box": "กล่องทำเครื่องหมาย",
+  "Single Choice": "ตัวเลือกเดียว",
+  "Option": "ตัวเลือก",
+  "Share Event": "แบ่งปันกิจกรรม",
 }
 export default th

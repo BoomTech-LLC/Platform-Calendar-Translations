@@ -333,6 +333,11 @@ let bg = {
   "Delete event": "Изтриване на събитие",
   "Stop repeating on this date": "Спрете да повтаряте на тази дата",
   "Exclude this date": "Изключете тази дата",
-  "Location is going to be announced": "Местоположението ще бъде обявено"
+  "Location is going to be announced": "Местоположението ще бъде обявено",
+  "Fill your personal information": "Попълнете личната си информация",
+  "Check Box": "Отметка в квадратчето",
+  "Single Choice": "Единичен избор",
+  "Option": "Опция",
+  "Share Event": "Споделете събитие",
 }
 export default bg

@@ -329,6 +329,11 @@ let en = {
   "Delete event": "Delete event",
   "Stop repeating on this date": "Stop repeating on this date",
   "Exclude this date": "Exclude this date",
-  "Location is going to be announced": "Location is going to be announced"
+  "Location is going to be announced": "Location is going to be announced",
+  "Fill your personal information": "Fill your personal information",
+  "Check Box": "Check Box",
+  "Single Choice": "Single Choice",
+  "Option": "Option",
+  "Share Event": "Share Event",
 }
 export default en

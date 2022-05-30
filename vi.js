@@ -329,6 +329,11 @@ let vi = {
   "Stop repeating on this date": "Ngừng lặp lại vào ngày này",
   "Exclude this date": "Loại trừ ngày này",
   "Location is going to be announced": "Vị trí sẽ được công bố",
-  "Location is going to be announced": "Vị trí sẽ được công bố"
+  "Location is going to be announced": "Vị trí sẽ được công bố",
+  "Fill your personal information": "Điền thông tin cá nhân của bạn",
+  "Check Box": "Hộp kiểm",
+  "Single Choice": "Sự lựa chọn đơn lẻ",
+  "Option": "Quyền mua",
+  "Share Event": "Chia sẻ sự kiện",
 }
 export default vi

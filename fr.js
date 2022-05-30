@@ -334,6 +334,11 @@ let fr = {
   "Delete event": "Supprimer l'événement",
   "Stop repeating on this date": "Arrêtez de répéter à cette date",
   "Exclude this date": "Exclure cette date",
-  "Location is going to be announced": "L'emplacement va être annoncé"
+  "Location is going to be announced": "L'emplacement va être annoncé",
+  "Fill your personal information": "Remplissez vos informations personnelles",
+  "Check Box": "Cocher",
+  "Single Choice": "Choix unique",
+  "Option": "Option",
+  "Share Event": "Événement de partage",
 }
 export default fr

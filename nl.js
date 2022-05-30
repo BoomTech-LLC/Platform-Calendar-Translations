@@ -334,6 +334,11 @@ let nl = {
   "Delete event": "Verwijder evenement",
   "Stop repeating on this date": "Stop met herhalen op deze datum",
   "Exclude this date": "Sluit deze datum uit",
-  "Location is going to be announced": "Locatie wordt aangekondigd"
+  "Location is going to be announced": "Locatie wordt aangekondigd",
+  "Fill your personal information": "Vul uw persoonlijke informatie in",
+  "Check Box": "Selectievakje",
+  "Single Choice": "Enkele keuze",
+  "Option": "Keuze",
+  "Share Event": "Deelgebeurtenis",
 }
 export default nl

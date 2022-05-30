@@ -334,6 +334,11 @@ let zh = {
   "Delete event": "删除事件",
   "Stop repeating on this date": "停止在这个日期重复",
   "Exclude this date": "排除此日期",
-  "Location is going to be announced": "地点将宣布"
+  "Location is going to be announced": "地点将宣布",
+  "Fill your personal information": "填写您的个人信息",
+  "Check Box": "复选框",
+  "Single Choice": "单一选择",
+  "Option": "选项",
+  "Share Event": "分享活动",
 }
-export default zh - CN
+export default zh - cn

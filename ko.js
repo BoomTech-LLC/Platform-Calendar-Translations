@@ -334,6 +334,11 @@ let ko = {
   "Delete event": "이벤트 삭제",
   "Stop repeating on this date": "이 날짜에 반복하지 마십시오",
   "Exclude this date": "이 날짜를 제외하십시오",
-  "Location is going to be announced": "위치가 발표 될 예정입니다"
+  "Location is going to be announced": "위치가 발표 될 예정입니다",
+  "Fill your personal information": "개인 정보를 작성하십시오",
+  "Check Box": "확인란",
+  "Single Choice": "단일 선택",
+  "Option": "옵션",
+  "Share Event": "공유 이벤트",
 }
 export default ko

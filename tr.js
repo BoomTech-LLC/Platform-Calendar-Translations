@@ -334,6 +334,11 @@ let tr = {
   "Delete event": "Etkinliği Sil",
   "Stop repeating on this date": "Bu tarihte tekrarlamayı bırak",
   "Exclude this date": "Bu tarihi hariç tut",
-  "Location is going to be announced": "Konum duyurulacak"
+  "Location is going to be announced": "Konum duyurulacak",
+  "Fill your personal information": "Kişisel Bilgilerinizi Doldurun",
+  "Check Box": "Onay kutusu",
+  "Single Choice": "Tek seçim",
+  "Option": "Seçenek",
+  "Share Event": "Paylaşım Etkinliği",
 }
 export default tr

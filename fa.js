@@ -334,6 +334,11 @@ let fa = {
   "Delete event": "رویداد را حذف کنید",
   "Stop repeating on this date": "در این تاریخ تکرار کنید",
   "Exclude this date": "این تاریخ را حذف کنید",
-  "Location is going to be announced": "مکان اعلام می شود"
+  "Location is going to be announced": "مکان اعلام می شود",
+  "Fill your personal information": "اطلاعات شخصی خود را پر کنید",
+  "Check Box": "جعبه چک",
+  "Single Choice": "یک انتخاب",
+  "Option": "گزینه",
+  "Share Event": "رویداد مشترک",
 }
 export default fa

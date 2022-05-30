@@ -334,6 +334,11 @@ let ja = {
   "Delete event": "イベントを削除します",
   "Stop repeating on this date": "この日付で繰り返すのをやめてください",
   "Exclude this date": "この日付を除外してください",
-  "Location is going to be announced": "場所が発表されます"
+  "Location is going to be announced": "場所が発表されます",
+  "Fill your personal information": "あなたの個人情報を記入してください",
+  "Check Box": "チェックボックス",
+  "Single Choice": "単一の選択",
+  "Option": "オプション",
+  "Share Event": "イベントを共有します",
 }
 export default ja

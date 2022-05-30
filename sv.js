@@ -339,6 +339,11 @@ let sv = {
   "Delete event": "Radera händelse",
   "Stop repeating on this date": "Sluta upprepa på detta datum",
   "Exclude this date": "Uteslut detta datum",
-  "Location is going to be announced": "Plats kommer att meddelas"
+  "Location is going to be announced": "Plats kommer att meddelas",
+  "Fill your personal information": "Fyll din personliga information",
+  "Check Box": "Kryssruta",
+  "Single Choice": "Enskilda val",
+  "Option": "Alternativ",
+  "Share Event": "Delaevenemang",
 }
 export default sv

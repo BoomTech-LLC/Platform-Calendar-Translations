@@ -333,6 +333,11 @@ let ar = {
   "Delete event": "حذف الحدث",
   "Stop repeating on this date": "توقف عن التكرار في هذا التاريخ",
   "Exclude this date": "استبعاد هذا التاريخ",
-  "Location is going to be announced": "سيتم الإعلان عن الموقع"
+  "Location is going to be announced": "سيتم الإعلان عن الموقع",
+  "Fill your personal information": "املأ معلوماتك الشخصية",
+  "Check Box": "خانة الاختيار",
+  "Single Choice": "اختيار واحد",
+  "Option": "خيار",
+  "Share Event": "شارك الحدث",
 }
 export default ar

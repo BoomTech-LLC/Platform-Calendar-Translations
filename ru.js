@@ -334,6 +334,11 @@ let ru = {
   "Delete event": "Удалить событие",
   "Stop repeating on this date": "Перестань повторять в эту дату",
   "Exclude this date": "Исключить эту дату",
-  "Location is going to be announced": "Место будет объявлено"
+  "Location is going to be announced": "Место будет объявлено",
+  "Fill your personal information": "Заполните свою личную информацию",
+  "Check Box": "Флажок",
+  "Single Choice": "Один выбор",
+  "Option": "Вариант",
+  "Share Event": "Поделиться событием",
 }
 export default ru

@@ -334,6 +334,11 @@ let hi = {
   "Delete event": "घटना को हटा दें",
   "Stop repeating on this date": "इस तिथि को दोहराना बंद करें",
   "Exclude this date": "इस तिथि को छोड़ दें",
-  "Location is going to be announced": "स्थान की घोषणा की जा रही है"
+  "Location is going to be announced": "स्थान की घोषणा की जा रही है",
+  "Fill your personal information": "अपनी व्यक्तिगत जानकारी भरें",
+  "Check Box": "चेक बॉक्स",
+  "Single Choice": "एकल विकल्प",
+  "Option": "विकल्प",
+  "Share Event": "शेयर घटना",
 }
 export default hi

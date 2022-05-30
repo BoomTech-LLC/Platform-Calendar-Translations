@@ -334,6 +334,11 @@ let da = {
   "Delete event": "Slet begivenhed",
   "Stop repeating on this date": "Stop med at gentage på denne dato",
   "Exclude this date": "Ekskluder denne dato",
-  "Location is going to be announced": "Placering vil blive annonceret"
+  "Location is going to be announced": "Placering vil blive annonceret",
+  "Fill your personal information": "Fyld dine personlige oplysninger",
+  "Check Box": "Afkrydsningsfeltet",
+  "Single Choice": "Enkelt valg",
+  "Option": "Mulighed",
+  "Share Event": "Delbegivenhed",
 }
 export default da

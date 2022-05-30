@@ -334,6 +334,11 @@ let de = {
   "Delete event": "Ereignis löschen",
   "Stop repeating on this date": "Hör auf, an diesem Datum zu wiederholen",
   "Exclude this date": "Diesen Datum ausschließen",
-  "Location is going to be announced": "Der Standort wird bekannt gegeben"
+  "Location is going to be announced": "Der Standort wird bekannt gegeben",
+  "Fill your personal information": "Füllen Sie Ihre persönlichen Daten aus",
+  "Check Box": "Kontrollkästchen",
+  "Single Choice": "Einzelauswahl",
+  "Option": "Möglichkeit",
+  "Share Event": "Aktienereignis",
 }
 export default de

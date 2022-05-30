@@ -334,6 +334,11 @@ let uk = {
   "Delete event": "Видалити подію",
   "Stop repeating on this date": "Перестань повторювати на цій даті",
   "Exclude this date": "Виключити цю дату",
-  "Location is going to be announced": "Місце розташування буде оголошено"
+  "Location is going to be announced": "Місце розташування буде оголошено",
+  "Fill your personal information": "Заповніть свою особисту інформацію",
+  "Check Box": "Прапорець",
+  "Single Choice": "Єдиний вибір",
+  "Option": "Опція",
+  "Share Event": "Поділитися подією",
 }
 export default uk

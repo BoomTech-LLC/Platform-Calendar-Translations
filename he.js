@@ -334,6 +334,11 @@ let he = {
   "Delete event": "מחק אירוע",
   "Stop repeating on this date": "הפסק לחזור בתאריך זה",
   "Exclude this date": "תכלול תאריך זה",
-  "Location is going to be announced": "המיקום הולך להיות מוכרז"
+  "Location is going to be announced": "המיקום הולך להיות מוכרז",
+  "Fill your personal information": "מלא את המידע האישי שלך",
+  "Check Box": "תיבת סימון",
+  "Single Choice": "בחירה יחידה",
+  "Option": "אוֹפְּצִיָה",
+  "Share Event": "שתף אירוע",
 }
 export default he

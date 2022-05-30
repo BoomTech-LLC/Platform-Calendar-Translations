@@ -331,6 +331,11 @@ let hu = {
   "Delete event": "Esemény törlése",
   "Stop repeating on this date": "Hagyd abba az ismétlést ezen a dátumon",
   "Exclude this date": "Kivéve ezt a dátumot",
-  "Location is going to be announced": "A helyet bejelentik"
+  "Location is going to be announced": "A helyet bejelentik",
+  "Fill your personal information": "Töltse ki személyes adatait",
+  "Check Box": "Jelölőnégyzet",
+  "Single Choice": "Egyetlen választás",
+  "Option": "választási lehetőség",
+  "Share Event": "Megosztási esemény",
 }
 export default hu

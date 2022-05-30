@@ -334,6 +334,11 @@ let no = {
   "Delete event": "Slett hendelse",
   "Stop repeating on this date": "Slutt å gjenta på denne datoen",
   "Exclude this date": "Ekskluder denne datoen",
-  "Location is going to be announced": "Plasseringen kommer til å bli kunngjort"
+  "Location is going to be announced": "Plasseringen kommer til å bli kunngjort",
+  "Fill your personal information": "Fyll din personlige informasjon",
+  "Check Box": "Avkrysningsrute",
+  "Single Choice": "Enkelt valg",
+  "Option": "Alternativ",
+  "Share Event": "Aksjearrangement",
 }
 export default no

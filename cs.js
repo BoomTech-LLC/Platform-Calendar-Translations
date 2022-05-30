@@ -333,6 +333,11 @@ let cs = {
   "Delete event": "Smazat událost",
   "Stop repeating on this date": "Přestaňte opakovat v tomto datu",
   "Exclude this date": "Vyloučit toto datum",
-  "Location is going to be announced": "Místo bude oznámeno"
+  "Location is going to be announced": "Místo bude oznámeno",
+  "Fill your personal information": "Vyplňte své osobní údaje",
+  "Check Box": "Zaškrtávací políčko",
+  "Single Choice": "Jediná volba",
+  "Option": "Volba",
+  "Share Event": "Sdílet událost",
 }
 export default cs
