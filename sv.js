@@ -348,6 +348,8 @@ let sv = {
   "Oops! Something went wrong": "hoppsan!Något gick fel",
   "We are sorry this event has already taken place": "Vi är ledsna att denna händelse redan har ägt rum",
   "Back to calendar": "Tillbaka till kalendern",
-  "This field is required": "Detta fält krävs"
+  "This field is required": "Detta fält krävs",
+ "Phone" : "Telefon",
+ "Number field" : "Nummerfält"
 }
 export default sv

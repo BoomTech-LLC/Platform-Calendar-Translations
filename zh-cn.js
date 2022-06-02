@@ -343,6 +343,8 @@ let zh = {
   "Oops! Something went wrong": "哎呀！出问题了",
   "We are sorry this event has already taken place": "我们很抱歉这项活动已经举行",
   "Back to calendar": "返回日历",
-  "This field is required": "这是必填栏"
+  "This field is required": "这是必填栏",
+ "Phone" : "电话",
+ "Number field" : "数字字段"
 }
-export default zh - cn
+export default zh-cn

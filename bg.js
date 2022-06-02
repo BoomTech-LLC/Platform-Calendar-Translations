@@ -342,6 +342,8 @@ let bg = {
   "Oops! Something went wrong": "Ами!Нещо се обърка",
   "We are sorry this event has already taken place": "Съжаляваме, че това събитие вече се е състояло",
   "Back to calendar": "Обратно към календара",
-  "This field is required": "Това поле е задължително"
+  "This field is required": "Това поле е задължително",
+ "Phone" : "Телефон",
+ "Number field" : "Поле за число"
 }
 export default bg

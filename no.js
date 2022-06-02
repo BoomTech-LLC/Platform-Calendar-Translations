@@ -343,6 +343,8 @@ let no = {
   "Oops! Something went wrong": "Ups!Noe gikk galt",
   "We are sorry this event has already taken place": "Vi beklager at denne hendelsen allerede har funnet sted",
   "Back to calendar": "Tilbake til kalenderen",
-  "This field is required": "Dette feltet er obligatorisk"
+  "This field is required": "Dette feltet er obligatorisk",
+ "Phone" : "Telefon",
+ "Number field" : "Nummerfelt"
 }
 export default no

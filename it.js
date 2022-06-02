@@ -343,6 +343,8 @@ let it = {
   "Oops! Something went wrong": "Oops!Qualcosa è andato storto",
   "We are sorry this event has already taken place": "Ci dispiace che questo evento abbia già avuto luogo",
   "Back to calendar": "Torna al calendario",
-  "This field is required": "Questo campo è obbligatorio"
+  "This field is required": "Questo campo è obbligatorio",
+ "Phone" : "Telefono",
+ "Number field" : "Campo numerico"
 }
 export default it

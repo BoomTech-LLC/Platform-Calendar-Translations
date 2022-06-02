@@ -343,6 +343,8 @@ let el = {
   "Oops! Something went wrong": "Ωχ!Κάτι πήγε στραβά",
   "We are sorry this event has already taken place": "Λυπούμαστε που έχει ήδη πραγματοποιηθεί αυτή η εκδήλωση",
   "Back to calendar": "Επιστροφή στο ημερολόγιο",
-  "This field is required": "Αυτό το πεδίο απαιτείται"
+  "This field is required": "Αυτό το πεδίο απαιτείται",
+ "Phone" : "Τηλέφωνο",
+ "Number field" : "Πεδίο αριθμού"
 }
 export default el

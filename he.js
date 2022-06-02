@@ -343,6 +343,8 @@ let he = {
   "Oops! Something went wrong": "אופס!משהו השתבש",
   "We are sorry this event has already taken place": "אנו מצטערים שהאירוע הזה כבר התרחש",
   "Back to calendar": "חזרה ללוח השנה",
-  "This field is required": "זהו שדה חובה"
+  "This field is required": "זהו שדה חובה",
+ "Phone" : "טלפון",
+ "Number field" : "שדה מספר"
 }
 export default he

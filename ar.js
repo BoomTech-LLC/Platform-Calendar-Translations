@@ -342,6 +342,8 @@ let ar = {
   "Oops! Something went wrong": "أُووبس!هناك خطأ ما",
   "We are sorry this event has already taken place": "نحن آسفون أن هذا الحدث قد حدث بالفعل",
   "Back to calendar": "العودة إلى التقويم",
-  "This field is required": "هذه الخانة مطلوبه"
+  "This field is required": "هذه الخانة مطلوبه",
+ "Phone" : "هاتف",
+ "Number field" : "حقل الرقم"
 }
 export default ar

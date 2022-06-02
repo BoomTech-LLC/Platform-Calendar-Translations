@@ -343,6 +343,8 @@ let es = {
   "Oops! Something went wrong": "¡Ups!Algo salió mal",
   "We are sorry this event has already taken place": "Lamentamos que este evento ya haya tenido lugar",
   "Back to calendar": "Volver al calendario",
-  "This field is required": "Este campo es obligatorio"
+  "This field is required": "Este campo es obligatorio",
+ "Phone" : "Teléfono",
+ "Number field" : "Campo numérico"
 }
 export default es

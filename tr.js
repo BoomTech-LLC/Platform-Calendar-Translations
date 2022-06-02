@@ -343,6 +343,8 @@ let tr = {
   "Oops! Something went wrong": "Oops!Bir şeyler yanlış gitti",
   "We are sorry this event has already taken place": "Bu olay zaten gerçekleşti üzgünüz",
   "Back to calendar": "Takvime geri dön",
-  "This field is required": "Bu alan gereklidir"
+  "This field is required": "Bu alan gereklidir",
+ "Phone" : "Telefon",
+ "Number field" : "Sayı alanı"
 }
 export default tr

@@ -343,6 +343,8 @@ let ja = {
   "Oops! Something went wrong": "おっとっと！何かがうまくいかなかった",
   "We are sorry this event has already taken place": "申し訳ありませんが、このイベントがすでに行われています",
   "Back to calendar": "カレンダーに戻ります",
-  "This field is required": "この項目は必須です"
+  "This field is required": "この項目は必須です",
+ "Phone" : "電話",
+ "Number field" : "数字フィールド"
 }
 export default ja

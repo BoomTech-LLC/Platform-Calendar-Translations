@@ -338,6 +338,8 @@ let en = {
   "Oops! Something went wrong": "Oops! Something went wrong",
   "We are sorry this event has already taken place": "We are sorry this event has already taken place",
   "Back to calendar": "Back to calendar",
-  "This field is required": "This field is required"
+  "This field is required": "This field is required",
+ "Phone" : "Phone",
+ "Number field" : "Number field"
 }
 export default en

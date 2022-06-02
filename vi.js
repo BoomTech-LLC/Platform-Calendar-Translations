@@ -338,6 +338,8 @@ let vi = {
   "Oops! Something went wrong": "Ối!Có gì đó đã sai",
   "We are sorry this event has already taken place": "Chúng tôi xin lỗi sự kiện này đã diễn ra",
   "Back to calendar": "Quay lại lịch",
-  "This field is required": "Trường này được yêu cầu"
+  "This field is required": "Trường này được yêu cầu",
+ "Phone" : "Điện thoại",
+ "Number field" : "Trường số"
 }
 export default vi

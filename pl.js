@@ -343,6 +343,8 @@ let pl = {
   "Oops! Something went wrong": "Ups!Coś poszło nie tak",
   "We are sorry this event has already taken place": "Przykro nam, że to wydarzenie już miało miejsce",
   "Back to calendar": "Powrót do kalendarza",
-  "This field is required": "To pole jest wymagane"
+  "This field is required": "To pole jest wymagane",
+ "Phone" : "Telefon",
+ "Number field" : "Pole liczbowe"
 }
 export default pl

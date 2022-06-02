@@ -343,6 +343,8 @@ let ru = {
   "Oops! Something went wrong": "Уп!Что-то пошло не так",
   "We are sorry this event has already taken place": "Мы сожалеем, что это событие уже состоялось",
   "Back to calendar": "Вернуться в календарь",
-  "This field is required": "Это поле обязательно к заполнению"
+  "This field is required": "Это поле обязательно к заполнению",
+ "Phone" : "Телефон",
+ "Number field" : "Поле числа"
 }
 export default ru

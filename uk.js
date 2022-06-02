@@ -343,6 +343,8 @@ let uk = {
   "Oops! Something went wrong": "На жаль!Щось пішло не так",
   "We are sorry this event has already taken place": "Ми шкодуємо, що ця подія вже відбулася",
   "Back to calendar": "Назад до календаря",
-  "This field is required": "Це поле є обов'язковим"
+  "This field is required": "Це поле є обов'язковим",
+ "Phone" : "Телефон",
+ "Number field" : "Поле число"
 }
 export default uk
