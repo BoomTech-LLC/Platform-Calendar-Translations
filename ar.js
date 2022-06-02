@@ -339,5 +339,9 @@ let ar = {
   "Single Choice": "اختيار واحد",
   "Option": "خيار",
   "Share Event": "شارك الحدث",
+  "Oops! Something went wrong": "أُووبس!هناك خطأ ما",
+  "We are sorry this event has already taken place": "نحن آسفون أن هذا الحدث قد حدث بالفعل",
+  "Back to calendar": "العودة إلى التقويم",
+  "This field is required": "هذه الخانة مطلوبه"
 }
 export default ar

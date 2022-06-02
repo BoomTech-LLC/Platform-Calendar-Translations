@@ -340,5 +340,9 @@ let ko = {
   "Single Choice": "단일 선택",
   "Option": "옵션",
   "Share Event": "공유 이벤트",
+  "Oops! Something went wrong": "죄송합니다!뭔가 잘못되었습니다",
+  "We are sorry this event has already taken place": "이 이벤트가 이미 일어난 일에 죄송합니다",
+  "Back to calendar": "달력으로 돌아갑니다",
+  "This field is required": "이 필드가 필요합니다"
 }
 export default ko

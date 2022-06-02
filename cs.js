@@ -339,5 +339,9 @@ let cs = {
   "Single Choice": "Jediná volba",
   "Option": "Volba",
   "Share Event": "Sdílet událost",
+  "Oops! Something went wrong": "Jejda!Něco se pokazilo",
+  "We are sorry this event has already taken place": "Je nám líto, že se tato událost již konala",
+  "Back to calendar": "Zpět do kalendáře",
+  "This field is required": "Toto pole je povinné"
 }
 export default cs

@@ -340,5 +340,9 @@ let nl = {
   "Single Choice": "Enkele keuze",
   "Option": "Keuze",
   "Share Event": "Deelgebeurtenis",
+  "Oops! Something went wrong": "Oeps!Er is iets fout gegaan",
+  "We are sorry this event has already taken place": "Het spijt ons dat dit evenement al heeft plaatsgevonden",
+  "Back to calendar": "Terug naar kalender",
+  "This field is required": "dit veld is verplicht"
 }
 export default nl

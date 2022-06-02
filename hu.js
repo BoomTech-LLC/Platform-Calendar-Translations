@@ -337,5 +337,9 @@ let hu = {
   "Single Choice": "Egyetlen választás",
   "Option": "választási lehetőség",
   "Share Event": "Megosztási esemény",
+  "Oops! Something went wrong": "Hoppá!Valami elromlott",
+  "We are sorry this event has already taken place": "Sajnáljuk, hogy ez az esemény már megtörtént",
+  "Back to calendar": "Vissza a naptárhoz",
+  "This field is required": "Ez a mező kötelező"
 }
 export default hu

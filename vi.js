@@ -335,5 +335,9 @@ let vi = {
   "Single Choice": "Sự lựa chọn đơn lẻ",
   "Option": "Quyền mua",
   "Share Event": "Chia sẻ sự kiện",
+  "Oops! Something went wrong": "Ối!Có gì đó đã sai",
+  "We are sorry this event has already taken place": "Chúng tôi xin lỗi sự kiện này đã diễn ra",
+  "Back to calendar": "Quay lại lịch",
+  "This field is required": "Trường này được yêu cầu"
 }
 export default vi

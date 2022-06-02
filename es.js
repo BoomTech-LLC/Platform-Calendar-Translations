@@ -340,5 +340,9 @@ let es = {
   "Single Choice": "Elección única",
   "Option": "Opción",
   "Share Event": "Evento compartido",
+  "Oops! Something went wrong": "¡Ups!Algo salió mal",
+  "We are sorry this event has already taken place": "Lamentamos que este evento ya haya tenido lugar",
+  "Back to calendar": "Volver al calendario",
+  "This field is required": "Este campo es obligatorio"
 }
 export default es

@@ -340,5 +340,9 @@ let ja = {
   "Single Choice": "単一の選択",
   "Option": "オプション",
   "Share Event": "イベントを共有します",
+  "Oops! Something went wrong": "おっとっと！何かがうまくいかなかった",
+  "We are sorry this event has already taken place": "申し訳ありませんが、このイベントがすでに行われています",
+  "Back to calendar": "カレンダーに戻ります",
+  "This field is required": "この項目は必須です"
 }
 export default ja

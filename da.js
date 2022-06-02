@@ -340,5 +340,9 @@ let da = {
   "Single Choice": "Enkelt valg",
   "Option": "Mulighed",
   "Share Event": "Delbegivenhed",
+  "Oops! Something went wrong": "Ups!Noget gik galt",
+  "We are sorry this event has already taken place": "Vi beklager, at denne begivenhed allerede har fundet sted",
+  "Back to calendar": "Tilbage til kalender",
+  "This field is required": "dette felt er påkrævet"
 }
 export default da

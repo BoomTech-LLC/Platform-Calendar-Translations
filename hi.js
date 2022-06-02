@@ -340,5 +340,9 @@ let hi = {
   "Single Choice": "एकल विकल्प",
   "Option": "विकल्प",
   "Share Event": "शेयर घटना",
+  "Oops! Something went wrong": "उफ़!कुछ गलत हो गया",
+  "We are sorry this event has already taken place": "हमें खेद है कि यह घटना पहले ही हो चुकी है",
+  "Back to calendar": "वापस कैलेंडर पर",
+  "This field is required": "यह फ़ील्ड आवश्यक है"
 }
 export default hi

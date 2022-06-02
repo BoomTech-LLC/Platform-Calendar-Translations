@@ -340,5 +340,9 @@ let he = {
   "Single Choice": "בחירה יחידה",
   "Option": "אוֹפְּצִיָה",
   "Share Event": "שתף אירוע",
+  "Oops! Something went wrong": "אופס!משהו השתבש",
+  "We are sorry this event has already taken place": "אנו מצטערים שהאירוע הזה כבר התרחש",
+  "Back to calendar": "חזרה ללוח השנה",
+  "This field is required": "זהו שדה חובה"
 }
 export default he

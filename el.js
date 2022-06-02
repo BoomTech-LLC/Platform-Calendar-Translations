@@ -340,5 +340,9 @@ let el = {
   "Single Choice": "Μεμονωμένη επιλογή",
   "Option": "Επιλογή",
   "Share Event": "Εκδήλωση κοινής χρήσης",
+  "Oops! Something went wrong": "Ωχ!Κάτι πήγε στραβά",
+  "We are sorry this event has already taken place": "Λυπούμαστε που έχει ήδη πραγματοποιηθεί αυτή η εκδήλωση",
+  "Back to calendar": "Επιστροφή στο ημερολόγιο",
+  "This field is required": "Αυτό το πεδίο απαιτείται"
 }
 export default el

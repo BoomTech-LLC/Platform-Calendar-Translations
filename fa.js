@@ -340,5 +340,9 @@ let fa = {
   "Single Choice": "یک انتخاب",
   "Option": "گزینه",
   "Share Event": "رویداد مشترک",
+  "Oops! Something went wrong": "اوهمشکلی پیش آمد",
+  "We are sorry this event has already taken place": "متأسفیم این رویداد قبلاً اتفاق افتاده است",
+  "Back to calendar": "بازگشت به تقویم",
+  "This field is required": "این زمینه مورد نیاز است"
 }
 export default fa

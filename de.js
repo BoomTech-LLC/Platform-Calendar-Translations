@@ -340,5 +340,9 @@ let de = {
   "Single Choice": "Einzelauswahl",
   "Option": "Möglichkeit",
   "Share Event": "Aktienereignis",
+  "Oops! Something went wrong": "Hoppla!Etwas ist schief gelaufen",
+  "We are sorry this event has already taken place": "Es tut uns leid, dass diese Veranstaltung bereits stattgefunden hat",
+  "Back to calendar": "Zurück zum Kalender",
+  "This field is required": "Dieses Feld ist erforderlich"
 }
 export default de

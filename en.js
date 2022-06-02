@@ -335,5 +335,9 @@ let en = {
   "Single Choice": "Single Choice",
   "Option": "Option",
   "Share Event": "Share Event",
+  "Oops! Something went wrong": "Oops! Something went wrong",
+  "We are sorry this event has already taken place": "We are sorry this event has already taken place",
+  "Back to calendar": "Back to calendar",
+  "This field is required": "This field is required"
 }
 export default en

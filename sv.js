@@ -345,5 +345,9 @@ let sv = {
   "Single Choice": "Enskilda val",
   "Option": "Alternativ",
   "Share Event": "Delaevenemang",
+  "Oops! Something went wrong": "hoppsan!Något gick fel",
+  "We are sorry this event has already taken place": "Vi är ledsna att denna händelse redan har ägt rum",
+  "Back to calendar": "Tillbaka till kalendern",
+  "This field is required": "Detta fält krävs"
 }
 export default sv

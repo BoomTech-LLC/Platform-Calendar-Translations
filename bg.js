@@ -339,5 +339,9 @@ let bg = {
   "Single Choice": "Единичен избор",
   "Option": "Опция",
   "Share Event": "Споделете събитие",
+  "Oops! Something went wrong": "Ами!Нещо се обърка",
+  "We are sorry this event has already taken place": "Съжаляваме, че това събитие вече се е състояло",
+  "Back to calendar": "Обратно към календара",
+  "This field is required": "Това поле е задължително"
 }
 export default bg

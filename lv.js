@@ -340,5 +340,9 @@ let lv = {
   "Single Choice": "Viena izvēle",
   "Option": "Izvēle",
   "Share Event": "Dalīties pasākumā",
+  "Oops! Something went wrong": "Hmm!Kaut kas nogāja greizi",
+  "We are sorry this event has already taken place": "Mums ir žēl, ka šis notikums jau ir noticis",
+  "Back to calendar": "Atpakaļ uz kalendāru",
+  "This field is required": "Šis lauks ir obligāts"
 }
 export default lv

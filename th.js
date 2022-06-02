@@ -340,5 +340,9 @@ let th = {
   "Single Choice": "ตัวเลือกเดียว",
   "Option": "ตัวเลือก",
   "Share Event": "แบ่งปันกิจกรรม",
+  "Oops! Something went wrong": "อ๊ะ!บางอย่างผิดพลาด",
+  "We are sorry this event has already taken place": "เราเสียใจที่มีเหตุการณ์นี้เกิดขึ้นแล้ว",
+  "Back to calendar": "กลับไปที่ปฏิทิน",
+  "This field is required": "ต้องการฟิลด์นี้"
 }
 export default th
