@@ -344,7 +344,7 @@ let lv = {
   "We are sorry this event has already taken place": "Mums ir žēl, ka šis notikums jau ir noticis",
   "Back to calendar": "Atpakaļ uz kalendāru",
   "This field is required": "Šis lauks ir obligāts",
- "Phone" : "Telefons",
- "Number field" : "Numura lauks"
+  "Phone": "Telefons",
+  "Number field": "Numura lauks"
 }
 export default lv
