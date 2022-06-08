@@ -344,7 +344,10 @@ let zh = {
   "We are sorry this event has already taken place": "我们很抱歉这项活动已经举行",
   "Back to calendar": "返回日历",
   "This field is required": "这是必填栏",
- "Phone" : "电话",
- "Number field" : "数字字段"
+  "Phone": "电话",
+  "Number field": "数字字段",
+  "Option": "选项",
+  "Check Box": "复选框",
+  "Single Choice": "单一选择"
 }
-export default zh-cn
+export default zh - cn

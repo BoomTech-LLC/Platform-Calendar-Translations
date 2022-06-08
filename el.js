@@ -344,7 +344,10 @@ let el = {
   "We are sorry this event has already taken place": "Λυπούμαστε που έχει ήδη πραγματοποιηθεί αυτή η εκδήλωση",
   "Back to calendar": "Επιστροφή στο ημερολόγιο",
   "This field is required": "Αυτό το πεδίο απαιτείται",
- "Phone" : "Τηλέφωνο",
- "Number field" : "Πεδίο αριθμού"
+  "Phone": "Τηλέφωνο",
+  "Number field": "Πεδίο αριθμού",
+  "Option": "Επιλογή",
+  "Check Box": "Πλαίσιο ελέγχου",
+  "Single Choice": "Μεμονωμένη επιλογή"
 }
 export default el

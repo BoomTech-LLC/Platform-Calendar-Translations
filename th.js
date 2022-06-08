@@ -344,7 +344,10 @@ let th = {
   "We are sorry this event has already taken place": "เราเสียใจที่มีเหตุการณ์นี้เกิดขึ้นแล้ว",
   "Back to calendar": "กลับไปที่ปฏิทิน",
   "This field is required": "ต้องการฟิลด์นี้",
- "Phone" : "โทรศัพท์",
- "Number field" : "ฟิลด์หมายเลข"
+  "Phone": "โทรศัพท์",
+  "Number field": "ฟิลด์หมายเลข",
+  "Option": "ตัวเลือก",
+  "Check Box": "กล่องทำเครื่องหมาย",
+  "Single Choice": "ตัวเลือกเดียว"
 }
 export default th

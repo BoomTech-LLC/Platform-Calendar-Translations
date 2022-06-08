@@ -343,7 +343,10 @@ let ar = {
   "We are sorry this event has already taken place": "نحن آسفون أن هذا الحدث قد حدث بالفعل",
   "Back to calendar": "العودة إلى التقويم",
   "This field is required": "هذه الخانة مطلوبه",
- "Phone" : "هاتف",
- "Number field" : "حقل الرقم"
+  "Phone": "هاتف",
+  "Number field": "حقل الرقم",
+  "Option": "خيار",
+  "Check Box": "خانة الاختيار",
+  "Single Choice": "اختيار واحد"
 }
 export default ar

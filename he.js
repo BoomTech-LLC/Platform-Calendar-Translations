@@ -344,7 +344,10 @@ let he = {
   "We are sorry this event has already taken place": "אנו מצטערים שהאירוע הזה כבר התרחש",
   "Back to calendar": "חזרה ללוח השנה",
   "This field is required": "זהו שדה חובה",
- "Phone" : "טלפון",
- "Number field" : "שדה מספר"
+  "Phone": "טלפון",
+  "Number field": "שדה מספר",
+  "Option": "אוֹפְּצִיָה",
+  "Check Box": "תיבת סימון",
+  "Single Choice": "בחירה יחידה"
 }
 export default he

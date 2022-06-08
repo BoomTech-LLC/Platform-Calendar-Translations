@@ -344,7 +344,10 @@ let fa = {
   "We are sorry this event has already taken place": "متأسفیم این رویداد قبلاً اتفاق افتاده است",
   "Back to calendar": "بازگشت به تقویم",
   "This field is required": "این زمینه مورد نیاز است",
- "Phone" : "تلفن",
- "Number field" : "قسمت شماره"
+  "Phone": "تلفن",
+  "Number field": "قسمت شماره",
+  "Option": "گزینه",
+  "Check Box": "جعبه چک",
+  "Single Choice": "یک انتخاب"
 }
 export default fa

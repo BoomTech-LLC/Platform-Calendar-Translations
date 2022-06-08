@@ -339,7 +339,10 @@ let en = {
   "We are sorry this event has already taken place": "We are sorry this event has already taken place",
   "Back to calendar": "Back to calendar",
   "This field is required": "This field is required",
- "Phone" : "Phone",
- "Number field" : "Number field"
+  "Phone": "Phone",
+  "Number field": "Number field",
+  "Option": "Option",
+  "Check Box": "Check Box",
+  "Single Choice": "Single Choice"
 }
 export default en

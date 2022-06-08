@@ -339,7 +339,10 @@ let vi = {
   "We are sorry this event has already taken place": "Chúng tôi xin lỗi sự kiện này đã diễn ra",
   "Back to calendar": "Quay lại lịch",
   "This field is required": "Trường này được yêu cầu",
- "Phone" : "Điện thoại",
- "Number field" : "Trường số"
+  "Phone": "Điện thoại",
+  "Number field": "Trường số",
+  "Option": "Quyền mua",
+  "Check Box": "Hộp kiểm",
+  "Single Choice": "Sự lựa chọn đơn lẻ"
 }
 export default vi

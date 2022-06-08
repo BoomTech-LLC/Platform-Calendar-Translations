@@ -344,7 +344,10 @@ let hi = {
   "We are sorry this event has already taken place": "हमें खेद है कि यह घटना पहले ही हो चुकी है",
   "Back to calendar": "वापस कैलेंडर पर",
   "This field is required": "यह फ़ील्ड आवश्यक है",
- "Phone" : "फ़ोन",
- "Number field" : "संख्या क्षेत्र"
+  "Phone": "फ़ोन",
+  "Number field": "संख्या क्षेत्र",
+  "Option": "विकल्प",
+  "Check Box": "चेक बॉक्स",
+  "Single Choice": "एकल विकल्प"
 }
 export default hi

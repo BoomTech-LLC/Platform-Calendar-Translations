@@ -341,7 +341,10 @@ let hu = {
   "We are sorry this event has already taken place": "Sajnáljuk, hogy ez az esemény már megtörtént",
   "Back to calendar": "Vissza a naptárhoz",
   "This field is required": "Ez a mező kötelező",
- "Phone" : "Telefon",
- "Number field" : "Számmező"
+  "Phone": "Telefon",
+  "Number field": "Számmező",
+  "Option": "választási lehetőség",
+  "Check Box": "Jelölőnégyzet",
+  "Single Choice": "Egyetlen választás"
 }
 export default hu

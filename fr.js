@@ -344,7 +344,10 @@ let fr = {
   "We are sorry this event has already taken place": "Nous sommes désolés cet événement a déjà eu lieu",
   "Back to calendar": "Retour au calendrier",
   "This field is required": "Ce champ est requis",
- "Phone" : "Téléphoner",
- "Number field" : "Champ de numéro"
+  "Phone": "Téléphoner",
+  "Number field": "Champ de numéro",
+  "Option": "Option",
+  "Check Box": "Cocher",
+  "Single Choice": "Choix unique"
 }
 export default fr

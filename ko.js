@@ -344,7 +344,10 @@ let ko = {
   "We are sorry this event has already taken place": "이 이벤트가 이미 일어난 일에 죄송합니다",
   "Back to calendar": "달력으로 돌아갑니다",
   "This field is required": "이 필드가 필요합니다",
- "Phone" : "핸드폰",
- "Number field" : "번호 필드"
+  "Phone": "핸드폰",
+  "Number field": "번호 필드",
+  "Option": "옵션",
+  "Check Box": "확인란",
+  "Single Choice": "단일 선택"
 }
 export default ko

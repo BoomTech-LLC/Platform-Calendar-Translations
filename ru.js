@@ -344,7 +344,10 @@ let ru = {
   "We are sorry this event has already taken place": "Мы сожалеем, что это событие уже состоялось",
   "Back to calendar": "Вернуться в календарь",
   "This field is required": "Это поле обязательно к заполнению",
- "Phone" : "Телефон",
- "Number field" : "Поле числа"
+  "Phone": "Телефон",
+  "Number field": "Поле числа",
+  "Option": "Вариант",
+  "Check Box": "Флажок",
+  "Single Choice": "Один выбор"
 }
 export default ru

@@ -344,7 +344,10 @@ let nl = {
   "We are sorry this event has already taken place": "Het spijt ons dat dit evenement al heeft plaatsgevonden",
   "Back to calendar": "Terug naar kalender",
   "This field is required": "dit veld is verplicht",
- "Phone" : "Telefoon",
- "Number field" : "Nummerveld"
+  "Phone": "Telefoon",
+  "Number field": "Nummerveld",
+  "Option": "Keuze",
+  "Check Box": "Selectievakje",
+  "Single Choice": "Enkele keuze"
 }
 export default nl

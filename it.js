@@ -344,7 +344,10 @@ let it = {
   "We are sorry this event has already taken place": "Ci dispiace che questo evento abbia già avuto luogo",
   "Back to calendar": "Torna al calendario",
   "This field is required": "Questo campo è obbligatorio",
- "Phone" : "Telefono",
- "Number field" : "Campo numerico"
+  "Phone": "Telefono",
+  "Number field": "Campo numerico",
+  "Option": "Opzione",
+  "Check Box": "Casella di controllo",
+  "Single Choice": "Scelta singola"
 }
 export default it

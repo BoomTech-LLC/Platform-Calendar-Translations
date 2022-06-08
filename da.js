@@ -344,7 +344,10 @@ let da = {
   "We are sorry this event has already taken place": "Vi beklager, at denne begivenhed allerede har fundet sted",
   "Back to calendar": "Tilbage til kalender",
   "This field is required": "dette felt er påkrævet",
- "Phone" : "telefon",
- "Number field" : "Nummerfelt"
+  "Phone": "telefon",
+  "Number field": "Nummerfelt",
+  "Option": "Mulighed",
+  "Check Box": "Afkrydsningsfeltet",
+  "Single Choice": "Enkelt valg"
 }
 export default da

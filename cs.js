@@ -343,7 +343,10 @@ let cs = {
   "We are sorry this event has already taken place": "Je nám líto, že se tato událost již konala",
   "Back to calendar": "Zpět do kalendáře",
   "This field is required": "Toto pole je povinné",
- "Phone" : "Telefon",
- "Number field" : "Pole čísla"
+  "Phone": "Telefon",
+  "Number field": "Pole čísla",
+  "Option": "Volba",
+  "Check Box": "Zaškrtávací políčko",
+  "Single Choice": "Jediná volba"
 }
 export default cs

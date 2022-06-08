@@ -349,7 +349,10 @@ let sv = {
   "We are sorry this event has already taken place": "Vi är ledsna att denna händelse redan har ägt rum",
   "Back to calendar": "Tillbaka till kalendern",
   "This field is required": "Detta fält krävs",
- "Phone" : "Telefon",
- "Number field" : "Nummerfält"
+  "Phone": "Telefon",
+  "Number field": "Nummerfält",
+  "Option": "Alternativ",
+  "Check Box": "Kryssruta",
+  "Single Choice": "Enskilda val"
 }
 export default sv

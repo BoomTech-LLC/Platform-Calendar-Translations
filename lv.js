@@ -345,6 +345,9 @@ let lv = {
   "Back to calendar": "Atpakaļ uz kalendāru",
   "This field is required": "Šis lauks ir obligāts",
   "Phone": "Telefons",
-  "Number field": "Numura lauks"
+  "Number field": "Numura lauks",
+  "Option": "Izvēle",
+  "Check Box": "Izvēles rūtiņa",
+  "Single Choice": "Viena izvēle"
 }
 export default lv

@@ -344,7 +344,10 @@ let tr = {
   "We are sorry this event has already taken place": "Bu olay zaten gerçekleşti üzgünüz",
   "Back to calendar": "Takvime geri dön",
   "This field is required": "Bu alan gereklidir",
- "Phone" : "Telefon",
- "Number field" : "Sayı alanı"
+  "Phone": "Telefon",
+  "Number field": "Sayı alanı",
+  "Option": "Seçenek",
+  "Check Box": "Onay kutusu",
+  "Single Choice": "Tek seçim"
 }
 export default tr

@@ -344,7 +344,10 @@ let de = {
   "We are sorry this event has already taken place": "Es tut uns leid, dass diese Veranstaltung bereits stattgefunden hat",
   "Back to calendar": "Zurück zum Kalender",
   "This field is required": "Dieses Feld ist erforderlich",
- "Phone" : "Telefon",
- "Number field" : "Zahlenfeld"
+  "Phone": "Telefon",
+  "Number field": "Zahlenfeld",
+  "Option": "Möglichkeit",
+  "Check Box": "Kontrollkästchen",
+  "Single Choice": "Einzelauswahl"
 }
 export default de
