@@ -347,6 +347,8 @@ let cs = {
   "Number field": "Pole čísla",
   "Option": "Volba",
   "Check Box": "Zaškrtávací políčko",
-  "Single Choice": "Jediná volba"
+  "Single Choice": "Jediná volba",
+ "Please provide a valid email" : "Uveďte prosím platný e -mail",
+ "Select at least one option" : "Vyberte alespoň jednu možnost"
 }
 export default cs

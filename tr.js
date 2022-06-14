@@ -348,6 +348,8 @@ let tr = {
   "Number field": "Sayı alanı",
   "Option": "Seçenek",
   "Check Box": "Onay kutusu",
-  "Single Choice": "Tek seçim"
+  "Single Choice": "Tek seçim",
+ "Please provide a valid email" : "Lütfen geçerli bir e -posta sağlayın",
+ "Select at least one option" : "En az bir seçenek seçin"
 }
 export default tr

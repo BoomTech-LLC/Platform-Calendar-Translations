@@ -348,6 +348,8 @@ let de = {
   "Number field": "Zahlenfeld",
   "Option": "Möglichkeit",
   "Check Box": "Kontrollkästchen",
-  "Single Choice": "Einzelauswahl"
+  "Single Choice": "Einzelauswahl",
+ "Please provide a valid email" : "Bitte geben Sie eine gültige E -Mail an",
+ "Select at least one option" : "Wählen Sie mindestens eine Option aus"
 }
 export default de

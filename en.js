@@ -343,6 +343,8 @@ let en = {
   "Number field": "Number field",
   "Option": "Option",
   "Check Box": "Check Box",
-  "Single Choice": "Single Choice"
+  "Single Choice": "Single Choice",
+ "Please provide a valid email" : "Please provide a valid email",
+ "Select at least one option" : "Select at least one option"
 }
 export default en

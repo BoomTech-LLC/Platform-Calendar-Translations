@@ -348,6 +348,8 @@ let uk = {
   "Number field": "Поле число",
   "Option": "Опція",
   "Check Box": "Прапорець",
-  "Single Choice": "Єдиний вибір"
+  "Single Choice": "Єдиний вибір",
+ "Please provide a valid email" : "Будь ласка, надайте дійсну електронну пошту",
+ "Select at least one option" : "Виберіть принаймні один варіант"
 }
 export default uk

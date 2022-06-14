@@ -348,6 +348,8 @@ let el = {
   "Number field": "Πεδίο αριθμού",
   "Option": "Επιλογή",
   "Check Box": "Πλαίσιο ελέγχου",
-  "Single Choice": "Μεμονωμένη επιλογή"
+  "Single Choice": "Μεμονωμένη επιλογή",
+ "Please provide a valid email" : "Δώστε ένα έγκυρο email",
+ "Select at least one option" : "Επιλέξτε τουλάχιστον μία επιλογή"
 }
 export default el

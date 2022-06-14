@@ -348,6 +348,8 @@ let fa = {
   "Number field": "قسمت شماره",
   "Option": "گزینه",
   "Check Box": "جعبه چک",
-  "Single Choice": "یک انتخاب"
+  "Single Choice": "یک انتخاب",
+ "Please provide a valid email" : "لطفا یک ایمیل معتبر وارد کنید",
+ "Select at least one option" : "حداقل یک گزینه را انتخاب کنید"
 }
 export default fa

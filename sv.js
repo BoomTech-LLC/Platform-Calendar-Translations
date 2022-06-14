@@ -353,6 +353,8 @@ let sv = {
   "Number field": "Nummerfält",
   "Option": "Alternativ",
   "Check Box": "Kryssruta",
-  "Single Choice": "Enskilda val"
+  "Single Choice": "Enskilda val",
+ "Please provide a valid email" : "Var god ange en giltig e-postadress",
+ "Select at least one option" : "Välj minst ett alternativ"
 }
 export default sv

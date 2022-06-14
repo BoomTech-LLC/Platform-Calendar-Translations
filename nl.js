@@ -348,6 +348,8 @@ let nl = {
   "Number field": "Nummerveld",
   "Option": "Keuze",
   "Check Box": "Selectievakje",
-  "Single Choice": "Enkele keuze"
+  "Single Choice": "Enkele keuze",
+ "Please provide a valid email" : "Geef een geldige e -mail op",
+ "Select at least one option" : "Selecteer ten minste één optie"
 }
 export default nl

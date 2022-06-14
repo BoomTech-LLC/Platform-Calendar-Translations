@@ -347,6 +347,8 @@ let bg = {
   "Number field": "Поле за число",
   "Option": "Опция",
   "Check Box": "Отметка в квадратчето",
-  "Single Choice": "Единичен избор"
+  "Single Choice": "Единичен избор",
+ "Please provide a valid email" : "Моля, предоставете валиден имейл",
+ "Select at least one option" : "Изберете поне една опция"
 }
 export default bg

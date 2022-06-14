@@ -348,6 +348,8 @@ let ja = {
   "Number field": "数字フィールド",
   "Option": "オプション",
   "Check Box": "チェックボックス",
-  "Single Choice": "単一の選択"
+  "Single Choice": "単一の選択",
+ "Please provide a valid email" : "有効なメールを提供してください",
+ "Select at least one option" : "少なくとも1つのオプションを選択します"
 }
 export default ja

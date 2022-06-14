@@ -348,6 +348,8 @@ let hi = {
   "Number field": "संख्या क्षेत्र",
   "Option": "विकल्प",
   "Check Box": "चेक बॉक्स",
-  "Single Choice": "एकल विकल्प"
+  "Single Choice": "एकल विकल्प",
+ "Please provide a valid email" : "कृपया सही ईमेल पता बताएं",
+ "Select at least one option" : "कम से कम एक विकल्प चुनें"
 }
 export default hi

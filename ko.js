@@ -348,6 +348,8 @@ let ko = {
   "Number field": "번호 필드",
   "Option": "옵션",
   "Check Box": "확인란",
-  "Single Choice": "단일 선택"
+  "Single Choice": "단일 선택",
+ "Please provide a valid email" : "유효한 이메일을 제공하십시오",
+ "Select at least one option" : "하나 이상의 옵션을 선택하십시오"
 }
 export default ko

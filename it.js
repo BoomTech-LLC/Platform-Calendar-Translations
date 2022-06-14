@@ -348,6 +348,8 @@ let it = {
   "Number field": "Campo numerico",
   "Option": "Opzione",
   "Check Box": "Casella di controllo",
-  "Single Choice": "Scelta singola"
+  "Single Choice": "Scelta singola",
+ "Please provide a valid email" : "Per favore inserisci un'email valida",
+ "Select at least one option" : "Seleziona almeno un'opzione"
 }
 export default it

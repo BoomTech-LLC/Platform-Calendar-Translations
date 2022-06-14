@@ -343,6 +343,8 @@ let vi = {
   "Number field": "Trường số",
   "Option": "Quyền mua",
   "Check Box": "Hộp kiểm",
-  "Single Choice": "Sự lựa chọn đơn lẻ"
+  "Single Choice": "Sự lựa chọn đơn lẻ",
+ "Please provide a valid email" : "Vui lòng cung cấp một email hợp lệ",
+ "Select at least one option" : "Chọn ít nhất một tùy chọn"
 }
 export default vi

@@ -348,6 +348,8 @@ let fr = {
   "Number field": "Champ de numéro",
   "Option": "Option",
   "Check Box": "Cocher",
-  "Single Choice": "Choix unique"
+  "Single Choice": "Choix unique",
+ "Please provide a valid email" : "Veuillez fournir un e-mail valide",
+ "Select at least one option" : "Sélectionnez au moins une option"
 }
 export default fr

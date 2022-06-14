@@ -348,6 +348,8 @@ let da = {
   "Number field": "Nummerfelt",
   "Option": "Mulighed",
   "Check Box": "Afkrydsningsfeltet",
-  "Single Choice": "Enkelt valg"
+  "Single Choice": "Enkelt valg",
+ "Please provide a valid email" : "Angiv en gyldig e -mail",
+ "Select at least one option" : "Vælg mindst en mulighed"
 }
 export default da

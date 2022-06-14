@@ -348,6 +348,8 @@ let ru = {
   "Number field": "Поле числа",
   "Option": "Вариант",
   "Check Box": "Флажок",
-  "Single Choice": "Один выбор"
+  "Single Choice": "Один выбор",
+ "Please provide a valid email" : "Пожалуйста, предоставьте действительный адрес электронной почты",
+ "Select at least one option" : "Выберите хотя бы один вариант"
 }
 export default ru

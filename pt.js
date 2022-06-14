@@ -348,6 +348,8 @@ let pt = {
   "Number field": "Campo numérico",
   "Option": "Opção",
   "Check Box": "Caixa de seleção",
-  "Single Choice": "Escolha única"
+  "Single Choice": "Escolha única",
+ "Please provide a valid email" : "Por favor forneça um email válido",
+ "Select at least one option" : "Selecione pelo menos uma opção"
 }
 export default pt

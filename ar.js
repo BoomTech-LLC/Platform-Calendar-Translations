@@ -347,6 +347,8 @@ let ar = {
   "Number field": "حقل الرقم",
   "Option": "خيار",
   "Check Box": "خانة الاختيار",
-  "Single Choice": "اختيار واحد"
+  "Single Choice": "اختيار واحد",
+ "Please provide a valid email" : "يرجى تقديم عنوان بريد إلكتروني صالح",
+ "Select at least one option" : "حدد خيارًا واحدًا على الأقل"
 }
 export default ar

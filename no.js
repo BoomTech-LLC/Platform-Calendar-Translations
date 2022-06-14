@@ -348,6 +348,8 @@ let no = {
   "Number field": "Nummerfelt",
   "Option": "Alternativ",
   "Check Box": "Avkrysningsrute",
-  "Single Choice": "Enkelt valg"
+  "Single Choice": "Enkelt valg",
+ "Please provide a valid email" : "Vennligst oppgi en gyldig e -post",
+ "Select at least one option" : "Velg minst ett alternativ"
 }
 export default no

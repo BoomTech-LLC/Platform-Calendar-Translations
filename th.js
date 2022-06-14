@@ -348,6 +348,8 @@ let th = {
   "Number field": "ฟิลด์หมายเลข",
   "Option": "ตัวเลือก",
   "Check Box": "กล่องทำเครื่องหมาย",
-  "Single Choice": "ตัวเลือกเดียว"
+  "Single Choice": "ตัวเลือกเดียว",
+ "Please provide a valid email" : "โปรดระบุอีเมลที่ถูกต้อง",
+ "Select at least one option" : "เลือกตัวเลือกอย่างน้อยหนึ่งตัวเลือก"
 }
 export default th

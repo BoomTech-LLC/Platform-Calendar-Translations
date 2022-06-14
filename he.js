@@ -348,6 +348,8 @@ let he = {
   "Number field": "שדה מספר",
   "Option": "אוֹפְּצִיָה",
   "Check Box": "תיבת סימון",
-  "Single Choice": "בחירה יחידה"
+  "Single Choice": "בחירה יחידה",
+ "Please provide a valid email" : "אנא ספק דוא"ל תקף",
+ "Select at least one option" : "בחר לפחות אפשרות אחת"
 }
 export default he

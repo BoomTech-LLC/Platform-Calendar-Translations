@@ -348,6 +348,8 @@ let lv = {
   "Number field": "Numura lauks",
   "Option": "Izvēle",
   "Check Box": "Izvēles rūtiņa",
-  "Single Choice": "Viena izvēle"
+  "Single Choice": "Viena izvēle",
+ "Please provide a valid email" : "Lūdzu, norādiet derīgu e -pastu",
+ "Select at least one option" : "Atlasiet vismaz vienu opciju"
 }
 export default lv

@@ -348,6 +348,8 @@ let zh = {
   "Number field": "数字字段",
   "Option": "选项",
   "Check Box": "复选框",
-  "Single Choice": "单一选择"
+  "Single Choice": "单一选择",
+ "Please provide a valid email" : "请提供有效的电子邮件",
+ "Select at least one option" : "选择至少一个选项"
 }
-export default zh - cn
+export default zh-cn

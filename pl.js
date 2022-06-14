@@ -348,6 +348,8 @@ let pl = {
   "Number field": "Pole liczbowe",
   "Option": "Opcja",
   "Check Box": "Pole wyboru",
-  "Single Choice": "Pojedynczy wybór"
+  "Single Choice": "Pojedynczy wybór",
+ "Please provide a valid email" : "Proszę podać ważny e -mail",
+ "Select at least one option" : "Wybierz co najmniej jedną opcję"
 }
 export default pl

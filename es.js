@@ -348,6 +348,8 @@ let es = {
   "Number field": "Campo numérico",
   "Option": "Opción",
   "Check Box": "Casilla de verificación",
-  "Single Choice": "Elección única"
+  "Single Choice": "Elección única",
+ "Please provide a valid email" : "Proporcione un correo electrónico válido",
+ "Select at least one option" : "Seleccione al menos una opción"
 }
 export default es

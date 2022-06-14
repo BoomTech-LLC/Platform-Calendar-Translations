@@ -345,6 +345,8 @@ let hu = {
   "Number field": "Számmező",
   "Option": "választási lehetőség",
   "Check Box": "Jelölőnégyzet",
-  "Single Choice": "Egyetlen választás"
+  "Single Choice": "Egyetlen választás",
+ "Please provide a valid email" : "Kérjük, adjon meg érvényes e -mailt",
+ "Select at least one option" : "Válasszon legalább egy lehetőséget"
 }
 export default hu
