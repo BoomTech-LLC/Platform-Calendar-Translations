@@ -349,7 +349,7 @@ let he = {
   "Option": "אוֹפְּצִיָה",
   "Check Box": "תיבת סימון",
   "Single Choice": "בחירה יחידה",
- "Please provide a valid email" : "אנא ספק דוא"ל תקף",
+ "Please provide a valid email" : "אנא ספק דוא\"ל תקף",
  "Select at least one option" : "בחר לפחות אפשרות אחת"
 }
 export default he
