@@ -358,6 +358,9 @@ let pt = {
  "Pay" : "Pagar",
  "Total" : "Total",
  "Free" : "Livre",
- "Buy tickets" : "Comprar bilhetes"
+ "Buy tickets" : "Comprar bilhetes",
+ "Sold Out" : "Vendido",
+ "Tickets are available" : "Os ingressos estão disponíveis",
+ "Sales End" : "Vendas terminam"
 }
 export default pt

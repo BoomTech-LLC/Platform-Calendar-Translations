@@ -358,6 +358,9 @@ let fa = {
  "Pay" : "پرداخت",
  "Total" : "جمع",
  "Free" : "رایگان",
- "Buy tickets" : "خرید بلیط"
+ "Buy tickets" : "خرید بلیط",
+ "Sold Out" : "فروخته شده",
+ "Tickets are available" : "بلیط موجود است",
+ "Sales End" : "پایان فروش"
 }
 export default fa

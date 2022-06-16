@@ -358,6 +358,9 @@ let he = {
  "Pay" : "לְשַׁלֵם",
  "Total" : "סך הכל",
  "Free" : "חינם",
- "Buy tickets" : "קנה כרטיסים"
+ "Buy tickets" : "קנה כרטיסים",
+ "Sold Out" : "נמכר",
+ "Tickets are available" : "ניתן להשיג כרטיסים",
+ "Sales End" : "סיום המכירות"
 }
 export default he

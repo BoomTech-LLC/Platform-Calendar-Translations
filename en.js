@@ -353,6 +353,9 @@ let en = {
  "Pay" : "Pay",
  "Total" : "Total",
  "Free" : "Free",
- "Buy tickets" : "Buy tickets"
+ "Buy tickets" : "Buy tickets",
+ "Sold Out" : "Sold Out",
+ "Tickets are available" : "Tickets are available",
+ "Sales End" : "Sales End"
 }
 export default en

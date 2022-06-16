@@ -358,6 +358,9 @@ let ru = {
  "Pay" : "Платить",
  "Total" : "Общий",
  "Free" : "Свободно",
- "Buy tickets" : "Купить билеты"
+ "Buy tickets" : "Купить билеты",
+ "Sold Out" : "Распроданный",
+ "Tickets are available" : "Билеты доступны",
+ "Sales End" : "Продажи конец"
 }
 export default ru

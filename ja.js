@@ -358,6 +358,9 @@ let ja = {
  "Pay" : "支払い",
  "Total" : "合計",
  "Free" : "無料",
- "Buy tickets" : "チケットを買う"
+ "Buy tickets" : "チケットを買う",
+ "Sold Out" : "完売",
+ "Tickets are available" : "チケットが利用可能です",
+ "Sales End" : "セールスエンド"
 }
 export default ja

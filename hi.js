@@ -358,6 +358,9 @@ let hi = {
  "Pay" : "भुगतान करना",
  "Total" : "कुल",
  "Free" : "मुक्त",
- "Buy tickets" : "टिकट खरीदो"
+ "Buy tickets" : "टिकट खरीदो",
+ "Sold Out" : "बिक चुका है",
+ "Tickets are available" : "टिकट उपलब्ध हैं",
+ "Sales End" : "बिक्री समाप्ति"
 }
 export default hi

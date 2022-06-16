@@ -363,6 +363,9 @@ let sv = {
  "Pay" : "Betala",
  "Total" : "Total",
  "Free" : "Fri",
- "Buy tickets" : "Köpa biljetter"
+ "Buy tickets" : "Köpa biljetter",
+ "Sold Out" : "Utsåld",
+ "Tickets are available" : "Biljetter finns tillgängliga",
+ "Sales End" : "Försäljningsslut"
 }
 export default sv

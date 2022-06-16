@@ -358,6 +358,9 @@ let zh = {
  "Pay" : "支付",
  "Total" : "全部的",
  "Free" : "自由的",
- "Buy tickets" : "购买门票"
+ "Buy tickets" : "购买门票",
+ "Sold Out" : "售罄",
+ "Tickets are available" : "门票可用",
+ "Sales End" : "销售终结"
 }
 export default zh-cn

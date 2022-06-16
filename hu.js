@@ -355,6 +355,9 @@ let hu = {
  "Pay" : "Fizetés",
  "Total" : "Teljes",
  "Free" : "Ingyenes",
- "Buy tickets" : "Jegyeket vesz"
+ "Buy tickets" : "Jegyeket vesz",
+ "Sold Out" : "Elkelt",
+ "Tickets are available" : "Jegyek elérhetők",
+ "Sales End" : "Értékesítési cél"
 }
 export default hu

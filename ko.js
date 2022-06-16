@@ -358,6 +358,9 @@ let ko = {
  "Pay" : "지불",
  "Total" : "총",
  "Free" : "무료",
- "Buy tickets" : "표를 사다"
+ "Buy tickets" : "표를 사다",
+ "Sold Out" : "매진",
+ "Tickets are available" : "티켓을 사용할 수 있습니다",
+ "Sales End" : "판매 종료"
 }
 export default ko

@@ -358,6 +358,9 @@ let th = {
  "Pay" : "จ่าย",
  "Total" : "ทั้งหมด",
  "Free" : "ฟรี",
- "Buy tickets" : "ซื้อตั๋ว"
+ "Buy tickets" : "ซื้อตั๋ว",
+ "Sold Out" : "ขายหมดแล้ว",
+ "Tickets are available" : "มีตั๋ว",
+ "Sales End" : "จุดสิ้นสุดการขาย"
 }
 export default th

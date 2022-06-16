@@ -358,6 +358,9 @@ let nl = {
  "Pay" : "Betalen",
  "Total" : "Totaal",
  "Free" : "Vrij",
- "Buy tickets" : "Koop kaartjes"
+ "Buy tickets" : "Koop kaartjes",
+ "Sold Out" : "Uitverkocht",
+ "Tickets are available" : "Tickets zijn beschikbaar",
+ "Sales End" : "Verkoopuiteinde"
 }
 export default nl

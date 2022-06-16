@@ -358,6 +358,9 @@ let tr = {
  "Pay" : "Ödemek",
  "Total" : "Toplam",
  "Free" : "Özgür",
- "Buy tickets" : "Bilet satın al"
+ "Buy tickets" : "Bilet satın al",
+ "Sold Out" : "Hepsi satıldı",
+ "Tickets are available" : "Biletler mevcut",
+ "Sales End" : "Satış sonu"
 }
 export default tr

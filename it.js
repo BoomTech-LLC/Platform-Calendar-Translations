@@ -350,6 +350,9 @@ let it = {
   "Check Box": "Casella di controllo",
   "Single Choice": "Scelta singola",
  "Please provide a valid email" : "Per favore inserisci un'email valida",
- "Select at least one option" : "Seleziona almeno un'opzione"
+ "Select at least one option" : "Seleziona almeno un'opzione",
+ "Sold Out" : "Venduto",
+ "Tickets are available" : "I biglietti sono disponibili",
+ "Sales End" : "Fine delle vendite"
 }
 export default it

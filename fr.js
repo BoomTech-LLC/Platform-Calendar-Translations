@@ -350,6 +350,9 @@ let fr = {
   "Check Box": "Cocher",
   "Single Choice": "Choix unique",
  "Please provide a valid email" : "Veuillez fournir un e-mail valide",
- "Select at least one option" : "Sélectionnez au moins une option"
+ "Select at least one option" : "Sélectionnez au moins une option",
+ "Sold Out" : "Épuisé",
+ "Tickets are available" : "Les billets sont disponibles",
+ "Sales End" : "Fin de vente"
 }
 export default fr

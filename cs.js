@@ -357,6 +357,9 @@ let cs = {
  "Pay" : "Platit",
  "Total" : "Celkový",
  "Free" : "Volný, uvolnit",
- "Buy tickets" : "Koupit lístky"
+ "Buy tickets" : "Koupit lístky",
+ "Sold Out" : "Vyprodáno",
+ "Tickets are available" : "Vstupenky jsou k dispozici",
+ "Sales End" : "Prodej"
 }
 export default cs

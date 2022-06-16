@@ -358,6 +358,9 @@ let da = {
  "Pay" : "Betale",
  "Total" : "i alt",
  "Free" : "Ledig",
- "Buy tickets" : "Køb billetter"
+ "Buy tickets" : "Køb billetter",
+ "Sold Out" : "Udsolgt",
+ "Tickets are available" : "Billetter er tilgængelige",
+ "Sales End" : "Salg slut"
 }
 export default da

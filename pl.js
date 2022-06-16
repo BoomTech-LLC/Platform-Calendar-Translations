@@ -358,6 +358,9 @@ let pl = {
  "Pay" : "Płacić",
  "Total" : "Całkowity",
  "Free" : "Bezpłatny",
- "Buy tickets" : "Kup bilety"
+ "Buy tickets" : "Kup bilety",
+ "Sold Out" : "Wyprzedane",
+ "Tickets are available" : "Bilety są dostępne",
+ "Sales End" : "Koniec sprzedaży"
 }
 export default pl

@@ -358,6 +358,9 @@ let el = {
  "Pay" : "Πληρωμή",
  "Total" : "Σύνολο",
  "Free" : "Ελεύθερος",
- "Buy tickets" : "Αγορά εισιτηρίων"
+ "Buy tickets" : "Αγορά εισιτηρίων",
+ "Sold Out" : "Εξαντλημένα",
+ "Tickets are available" : "Τα εισιτήρια είναι διαθέσιμα",
+ "Sales End" : "Λήξη πωλήσεων"
 }
 export default el

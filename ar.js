@@ -357,6 +357,9 @@ let ar = {
  "Pay" : "يدفع",
  "Total" : "المجموع",
  "Free" : "حر",
- "Buy tickets" : "اشتري تذاكر"
+ "Buy tickets" : "اشتري تذاكر",
+ "Sold Out" : "نفذ",
+ "Tickets are available" : "التذاكر متوفرة",
+ "Sales End" : "نهاية المبيعات"
 }
 export default ar

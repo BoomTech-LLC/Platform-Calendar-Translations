@@ -358,6 +358,9 @@ let uk = {
  "Pay" : "Оплачувати",
  "Total" : "Загальний",
  "Free" : "Безкоштовний",
- "Buy tickets" : "Придбати квитки"
+ "Buy tickets" : "Придбати квитки",
+ "Sold Out" : "Продано",
+ "Tickets are available" : "Квитки доступні",
+ "Sales End" : "Кінець продажів"
 }
 export default uk

@@ -357,6 +357,9 @@ let bg = {
  "Pay" : "Плащане",
  "Total" : "Обща сума",
  "Free" : "Безплатно",
- "Buy tickets" : "Купи билети"
+ "Buy tickets" : "Купи билети",
+ "Sold Out" : "Продадено",
+ "Tickets are available" : "Предлагат се билети",
+ "Sales End" : "Край на продажбите"
 }
 export default bg

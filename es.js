@@ -358,6 +358,9 @@ let es = {
  "Pay" : "Pagar",
  "Total" : "Total",
  "Free" : "Libre",
- "Buy tickets" : "Comprar boletos"
+ "Buy tickets" : "Comprar boletos",
+ "Sold Out" : "Vendido",
+ "Tickets are available" : "Los boletos están disponibles",
+ "Sales End" : "Final de ventas"
 }
 export default es
