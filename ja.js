@@ -350,6 +350,19 @@ let ja = {
   "Check Box": "チェックボックス",
   "Single Choice": "単一の選択",
  "Please provide a valid email" : "有効なメールを提供してください",
- "Select at least one option" : "少なくとも1つのオプションを選択します"
+ "Select at least one option" : "少なくとも1つのオプションを選択します",
+ "Choose tickets to see total value" : "チケットを選択して、合計値を確認してください",
+ "tickets" : "切符売場",
+ "Choose Tickets" : "チケットを選択します",
+ "Choose payment method" : "支払い方法を選択します",
+ "Pay" : "支払い",
+ "Total" : "合計",
+ "Free" : "無料",
+ "Buy tickets" : "チケットを買う",
+ "Sold Out" : "完売",
+ "Tickets are available" : "チケットが利用可能です",
+ "Sales End" : "セールスエンド",
+ "Buy tickets" : "チケットを買う",
+ "Availible from" : "から入手可能"
 }
 export default ja

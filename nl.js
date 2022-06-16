@@ -350,6 +350,19 @@ let nl = {
   "Check Box": "Selectievakje",
   "Single Choice": "Enkele keuze",
  "Please provide a valid email" : "Geef een geldige e -mail op",
- "Select at least one option" : "Selecteer ten minste één optie"
+ "Select at least one option" : "Selecteer ten minste één optie",
+ "Choose tickets to see total value" : "Kies tickets om de totale waarde te zien",
+ "tickets" : "kaartjes",
+ "Choose Tickets" : "Kies tickets",
+ "Choose payment method" : "Kies betalingsmethode",
+ "Pay" : "Betalen",
+ "Total" : "Totaal",
+ "Free" : "Vrij",
+ "Buy tickets" : "Koop kaartjes",
+ "Sold Out" : "Uitverkocht",
+ "Tickets are available" : "Tickets zijn beschikbaar",
+ "Sales End" : "Verkoopuiteinde",
+ "Buy tickets" : "Koop kaartjes",
+ "Availible from" : "Beschikbaar van"
 }
 export default nl

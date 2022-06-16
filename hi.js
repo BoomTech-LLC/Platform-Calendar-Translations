@@ -350,6 +350,19 @@ let hi = {
   "Check Box": "चेक बॉक्स",
   "Single Choice": "एकल विकल्प",
  "Please provide a valid email" : "कृपया सही ईमेल पता बताएं",
- "Select at least one option" : "कम से कम एक विकल्प चुनें"
+ "Select at least one option" : "कम से कम एक विकल्प चुनें",
+ "Choose tickets to see total value" : "कुल मूल्य देखने के लिए टिकट चुनें",
+ "tickets" : "टिकट",
+ "Choose Tickets" : "टिकट चुनें",
+ "Choose payment method" : "भुगतान विधि चुनें",
+ "Pay" : "भुगतान करना",
+ "Total" : "कुल",
+ "Free" : "मुक्त",
+ "Buy tickets" : "टिकट खरीदो",
+ "Sold Out" : "बिक चुका है",
+ "Tickets are available" : "टिकट उपलब्ध हैं",
+ "Sales End" : "बिक्री समाप्ति",
+ "Buy tickets" : "टिकट खरीदो",
+ "Availible from" : "से उपलब्ध"
 }
 export default hi

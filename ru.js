@@ -350,6 +350,19 @@ let ru = {
   "Check Box": "Флажок",
   "Single Choice": "Один выбор",
  "Please provide a valid email" : "Пожалуйста, предоставьте действительный адрес электронной почты",
- "Select at least one option" : "Выберите хотя бы один вариант"
+ "Select at least one option" : "Выберите хотя бы один вариант",
+ "Choose tickets to see total value" : "Выберите билеты, чтобы увидеть общую стоимость",
+ "tickets" : "Билеты",
+ "Choose Tickets" : "Выберите билеты",
+ "Choose payment method" : "выберите способ оплаты",
+ "Pay" : "Платить",
+ "Total" : "Общий",
+ "Free" : "Свободно",
+ "Buy tickets" : "Купить билеты",
+ "Sold Out" : "Распроданный",
+ "Tickets are available" : "Билеты доступны",
+ "Sales End" : "Продажи конец",
+ "Buy tickets" : "Купить билеты",
+ "Availible from" : "Доступна с"
 }
 export default ru

@@ -350,6 +350,19 @@ let tr = {
   "Check Box": "Onay kutusu",
   "Single Choice": "Tek seçim",
  "Please provide a valid email" : "Lütfen geçerli bir e -posta sağlayın",
- "Select at least one option" : "En az bir seçenek seçin"
+ "Select at least one option" : "En az bir seçenek seçin",
+ "Choose tickets to see total value" : "Toplam değeri görmek için biletleri seçin",
+ "tickets" : "biletler",
+ "Choose Tickets" : "Biletler Seçin",
+ "Choose payment method" : "ödeme yöntemini seçin",
+ "Pay" : "Ödemek",
+ "Total" : "Toplam",
+ "Free" : "Özgür",
+ "Buy tickets" : "Bilet satın al",
+ "Sold Out" : "Hepsi satıldı",
+ "Tickets are available" : "Biletler mevcut",
+ "Sales End" : "Satış sonu",
+ "Buy tickets" : "Bilet satın al",
+ "Availible from" : "Kullanılabilir"
 }
 export default tr

@@ -350,6 +350,19 @@ let fa = {
   "Check Box": "جعبه چک",
   "Single Choice": "یک انتخاب",
  "Please provide a valid email" : "لطفا یک ایمیل معتبر وارد کنید",
- "Select at least one option" : "حداقل یک گزینه را انتخاب کنید"
+ "Select at least one option" : "حداقل یک گزینه را انتخاب کنید",
+ "Choose tickets to see total value" : "بلیط را برای دیدن ارزش کل انتخاب کنید",
+ "tickets" : "بلیط",
+ "Choose Tickets" : "بلیط را انتخاب کنید",
+ "Choose payment method" : "روش پرداخت را انتخاب کنید",
+ "Pay" : "پرداخت",
+ "Total" : "جمع",
+ "Free" : "رایگان",
+ "Buy tickets" : "خرید بلیط",
+ "Sold Out" : "فروخته شده",
+ "Tickets are available" : "بلیط موجود است",
+ "Sales End" : "پایان فروش",
+ "Buy tickets" : "خرید بلیط",
+ "Availible from" : "موجود از"
 }
 export default fa

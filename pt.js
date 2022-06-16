@@ -350,6 +350,19 @@ let pt = {
   "Check Box": "Caixa de seleção",
   "Single Choice": "Escolha única",
  "Please provide a valid email" : "Por favor forneça um email válido",
- "Select at least one option" : "Selecione pelo menos uma opção"
+ "Select at least one option" : "Selecione pelo menos uma opção",
+ "Choose tickets to see total value" : "Escolha ingressos para ver o valor total",
+ "tickets" : "ingressos",
+ "Choose Tickets" : "Escolha ingressos",
+ "Choose payment method" : "escolha o método de pagamento",
+ "Pay" : "Pagar",
+ "Total" : "Total",
+ "Free" : "Livre",
+ "Buy tickets" : "Comprar bilhetes",
+ "Sold Out" : "Vendido",
+ "Tickets are available" : "Os ingressos estão disponíveis",
+ "Sales End" : "Vendas terminam",
+ "Buy tickets" : "Comprar bilhetes",
+ "Availible from" : "disponível a partir de"
 }
 export default pt

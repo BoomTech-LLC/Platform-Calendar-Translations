@@ -349,6 +349,19 @@ let es = {
   "Check Box": "Casilla de verificación",
   "Single Choice": "Elección única",
  "Please provide a valid email" : "Proporcione un correo electrónico válido",
- "Select at least one option" : "Seleccione al menos una opción"
+ "Select at least one option" : "Seleccione al menos una opción",
+ "Choose tickets to see total value" : "Elija boletos para ver el valor total",
+ "tickets" : "Entradas",
+ "Choose Tickets" : "Elija boletos",
+ "Choose payment method" : "elige el método de pago",
+ "Pay" : "Pagar",
+ "Total" : "Total",
+ "Free" : "Libre",
+ "Buy tickets" : "Comprar boletos",
+ "Sold Out" : "Vendido",
+ "Tickets are available" : "Los boletos están disponibles",
+ "Sales End" : "Final de ventas",
+ "Buy tickets" : "Comprar boletos",
+ "Availible from" : "Disponible de"
 }
 export default es

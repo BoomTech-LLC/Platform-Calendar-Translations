@@ -350,6 +350,19 @@ let no = {
   "Check Box": "Avkrysningsrute",
   "Single Choice": "Enkelt valg",
  "Please provide a valid email" : "Vennligst oppgi en gyldig e -post",
- "Select at least one option" : "Velg minst ett alternativ"
+ "Select at least one option" : "Velg minst ett alternativ",
+ "Choose tickets to see total value" : "Velg billetter for å se total verdi",
+ "tickets" : "billetter",
+ "Choose Tickets" : "Velg billetter",
+ "Choose payment method" : "Velge betalingsmetode",
+ "Pay" : "Betale",
+ "Total" : "Total",
+ "Free" : "Gratis",
+ "Buy tickets" : "Kjøpe billetter",
+ "Sold Out" : "Utsolgt",
+ "Tickets are available" : "Billetter er tilgjengelige",
+ "Sales End" : "Salgsslutt",
+ "Buy tickets" : "Kjøpe billetter",
+ "Availible from" : "Tilgjengelig fra"
 }
 export default no

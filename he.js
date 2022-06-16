@@ -350,6 +350,19 @@ let he = {
   "Check Box": "תיבת סימון",
   "Single Choice": "בחירה יחידה",
   "Please provide a valid email": "אנא ספק אימייל חוקי",
-  "Select at least one option" : "בחר לפחות אפשרות אחת"
+  "Select at least one option": "בחר לפחות אפשרות אחת",
+  "Choose tickets to see total value" : "בחר כרטיסים כדי לראות ערך כולל",
+  "tickets" : "כרטיסים",
+  "Choose Tickets" : "בחר כרטיסים",
+  "Choose payment method" : "בחר שיטת תשלום",
+  "Pay" : "לְשַׁלֵם",
+  "Total" : "סך הכל",
+  "Free" : "חינם",
+  "Buy tickets" : "קנה כרטיסים",
+  "Sold Out" : "נמכר",
+  "Tickets are available" : "ניתן להשיג כרטיסים",
+  "Sales End" : "סיום המכירות",
+  "Buy tickets" : "קנה כרטיסים",
+  "Availible from" : "זמין מ"
 }
 export default he

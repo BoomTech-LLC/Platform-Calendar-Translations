@@ -347,6 +347,19 @@ let hu = {
   "Check Box": "Jelölőnégyzet",
   "Single Choice": "Egyetlen választás",
  "Please provide a valid email" : "Kérjük, adjon meg érvényes e -mailt",
- "Select at least one option" : "Válasszon legalább egy lehetőséget"
+ "Select at least one option" : "Válasszon legalább egy lehetőséget",
+ "Choose tickets to see total value" : "Válassza a Jegyeket a teljes érték megtekintéséhez",
+ "tickets" : "jegyek",
+ "Choose Tickets" : "Válassza a Jegyeket",
+ "Choose payment method" : "Válassz fizetési módot",
+ "Pay" : "Fizetés",
+ "Total" : "Teljes",
+ "Free" : "Ingyenes",
+ "Buy tickets" : "Jegyeket vesz",
+ "Sold Out" : "Elkelt",
+ "Tickets are available" : "Jegyek elérhetők",
+ "Sales End" : "Értékesítési cél",
+ "Buy tickets" : "Jegyeket vesz",
+ "Availible from" : "elérhető ekkortól"
 }
 export default hu

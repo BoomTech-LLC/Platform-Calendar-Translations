@@ -350,6 +350,19 @@ let zh = {
   "Check Box": "复选框",
   "Single Choice": "单一选择",
  "Please provide a valid email" : "请提供有效的电子邮件",
- "Select at least one option" : "选择至少一个选项"
+ "Select at least one option" : "选择至少一个选项",
+ "Choose tickets to see total value" : "选择门票以查看总价值",
+ "tickets" : "门票",
+ "Choose Tickets" : "选择门票",
+ "Choose payment method" : "选择付款方式",
+ "Pay" : "支付",
+ "Total" : "全部的",
+ "Free" : "自由的",
+ "Buy tickets" : "购买门票",
+ "Sold Out" : "售罄",
+ "Tickets are available" : "门票可用",
+ "Sales End" : "销售终结",
+ "Buy tickets" : "购买门票",
+ "Availible from" : "可从"
 }
 export default zh-cn

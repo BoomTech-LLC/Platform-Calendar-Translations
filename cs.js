@@ -349,6 +349,19 @@ let cs = {
   "Check Box": "Zaškrtávací políčko",
   "Single Choice": "Jediná volba",
  "Please provide a valid email" : "Uveďte prosím platný e -mail",
- "Select at least one option" : "Vyberte alespoň jednu možnost"
+ "Select at least one option" : "Vyberte alespoň jednu možnost",
+ "Choose tickets to see total value" : "Vyberte vstupenky a zobrazíte celkovou hodnotu",
+ "tickets" : "Vstupenky",
+ "Choose Tickets" : "Vyberte si vstupenky",
+ "Choose payment method" : "Vyberte způsob platby",
+ "Pay" : "Platit",
+ "Total" : "Celkový",
+ "Free" : "Volný, uvolnit",
+ "Buy tickets" : "Koupit lístky",
+ "Sold Out" : "Vyprodáno",
+ "Tickets are available" : "Vstupenky jsou k dispozici",
+ "Sales End" : "Prodej",
+ "Buy tickets" : "Koupit lístky",
+ "Availible from" : "dostupný z"
 }
 export default cs

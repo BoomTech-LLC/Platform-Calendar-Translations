@@ -349,6 +349,19 @@ let bg = {
   "Check Box": "Отметка в квадратчето",
   "Single Choice": "Единичен избор",
  "Please provide a valid email" : "Моля, предоставете валиден имейл",
- "Select at least one option" : "Изберете поне една опция"
+ "Select at least one option" : "Изберете поне една опция",
+ "Choose tickets to see total value" : "Изберете билети, за да видите общата стойност",
+ "tickets" : "билети",
+ "Choose Tickets" : "Изберете билети",
+ "Choose payment method" : "Изберете начин на плащане",
+ "Pay" : "Плащане",
+ "Total" : "Обща сума",
+ "Free" : "Безплатно",
+ "Buy tickets" : "Купи билети",
+ "Sold Out" : "Продадено",
+ "Tickets are available" : "Предлагат се билети",
+ "Sales End" : "Край на продажбите",
+ "Buy tickets" : "Купи билети",
+ "Availible from" : "Достъпен от"
 }
 export default bg

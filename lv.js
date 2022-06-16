@@ -350,6 +350,19 @@ let lv = {
   "Check Box": "Izvēles rūtiņa",
   "Single Choice": "Viena izvēle",
  "Please provide a valid email" : "Lūdzu, norādiet derīgu e -pastu",
- "Select at least one option" : "Atlasiet vismaz vienu opciju"
+ "Select at least one option" : "Atlasiet vismaz vienu opciju",
+ "Choose tickets to see total value" : "Izvēlieties biļetes, lai redzētu kopējo vērtību",
+ "tickets" : "biļetes",
+ "Choose Tickets" : "Izvēlieties biļetes",
+ "Choose payment method" : "Izvēlieties maksājuma metodi",
+ "Pay" : "Maksāt",
+ "Total" : "Kopā",
+ "Free" : "Brīvs",
+ "Buy tickets" : "Pirkt biļetes",
+ "Sold Out" : "Izpārdots",
+ "Tickets are available" : "Biļetes ir pieejamas",
+ "Sales End" : "Pārdošanas beigas",
+ "Buy tickets" : "Pirkt biļetes",
+ "Availible from" : "pieejams no"
 }
 export default lv

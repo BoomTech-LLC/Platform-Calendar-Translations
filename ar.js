@@ -349,6 +349,19 @@ let ar = {
   "Check Box": "خانة الاختيار",
   "Single Choice": "اختيار واحد",
  "Please provide a valid email" : "يرجى تقديم عنوان بريد إلكتروني صالح",
- "Select at least one option" : "حدد خيارًا واحدًا على الأقل"
+ "Select at least one option" : "حدد خيارًا واحدًا على الأقل",
+ "Choose tickets to see total value" : "اختر التذاكر لرؤية القيمة الإجمالية",
+ "tickets" : "التذاكر",
+ "Choose Tickets" : "اختر التذاكر",
+ "Choose payment method" : "اختر وسيلة الدفع",
+ "Pay" : "يدفع",
+ "Total" : "المجموع",
+ "Free" : "حر",
+ "Buy tickets" : "اشتري تذاكر",
+ "Sold Out" : "نفذ",
+ "Tickets are available" : "التذاكر متوفرة",
+ "Sales End" : "نهاية المبيعات",
+ "Buy tickets" : "اشتري تذاكر",
+ "Availible from" : "متاح من"
 }
 export default ar
