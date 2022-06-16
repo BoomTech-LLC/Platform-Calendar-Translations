@@ -221,7 +221,7 @@ let ja = {
   "Desciption font": "説明フォント",
   "Section font": "フォントセクション",
   "Section divider color": "セクションディバイダーカラー",
-  "Add event": "「イベントを追加」",
+  "Add event": "イベントを追加",
   "All Day Event": "終日イベント",
   "Location": "ロケーション",
   "Choose a category": "カテゴリを選択",

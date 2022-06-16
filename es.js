@@ -212,12 +212,11 @@ let es = {
   "Copied!": "Copiado!",
   "Add & Share": "Agregar y compartir",
   "Calendar view": "Vista de calendario",
-  "Add Event": "Vista de calendarioث",
+  "Add Event": "Añadir Evento",
   "Uncategorised": "Sin categoría",
   "More": "Más",
   "Less": "Menos",
   "Register": "Registrarse",
-
   "Guests": "Invitados",
   "unlimited": "ilimitado",
   "Show more": "Mostrar más",

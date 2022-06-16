@@ -176,7 +176,6 @@ let nb = {
   "Less": "Mindre",
   "Register": "Registrere",
   "Card": "Kaart",
-
   "Guests": "Gjestene",
   "unlimited": "ubegrenset",
   "Show more": "Vis mer",

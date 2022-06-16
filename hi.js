@@ -170,7 +170,7 @@ let hi = {
   "Add & Share": "जोड़ें और साझा करें",
   "Map": "नक्शा",
   "Calendar view": "कैलेंडर दृश्य",
-  "Add Event": "कार्यक्रम जोड़ेंث",
+  "Add Event": "कार्यक्रम जोड़ें",
   "Uncategorised": "अवर्गीकृत",
   "More": "अधिक",
   "Less": "कम",

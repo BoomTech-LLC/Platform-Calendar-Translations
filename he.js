@@ -170,7 +170,7 @@ let he = {
   "Add & Share": "הוסף ושיתוף",
   "Map": "מַפָּה",
   "Calendar view": "תצוגת לוח שנה",
-  "Add Event": "הוסף אירועث",
+  "Add Event": "הוסף אירוע",
   "Uncategorised": "ללא קטגוריה",
   "More": "יותר",
   "Less": "פָּחוּת",
@@ -349,7 +349,7 @@ let he = {
   "Option": "אוֹפְּצִיָה",
   "Check Box": "תיבת סימון",
   "Single Choice": "בחירה יחידה",
- "Please provide a valid email" : "אנא ספק דוא"ל תקף",
- "Select at least one option" : "בחר לפחות אפשרות אחת"
+  "Please provide a valid email": "אנא ספק אימייל חוקי",
+  "Select at least one option" : "בחר לפחות אפשרות אחת"
 }
 export default he

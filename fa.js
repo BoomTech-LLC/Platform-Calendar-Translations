@@ -170,7 +170,7 @@ let fa = {
   "Add & Share": "افزودن و اشتراک گذاری",
   "Map": "نقشه",
   "Calendar view": "نمای تقویم",
-  "Add Event": "افزودن رویداد حدث",
+  "Add Event": "افزودن رویداد",
   "Uncategorised": "\tدسته بندی نشده",
   "More": "بیشتر",
   "Less": "کمتر",

@@ -217,7 +217,6 @@ let de = {
   "More": "Mehr",
   "Less": "Weniger",
   "Register": "Registrieren",
-
   "Guests": "Gäste",
   "unlimited": "unbegrenzt",
   "Show more": "Zeig mehr",
