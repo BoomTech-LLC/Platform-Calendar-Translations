@@ -361,6 +361,7 @@ let zh = {
  "Buy tickets" : "购买门票",
  "Sold Out" : "售罄",
  "Tickets are available" : "门票可用",
- "Sales End" : "销售终结"
+ "Sales End" : "销售终结",
+ "Buy tickets" : "购买门票"
 }
 export default zh-cn

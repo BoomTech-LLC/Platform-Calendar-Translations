@@ -361,6 +361,7 @@ let ru = {
  "Buy tickets" : "Купить билеты",
  "Sold Out" : "Распроданный",
  "Tickets are available" : "Билеты доступны",
- "Sales End" : "Продажи конец"
+ "Sales End" : "Продажи конец",
+ "Buy tickets" : "Купить билеты"
 }
 export default ru

@@ -356,6 +356,7 @@ let vi = {
  "Buy tickets" : "Mua vé",
  "Sold Out" : "Bán hết",
  "Tickets are available" : "Vé có sẵn",
- "Sales End" : "Kết thúc bán hàng"
+ "Sales End" : "Kết thúc bán hàng",
+ "Buy tickets" : "Mua vé"
 }
 export default vi

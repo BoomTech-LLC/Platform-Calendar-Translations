@@ -361,6 +361,7 @@ let nl = {
  "Buy tickets" : "Koop kaartjes",
  "Sold Out" : "Uitverkocht",
  "Tickets are available" : "Tickets zijn beschikbaar",
- "Sales End" : "Verkoopuiteinde"
+ "Sales End" : "Verkoopuiteinde",
+ "Buy tickets" : "Koop kaartjes"
 }
 export default nl

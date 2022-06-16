@@ -361,6 +361,7 @@ let lv = {
  "Buy tickets" : "Pirkt biļetes",
  "Sold Out" : "Izpārdots",
  "Tickets are available" : "Biļetes ir pieejamas",
- "Sales End" : "Pārdošanas beigas"
+ "Sales End" : "Pārdošanas beigas",
+ "Buy tickets" : "Pirkt biļetes"
 }
 export default lv

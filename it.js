@@ -353,6 +353,7 @@ let it = {
  "Select at least one option" : "Seleziona almeno un'opzione",
  "Sold Out" : "Venduto",
  "Tickets are available" : "I biglietti sono disponibili",
- "Sales End" : "Fine delle vendite"
+ "Sales End" : "Fine delle vendite",
+ "Buy tickets" : "Comprare biglietti"
 }
 export default it

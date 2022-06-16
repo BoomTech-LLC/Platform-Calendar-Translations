@@ -361,6 +361,7 @@ let ja = {
  "Buy tickets" : "チケットを買う",
  "Sold Out" : "完売",
  "Tickets are available" : "チケットが利用可能です",
- "Sales End" : "セールスエンド"
+ "Sales End" : "セールスエンド",
+ "Buy tickets" : "チケットを買う"
 }
 export default ja

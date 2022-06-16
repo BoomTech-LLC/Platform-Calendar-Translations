@@ -360,6 +360,7 @@ let bg = {
  "Buy tickets" : "Купи билети",
  "Sold Out" : "Продадено",
  "Tickets are available" : "Предлагат се билети",
- "Sales End" : "Край на продажбите"
+ "Sales End" : "Край на продажбите",
+ "Buy tickets" : "Купи билети"
 }
 export default bg

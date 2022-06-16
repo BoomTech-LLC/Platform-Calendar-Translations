@@ -361,6 +361,7 @@ let uk = {
  "Buy tickets" : "Придбати квитки",
  "Sold Out" : "Продано",
  "Tickets are available" : "Квитки доступні",
- "Sales End" : "Кінець продажів"
+ "Sales End" : "Кінець продажів",
+ "Buy tickets" : "Придбати квитки"
 }
 export default uk

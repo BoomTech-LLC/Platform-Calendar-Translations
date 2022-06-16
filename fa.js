@@ -361,6 +361,7 @@ let fa = {
  "Buy tickets" : "خرید بلیط",
  "Sold Out" : "فروخته شده",
  "Tickets are available" : "بلیط موجود است",
- "Sales End" : "پایان فروش"
+ "Sales End" : "پایان فروش",
+ "Buy tickets" : "خرید بلیط"
 }
 export default fa

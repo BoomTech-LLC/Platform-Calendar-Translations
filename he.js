@@ -361,6 +361,7 @@ let he = {
  "Buy tickets" : "קנה כרטיסים",
  "Sold Out" : "נמכר",
  "Tickets are available" : "ניתן להשיג כרטיסים",
- "Sales End" : "סיום המכירות"
+ "Sales End" : "סיום המכירות",
+ "Buy tickets" : "קנה כרטיסים"
 }
 export default he

@@ -360,6 +360,7 @@ let cs = {
  "Buy tickets" : "Koupit lístky",
  "Sold Out" : "Vyprodáno",
  "Tickets are available" : "Vstupenky jsou k dispozici",
- "Sales End" : "Prodej"
+ "Sales End" : "Prodej",
+ "Buy tickets" : "Koupit lístky"
 }
 export default cs

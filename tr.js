@@ -361,6 +361,7 @@ let tr = {
  "Buy tickets" : "Bilet satın al",
  "Sold Out" : "Hepsi satıldı",
  "Tickets are available" : "Biletler mevcut",
- "Sales End" : "Satış sonu"
+ "Sales End" : "Satış sonu",
+ "Buy tickets" : "Bilet satın al"
 }
 export default tr
