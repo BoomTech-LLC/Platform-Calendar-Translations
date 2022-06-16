@@ -362,6 +362,7 @@ let he = {
  "Sold Out" : "נמכר",
  "Tickets are available" : "ניתן להשיג כרטיסים",
  "Sales End" : "סיום המכירות",
- "Buy tickets" : "קנה כרטיסים"
+ "Buy tickets" : "קנה כרטיסים",
+ "Availible from" : "זמין מ"
 }
 export default he

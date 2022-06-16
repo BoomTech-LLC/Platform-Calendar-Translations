@@ -362,6 +362,7 @@ let hi = {
  "Sold Out" : "बिक चुका है",
  "Tickets are available" : "टिकट उपलब्ध हैं",
  "Sales End" : "बिक्री समाप्ति",
- "Buy tickets" : "टिकट खरीदो"
+ "Buy tickets" : "टिकट खरीदो",
+ "Availible from" : "से उपलब्ध"
 }
 export default hi

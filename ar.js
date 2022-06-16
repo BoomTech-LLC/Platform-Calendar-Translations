@@ -361,6 +361,7 @@ let ar = {
  "Sold Out" : "نفذ",
  "Tickets are available" : "التذاكر متوفرة",
  "Sales End" : "نهاية المبيعات",
- "Buy tickets" : "اشتري تذاكر"
+ "Buy tickets" : "اشتري تذاكر",
+ "Availible from" : "متاح من"
 }
 export default ar

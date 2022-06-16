@@ -362,6 +362,7 @@ let lv = {
  "Sold Out" : "Izpārdots",
  "Tickets are available" : "Biļetes ir pieejamas",
  "Sales End" : "Pārdošanas beigas",
- "Buy tickets" : "Pirkt biļetes"
+ "Buy tickets" : "Pirkt biļetes",
+ "Availible from" : "pieejams no"
 }
 export default lv

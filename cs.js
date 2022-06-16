@@ -361,6 +361,7 @@ let cs = {
  "Sold Out" : "Vyprodáno",
  "Tickets are available" : "Vstupenky jsou k dispozici",
  "Sales End" : "Prodej",
- "Buy tickets" : "Koupit lístky"
+ "Buy tickets" : "Koupit lístky",
+ "Availible from" : "dostupný z"
 }
 export default cs

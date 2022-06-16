@@ -362,6 +362,7 @@ let th = {
  "Sold Out" : "ขายหมดแล้ว",
  "Tickets are available" : "มีตั๋ว",
  "Sales End" : "จุดสิ้นสุดการขาย",
- "Buy tickets" : "ซื้อตั๋ว"
+ "Buy tickets" : "ซื้อตั๋ว",
+ "Availible from" : "มีให้จาก"
 }
 export default th

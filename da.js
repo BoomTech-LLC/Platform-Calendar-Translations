@@ -362,6 +362,7 @@ let da = {
  "Sold Out" : "Udsolgt",
  "Tickets are available" : "Billetter er tilgængelige",
  "Sales End" : "Salg slut",
- "Buy tickets" : "Køb billetter"
+ "Buy tickets" : "Køb billetter",
+ "Availible from" : "Ledig fra"
 }
 export default da

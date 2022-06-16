@@ -362,6 +362,7 @@ let es = {
  "Sold Out" : "Vendido",
  "Tickets are available" : "Los boletos están disponibles",
  "Sales End" : "Final de ventas",
- "Buy tickets" : "Comprar boletos"
+ "Buy tickets" : "Comprar boletos",
+ "Availible from" : "Disponible de"
 }
 export default es

@@ -359,6 +359,7 @@ let hu = {
  "Sold Out" : "Elkelt",
  "Tickets are available" : "Jegyek elérhetők",
  "Sales End" : "Értékesítési cél",
- "Buy tickets" : "Jegyeket vesz"
+ "Buy tickets" : "Jegyeket vesz",
+ "Availible from" : "elérhető ekkortól"
 }
 export default hu

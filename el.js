@@ -362,6 +362,7 @@ let el = {
  "Sold Out" : "Εξαντλημένα",
  "Tickets are available" : "Τα εισιτήρια είναι διαθέσιμα",
  "Sales End" : "Λήξη πωλήσεων",
- "Buy tickets" : "Αγορά εισιτηρίων"
+ "Buy tickets" : "Αγορά εισιτηρίων",
+ "Availible from" : "διαθέσιμο από"
 }
 export default el

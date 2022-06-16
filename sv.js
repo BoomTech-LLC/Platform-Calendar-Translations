@@ -367,6 +367,7 @@ let sv = {
  "Sold Out" : "Utsåld",
  "Tickets are available" : "Biljetter finns tillgängliga",
  "Sales End" : "Försäljningsslut",
- "Buy tickets" : "Köpa biljetter"
+ "Buy tickets" : "Köpa biljetter",
+ "Availible from" : "Tillgänglig från"
 }
 export default sv

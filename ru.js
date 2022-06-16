@@ -362,6 +362,7 @@ let ru = {
  "Sold Out" : "Распроданный",
  "Tickets are available" : "Билеты доступны",
  "Sales End" : "Продажи конец",
- "Buy tickets" : "Купить билеты"
+ "Buy tickets" : "Купить билеты",
+ "Availible from" : "Доступна с"
 }
 export default ru

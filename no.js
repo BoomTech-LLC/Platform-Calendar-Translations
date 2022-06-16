@@ -362,6 +362,7 @@ let no = {
  "Sold Out" : "Utsolgt",
  "Tickets are available" : "Billetter er tilgjengelige",
  "Sales End" : "Salgsslutt",
- "Buy tickets" : "Kjøpe billetter"
+ "Buy tickets" : "Kjøpe billetter",
+ "Availible from" : "Tilgjengelig fra"
 }
 export default no

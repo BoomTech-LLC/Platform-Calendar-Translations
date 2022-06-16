@@ -354,6 +354,7 @@ let it = {
  "Sold Out" : "Venduto",
  "Tickets are available" : "I biglietti sono disponibili",
  "Sales End" : "Fine delle vendite",
- "Buy tickets" : "Comprare biglietti"
+ "Buy tickets" : "Comprare biglietti",
+ "Availible from" : "Disponibile dal"
 }
 export default it

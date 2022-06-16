@@ -357,6 +357,7 @@ let en = {
  "Sold Out" : "Sold Out",
  "Tickets are available" : "Tickets are available",
  "Sales End" : "Sales End",
- "Buy tickets" : "Buy tickets"
+ "Buy tickets" : "Buy tickets",
+ "Availible from" : "Available from"
 }
 export default en

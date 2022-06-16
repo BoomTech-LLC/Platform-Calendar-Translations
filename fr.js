@@ -354,6 +354,7 @@ let fr = {
  "Sold Out" : "Épuisé",
  "Tickets are available" : "Les billets sont disponibles",
  "Sales End" : "Fin de vente",
- "Buy tickets" : "Acheter des billets"
+ "Buy tickets" : "Acheter des billets",
+ "Availible from" : "Disponible depuis"
 }
 export default fr
