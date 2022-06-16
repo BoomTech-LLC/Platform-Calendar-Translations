@@ -350,6 +350,14 @@ let uk = {
   "Check Box": "Прапорець",
   "Single Choice": "Єдиний вибір",
  "Please provide a valid email" : "Будь ласка, надайте дійсну електронну пошту",
- "Select at least one option" : "Виберіть принаймні один варіант"
+ "Select at least one option" : "Виберіть принаймні один варіант",
+ "Choose tickets to see total value" : "Виберіть квитки, щоб побачити загальну вартість",
+ "tickets" : "квитки",
+ "Choose Tickets" : "Виберіть квитки",
+ "Choose payment method" : "Виберіть метод оплати",
+ "Pay" : "Оплачувати",
+ "Total" : "Загальний",
+ "Free" : "Безкоштовний",
+ "Buy tickets" : "Придбати квитки"
 }
 export default uk

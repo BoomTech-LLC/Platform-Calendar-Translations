@@ -355,6 +355,14 @@ let sv = {
   "Check Box": "Kryssruta",
   "Single Choice": "Enskilda val",
  "Please provide a valid email" : "Var god ange en giltig e-postadress",
- "Select at least one option" : "Välj minst ett alternativ"
+ "Select at least one option" : "Välj minst ett alternativ",
+ "Choose tickets to see total value" : "Välj biljetter för att se det totala värdet",
+ "tickets" : "biljetter",
+ "Choose Tickets" : "Välj biljetter",
+ "Choose payment method" : "Välj betalsätt",
+ "Pay" : "Betala",
+ "Total" : "Total",
+ "Free" : "Fri",
+ "Buy tickets" : "Köpa biljetter"
 }
 export default sv

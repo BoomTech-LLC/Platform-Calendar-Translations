@@ -345,6 +345,14 @@ let en = {
   "Check Box": "Check Box",
   "Single Choice": "Single Choice",
  "Please provide a valid email" : "Please provide a valid email",
- "Select at least one option" : "Select at least one option"
+ "Select at least one option" : "Select at least one option",
+ "Choose tickets to see total value" : "Choose tickets to see total value",
+ "tickets" : "tickets",
+ "Choose Tickets" : "Choose Tickets",
+ "Choose payment method" : "Choose payment method",
+ "Pay" : "Pay",
+ "Total" : "Total",
+ "Free" : "Free",
+ "Buy tickets" : "Buy tickets"
 }
 export default en

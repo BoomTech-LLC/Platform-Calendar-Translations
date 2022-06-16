@@ -350,6 +350,14 @@ let de = {
   "Check Box": "Kontrollkästchen",
   "Single Choice": "Einzelauswahl",
  "Please provide a valid email" : "Bitte geben Sie eine gültige E -Mail an",
- "Select at least one option" : "Wählen Sie mindestens eine Option aus"
+ "Select at least one option" : "Wählen Sie mindestens eine Option aus",
+ "Choose tickets to see total value" : "Wählen Sie Tickets, um den Gesamtwert zu sehen",
+ "tickets" : "Tickets",
+ "Choose Tickets" : "Wählen Sie Tickets",
+ "Choose payment method" : "Zahlungsart auswählen",
+ "Pay" : "Zahlen",
+ "Total" : "Gesamt",
+ "Free" : "Frei",
+ "Buy tickets" : "Tickets kaufen"
 }
 export default de

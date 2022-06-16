@@ -350,6 +350,14 @@ let th = {
   "Check Box": "กล่องทำเครื่องหมาย",
   "Single Choice": "ตัวเลือกเดียว",
  "Please provide a valid email" : "โปรดระบุอีเมลที่ถูกต้อง",
- "Select at least one option" : "เลือกตัวเลือกอย่างน้อยหนึ่งตัวเลือก"
+ "Select at least one option" : "เลือกตัวเลือกอย่างน้อยหนึ่งตัวเลือก",
+ "Choose tickets to see total value" : "เลือกตั๋วเพื่อดูมูลค่ารวม",
+ "tickets" : "ตั๋ว",
+ "Choose Tickets" : "เลือกตั๋ว",
+ "Choose payment method" : "เลือกวิธีการชำระเงิน",
+ "Pay" : "จ่าย",
+ "Total" : "ทั้งหมด",
+ "Free" : "ฟรี",
+ "Buy tickets" : "ซื้อตั๋ว"
 }
 export default th

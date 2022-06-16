@@ -350,6 +350,14 @@ let el = {
   "Check Box": "Πλαίσιο ελέγχου",
   "Single Choice": "Μεμονωμένη επιλογή",
  "Please provide a valid email" : "Δώστε ένα έγκυρο email",
- "Select at least one option" : "Επιλέξτε τουλάχιστον μία επιλογή"
+ "Select at least one option" : "Επιλέξτε τουλάχιστον μία επιλογή",
+ "Choose tickets to see total value" : "Επιλέξτε εισιτήρια για να δείτε συνολική αξία",
+ "tickets" : "εισιτήρια",
+ "Choose Tickets" : "Επιλέξτε εισιτήρια",
+ "Choose payment method" : "Διαλέξτε μέθοδο πληρωμής",
+ "Pay" : "Πληρωμή",
+ "Total" : "Σύνολο",
+ "Free" : "Ελεύθερος",
+ "Buy tickets" : "Αγορά εισιτηρίων"
 }
 export default el

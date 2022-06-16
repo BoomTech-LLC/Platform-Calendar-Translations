@@ -350,6 +350,14 @@ let pl = {
   "Check Box": "Pole wyboru",
   "Single Choice": "Pojedynczy wybór",
  "Please provide a valid email" : "Proszę podać ważny e -mail",
- "Select at least one option" : "Wybierz co najmniej jedną opcję"
+ "Select at least one option" : "Wybierz co najmniej jedną opcję",
+ "Choose tickets to see total value" : "Wybierz bilety, aby zobaczyć całkowitą wartość",
+ "tickets" : "bilety",
+ "Choose Tickets" : "Wybierz bilety",
+ "Choose payment method" : "Wybierz metodę płatności",
+ "Pay" : "Płacić",
+ "Total" : "Całkowity",
+ "Free" : "Bezpłatny",
+ "Buy tickets" : "Kup bilety"
 }
 export default pl

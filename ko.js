@@ -350,6 +350,14 @@ let ko = {
   "Check Box": "확인란",
   "Single Choice": "단일 선택",
  "Please provide a valid email" : "유효한 이메일을 제공하십시오",
- "Select at least one option" : "하나 이상의 옵션을 선택하십시오"
+ "Select at least one option" : "하나 이상의 옵션을 선택하십시오",
+ "Choose tickets to see total value" : "총 가치를 확인하려면 티켓을 선택하십시오",
+ "tickets" : "티켓",
+ "Choose Tickets" : "티켓을 선택하십시오",
+ "Choose payment method" : "결제 방법 선택",
+ "Pay" : "지불",
+ "Total" : "총",
+ "Free" : "무료",
+ "Buy tickets" : "표를 사다"
 }
 export default ko

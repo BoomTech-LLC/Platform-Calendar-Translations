@@ -350,6 +350,14 @@ let da = {
   "Check Box": "Afkrydsningsfeltet",
   "Single Choice": "Enkelt valg",
  "Please provide a valid email" : "Angiv en gyldig e -mail",
- "Select at least one option" : "Vælg mindst en mulighed"
+ "Select at least one option" : "Vælg mindst en mulighed",
+ "Choose tickets to see total value" : "Vælg billetter for at se den samlede værdi",
+ "tickets" : "Billetter",
+ "Choose Tickets" : "Vælg billetter",
+ "Choose payment method" : "Vælg betalingsmetode",
+ "Pay" : "Betale",
+ "Total" : "i alt",
+ "Free" : "Ledig",
+ "Buy tickets" : "Køb billetter"
 }
 export default da
