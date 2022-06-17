@@ -363,6 +363,8 @@ let da = {
  "Sales End" : "Salg slut",
  "Buy tickets" : "Køb billetter",
  "Availible from" : "Ledig fra",
- "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Du modtager snart en bekræftelsesmeddelelse om en vellykket registrering til din e -mail -adresse.Du kan også kontrollere dine ordreoplysninger nedenfor."
+ "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Du modtager snart en bekræftelsesmeddelelse om en vellykket registrering til din e -mail -adresse.Du kan også kontrollere dine ordreoplysninger nedenfor.",
+ "Go to Orders" : "Gå til ordrer",
+ "Go to Details" : "Gå til detaljer"
 }
 export default da

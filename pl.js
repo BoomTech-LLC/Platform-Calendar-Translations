@@ -364,6 +364,8 @@ let pl = {
  "Sales End" : "Koniec sprzedaży",
  "Buy tickets" : "Kup bilety",
  "Availible from" : "dostępne od",
- "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Wkrótce otrzymasz wiadomość potwierdzającą udaną rejestrację na swój adres e -mail.Możesz także sprawdzić szczegóły zamówienia poniżej."
+ "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Wkrótce otrzymasz wiadomość potwierdzającą udaną rejestrację na swój adres e -mail.Możesz także sprawdzić szczegóły zamówienia poniżej.",
+ "Go to Orders" : "Idź do zamówień",
+ "Go to Details" : "Przejdź do szczegółów"
 }
 export default pl

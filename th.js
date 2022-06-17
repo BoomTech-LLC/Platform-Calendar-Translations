@@ -364,6 +364,8 @@ let th = {
  "Sales End" : "จุดสิ้นสุดการขาย",
  "Buy tickets" : "ซื้อตั๋ว",
  "Availible from" : "มีให้จาก",
- "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "คุณจะได้รับข้อความยืนยันการลงทะเบียนที่ประสบความสำเร็จในที่อยู่อีเมลของคุณคุณสามารถตรวจสอบรายละเอียดการสั่งซื้อของคุณด้านล่าง"
+ "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "คุณจะได้รับข้อความยืนยันการลงทะเบียนที่ประสบความสำเร็จในที่อยู่อีเมลของคุณคุณสามารถตรวจสอบรายละเอียดการสั่งซื้อของคุณด้านล่าง",
+ "Go to Orders" : "ไปที่คำสั่งซื้อ",
+ "Go to Details" : "ไปที่รายละเอียด"
 }
 export default th

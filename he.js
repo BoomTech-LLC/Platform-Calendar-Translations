@@ -364,6 +364,8 @@ let he = {
   "Sales End" : "סיום המכירות",
   "Buy tickets" : "קנה כרטיסים",
   "Availible from" : "זמין מ",
-  "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below.": "בקרוב תקבל הודעת אישור על רישום מוצלח לכתובת המייל שלך. אתה יכול גם לבדוק את פרטי ההזמנה שלך למטה."
+  "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below.": "בקרוב תקבל הודעת אישור על רישום מוצלח לכתובת המייל שלך. אתה יכול גם לבדוק את פרטי ההזמנה שלך למטה.",
+ "Go to Orders" : "עבור להזמנות",
+ "Go to Details" : "עבור לפרטים"
 }
 export default he

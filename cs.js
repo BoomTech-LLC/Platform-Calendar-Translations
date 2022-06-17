@@ -363,6 +363,8 @@ let cs = {
  "Sales End" : "Prodej",
  "Buy tickets" : "Koupit lístky",
  "Availible from" : "dostupný z",
- "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Brzy obdržíte potvrzovací zprávu o úspěšné registraci na vaši e -mailovou adresu.Níže můžete také zkontrolovat údaje o vaší objednávce."
+ "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Brzy obdržíte potvrzovací zprávu o úspěšné registraci na vaši e -mailovou adresu.Níže můžete také zkontrolovat údaje o vaší objednávce.",
+ "Go to Orders" : "Přejít na objednávky",
+ "Go to Details" : "Přejděte na podrobnosti"
 }
 export default cs

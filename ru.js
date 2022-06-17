@@ -364,6 +364,8 @@ let ru = {
  "Sales End" : "Продажи конец",
  "Buy tickets" : "Купить билеты",
  "Availible from" : "Доступна с",
- "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Вскоре вы получите подтверждающее сообщение об успешной регистрации на свой адрес электронной почты.Вы также можете проверить данные вашего заказа ниже."
+ "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Вскоре вы получите подтверждающее сообщение об успешной регистрации на свой адрес электронной почты.Вы также можете проверить данные вашего заказа ниже.",
+ "Go to Orders" : "Перейти к заказу",
+ "Go to Details" : "Перейти к деталям"
 }
 export default ru

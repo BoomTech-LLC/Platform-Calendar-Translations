@@ -364,6 +364,8 @@ let ja = {
  "Sales End" : "セールスエンド",
  "Buy tickets" : "チケットを買う",
  "Availible from" : "から入手可能",
- "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "すぐに、メールアドレスへの登録が成功した確認メッセージを受け取ります。以下の注文の詳細を確認することもできます。"
+ "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "すぐに、メールアドレスへの登録が成功した確認メッセージを受け取ります。以下の注文の詳細を確認することもできます。",
+ "Go to Orders" : "注文に移動します",
+ "Go to Details" : "詳細に移動します"
 }
 export default ja

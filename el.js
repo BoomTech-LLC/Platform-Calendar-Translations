@@ -363,6 +363,8 @@ let el = {
  "Sales End" : "Λήξη πωλήσεων",
  "Buy tickets" : "Αγορά εισιτηρίων",
  "Availible from" : "διαθέσιμο από",
- "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Σύντομα θα λάβετε ένα μήνυμα επιβεβαίωσης επιτυχούς εγγραφής στη διεύθυνση email σας.Μπορείτε επίσης να ελέγξετε τα στοιχεία της παραγγελίας σας παρακάτω."
+ "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Σύντομα θα λάβετε ένα μήνυμα επιβεβαίωσης επιτυχούς εγγραφής στη διεύθυνση email σας.Μπορείτε επίσης να ελέγξετε τα στοιχεία της παραγγελίας σας παρακάτω.",
+ "Go to Orders" : "Μεταβείτε στις παραγγελίες",
+ "Go to Details" : "Μεταβείτε στις λεπτομέρειες"
 }
 export default el
