@@ -355,6 +355,7 @@ let it = {
  "Tickets are available" : "I biglietti sono disponibili",
  "Sales End" : "Fine delle vendite",
  "Buy tickets" : "Comprare biglietti",
- "Availible from" : "Disponibile dal"
+ "Availible from" : "Disponibile dal",
+ "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Presto riceverai un messaggio di conferma della registrazione riuscita al tuo indirizzo email.Di seguito puoi anche controllare i dettagli dell'ordine."
 }
 export default it

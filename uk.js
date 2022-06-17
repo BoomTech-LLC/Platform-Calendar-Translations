@@ -363,6 +363,7 @@ let uk = {
  "Tickets are available" : "Квитки доступні",
  "Sales End" : "Кінець продажів",
  "Buy tickets" : "Придбати квитки",
- "Availible from" : "доступний з"
+ "Availible from" : "доступний з",
+ "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Незабаром ви отримаєте повідомлення про підтвердження успішної реєстрації на свою електронну адресу.Ви також можете перевірити деталі свого замовлення нижче."
 }
 export default uk

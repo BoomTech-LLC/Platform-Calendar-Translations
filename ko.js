@@ -363,6 +363,7 @@ let ko = {
  "Tickets are available" : "티켓을 사용할 수 있습니다",
  "Sales End" : "판매 종료",
  "Buy tickets" : "표를 사다",
- "Availible from" : "사용 가능"
+ "Availible from" : "사용 가능",
+ "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "곧 이메일 주소에 성공적인 등록의 확인 메시지를 받게됩니다.아래에서 주문 세부 정보를 확인할 수도 있습니다."
 }
 export default ko

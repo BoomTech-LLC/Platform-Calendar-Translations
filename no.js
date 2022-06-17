@@ -363,6 +363,7 @@ let no = {
  "Tickets are available" : "Billetter er tilgjengelige",
  "Sales End" : "Salgsslutt",
  "Buy tickets" : "Kjøpe billetter",
- "Availible from" : "Tilgjengelig fra"
+ "Availible from" : "Tilgjengelig fra",
+ "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Du vil snart motta en bekreftelsesmelding om vellykket registrering på e -postadressen din.Du kan også sjekke bestillingsdetaljene dine nedenfor."
 }
 export default no

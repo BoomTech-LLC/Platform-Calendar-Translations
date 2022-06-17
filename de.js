@@ -362,6 +362,7 @@ let de = {
  "Tickets are available" : "Tickets sind erhältlich",
  "Sales End" : "Verkaufsende",
  "Buy tickets" : "Tickets kaufen",
- "Availible from" : "Verfügbar ab"
+ "Availible from" : "Verfügbar ab",
+ "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Sie erhalten bald eine Bestätigungsnachricht zur erfolgreichen Registrierung an Ihre E -Mail -Adresse.Sie können auch Ihre Bestelldaten unten überprüfen."
 }
 export default de

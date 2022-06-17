@@ -363,6 +363,7 @@ let tr = {
  "Tickets are available" : "Biletler mevcut",
  "Sales End" : "Satış sonu",
  "Buy tickets" : "Bilet satın al",
- "Availible from" : "Kullanılabilir"
+ "Availible from" : "Kullanılabilir",
+ "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Yakında e -posta adresinize başarılı bir kayıt onay mesajı alacaksınız.Sipariş bilgilerinizi aşağıda da kontrol edebilirsiniz."
 }
 export default tr

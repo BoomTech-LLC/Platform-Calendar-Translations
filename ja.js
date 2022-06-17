@@ -363,6 +363,7 @@ let ja = {
  "Tickets are available" : "チケットが利用可能です",
  "Sales End" : "セールスエンド",
  "Buy tickets" : "チケットを買う",
- "Availible from" : "から入手可能"
+ "Availible from" : "から入手可能",
+ "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "すぐに、メールアドレスへの登録が成功した確認メッセージを受け取ります。以下の注文の詳細を確認することもできます。"
 }
 export default ja

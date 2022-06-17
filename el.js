@@ -362,6 +362,7 @@ let el = {
  "Tickets are available" : "Τα εισιτήρια είναι διαθέσιμα",
  "Sales End" : "Λήξη πωλήσεων",
  "Buy tickets" : "Αγορά εισιτηρίων",
- "Availible from" : "διαθέσιμο από"
+ "Availible from" : "διαθέσιμο από",
+ "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Σύντομα θα λάβετε ένα μήνυμα επιβεβαίωσης επιτυχούς εγγραφής στη διεύθυνση email σας.Μπορείτε επίσης να ελέγξετε τα στοιχεία της παραγγελίας σας παρακάτω."
 }
 export default el

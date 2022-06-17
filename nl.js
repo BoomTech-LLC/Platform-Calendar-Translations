@@ -363,6 +363,7 @@ let nl = {
  "Tickets are available" : "Tickets zijn beschikbaar",
  "Sales End" : "Verkoopuiteinde",
  "Buy tickets" : "Koop kaartjes",
- "Availible from" : "Beschikbaar van"
+ "Availible from" : "Beschikbaar van",
+ "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "U ontvangt binnenkort een bevestigingsbericht van succesvolle registratie van uw e -mailadres.U kunt hieronder ook uw bestelgegevens controleren."
 }
 export default nl

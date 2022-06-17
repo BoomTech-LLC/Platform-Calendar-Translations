@@ -362,6 +362,7 @@ let bg = {
  "Tickets are available" : "Предлагат се билети",
  "Sales End" : "Край на продажбите",
  "Buy tickets" : "Купи билети",
- "Availible from" : "Достъпен от"
+ "Availible from" : "Достъпен от",
+ "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Скоро ще получите съобщение за потвърждение за успешна регистрация на вашия имейл адрес.Можете също да проверите данните си за поръчката по -долу."
 }
 export default bg

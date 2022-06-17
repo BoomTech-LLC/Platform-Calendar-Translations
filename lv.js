@@ -363,6 +363,7 @@ let lv = {
  "Tickets are available" : "Biļetes ir pieejamas",
  "Sales End" : "Pārdošanas beigas",
  "Buy tickets" : "Pirkt biļetes",
- "Availible from" : "pieejams no"
+ "Availible from" : "pieejams no",
+ "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Drīz jūs saņemsit apstiprinājuma ziņojumu par veiksmīgu reģistrāciju uz savu e -pasta adresi.Varat arī pārbaudīt savu pasūtījuma informāciju zemāk."
 }
 export default lv

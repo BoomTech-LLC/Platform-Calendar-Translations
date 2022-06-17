@@ -358,6 +358,7 @@ let en = {
  "Tickets are available" : "Tickets are available",
  "Sales End" : "Sales End",
  "Buy tickets" : "Buy tickets",
- "Availible from" : "Available from"
+ "Availible from" : "Available from",
+ "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below."
 }
 export default en

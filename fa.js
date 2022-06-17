@@ -363,6 +363,7 @@ let fa = {
  "Tickets are available" : "بلیط موجود است",
  "Sales End" : "پایان فروش",
  "Buy tickets" : "خرید بلیط",
- "Availible from" : "موجود از"
+ "Availible from" : "موجود از",
+ "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "به زودی پیام تأیید ثبت نام موفق را به آدرس ایمیل خود دریافت خواهید کرد.همچنین می توانید جزئیات سفارش خود را در زیر بررسی کنید."
 }
 export default fa

@@ -363,6 +363,7 @@ let zh = {
  "Tickets are available" : "门票可用",
  "Sales End" : "销售终结",
  "Buy tickets" : "购买门票",
- "Availible from" : "可从"
+ "Availible from" : "可从",
+ "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "您很快将收到成功注册到电子邮件地址的确认消息。您也可以在下面查看订单详细信息。"
 }
 export default zh-cn
