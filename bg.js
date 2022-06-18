@@ -365,6 +365,11 @@ let bg = {
  "Availible from" : "Достъпен от",
  "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Скоро ще получите съобщение за потвърждение за успешна регистрация на вашия имейл адрес.Можете също да проверите данните си за поръчката по -долу.",
  "Go to Orders" : "Отидете на поръчки",
- "Go to Details" : "Отидете на подробности"
+ "Go to Details" : "Отидете на подробности",
+ "Group ticket" : "Групов билет",
+ "Name" : "Име",
+ "Price" : "Цена",
+ "Order by" : "Подредени по",
+ "Order ID" : "ID на поръчка"
 }
 export default bg

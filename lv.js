@@ -366,6 +366,11 @@ let lv = {
  "Availible from" : "pieejams no",
  "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Drīz jūs saņemsit apstiprinājuma ziņojumu par veiksmīgu reģistrāciju uz savu e -pasta adresi.Varat arī pārbaudīt savu pasūtījuma informāciju zemāk.",
  "Go to Orders" : "Dodieties uz pasūtījumiem",
- "Go to Details" : "Dodieties uz detaļām"
+ "Go to Details" : "Dodieties uz detaļām",
+ "Group ticket" : "Grupas biļete",
+ "Name" : "Nosaukt",
+ "Price" : "Cena",
+ "Order by" : "Sakārtot pēc",
+ "Order ID" : "Pasūtījuma ID"
 }
 export default lv

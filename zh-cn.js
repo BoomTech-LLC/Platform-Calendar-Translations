@@ -366,6 +366,11 @@ let zh = {
  "Availible from" : "可从",
  "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "您很快将收到成功注册到电子邮件地址的确认消息。您也可以在下面查看订单详细信息。",
  "Go to Orders" : "去订单",
- "Go to Details" : "转到详细信息"
+ "Go to Details" : "转到详细信息",
+ "Group ticket" : "集体票",
+ "Name" : "姓名",
+ "Price" : "价格",
+ "Order by" : "顺序",
+ "Order ID" : "订购ID"
 }
 export default zh-cn

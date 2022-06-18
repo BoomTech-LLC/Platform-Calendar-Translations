@@ -366,6 +366,11 @@ let hi = {
  "Availible from" : "से उपलब्ध",
  "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "आप जल्द ही अपने ईमेल पते पर सफल पंजीकरण का एक पुष्टिकरण संदेश प्राप्त करेंगे।आप नीचे दिए गए अपने ऑर्डर विवरण भी देख सकते हैं।",
  "Go to Orders" : "आदेशों पर जाना",
- "Go to Details" : "विवरण पर जाएं"
+ "Go to Details" : "विवरण पर जाएं",
+ "Group ticket" : "समूह टिकट",
+ "Name" : "नाम",
+ "Price" : "कीमत",
+ "Order by" : "द्वारा आदेश",
+ "Order ID" : "आदेश ID"
 }
 export default hi

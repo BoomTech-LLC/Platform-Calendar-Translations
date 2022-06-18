@@ -365,6 +365,11 @@ let de = {
  "Availible from" : "Verfügbar ab",
  "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Sie erhalten bald eine Bestätigungsnachricht zur erfolgreichen Registrierung an Ihre E -Mail -Adresse.Sie können auch Ihre Bestelldaten unten überprüfen.",
  "Go to Orders" : "Gehen Sie zu Bestellungen",
- "Go to Details" : "Gehen Sie zu Details"
+ "Go to Details" : "Gehen Sie zu Details",
+ "Group ticket" : "Gruppenkarte",
+ "Name" : "Name",
+ "Price" : "Preis",
+ "Order by" : "Sortieren nach",
+ "Order ID" : "Auftragsnummer"
 }
 export default de

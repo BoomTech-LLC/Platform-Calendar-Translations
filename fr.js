@@ -358,6 +358,11 @@ let fr = {
  "Availible from" : "Disponible depuis",
  "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Vous recevrez bientôt un message de confirmation de l'inscription réussie à votre adresse e-mail.Vous pouvez également vérifier les détails de votre commande ci-dessous.",
  "Go to Orders" : "Aller aux commandes",
- "Go to Details" : "Aller aux détails"
+ "Go to Details" : "Aller aux détails",
+ "Group ticket" : "Billet de groupe",
+ "Name" : "Nom",
+ "Price" : "Prix",
+ "Order by" : "Commandé par",
+ "Order ID" : "numéro de commande"
 }
 export default fr

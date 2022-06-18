@@ -371,6 +371,11 @@ let sv = {
  "Availible from" : "Tillgänglig från",
  "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Du kommer snart att få ett bekräftelsemeddelande om framgångsrik registrering till din e -postadress.Du kan också kontrollera dina beställningsuppgifter nedan.",
  "Go to Orders" : "Gå till order",
- "Go to Details" : "Gå till detaljer"
+ "Go to Details" : "Gå till detaljer",
+ "Group ticket" : "Gruppbiljett",
+ "Name" : "namn",
+ "Price" : "Pris",
+ "Order by" : "Sortera efter",
+ "Order ID" : "Beställnings -ID"
 }
 export default sv

@@ -363,6 +363,11 @@ let hu = {
  "Availible from" : "elérhető ekkortól",
  "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Hamarosan megerősítő üzenetet kap a sikeres regisztrációról az e -mail címére.Az alábbiakban ellenőrizheti a megrendelés részleteit is.",
  "Go to Orders" : "Menjen a megrendelésekre",
- "Go to Details" : "Lépjen a részletekre"
+ "Go to Details" : "Lépjen a részletekre",
+ "Group ticket" : "Csoportjegy",
+ "Name" : "Név",
+ "Price" : "Ár",
+ "Order by" : "Rendezés",
+ "Order ID" : "Rendelés azonosító"
 }
 export default hu

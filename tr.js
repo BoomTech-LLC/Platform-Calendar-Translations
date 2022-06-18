@@ -366,6 +366,11 @@ let tr = {
  "Availible from" : "Kullanılabilir",
  "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Yakında e -posta adresinize başarılı bir kayıt onay mesajı alacaksınız.Sipariş bilgilerinizi aşağıda da kontrol edebilirsiniz.",
  "Go to Orders" : "Siparişlere Git",
- "Go to Details" : "Ayrıntılara git"
+ "Go to Details" : "Ayrıntılara git",
+ "Group ticket" : "Grup bileti",
+ "Name" : "İsim",
+ "Price" : "Fiyat",
+ "Order by" : "Tarafından sipariş",
+ "Order ID" : "Sipariş Kimliği"
 }
 export default tr

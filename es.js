@@ -365,6 +365,11 @@ let es = {
  "Availible from" : "Disponible de",
  "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Pronto recibirá un mensaje de confirmación de registro exitoso en su dirección de correo electrónico.También puede verificar los detalles de su pedido a continuación.",
  "Go to Orders" : "Ir a pedidos",
- "Go to Details" : "Ir a detalles"
+ "Go to Details" : "Ir a detalles",
+ "Group ticket" : "Boleto grupal",
+ "Name" : "Nombre",
+ "Price" : "Precio",
+ "Order by" : "Ordenar",
+ "Order ID" : "Solicitar ID"
 }
 export default es

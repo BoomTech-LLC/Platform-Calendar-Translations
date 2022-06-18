@@ -366,6 +366,11 @@ let no = {
  "Availible from" : "Tilgjengelig fra",
  "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Du vil snart motta en bekreftelsesmelding om vellykket registrering på e -postadressen din.Du kan også sjekke bestillingsdetaljene dine nedenfor.",
  "Go to Orders" : "Gå til bestillinger",
- "Go to Details" : "Gå til detaljer"
+ "Go to Details" : "Gå til detaljer",
+ "Group ticket" : "Gruppebillett",
+ "Name" : "Navn",
+ "Price" : "Pris",
+ "Order by" : "Rekkefølge etter",
+ "Order ID" : "Bestillings ID"
 }
 export default no

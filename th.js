@@ -366,6 +366,11 @@ let th = {
  "Availible from" : "มีให้จาก",
  "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "คุณจะได้รับข้อความยืนยันการลงทะเบียนที่ประสบความสำเร็จในที่อยู่อีเมลของคุณคุณสามารถตรวจสอบรายละเอียดการสั่งซื้อของคุณด้านล่าง",
  "Go to Orders" : "ไปที่คำสั่งซื้อ",
- "Go to Details" : "ไปที่รายละเอียด"
+ "Go to Details" : "ไปที่รายละเอียด",
+ "Group ticket" : "ตั๋วกลุ่ม",
+ "Name" : "ชื่อ",
+ "Price" : "ราคา",
+ "Order by" : "สั่งโดย",
+ "Order ID" : "รหัสสั่งซื้อ"
 }
 export default th

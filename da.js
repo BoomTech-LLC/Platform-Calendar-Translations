@@ -365,6 +365,11 @@ let da = {
  "Availible from" : "Ledig fra",
  "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Du modtager snart en bekræftelsesmeddelelse om en vellykket registrering til din e -mail -adresse.Du kan også kontrollere dine ordreoplysninger nedenfor.",
  "Go to Orders" : "Gå til ordrer",
- "Go to Details" : "Gå til detaljer"
+ "Go to Details" : "Gå til detaljer",
+ "Group ticket" : "Gruppebillet",
+ "Name" : "Navn",
+ "Price" : "Pris",
+ "Order by" : "Bestil af",
+ "Order ID" : "Ordre ID"
 }
 export default da

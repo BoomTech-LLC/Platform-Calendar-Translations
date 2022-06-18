@@ -361,6 +361,11 @@ let vi = {
  "Availible from" : "Có sẵn từ",
  "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Bạn sẽ sớm nhận được tin nhắn xác nhận đăng ký thành công vào địa chỉ email của bạn.Bạn cũng có thể kiểm tra chi tiết đơn đặt hàng của bạn dưới đây.",
  "Go to Orders" : "Đi đến đơn đặt hàng",
- "Go to Details" : "Đi đến chi tiết"
+ "Go to Details" : "Đi đến chi tiết",
+ "Group ticket" : "Vé nhóm",
+ "Name" : "Tên",
+ "Price" : "Giá bán",
+ "Order by" : "Đặt bởi",
+ "Order ID" : "ID đặt hàng"
 }
 export default vi

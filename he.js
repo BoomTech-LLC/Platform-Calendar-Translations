@@ -366,6 +366,11 @@ let he = {
   "Availible from" : "זמין מ",
   "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below.": "בקרוב תקבל הודעת אישור על רישום מוצלח לכתובת המייל שלך. אתה יכול גם לבדוק את פרטי ההזמנה שלך למטה.",
  "Go to Orders" : "עבור להזמנות",
- "Go to Details" : "עבור לפרטים"
+ "Go to Details" : "עבור לפרטים",
+ "Group ticket" : "כרטיס קבוצתי",
+ "Name" : "שֵׁם",
+ "Price" : "מחיר",
+ "Order by" : "מיין לפי",
+ "Order ID" : "מספר הזמנה"
 }
 export default he

@@ -361,6 +361,11 @@ let en = {
  "Availible from" : "Available from",
  "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below.",
  "Go to Orders" : "Go to Orders",
- "Go to Details" : "Go to Details"
+ "Go to Details" : "Go to Details",
+ "Group ticket" : "Group ticket",
+ "Name" : "Name",
+ "Price" : "Price",
+ "Order by" : "Order by",
+ "Order ID" : "Order ID"
 }
 export default en

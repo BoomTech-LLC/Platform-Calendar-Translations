@@ -366,6 +366,11 @@ let nl = {
  "Availible from" : "Beschikbaar van",
  "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "U ontvangt binnenkort een bevestigingsbericht van succesvolle registratie van uw e -mailadres.U kunt hieronder ook uw bestelgegevens controleren.",
  "Go to Orders" : "Ga naar bestellingen",
- "Go to Details" : "Ga naar details"
+ "Go to Details" : "Ga naar details",
+ "Group ticket" : "Groepsticket",
+ "Name" : "Naam",
+ "Price" : "Prijs",
+ "Order by" : "Bestellen door",
+ "Order ID" : "Order ID"
 }
 export default nl
