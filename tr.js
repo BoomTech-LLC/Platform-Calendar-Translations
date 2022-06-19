@@ -371,6 +371,13 @@ let tr = {
  "Name" : "İsim",
  "Price" : "Fiyat",
  "Order by" : "Tarafından sipariş",
- "Order ID" : "Sipariş Kimliği"
+ "Order ID" : "Sipariş Kimliği",
+ "Group ticket" : "Grup bileti",
+ "Name" : "İsim",
+ "Price" : "Fiyat",
+ "Order by" : "Tarafından sipariş",
+ "Order ID" : "Sipariş Kimliği",
+ "Applied" : "Uygulamalı",
+ "Fees" : "Ücret"
 }
 export default tr

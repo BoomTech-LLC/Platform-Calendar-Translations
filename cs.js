@@ -370,6 +370,13 @@ let cs = {
  "Name" : "název",
  "Price" : "Cena",
  "Order by" : "Seřadit podle",
- "Order ID" : "číslo objednávky"
+ "Order ID" : "číslo objednávky",
+ "Group ticket" : "Skupinový lístek",
+ "Name" : "název",
+ "Price" : "Cena",
+ "Order by" : "Seřadit podle",
+ "Order ID" : "číslo objednávky",
+ "Applied" : "Aplikovaný",
+ "Fees" : "Poplatky"
 }
 export default cs

@@ -371,6 +371,13 @@ let nl = {
  "Name" : "Naam",
  "Price" : "Prijs",
  "Order by" : "Bestellen door",
- "Order ID" : "Order ID"
+ "Order ID" : "Order ID",
+ "Group ticket" : "Groepsticket",
+ "Name" : "Naam",
+ "Price" : "Prijs",
+ "Order by" : "Bestellen door",
+ "Order ID" : "Order ID",
+ "Applied" : "Toegepast",
+ "Fees" : "Vergoedingen"
 }
 export default nl

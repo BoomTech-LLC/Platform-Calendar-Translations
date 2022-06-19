@@ -371,6 +371,13 @@ let lv = {
  "Name" : "Nosaukt",
  "Price" : "Cena",
  "Order by" : "Sakārtot pēc",
- "Order ID" : "Pasūtījuma ID"
+ "Order ID" : "Pasūtījuma ID",
+ "Group ticket" : "Grupas biļete",
+ "Name" : "Nosaukt",
+ "Price" : "Cena",
+ "Order by" : "Sakārtot pēc",
+ "Order ID" : "Pasūtījuma ID",
+ "Applied" : "Uzklāts",
+ "Fees" : "Nodevas"
 }
 export default lv

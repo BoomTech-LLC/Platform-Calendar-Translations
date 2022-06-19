@@ -370,6 +370,13 @@ let ar = {
  "Name" : "اسم",
  "Price" : "سعر",
  "Order by" : "ترتيب حسب",
- "Order ID" : "رقم التعريف الخاص بالطلب"
+ "Order ID" : "رقم التعريف الخاص بالطلب",
+ "Group ticket" : "تذكرة المجموعة",
+ "Name" : "اسم",
+ "Price" : "سعر",
+ "Order by" : "ترتيب حسب",
+ "Order ID" : "رقم التعريف الخاص بالطلب",
+ "Applied" : "مُطبَّق",
+ "Fees" : "مصاريف"
 }
 export default ar

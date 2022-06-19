@@ -371,6 +371,13 @@ let fa = {
  "Name" : "نام",
  "Price" : "قیمت",
  "Order by" : "سفارش داده شده توسط",
- "Order ID" : "شماره سفارش"
+ "Order ID" : "شماره سفارش",
+ "Group ticket" : "بلیط گروهی",
+ "Name" : "نام",
+ "Price" : "قیمت",
+ "Order by" : "سفارش داده شده توسط",
+ "Order ID" : "شماره سفارش",
+ "Applied" : "کاربردی",
+ "Fees" : "هزینه"
 }
 export default fa

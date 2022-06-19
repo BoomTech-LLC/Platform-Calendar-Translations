@@ -371,6 +371,13 @@ let zh = {
  "Name" : "姓名",
  "Price" : "价格",
  "Order by" : "顺序",
- "Order ID" : "订购ID"
+ "Order ID" : "订购ID",
+ "Group ticket" : "集体票",
+ "Name" : "姓名",
+ "Price" : "价格",
+ "Order by" : "顺序",
+ "Order ID" : "订购ID",
+ "Applied" : "应用",
+ "Fees" : "费用"
 }
 export default zh-cn

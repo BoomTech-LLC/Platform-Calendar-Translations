@@ -371,6 +371,13 @@ let no = {
  "Name" : "Navn",
  "Price" : "Pris",
  "Order by" : "Rekkefølge etter",
- "Order ID" : "Bestillings ID"
+ "Order ID" : "Bestillings ID",
+ "Group ticket" : "Gruppebillett",
+ "Name" : "Navn",
+ "Price" : "Pris",
+ "Order by" : "Rekkefølge etter",
+ "Order ID" : "Bestillings ID",
+ "Applied" : "Anvendt",
+ "Fees" : "Gebyrer"
 }
 export default no

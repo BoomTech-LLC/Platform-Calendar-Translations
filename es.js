@@ -370,6 +370,13 @@ let es = {
  "Name" : "Nombre",
  "Price" : "Precio",
  "Order by" : "Ordenar",
- "Order ID" : "Solicitar ID"
+ "Order ID" : "Solicitar ID",
+ "Group ticket" : "Boleto grupal",
+ "Name" : "Nombre",
+ "Price" : "Precio",
+ "Order by" : "Ordenar",
+ "Order ID" : "Solicitar ID",
+ "Applied": "Aplicado",
+ "Fees" : "Tarifa"
 }
 export default es

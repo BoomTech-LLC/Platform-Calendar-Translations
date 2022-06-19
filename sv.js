@@ -376,6 +376,13 @@ let sv = {
  "Name" : "namn",
  "Price" : "Pris",
  "Order by" : "Sortera efter",
- "Order ID" : "Beställnings -ID"
+ "Order ID" : "Beställnings -ID",
+ "Group ticket" : "Gruppbiljett",
+ "Name" : "namn",
+ "Price" : "Pris",
+ "Order by" : "Sortera efter",
+ "Order ID" : "Beställnings -ID",
+ "Applied" : "Applicerad",
+ "Fees" : "Avgifter"
 }
 export default sv

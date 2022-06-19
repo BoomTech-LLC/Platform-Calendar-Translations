@@ -363,6 +363,13 @@ let fr = {
  "Name" : "Nom",
  "Price" : "Prix",
  "Order by" : "Commandé par",
- "Order ID" : "numéro de commande"
+ "Order ID" : "numéro de commande",
+ "Group ticket" : "Billet de groupe",
+ "Name" : "Nom",
+ "Price" : "Prix",
+ "Order by" : "Commandé par",
+ "Order ID" : "numéro de commande",
+ "Applied": "Appliqué",
+ "Fees" : "Frais"
 }
 export default fr

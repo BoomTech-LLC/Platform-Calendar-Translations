@@ -371,6 +371,13 @@ let pt = {
  "Name" : "Nome",
  "Price" : "Preço",
  "Order by" : "Ordenar por",
- "Order ID" : "ID do pedido"
+ "Order ID" : "ID do pedido",
+ "Group ticket" : "Bilhete em grupo",
+ "Name" : "Nome",
+ "Price" : "Preço",
+ "Order by" : "Ordenar por",
+ "Order ID" : "ID do pedido",
+ "Applied": "Aplicado",
+ "Fees" : "Honorários"
 }
 export default pt

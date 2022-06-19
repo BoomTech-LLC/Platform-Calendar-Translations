@@ -366,6 +366,13 @@ let en = {
  "Name" : "Name",
  "Price" : "Price",
  "Order by" : "Order by",
- "Order ID" : "Order ID"
+ "Order ID" : "Order ID",
+ "Group ticket" : "Group ticket",
+ "Name" : "Name",
+ "Price" : "Price",
+ "Order by" : "Order by",
+ "Order ID" : "Order ID",
+ "Applied" : "Applied",
+ "Fees" : "Fees"
 }
 export default en

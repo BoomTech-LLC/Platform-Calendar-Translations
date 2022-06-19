@@ -371,6 +371,13 @@ let pl = {
  "Name" : "Nazwa",
  "Price" : "Cena £",
  "Order by" : "Zamów przez",
- "Order ID" : "Identyfikator zamówienia"
+ "Order ID" : "Identyfikator zamówienia",
+ "Group ticket" : "Bilet grupowy",
+ "Name" : "Nazwa",
+ "Price" : "Cena £",
+ "Order by" : "Zamów przez",
+ "Order ID" : "Identyfikator zamówienia",
+ "Applied" : "Stosowany",
+ "Fees" : "Opłaty"
 }
 export default pl

@@ -371,6 +371,13 @@ let th = {
  "Name" : "ชื่อ",
  "Price" : "ราคา",
  "Order by" : "สั่งโดย",
- "Order ID" : "รหัสสั่งซื้อ"
+ "Order ID" : "รหัสสั่งซื้อ",
+ "Group ticket" : "ตั๋วกลุ่ม",
+ "Name" : "ชื่อ",
+ "Price" : "ราคา",
+ "Order by" : "สั่งโดย",
+ "Order ID" : "รหัสสั่งซื้อ",
+ "Applied" : "สมัครแล้ว",
+ "Fees" : "ค่าธรรมเนียม"
 }
 export default th

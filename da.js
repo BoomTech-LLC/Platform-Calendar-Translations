@@ -370,6 +370,13 @@ let da = {
  "Name" : "Navn",
  "Price" : "Pris",
  "Order by" : "Bestil af",
- "Order ID" : "Ordre ID"
+ "Order ID" : "Ordre ID",
+ "Group ticket" : "Gruppebillet",
+ "Name" : "Navn",
+ "Price" : "Pris",
+ "Order by" : "Bestil af",
+ "Order ID" : "Ordre ID",
+ "Applied" : "Anvendt",
+ "Fees" : "Gebyrer"
 }
 export default da

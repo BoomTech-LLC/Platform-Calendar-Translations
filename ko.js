@@ -371,6 +371,13 @@ let ko = {
  "Name" : "이름",
  "Price" : "가격",
  "Order by" : "주문",
- "Order ID" : "주문 아이디"
+ "Order ID" : "주문 아이디",
+ "Group ticket" : "그룹 티켓",
+ "Name" : "이름",
+ "Price" : "가격",
+ "Order by" : "주문",
+ "Order ID" : "주문 아이디",
+ "Applied" : "적용된",
+ "Fees" : "수수료"
 }
 export default ko

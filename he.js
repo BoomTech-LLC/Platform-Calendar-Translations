@@ -371,6 +371,13 @@ let he = {
  "Name" : "שֵׁם",
  "Price" : "מחיר",
  "Order by" : "מיין לפי",
- "Order ID" : "מספר הזמנה"
+ "Order ID" : "מספר הזמנה",
+ "Group ticket" : "כרטיס קבוצתי",
+ "Name" : "שֵׁם",
+ "Price" : "מחיר",
+ "Order by" : "מיין לפי",
+ "Order ID" : "מספר הזמנה",
+ "Applied" : "מיושם",
+ "Fees" : "עמלות"
 }
 export default he

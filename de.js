@@ -370,6 +370,13 @@ let de = {
  "Name" : "Name",
  "Price" : "Preis",
  "Order by" : "Sortieren nach",
- "Order ID" : "Auftragsnummer"
+ "Order ID" : "Auftragsnummer",
+ "Group ticket" : "Gruppenkarte",
+ "Name" : "Name",
+ "Price" : "Preis",
+ "Order by" : "Sortieren nach",
+ "Order ID" : "Auftragsnummer",
+ "Applied" : "Angewandt",
+ "Fees" : "Honorare"
 }
 export default de

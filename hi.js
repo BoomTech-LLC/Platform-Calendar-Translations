@@ -371,6 +371,13 @@ let hi = {
  "Name" : "नाम",
  "Price" : "कीमत",
  "Order by" : "द्वारा आदेश",
- "Order ID" : "आदेश ID"
+ "Order ID" : "आदेश ID",
+ "Group ticket" : "समूह टिकट",
+ "Name" : "नाम",
+ "Price" : "कीमत",
+ "Order by" : "द्वारा आदेश",
+ "Order ID" : "आदेश ID",
+ "Applied" : "लागू",
+ "Fees" : "फीस"
 }
 export default hi

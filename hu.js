@@ -368,6 +368,13 @@ let hu = {
  "Name" : "Név",
  "Price" : "Ár",
  "Order by" : "Rendezés",
- "Order ID" : "Rendelés azonosító"
+ "Order ID" : "Rendelés azonosító",
+ "Group ticket" : "Csoportjegy",
+ "Name" : "Név",
+ "Price" : "Ár",
+ "Order by" : "Rendezés",
+ "Order ID" : "Rendelés azonosító",
+ "Applied" : "Alkalmazott",
+ "Fees" : "Díj"
 }
 export default hu

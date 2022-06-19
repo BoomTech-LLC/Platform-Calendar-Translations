@@ -371,6 +371,13 @@ let ja = {
  "Name" : "名前",
  "Price" : "価格",
  "Order by" : "注文",
- "Order ID" : "注文ID"
+ "Order ID" : "注文ID",
+ "Group ticket" : "グループチケット",
+ "Name" : "名前",
+ "Price" : "価格",
+ "Order by" : "注文",
+ "Order ID" : "注文ID",
+ "Applied" : "適用",
+ "Fees" : "料金"
 }
 export default ja

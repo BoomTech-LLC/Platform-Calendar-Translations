@@ -366,6 +366,13 @@ let vi = {
  "Name" : "Tên",
  "Price" : "Giá bán",
  "Order by" : "Đặt bởi",
- "Order ID" : "ID đặt hàng"
+ "Order ID" : "ID đặt hàng",
+ "Group ticket" : "Vé nhóm",
+ "Name" : "Tên",
+ "Price" : "Giá bán",
+ "Order by" : "Đặt bởi",
+ "Order ID" : "ID đặt hàng",
+ "Applied" : "Áp dụng",
+ "Fees" : "Lệ phí"
 }
 export default vi

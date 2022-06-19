@@ -370,6 +370,13 @@ let bg = {
  "Name" : "Име",
  "Price" : "Цена",
  "Order by" : "Подредени по",
- "Order ID" : "ID на поръчка"
+ "Order ID" : "ID на поръчка",
+ "Group ticket" : "Групов билет",
+ "Name" : "Име",
+ "Price" : "Цена",
+ "Order by" : "Подредени по",
+ "Order ID" : "ID на поръчка",
+ "Applied" : "Прилага се",
+ "Fees" : "Такси"
 }
 export default bg

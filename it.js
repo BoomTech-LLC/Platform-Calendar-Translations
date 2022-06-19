@@ -363,6 +363,13 @@ let it = {
  "Name" : "Nome",
  "Price" : "Prezzo",
  "Order by" : "Ordinato da",
- "Order ID" : "ID ordine"
+ "Order ID" : "ID ordine",
+ "Group ticket" : "Biglietto di gruppo",
+ "Name" : "Nome",
+ "Price" : "Prezzo",
+ "Order by" : "Ordinato da",
+ "Order ID" : "ID ordine",
+ "Applied": "Applicato",
+ "Fees" : "Commissioni"
 }
 export default it

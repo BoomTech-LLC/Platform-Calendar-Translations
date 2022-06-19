@@ -371,6 +371,13 @@ let ru = {
  "Name" : "Имя",
  "Price" : "Цена",
  "Order by" : "Сортировать по",
- "Order ID" : "номер заказа"
+ "Order ID" : "номер заказа",
+ "Group ticket" : "Групповой билет",
+ "Name" : "Имя",
+ "Price" : "Цена",
+ "Order by" : "Сортировать по",
+ "Order ID" : "номер заказа",
+ "Applied" : "Применяемый",
+ "Fees" : "Сборы"
 }
 export default ru
