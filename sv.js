@@ -383,6 +383,10 @@ let sv = {
  "Order by" : "Sortera efter",
  "Order ID" : "Beställnings -ID",
  "Applied" : "Applicerad",
- "Fees" : "Avgifter"
+ "Fees" : "Avgifter",
+ "Enter promo code" : "Ange kampanjkod",
+ "Apply" : "Tillämpa",
+ "Promo Code" : "Rabattkod",
+ "Cash" : "Kontanter"
 }
 export default sv

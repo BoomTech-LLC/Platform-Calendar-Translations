@@ -370,6 +370,10 @@ let fr = {
  "Order by" : "Commandé par",
  "Order ID" : "numéro de commande",
  "Applied": "Appliqué",
- "Fees" : "Frais"
+ "Fees" : "Frais",
+ "Enter promo code" : "Saisir le code promotionnel",
+ "Apply" : "Appliquer",
+ "Promo Code" : "Code promo",
+ "Cash" : "En espèces"
 }
 export default fr

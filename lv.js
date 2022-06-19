@@ -378,6 +378,10 @@ let lv = {
  "Order by" : "Sakārtot pēc",
  "Order ID" : "Pasūtījuma ID",
  "Applied" : "Uzklāts",
- "Fees" : "Nodevas"
+ "Fees" : "Nodevas",
+ "Enter promo code" : "Ievadiet reklāmas kodu",
+ "Apply" : "Piemērot",
+ "Promo Code" : "Reklāmas kods",
+ "Cash" : "Nauda"
 }
 export default lv

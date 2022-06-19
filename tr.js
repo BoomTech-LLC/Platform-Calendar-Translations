@@ -378,6 +378,10 @@ let tr = {
  "Order by" : "Tarafından sipariş",
  "Order ID" : "Sipariş Kimliği",
  "Applied" : "Uygulamalı",
- "Fees" : "Ücret"
+ "Fees" : "Ücret",
+ "Enter promo code" : "Promosyon kodunu girin",
+ "Apply" : "Uygulamak",
+ "Promo Code" : "Promosyon kodu",
+ "Cash" : "Nakit"
 }
 export default tr

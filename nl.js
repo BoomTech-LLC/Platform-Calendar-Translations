@@ -378,6 +378,10 @@ let nl = {
  "Order by" : "Bestellen door",
  "Order ID" : "Order ID",
  "Applied" : "Toegepast",
- "Fees" : "Vergoedingen"
+ "Fees" : "Vergoedingen",
+ "Enter promo code" : "Voer de promotiecode in",
+ "Apply" : "Van toepassing zijn",
+ "Promo Code" : "Promotiecode",
+ "Cash" : "Contant geld"
 }
 export default nl

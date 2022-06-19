@@ -378,6 +378,10 @@ let ru = {
  "Order by" : "Сортировать по",
  "Order ID" : "номер заказа",
  "Applied" : "Применяемый",
- "Fees" : "Сборы"
+ "Fees" : "Сборы",
+ "Enter promo code" : "Введите промо-код",
+ "Apply" : "Подать заявление",
+ "Promo Code" : "Промо-код",
+ "Cash" : "Наличные"
 }
 export default ru

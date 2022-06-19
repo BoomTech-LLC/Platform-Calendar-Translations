@@ -375,6 +375,10 @@ let hu = {
  "Order by" : "Rendezés",
  "Order ID" : "Rendelés azonosító",
  "Applied" : "Alkalmazott",
- "Fees" : "Díj"
+ "Fees" : "Díj",
+ "Enter promo code" : "Írja be a promóciós kódot",
+ "Apply" : "Alkalmaz",
+ "Promo Code" : "Promóciós kód",
+ "Cash" : "Készpénz"
 }
 export default hu

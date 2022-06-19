@@ -377,6 +377,10 @@ let ar = {
  "Order by" : "ترتيب حسب",
  "Order ID" : "رقم التعريف الخاص بالطلب",
  "Applied" : "مُطبَّق",
- "Fees" : "مصاريف"
+ "Fees" : "مصاريف",
+ "Enter promo code" : "إدخال الرمز الترويجي",
+ "Apply" : "يتقدم",
+ "Promo Code" : "رمز ترويجي",
+ "Cash" : "نقدي"
 }
 export default ar

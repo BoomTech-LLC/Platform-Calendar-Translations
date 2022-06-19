@@ -378,6 +378,10 @@ let hi = {
  "Order by" : "द्वारा आदेश",
  "Order ID" : "आदेश ID",
  "Applied" : "लागू",
- "Fees" : "फीस"
+ "Fees" : "फीस",
+ "Enter promo code" : "प्रचार कि नियमावली दर्ज करो",
+ "Apply" : "आवेदन करना",
+ "Promo Code" : "प्रचार कोड",
+ "Cash" : "नकद"
 }
 export default hi

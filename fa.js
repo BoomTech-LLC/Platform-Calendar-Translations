@@ -378,6 +378,10 @@ let fa = {
  "Order by" : "سفارش داده شده توسط",
  "Order ID" : "شماره سفارش",
  "Applied" : "کاربردی",
- "Fees" : "هزینه"
+ "Fees" : "هزینه",
+ "Enter promo code" : "کد تبلیغاتی را وارد کنید",
+ "Apply" : "درخواست دادن",
+ "Promo Code" : "رمز تبلیغی",
+ "Cash" : "پول نقد"
 }
 export default fa

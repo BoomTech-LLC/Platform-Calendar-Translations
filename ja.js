@@ -378,6 +378,10 @@ let ja = {
  "Order by" : "注文",
  "Order ID" : "注文ID",
  "Applied" : "適用",
- "Fees" : "料金"
+ "Fees" : "料金",
+ "Enter promo code" : "プロモーションコードを入力",
+ "Apply" : "申し込み",
+ "Promo Code" : "プロモーションコード",
+ "Cash" : "現金"
 }
 export default ja

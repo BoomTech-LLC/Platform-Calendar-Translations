@@ -378,6 +378,10 @@ let zh = {
  "Order by" : "顺序",
  "Order ID" : "订购ID",
  "Applied" : "应用",
- "Fees" : "费用"
+ "Fees" : "费用",
+ "Enter promo code" : "输入促销代码",
+ "Apply" : "申请",
+ "Promo Code" : "促销代码",
+ "Cash" : "现金"
 }
 export default zh-cn

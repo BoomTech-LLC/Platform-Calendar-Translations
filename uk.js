@@ -378,6 +378,10 @@ let uk = {
  "Order by" : "Сортувати за",
  "Order ID" : "Ідентифікатор замовлення",
  "Applied" : "Застосований",
- "Fees" : "Збори"
+ "Fees" : "Збори",
+ "Enter promo code" : "Введіть промо -код",
+ "Apply" : "Застосовувати",
+ "Promo Code" : "Промо -код",
+ "Cash" : "Готівка"
 }
 export default uk

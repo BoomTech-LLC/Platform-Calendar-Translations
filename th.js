@@ -378,6 +378,10 @@ let th = {
  "Order by" : "สั่งโดย",
  "Order ID" : "รหัสสั่งซื้อ",
  "Applied" : "สมัครแล้ว",
- "Fees" : "ค่าธรรมเนียม"
+ "Fees" : "ค่าธรรมเนียม",
+ "Enter promo code" : "ป้อนรหัสโปรโมชั่น",
+ "Apply" : "นำมาใช้",
+ "Promo Code" : "รหัสโปรโมชั่น",
+ "Cash" : "เงินสด"
 }
 export default th

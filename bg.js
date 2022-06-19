@@ -377,6 +377,10 @@ let bg = {
  "Order by" : "Подредени по",
  "Order ID" : "ID на поръчка",
  "Applied" : "Прилага се",
- "Fees" : "Такси"
+ "Fees" : "Такси",
+ "Enter promo code" : "Въведете промо код",
+ "Apply" : "Приложи",
+ "Promo Code" : "Промо код",
+ "Cash" : "Пари в брой"
 }
 export default bg

@@ -377,6 +377,10 @@ let da = {
  "Order by" : "Bestil af",
  "Order ID" : "Ordre ID",
  "Applied" : "Anvendt",
- "Fees" : "Gebyrer"
+ "Fees" : "Gebyrer",
+ "Enter promo code" : "Indtast promo -kode",
+ "Apply" : "ansøge",
+ "Promo Code" : "Tilbudskode",
+ "Cash" : "Kontanter"
 }
 export default da

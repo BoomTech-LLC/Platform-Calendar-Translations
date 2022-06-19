@@ -377,6 +377,10 @@ let cs = {
  "Order by" : "Seřadit podle",
  "Order ID" : "číslo objednávky",
  "Applied" : "Aplikovaný",
- "Fees" : "Poplatky"
+ "Fees" : "Poplatky",
+ "Enter promo code" : "Zadejte promo kód",
+ "Apply" : "Aplikovat",
+ "Promo Code" : "Promo kód",
+ "Cash" : "Hotovost"
 }
 export default cs

@@ -378,6 +378,10 @@ let no = {
  "Order by" : "Rekkefølge etter",
  "Order ID" : "Bestillings ID",
  "Applied" : "Anvendt",
- "Fees" : "Gebyrer"
+ "Fees" : "Gebyrer",
+ "Enter promo code" : "Skriv inn kampanjekode",
+ "Apply" : "Søke om",
+ "Promo Code" : "Rabattkode",
+ "Cash" : "Penger"
 }
 export default no

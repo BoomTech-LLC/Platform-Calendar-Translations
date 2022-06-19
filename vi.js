@@ -373,6 +373,10 @@ let vi = {
  "Order by" : "Đặt bởi",
  "Order ID" : "ID đặt hàng",
  "Applied" : "Áp dụng",
- "Fees" : "Lệ phí"
+ "Fees" : "Lệ phí",
+ "Enter promo code" : "Nhập mã khuyến mãi",
+ "Apply" : "Ứng dụng",
+ "Promo Code" : "Mã khuyến mại",
+ "Cash" : "Tiền mặt"
 }
 export default vi

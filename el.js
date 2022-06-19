@@ -377,6 +377,10 @@ let el = {
  "Order by" : "Ταξινόμηση κατά",
  "Order ID" : "Αριθμός Παραγγελίας",
  "Applied" : "Εφαρμοσμένος",
- "Fees" : "Αμοιβές"
+ "Fees" : "Αμοιβές",
+ "Enter promo code" : "Εισαγάγετε τον κωδικό προώθησης",
+ "Apply" : "Ισχύουν",
+ "Promo Code" : "Προώθηση",
+ "Cash" : "Μετρητά"
 }
 export default el

@@ -378,6 +378,10 @@ let he = {
  "Order by" : "מיין לפי",
  "Order ID" : "מספר הזמנה",
  "Applied" : "מיושם",
- "Fees" : "עמלות"
+ "Fees" : "עמלות",
+ "Enter promo code" : "הכנס את קוד הזיכוי",
+ "Apply" : "להגיש מועמדות",
+ "Promo Code" : "קוד קופון",
+ "Cash" : "כסף מזומן"
 }
 export default he

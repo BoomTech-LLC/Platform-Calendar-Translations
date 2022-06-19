@@ -378,6 +378,10 @@ let ko = {
  "Order by" : "주문",
  "Order ID" : "주문 아이디",
  "Applied" : "적용된",
- "Fees" : "수수료"
+ "Fees" : "수수료",
+ "Enter promo code" : "프로모션 코드 입력하기",
+ "Apply" : "적용하다",
+ "Promo Code" : "프로모션 코드",
+ "Cash" : "현금"
 }
 export default ko

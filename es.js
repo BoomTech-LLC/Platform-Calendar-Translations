@@ -377,6 +377,10 @@ let es = {
  "Order by" : "Ordenar",
  "Order ID" : "Solicitar ID",
  "Applied": "Aplicado",
- "Fees" : "Tarifa"
+ "Fees" : "Tarifa",
+ "Enter promo code" : "Introduce el código de promoción",
+ "Apply" : "Aplicar",
+ "Promo Code" : "Código promocional",
+ "Cash" : "Dinero"
 }
 export default es

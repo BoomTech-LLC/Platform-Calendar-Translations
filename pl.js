@@ -378,6 +378,10 @@ let pl = {
  "Order by" : "Zamów przez",
  "Order ID" : "Identyfikator zamówienia",
  "Applied" : "Stosowany",
- "Fees" : "Opłaty"
+ "Fees" : "Opłaty",
+ "Enter promo code" : "Wpisz kod promocyjny",
+ "Apply" : "Stosować",
+ "Promo Code" : "Kod promocyjny",
+ "Cash" : "Gotówka"
 }
 export default pl

@@ -370,6 +370,10 @@ let it = {
  "Order by" : "Ordinato da",
  "Order ID" : "ID ordine",
  "Applied": "Applicato",
- "Fees" : "Commissioni"
+ "Fees" : "Commissioni",
+ "Enter promo code" : "Immettere il codice promozionale",
+ "Apply" : "Applicare",
+ "Promo Code" : "Codice promozionale",
+ "Cash" : "Contanti"
 }
 export default it
