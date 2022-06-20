@@ -363,7 +363,6 @@ let ar = {
  "Sales End" : "نهاية المبيعات",
  "Buy tickets" : "اشتري تذاكر",
  "Availible from" : "متاح من",
- "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "ستتلقى قريبًا رسالة تأكيد للتسجيل الناجح إلى عنوان بريدك الإلكتروني.يمكنك أيضًا التحقق من تفاصيل طلبك أدناه.",
  "Go to Orders" : "اذهب إلى الطلبات",
  "Go to Details" : "انتقل إلى التفاصيل",
  "Group ticket" : "تذكرة المجموعة",
@@ -386,6 +385,8 @@ let ar = {
  "here" : "هنا",
  "Time" : "زمن",
  "Invalid promo code" : "الرمز الترويجي غير صالح",
- "Credit card" : "بطاقة الائتمان"
+ "Credit card" : "بطاقة الائتمان",
+ "You will soon receive a confirmation message of successful registration to your email address." : "ستتلقى قريبًا رسالة تأكيد للتسجيل الناجح إلى عنوان بريدك الإلكتروني.",
+ "You can also check your order details below." : "يمكنك أيضًا التحقق من تفاصيل طلبك أدناه."
 }
 export default ar

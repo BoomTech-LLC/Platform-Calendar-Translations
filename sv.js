@@ -369,7 +369,6 @@ let sv = {
  "Sales End" : "Försäljningsslut",
  "Buy tickets" : "Köpa biljetter",
  "Availible from" : "Tillgänglig från",
- "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Du kommer snart att få ett bekräftelsemeddelande om framgångsrik registrering till din e -postadress.Du kan också kontrollera dina beställningsuppgifter nedan.",
  "Go to Orders" : "Gå till order",
  "Go to Details" : "Gå till detaljer",
  "Group ticket" : "Gruppbiljett",
@@ -392,6 +391,8 @@ let sv = {
  "here" : "här",
  "Time" : "Tid",
  "Invalid promo code" : "Ogiltig kampanjkod",
- "Credit card" : "Kreditkort"
+ "Credit card" : "Kreditkort",
+ "You will soon receive a confirmation message of successful registration to your email address." : "Du kommer snart att få ett bekräftelsemeddelande om framgångsrik registrering till din e -postadress.",
+ "You can also check your order details below." : "Du kan också kontrollera dina beställningsuppgifter nedan."
 }
 export default sv

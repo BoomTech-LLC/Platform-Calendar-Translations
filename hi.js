@@ -364,7 +364,6 @@ let hi = {
  "Sales End" : "बिक्री समाप्ति",
  "Buy tickets" : "टिकट खरीदो",
  "Availible from" : "से उपलब्ध",
- "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "आप जल्द ही अपने ईमेल पते पर सफल पंजीकरण का एक पुष्टिकरण संदेश प्राप्त करेंगे।आप नीचे दिए गए अपने ऑर्डर विवरण भी देख सकते हैं।",
  "Go to Orders" : "आदेशों पर जाना",
  "Go to Details" : "विवरण पर जाएं",
  "Group ticket" : "समूह टिकट",
@@ -387,6 +386,8 @@ let hi = {
  "here" : "यहां",
  "Time" : "समय",
  "Invalid promo code" : "अमान्य प्रोमो कोड",
- "Credit card" : "क्रेडिट कार्ड"
+ "Credit card" : "क्रेडिट कार्ड",
+ "You will soon receive a confirmation message of successful registration to your email address." : "आप जल्द ही अपने ईमेल पते पर सफल पंजीकरण का एक पुष्टिकरण संदेश प्राप्त करेंगे।",
+ "You can also check your order details below." : "आप नीचे दिए गए अपने ऑर्डर विवरण भी देख सकते हैं।"
 }
 export default hi

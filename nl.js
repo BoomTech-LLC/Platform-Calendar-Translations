@@ -364,7 +364,6 @@ let nl = {
  "Sales End" : "Verkoopuiteinde",
  "Buy tickets" : "Koop kaartjes",
  "Availible from" : "Beschikbaar van",
- "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "U ontvangt binnenkort een bevestigingsbericht van succesvolle registratie van uw e -mailadres.U kunt hieronder ook uw bestelgegevens controleren.",
  "Go to Orders" : "Ga naar bestellingen",
  "Go to Details" : "Ga naar details",
  "Group ticket" : "Groepsticket",
@@ -387,6 +386,8 @@ let nl = {
  "here" : "hier",
  "Time" : "Tijd",
  "Invalid promo code" : "Ongeldige promotiecode",
- "Credit card" : "Kredietkaart"
+ "Credit card" : "Kredietkaart",
+ "You will soon receive a confirmation message of successful registration to your email address." : "U ontvangt binnenkort een bevestigingsbericht van succesvolle registratie van uw e -mailadres.",
+ "You can also check your order details below." : "U kunt hieronder ook uw bestelgegevens controleren."
 }
 export default nl

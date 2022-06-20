@@ -363,7 +363,6 @@ let cs = {
  "Sales End" : "Prodej",
  "Buy tickets" : "Koupit lístky",
  "Availible from" : "dostupný z",
- "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Brzy obdržíte potvrzovací zprávu o úspěšné registraci na vaši e -mailovou adresu.Níže můžete také zkontrolovat údaje o vaší objednávce.",
  "Go to Orders" : "Přejít na objednávky",
  "Go to Details" : "Přejděte na podrobnosti",
  "Group ticket" : "Skupinový lístek",
@@ -386,6 +385,8 @@ let cs = {
  "here" : "tady",
  "Time" : "Čas",
  "Invalid promo code" : "Neplatný promo kód",
- "Credit card" : "Kreditní karta"
+ "Credit card" : "Kreditní karta",
+ "You will soon receive a confirmation message of successful registration to your email address." : "Brzy obdržíte potvrzovací zprávu o úspěšné registraci na vaši e -mailovou adresu.",
+ "You can also check your order details below." : "Níže můžete také zkontrolovat údaje o vaší objednávce."
 }
 export default cs

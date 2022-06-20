@@ -364,7 +364,6 @@ let no = {
  "Sales End" : "Salgsslutt",
  "Buy tickets" : "Kjøpe billetter",
  "Availible from" : "Tilgjengelig fra",
- "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Du vil snart motta en bekreftelsesmelding om vellykket registrering på e -postadressen din.Du kan også sjekke bestillingsdetaljene dine nedenfor.",
  "Go to Orders" : "Gå til bestillinger",
  "Go to Details" : "Gå til detaljer",
  "Group ticket" : "Gruppebillett",
@@ -387,6 +386,8 @@ let no = {
  "here" : "her",
  "Time" : "Tid",
  "Invalid promo code" : "Ugyldig kampanjekode",
- "Credit card" : "Kredittkort"
+ "Credit card" : "Kredittkort",
+ "You will soon receive a confirmation message of successful registration to your email address." : "Du vil snart motta en bekreftelsesmelding om vellykket registrering på e -postadressen din.",
+ "You can also check your order details below." : "Du kan også sjekke bestillingsdetaljene dine nedenfor."
 }
 export default no

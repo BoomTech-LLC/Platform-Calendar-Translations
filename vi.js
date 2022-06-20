@@ -359,7 +359,6 @@ let vi = {
  "Sales End" : "Kết thúc bán hàng",
  "Buy tickets" : "Mua vé",
  "Availible from" : "Có sẵn từ",
- "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Bạn sẽ sớm nhận được tin nhắn xác nhận đăng ký thành công vào địa chỉ email của bạn.Bạn cũng có thể kiểm tra chi tiết đơn đặt hàng của bạn dưới đây.",
  "Go to Orders" : "Đi đến đơn đặt hàng",
  "Go to Details" : "Đi đến chi tiết",
  "Group ticket" : "Vé nhóm",
@@ -382,6 +381,8 @@ let vi = {
  "here" : "nơi đây",
  "Time" : "Thời gian",
  "Invalid promo code" : "Mã khuyến mại không hợp lệ",
- "Credit card" : "Thẻ tín dụng"
+ "Credit card" : "Thẻ tín dụng",
+ "You will soon receive a confirmation message of successful registration to your email address." : "Bạn sẽ sớm nhận được tin nhắn xác nhận đăng ký thành công vào địa chỉ email của bạn.",
+ "You can also check your order details below." : "Bạn cũng có thể kiểm tra chi tiết đơn đặt hàng của bạn dưới đây."
 }
 export default vi

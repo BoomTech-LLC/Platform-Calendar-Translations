@@ -363,7 +363,6 @@ let de = {
  "Sales End" : "Verkaufsende",
  "Buy tickets" : "Tickets kaufen",
  "Availible from" : "Verfügbar ab",
- "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Sie erhalten bald eine Bestätigungsnachricht zur erfolgreichen Registrierung an Ihre E -Mail -Adresse.Sie können auch Ihre Bestelldaten unten überprüfen.",
  "Go to Orders" : "Gehen Sie zu Bestellungen",
  "Go to Details" : "Gehen Sie zu Details",
  "Group ticket" : "Gruppenkarte",
@@ -386,6 +385,8 @@ let de = {
  "here" : "hier",
  "Time" : "Zeit",
  "Invalid promo code" : "Ungültiger Promo-Code",
- "Credit card" : "Kreditkarte"
+ "Credit card" : "Kreditkarte",
+ "You will soon receive a confirmation message of successful registration to your email address." : "Sie erhalten bald eine Bestätigungsnachricht zur erfolgreichen Registrierung an Ihre E -Mail -Adresse.",
+ "You can also check your order details below." : "Sie können auch Ihre Bestelldaten unten überprüfen."
 }
 export default de

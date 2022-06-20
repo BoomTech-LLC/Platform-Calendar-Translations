@@ -364,7 +364,6 @@ let pl = {
  "Sales End" : "Koniec sprzedaży",
  "Buy tickets" : "Kup bilety",
  "Availible from" : "dostępne od",
- "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Wkrótce otrzymasz wiadomość potwierdzającą udaną rejestrację na swój adres e -mail.Możesz także sprawdzić szczegóły zamówienia poniżej.",
  "Go to Orders" : "Idź do zamówień",
  "Go to Details" : "Przejdź do szczegółów",
  "Group ticket" : "Bilet grupowy",
@@ -387,6 +386,8 @@ let pl = {
  "here" : "tutaj",
  "Time" : "Czas",
  "Invalid promo code" : "Nieprawidłowy kod promocyjny",
- "Credit card" : "Karta kredytowa"
+ "Credit card" : "Karta kredytowa",
+ "You will soon receive a confirmation message of successful registration to your email address." : "Wkrótce otrzymasz wiadomość potwierdzającą udaną rejestrację na swój adres e -mail.",
+ "You can also check your order details below." : "Możesz także sprawdzić szczegóły zamówienia poniżej."
 }
 export default pl

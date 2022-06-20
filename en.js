@@ -359,7 +359,6 @@ let en = {
  "Sales End" : "Sales End",
  "Buy tickets" : "Buy tickets",
  "Availible from" : "Available from",
- "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below.",
  "Go to Orders" : "Go to Orders",
  "Go to Details" : "Go to Details",
  "Group ticket" : "Group ticket",
@@ -382,6 +381,8 @@ let en = {
  "here" : "here",
  "Time" : "Time",
  "Invalid promo code" : "Invalid promo code",
- "Credit card" : "Credit card"
+ "Credit card" : "Credit card",
+ "You will soon receive a confirmation message of successful registration to your email address." : "You will soon receive a confirmation message of successful registration to your email address.",
+ "You can also check your order details below." : "You can also check your order details below."
 }
 export default en

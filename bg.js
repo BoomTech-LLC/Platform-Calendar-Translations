@@ -363,7 +363,6 @@ let bg = {
  "Sales End" : "Край на продажбите",
  "Buy tickets" : "Купи билети",
  "Availible from" : "Достъпен от",
- "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Скоро ще получите съобщение за потвърждение за успешна регистрация на вашия имейл адрес.Можете също да проверите данните си за поръчката по -долу.",
  "Go to Orders" : "Отидете на поръчки",
  "Go to Details" : "Отидете на подробности",
  "Group ticket" : "Групов билет",
@@ -386,6 +385,8 @@ let bg = {
  "here" : "тук",
  "Time" : "Време",
  "Invalid promo code" : "Невалиден промо код",
- "Credit card" : "Кредитна карта"
+ "Credit card" : "Кредитна карта",
+ "You will soon receive a confirmation message of successful registration to your email address." : "Скоро ще получите съобщение за потвърждение за успешна регистрация на вашия имейл адрес.",
+ "You can also check your order details below." : "Можете също да проверите данните си за поръчката по -долу."
 }
 export default bg

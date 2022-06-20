@@ -364,7 +364,6 @@ let zh = {
  "Sales End" : "销售终结",
  "Buy tickets" : "购买门票",
  "Availible from" : "可从",
- "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "您很快将收到成功注册到电子邮件地址的确认消息。您也可以在下面查看订单详细信息。",
  "Go to Orders" : "去订单",
  "Go to Details" : "转到详细信息",
  "Group ticket" : "集体票",
@@ -387,6 +386,8 @@ let zh = {
  "here" : "这里",
  "Time" : "时间",
  "Invalid promo code" : "无效的促销代码",
- "Credit card" : "信用卡"
+ "Credit card" : "信用卡",
+ "You will soon receive a confirmation message of successful registration to your email address." : "您很快将收到成功注册到电子邮件地址的确认消息。",
+ "You can also check your order details below." : "您也可以在下面查看订单详细信息。"
 }
 export default zh

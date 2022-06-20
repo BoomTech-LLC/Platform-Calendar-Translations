@@ -364,7 +364,6 @@ let lv = {
  "Sales End" : "Pārdošanas beigas",
  "Buy tickets" : "Pirkt biļetes",
  "Availible from" : "pieejams no",
- "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Drīz jūs saņemsit apstiprinājuma ziņojumu par veiksmīgu reģistrāciju uz savu e -pasta adresi.Varat arī pārbaudīt savu pasūtījuma informāciju zemāk.",
  "Go to Orders" : "Dodieties uz pasūtījumiem",
  "Go to Details" : "Dodieties uz detaļām",
  "Group ticket" : "Grupas biļete",
@@ -387,6 +386,8 @@ let lv = {
  "here" : "šeit",
  "Time" : "Laiks",
  "Invalid promo code" : "Nederīgs reklāmas kods",
- "Credit card" : "Kredītkarte"
+ "Credit card" : "Kredītkarte",
+ "You will soon receive a confirmation message of successful registration to your email address." : "Drīz jūs saņemsit apstiprinājuma ziņojumu par veiksmīgu reģistrāciju uz savu e -pasta adresi.",
+ "You can also check your order details below." : "Varat arī pārbaudīt savu pasūtījuma informāciju zemāk."
 }
 export default lv

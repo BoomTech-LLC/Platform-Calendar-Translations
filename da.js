@@ -363,7 +363,6 @@ let da = {
  "Sales End" : "Salg slut",
  "Buy tickets" : "Køb billetter",
  "Availible from" : "Ledig fra",
- "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Du modtager snart en bekræftelsesmeddelelse om en vellykket registrering til din e -mail -adresse.Du kan også kontrollere dine ordreoplysninger nedenfor.",
  "Go to Orders" : "Gå til ordrer",
  "Go to Details" : "Gå til detaljer",
  "Group ticket" : "Gruppebillet",
@@ -386,6 +385,8 @@ let da = {
  "here" : "her",
  "Time" : "Tid",
  "Invalid promo code" : "Ugyldig promo -kode",
- "Credit card" : "Kreditkort"
+ "Credit card" : "Kreditkort",
+ "You will soon receive a confirmation message of successful registration to your email address." : "Du modtager snart en bekræftelsesmeddelelse om en vellykket registrering til din e -mail -adresse.",
+ "You can also check your order details below." : "Du kan også kontrollere dine ordreoplysninger nedenfor."
 }
 export default da

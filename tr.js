@@ -364,7 +364,6 @@ let tr = {
  "Sales End" : "Satış sonu",
  "Buy tickets" : "Bilet satın al",
  "Availible from" : "Kullanılabilir",
- "You will soon receive a confirmation message of successful registration to your email address. You can also check your order details below." : "Yakında e -posta adresinize başarılı bir kayıt onay mesajı alacaksınız.Sipariş bilgilerinizi aşağıda da kontrol edebilirsiniz.",
  "Go to Orders" : "Siparişlere Git",
  "Go to Details" : "Ayrıntılara git",
  "Group ticket" : "Grup bileti",
@@ -387,6 +386,8 @@ let tr = {
  "here" : "burada",
  "Time" : "Zaman",
  "Invalid promo code" : "Geçersiz reklam kodu",
- "Credit card" : "Kredi kartı"
+ "Credit card" : "Kredi kartı",
+ "You will soon receive a confirmation message of successful registration to your email address." : "Yakında e -posta adresinize başarılı bir kayıt onay mesajı alacaksınız.",
+ "You can also check your order details below." : "Sipariş bilgilerinizi aşağıda da kontrol edebilirsiniz."
 }
 export default tr
