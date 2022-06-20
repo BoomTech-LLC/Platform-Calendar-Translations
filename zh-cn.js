@@ -387,4 +387,4 @@ let zh = {
  "here" : "这里",
  "Time" : "时间"
 }
-export default zh-cn
+export default zh
