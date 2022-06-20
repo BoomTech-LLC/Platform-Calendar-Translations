@@ -386,6 +386,7 @@ let pt = {
  "You can find your e-tickets attached to your email or download them" : "Você pode encontrar seus bilhetes eletrônicos anexados ao seu e-mail ou baixá-los",
  "here" : "aqui",
  "Time" : "Tempo",
- "Invalid promo code" : "Código promocional inválido"
+ "Invalid promo code" : "Código promocional inválido",
+ "Credit card" : "Cartão de crédito"
 }
 export default pt

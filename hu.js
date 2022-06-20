@@ -383,6 +383,7 @@ let hu = {
  "You can find your e-tickets attached to your email or download them" : "Megtalálhatja az e-mailhez csatolt e-jegyeket, vagy letöltheti azokat",
  "here" : "itt",
  "Time" : "Idő",
- "Invalid promo code" : "Érvénytelen promóciós kód"
+ "Invalid promo code" : "Érvénytelen promóciós kód",
+ "Credit card" : "Hitelkártya"
 }
 export default hu

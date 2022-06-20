@@ -386,6 +386,7 @@ let th = {
  "You can find your e-tickets attached to your email or download them" : "คุณสามารถค้นหา e-tickets ของคุณที่แนบมากับอีเมลของคุณหรือดาวน์โหลด",
  "here" : "ที่นี่",
  "Time" : "เวลา",
- "Invalid promo code" : "รหัสโปรโมชั่นที่ไม่ถูกต้อง"
+ "Invalid promo code" : "รหัสโปรโมชั่นที่ไม่ถูกต้อง",
+ "Credit card" : "บัตรเครดิต"
 }
 export default th

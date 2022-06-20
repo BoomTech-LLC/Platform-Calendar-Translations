@@ -385,6 +385,7 @@ let ar = {
  "You can find your e-tickets attached to your email or download them" : "يمكنك العثور على التذاكر الإلكترونية المرفقة ببريدك الإلكتروني أو تنزيلها",
  "here" : "هنا",
  "Time" : "زمن",
- "Invalid promo code" : "الرمز الترويجي غير صالح"
+ "Invalid promo code" : "الرمز الترويجي غير صالح",
+ "Credit card" : "بطاقة الائتمان"
 }
 export default ar

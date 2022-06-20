@@ -385,6 +385,7 @@ let el = {
  "You can find your e-tickets attached to your email or download them" : "Μπορείτε να βρείτε τα e-tickets σας συνδεδεμένα με το email σας ή να τα κατεβάσετε",
  "here" : "εδώ",
  "Time" : "χρόνος",
- "Invalid promo code" : "Μη έγκυρος κωδικός προσφοράς"
+ "Invalid promo code" : "Μη έγκυρος κωδικός προσφοράς",
+ "Credit card" : "Πιστωτική κάρτα"
 }
 export default el

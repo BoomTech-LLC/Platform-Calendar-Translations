@@ -386,6 +386,7 @@ let uk = {
  "You can find your e-tickets attached to your email or download them" : "Ви можете знайти свої електронні квитки, додані до вашої електронної пошти або завантажити їх",
  "here" : "ось",
  "Time" : "Час",
- "Invalid promo code" : "Недійсний промо -код"
+ "Invalid promo code" : "Недійсний промо -код",
+ "Credit card" : "Кредитна карта"
 }
 export default uk

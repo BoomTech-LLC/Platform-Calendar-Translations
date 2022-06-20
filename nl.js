@@ -386,6 +386,7 @@ let nl = {
  "You can find your e-tickets attached to your email or download them" : "U kunt uw e-tickets aan uw e-mail vinden of downloaden",
  "here" : "hier",
  "Time" : "Tijd",
- "Invalid promo code" : "Ongeldige promotiecode"
+ "Invalid promo code" : "Ongeldige promotiecode",
+ "Credit card" : "Kredietkaart"
 }
 export default nl

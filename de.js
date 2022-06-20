@@ -385,6 +385,7 @@ let de = {
  "You can find your e-tickets attached to your email or download them" : "Sie finden Ihre E-Mail-E-Tickets, die an Ihre E-Mail angehängt sind oder sie herunterladen",
  "here" : "hier",
  "Time" : "Zeit",
- "Invalid promo code" : "Ungültiger Promo-Code"
+ "Invalid promo code" : "Ungültiger Promo-Code",
+ "Credit card" : "Kreditkarte"
 }
 export default de

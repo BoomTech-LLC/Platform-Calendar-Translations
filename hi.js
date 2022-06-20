@@ -386,6 +386,7 @@ let hi = {
  "You can find your e-tickets attached to your email or download them" : "आप अपने ईमेल से जुड़े अपने ई-टिकट पा सकते हैं या उन्हें डाउनलोड कर सकते हैं",
  "here" : "यहां",
  "Time" : "समय",
- "Invalid promo code" : "अमान्य प्रोमो कोड"
+ "Invalid promo code" : "अमान्य प्रोमो कोड",
+ "Credit card" : "क्रेडिट कार्ड"
 }
 export default hi
