@@ -385,6 +385,7 @@ let tr = {
  "Cash" : "Nakit",
  "You can find your e-tickets attached to your email or download them" : "E-posta ile e-postanıza bağlı bulabilir veya indirebilirsiniz",
  "here" : "burada",
- "Time" : "Zaman"
+ "Time" : "Zaman",
+ "Invalid promo code" : "Geçersiz reklam kodu"
 }
 export default tr

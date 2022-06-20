@@ -377,6 +377,7 @@ let it = {
  "Cash" : "Contanti",
  "You can find your e-tickets attached to your email or download them" : "Puoi trovare i tuoi biglietti elettronici allegati alla tua e-mail o scaricarli",
  "here" : "qui",
- "Time" : "Volta"
+ "Time" : "Volta",
+ "Invalid promo code" : "Codice promozionale non valido"
 }
 export default it

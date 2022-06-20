@@ -385,6 +385,7 @@ let he = {
  "Cash" : "כסף מזומן",
  "You can find your e-tickets attached to your email or download them" : "אתה יכול למצוא את הכרטיסים האלקטרוניים שלך המחוברים לדוא\"ל שלך או להוריד אותם",
  "here" : "כאן",
- "Time" : "זְמַן"
+ "Time" : "זְמַן",
+ "Invalid promo code" : "קוד פרומו לא חוקי"
 }
 export default he

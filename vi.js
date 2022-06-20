@@ -380,6 +380,7 @@ let vi = {
  "Cash" : "Tiền mặt",
  "You can find your e-tickets attached to your email or download them" : "Bạn có thể tìm thấy vé điện tử của mình được đính kèm vào email của bạn hoặc tải xuống chúng",
  "here" : "nơi đây",
- "Time" : "Thời gian"
+ "Time" : "Thời gian",
+ "Invalid promo code" : "Mã khuyến mại không hợp lệ"
 }
 export default vi

@@ -385,6 +385,7 @@ let ru = {
  "Cash" : "Наличные",
  "You can find your e-tickets attached to your email or download them" : "Вы можете найти свои электронные билеты, прикрепленные к вашей электронной почте или загрузить их",
  "here" : "здесь",
- "Time" : "Время"
+ "Time" : "Время",
+ "Invalid promo code" : "Неверный промо -код"
 }
 export default ru

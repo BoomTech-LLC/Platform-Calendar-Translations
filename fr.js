@@ -377,6 +377,7 @@ let fr = {
  "Cash" : "En espèces",
  "You can find your e-tickets attached to your email or download them" : "Vous pouvez trouver vos creux électroniques joints à votre e-mail ou les télécharger",
  "here" : "ici",
- "Time" : "Temps"
+ "Time" : "Temps",
+ "Invalid promo code" : "Code promotionnel non valide"
 }
 export default fr

@@ -385,6 +385,7 @@ let ja = {
  "Cash" : "現金",
  "You can find your e-tickets attached to your email or download them" : "メールに添付されている電子メールを見つけるか、ダウンロードできます",
  "here" : "ここ",
- "Time" : "時間"
+ "Time" : "時間",
+ "Invalid promo code" : "無効なプロモーションコード"
 }
 export default ja

@@ -385,6 +385,7 @@ let ko = {
  "Cash" : "현금",
  "You can find your e-tickets attached to your email or download them" : "이메일에 첨부 된 전자 티켓을 찾거나 다운로드 할 수 있습니다.",
  "here" : "여기",
- "Time" : "시간"
+ "Time" : "시간",
+ "Invalid promo code" : "잘못된 프로모션 코드"
 }
 export default ko

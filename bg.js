@@ -384,6 +384,7 @@ let bg = {
  "Cash" : "Пари в брой",
  "You can find your e-tickets attached to your email or download them" : "Можете да намерите вашите електронни билети, прикачени към вашия имейл, или да ги изтеглите",
  "here" : "тук",
- "Time" : "Време"
+ "Time" : "Време",
+ "Invalid promo code" : "Невалиден промо код"
 }
 export default bg

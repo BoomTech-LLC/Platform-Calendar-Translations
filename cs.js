@@ -384,6 +384,7 @@ let cs = {
  "Cash" : "Hotovost",
  "You can find your e-tickets attached to your email or download them" : "Najdete své e-tickety připojené k vašemu e-mailu nebo je stáhněte",
  "here" : "tady",
- "Time" : "Čas"
+ "Time" : "Čas",
+ "Invalid promo code" : "Neplatný promo kód"
 }
 export default cs

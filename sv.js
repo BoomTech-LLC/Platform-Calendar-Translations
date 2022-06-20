@@ -390,6 +390,7 @@ let sv = {
  "Cash" : "Kontanter",
  "You can find your e-tickets attached to your email or download them" : "Du kan hitta dina e-biljetter kopplade till din e-post eller ladda ner dem",
  "here" : "här",
- "Time" : "Tid"
+ "Time" : "Tid",
+ "Invalid promo code" : "Ogiltig kampanjkod"
 }
 export default sv
