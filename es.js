@@ -383,6 +383,7 @@ let es = {
  "Promo Code" : "Código promocional",
  "Cash" : "Dinero",
  "You can find your e-tickets attached to your email or download them" : "Puede encontrar sus boletos electrónicos adjuntos a su correo electrónico o descargarlos",
- "here" : "aquí"
+ "here" : "aquí",
+ "Time" : "Tiempo"
 }
 export default es

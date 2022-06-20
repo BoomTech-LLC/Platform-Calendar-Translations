@@ -379,6 +379,7 @@ let vi = {
  "Promo Code" : "Mã khuyến mại",
  "Cash" : "Tiền mặt",
  "You can find your e-tickets attached to your email or download them" : "Bạn có thể tìm thấy vé điện tử của mình được đính kèm vào email của bạn hoặc tải xuống chúng",
- "here" : "nơi đây"
+ "here" : "nơi đây",
+ "Time" : "Thời gian"
 }
 export default vi

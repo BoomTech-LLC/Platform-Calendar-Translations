@@ -384,6 +384,7 @@ let th = {
  "Promo Code" : "รหัสโปรโมชั่น",
  "Cash" : "เงินสด",
  "You can find your e-tickets attached to your email or download them" : "คุณสามารถค้นหา e-tickets ของคุณที่แนบมากับอีเมลของคุณหรือดาวน์โหลด",
- "here" : "ที่นี่"
+ "here" : "ที่นี่",
+ "Time" : "เวลา"
 }
 export default th

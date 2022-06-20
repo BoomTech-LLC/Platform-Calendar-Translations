@@ -383,6 +383,7 @@ let ar = {
  "Promo Code" : "رمز ترويجي",
  "Cash" : "نقدي",
  "You can find your e-tickets attached to your email or download them" : "يمكنك العثور على التذاكر الإلكترونية المرفقة ببريدك الإلكتروني أو تنزيلها",
- "here" : "هنا"
+ "here" : "هنا",
+ "Time" : "زمن"
 }
 export default ar

@@ -384,6 +384,7 @@ let lv = {
  "Promo Code" : "Reklāmas kods",
  "Cash" : "Nauda",
  "You can find your e-tickets attached to your email or download them" : "Jūs varat atrast e-pasta e-e-e-biļetes vai tos lejupielādēt",
- "here" : "šeit"
+ "here" : "šeit",
+ "Time" : "Laiks"
 }
 export default lv

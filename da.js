@@ -383,6 +383,7 @@ let da = {
  "Promo Code" : "Tilbudskode",
  "Cash" : "Kontanter",
  "You can find your e-tickets attached to your email or download them" : "Du kan finde dine e-billetter vedhæftet til din e-mail eller downloade dem",
- "here" : "her"
+ "here" : "her",
+ "Time" : "Tid"
 }
 export default da

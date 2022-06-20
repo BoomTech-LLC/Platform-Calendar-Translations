@@ -383,6 +383,7 @@ let el = {
  "Promo Code" : "Προώθηση",
  "Cash" : "Μετρητά",
  "You can find your e-tickets attached to your email or download them" : "Μπορείτε να βρείτε τα e-tickets σας συνδεδεμένα με το email σας ή να τα κατεβάσετε",
- "here" : "εδώ"
+ "here" : "εδώ",
+ "Time" : "χρόνος"
 }
 export default el

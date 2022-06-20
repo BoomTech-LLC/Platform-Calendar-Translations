@@ -376,6 +376,7 @@ let it = {
  "Promo Code" : "Codice promozionale",
  "Cash" : "Contanti",
  "You can find your e-tickets attached to your email or download them" : "Puoi trovare i tuoi biglietti elettronici allegati alla tua e-mail o scaricarli",
- "here" : "qui"
+ "here" : "qui",
+ "Time" : "Volta"
 }
 export default it

@@ -384,6 +384,7 @@ let no = {
  "Promo Code" : "Rabattkode",
  "Cash" : "Penger",
  "You can find your e-tickets attached to your email or download them" : "Du kan finne e-billedtene dine som er knyttet til e-posten din eller last ned dem",
- "here" : "her"
+ "here" : "her",
+ "Time" : "Tid"
 }
 export default no
