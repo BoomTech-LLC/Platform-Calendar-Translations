@@ -374,6 +374,8 @@ let it = {
  "Enter promo code" : "Immettere il codice promozionale",
  "Apply" : "Applicare",
  "Promo Code" : "Codice promozionale",
- "Cash" : "Contanti"
+ "Cash" : "Contanti",
+ "You can find your e-tickets attached to your email or download them" : "Puoi trovare i tuoi biglietti elettronici allegati alla tua e-mail o scaricarli",
+ "here" : "qui"
 }
 export default it

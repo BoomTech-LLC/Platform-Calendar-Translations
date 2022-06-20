@@ -382,6 +382,8 @@ let no = {
  "Enter promo code" : "Skriv inn kampanjekode",
  "Apply" : "Søke om",
  "Promo Code" : "Rabattkode",
- "Cash" : "Penger"
+ "Cash" : "Penger",
+ "You can find your e-tickets attached to your email or download them" : "Du kan finne e-billedtene dine som er knyttet til e-posten din eller last ned dem",
+ "here" : "her"
 }
 export default no

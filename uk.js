@@ -382,6 +382,8 @@ let uk = {
  "Enter promo code" : "Введіть промо -код",
  "Apply" : "Застосовувати",
  "Promo Code" : "Промо -код",
- "Cash" : "Готівка"
+ "Cash" : "Готівка",
+ "You can find your e-tickets attached to your email or download them" : "Ви можете знайти свої електронні квитки, додані до вашої електронної пошти або завантажити їх",
+ "here" : "ось"
 }
 export default uk

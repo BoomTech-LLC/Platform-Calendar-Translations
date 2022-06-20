@@ -382,6 +382,8 @@ let nl = {
  "Enter promo code" : "Voer de promotiecode in",
  "Apply" : "Van toepassing zijn",
  "Promo Code" : "Promotiecode",
- "Cash" : "Contant geld"
+ "Cash" : "Contant geld",
+ "You can find your e-tickets attached to your email or download them" : "U kunt uw e-tickets aan uw e-mail vinden of downloaden",
+ "here" : "hier"
 }
 export default nl

@@ -382,6 +382,8 @@ let ru = {
  "Enter promo code" : "Введите промо-код",
  "Apply" : "Подать заявление",
  "Promo Code" : "Промо-код",
- "Cash" : "Наличные"
+ "Cash" : "Наличные",
+ "You can find your e-tickets attached to your email or download them" : "Вы можете найти свои электронные билеты, прикрепленные к вашей электронной почте или загрузить их",
+ "here" : "здесь"
 }
 export default ru

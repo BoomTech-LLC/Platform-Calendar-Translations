@@ -379,6 +379,8 @@ let hu = {
  "Enter promo code" : "Írja be a promóciós kódot",
  "Apply" : "Alkalmaz",
  "Promo Code" : "Promóciós kód",
- "Cash" : "Készpénz"
+ "Cash" : "Készpénz",
+ "You can find your e-tickets attached to your email or download them" : "Megtalálhatja az e-mailhez csatolt e-jegyeket, vagy letöltheti azokat",
+ "here" : "itt"
 }
 export default hu

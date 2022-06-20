@@ -382,6 +382,8 @@ let pt = {
  "Enter promo code" : "Insira o código promocional",
  "Apply" : "Aplicar",
  "Promo Code" : "Código promocional",
- "Cash" : "Dinheiro"
+ "Cash" : "Dinheiro",
+ "You can find your e-tickets attached to your email or download them" : "Você pode encontrar seus bilhetes eletrônicos anexados ao seu e-mail ou baixá-los",
+ "here" : "aqui"
 }
 export default pt

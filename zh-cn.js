@@ -382,6 +382,8 @@ let zh = {
  "Enter promo code" : "输入促销代码",
  "Apply" : "申请",
  "Promo Code" : "促销代码",
- "Cash" : "现金"
+ "Cash" : "现金",
+ "You can find your e-tickets attached to your email or download them" : "您可以找到附加到电子邮件的电子机票或下载它们",
+ "here" : "这里"
 }
 export default zh-cn

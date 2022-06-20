@@ -387,6 +387,8 @@ let sv = {
  "Enter promo code" : "Ange kampanjkod",
  "Apply" : "Tillämpa",
  "Promo Code" : "Rabattkod",
- "Cash" : "Kontanter"
+ "Cash" : "Kontanter",
+ "You can find your e-tickets attached to your email or download them" : "Du kan hitta dina e-biljetter kopplade till din e-post eller ladda ner dem",
+ "here" : "här"
 }
 export default sv

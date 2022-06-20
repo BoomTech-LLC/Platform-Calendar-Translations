@@ -381,6 +381,8 @@ let ar = {
  "Enter promo code" : "إدخال الرمز الترويجي",
  "Apply" : "يتقدم",
  "Promo Code" : "رمز ترويجي",
- "Cash" : "نقدي"
+ "Cash" : "نقدي",
+ "You can find your e-tickets attached to your email or download them" : "يمكنك العثور على التذاكر الإلكترونية المرفقة ببريدك الإلكتروني أو تنزيلها",
+ "here" : "هنا"
 }
 export default ar

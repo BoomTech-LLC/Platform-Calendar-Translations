@@ -381,6 +381,8 @@ let da = {
  "Enter promo code" : "Indtast promo -kode",
  "Apply" : "ansøge",
  "Promo Code" : "Tilbudskode",
- "Cash" : "Kontanter"
+ "Cash" : "Kontanter",
+ "You can find your e-tickets attached to your email or download them" : "Du kan finde dine e-billetter vedhæftet til din e-mail eller downloade dem",
+ "here" : "her"
 }
 export default da

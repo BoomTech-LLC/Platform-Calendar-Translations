@@ -382,6 +382,8 @@ let th = {
  "Enter promo code" : "ป้อนรหัสโปรโมชั่น",
  "Apply" : "นำมาใช้",
  "Promo Code" : "รหัสโปรโมชั่น",
- "Cash" : "เงินสด"
+ "Cash" : "เงินสด",
+ "You can find your e-tickets attached to your email or download them" : "คุณสามารถค้นหา e-tickets ของคุณที่แนบมากับอีเมลของคุณหรือดาวน์โหลด",
+ "here" : "ที่นี่"
 }
 export default th

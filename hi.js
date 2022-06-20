@@ -382,6 +382,8 @@ let hi = {
  "Enter promo code" : "प्रचार कि नियमावली दर्ज करो",
  "Apply" : "आवेदन करना",
  "Promo Code" : "प्रचार कोड",
- "Cash" : "नकद"
+ "Cash" : "नकद",
+ "You can find your e-tickets attached to your email or download them" : "आप अपने ईमेल से जुड़े अपने ई-टिकट पा सकते हैं या उन्हें डाउनलोड कर सकते हैं",
+ "here" : "यहां"
 }
 export default hi

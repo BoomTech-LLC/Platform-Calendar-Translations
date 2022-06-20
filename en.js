@@ -377,6 +377,8 @@ let en = {
  "Enter promo code" : "Enter promo code",
  "Apply" : "Apply",
  "Promo Code" : "Promo Code",
- "Cash" : "Cash"
+ "Cash" : "Cash",
+ "You can find your e-tickets attached to your email or download them" : "You can find your e-tickets attached to your email or download them",
+ "here" : "here"
 }
 export default en

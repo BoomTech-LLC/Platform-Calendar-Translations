@@ -382,6 +382,8 @@ let fa = {
  "Enter promo code" : "کد تبلیغاتی را وارد کنید",
  "Apply" : "درخواست دادن",
  "Promo Code" : "رمز تبلیغی",
- "Cash" : "پول نقد"
+ "Cash" : "پول نقد",
+ "You can find your e-tickets attached to your email or download them" : "می توانید بلیط های الکترونیکی خود را که به ایمیل خود ضمیمه شده اند پیدا کنید یا آنها را بارگیری کنید",
+ "here" : "اینجا"
 }
 export default fa

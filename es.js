@@ -381,6 +381,8 @@ let es = {
  "Enter promo code" : "Introduce el código de promoción",
  "Apply" : "Aplicar",
  "Promo Code" : "Código promocional",
- "Cash" : "Dinero"
+ "Cash" : "Dinero",
+ "You can find your e-tickets attached to your email or download them" : "Puede encontrar sus boletos electrónicos adjuntos a su correo electrónico o descargarlos",
+ "here" : "aquí"
 }
 export default es
