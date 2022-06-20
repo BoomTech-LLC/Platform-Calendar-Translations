@@ -386,4 +386,4 @@ let zh = {
  "You can find your e-tickets attached to your email or download them" : "您可以找到附加到电子邮件的电子机票或下载它们",
  "here" : "这里"
 }
-export default zh-cn
+export default zh
