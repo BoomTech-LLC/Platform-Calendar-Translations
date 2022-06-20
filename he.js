@@ -383,7 +383,7 @@ let he = {
  "Apply" : "להגיש מועמדות",
  "Promo Code" : "קוד קופון",
  "Cash" : "כסף מזומן",
- "You can find your e-tickets attached to your email or download them" : "אתה יכול למצוא את הכרטיסים האלקטרוניים שלך המחוברים לדוא"ל שלך או להוריד אותם",
+ "You can find your e-tickets attached to your email or download them" : "אתה יכול למצוא את הכרטיסים האלקטרוניים שלך המחוברים לדוא\"ל שלך או להוריד אותם",
  "here" : "כאן"
 }
 export default he
