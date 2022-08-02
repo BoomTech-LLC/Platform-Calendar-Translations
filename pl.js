@@ -390,6 +390,6 @@ let pl = {
  "You will soon receive a confirmation message of successful registration to your email address." : "Wkrótce otrzymasz wiadomość potwierdzającą udaną rejestrację na swój adres e -mail.",
  "You can also check your order details below." : "Możesz także sprawdzić szczegóły zamówienia poniżej.",
  "at" : "w",
- "buy" : "Kup"
+ "Buy" : "Kup"
 }
 export default pl

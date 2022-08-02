@@ -389,6 +389,6 @@ let ar = {
  "You will soon receive a confirmation message of successful registration to your email address." : "ستتلقى قريبًا رسالة تأكيد للتسجيل الناجح إلى عنوان بريدك الإلكتروني.",
  "You can also check your order details below." : "يمكنك أيضًا التحقق من تفاصيل طلبك أدناه.",
  "at" : "في",
- "buy" : "يشترى"
+ "Buy" : "يشتري"
 }
 export default ar

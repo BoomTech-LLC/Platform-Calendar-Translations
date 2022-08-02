@@ -383,6 +383,6 @@ let fr = {
  "You will soon receive a confirmation message of successful registration to your email address." : "Vous recevrez bientôt un message de confirmation de l'inscription réussie à votre adresse e-mail.",
  "You can also check your order details below." : "Vous pouvez également vérifier les détails de votre commande ci-dessous.",
  "at" : "à",
- "buy" : "acheter"
+ "Buy" : "Acheter"
 }
 export default fr

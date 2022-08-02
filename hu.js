@@ -387,6 +387,6 @@ let hu = {
  "You will soon receive a confirmation message of successful registration to your email address." : "Hamarosan megerősítő üzenetet kap a sikeres regisztrációról az e -mail címére.",
  "You can also check your order details below." : "Az alábbiakban ellenőrizheti a megrendelés részleteit is.",
  "at" : "nál nél",
- "buy" : "megvesz"
+ "Buy" : "megvesz"
 }
 export default hu

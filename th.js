@@ -390,6 +390,6 @@ let th = {
  "You will soon receive a confirmation message of successful registration to your email address." : "คุณจะได้รับข้อความยืนยันการลงทะเบียนที่ประสบความสำเร็จในที่อยู่อีเมลของคุณ",
  "You can also check your order details below." : "คุณสามารถตรวจสอบรายละเอียดการสั่งซื้อของคุณด้านล่าง",
  "at" : "ที่",
- "buy" : "ซื้อ"
+ "Buy" : "ซื้อ"
 }
 export default th
