@@ -389,6 +389,7 @@ let ko = {
  "Credit card" : "신용 카드",
  "You will soon receive a confirmation message of successful registration to your email address." : "곧 이메일 주소에 성공적인 등록의 확인 메시지를 받게됩니다.",
  "You can also check your order details below." : "아래에서 주문 세부 정보를 확인할 수도 있습니다.",
- "at" : "~에"
+ "at" : "~에",
+ "buy" : "구입"
 }
 export default ko

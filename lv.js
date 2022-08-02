@@ -389,6 +389,7 @@ let lv = {
  "Credit card" : "Kredītkarte",
  "You will soon receive a confirmation message of successful registration to your email address." : "Drīz jūs saņemsit apstiprinājuma ziņojumu par veiksmīgu reģistrāciju uz savu e -pasta adresi.",
  "You can also check your order details below." : "Varat arī pārbaudīt savu pasūtījuma informāciju zemāk.",
- "at" : "pie"
+ "at" : "pie",
+ "buy" : "iegādāties"
 }
 export default lv

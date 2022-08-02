@@ -389,6 +389,7 @@ let he = {
  "Credit card" : "כרטיס אשראי",
  "You will soon receive a confirmation message of successful registration to your email address." : "בקרוב תקבל הודעת אישור של רישום מוצלח לכתובת הדוא\"ל שלך.",
  "You can also check your order details below." : "אתה יכול גם לבדוק את פרטי ההזמנה שלך למטה.",
- "at" : "בְּ-"
+ "at" : "בְּ-",
+ "buy" : "לִקְנוֹת"
 }
 export default he

@@ -384,6 +384,7 @@ let en = {
  "Credit card" : "Credit card",
  "You will soon receive a confirmation message of successful registration to your email address." : "You will soon receive a confirmation message of successful registration to your email address.",
  "You can also check your order details below." : "You can also check your order details below.",
- "at" : "at"
+ "at" : "at",
+ "buy" : "buy"
 }
 export default en

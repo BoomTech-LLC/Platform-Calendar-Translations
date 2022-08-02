@@ -389,6 +389,7 @@ let fa = {
  "Credit card" : "کارت اعتباری",
  "You will soon receive a confirmation message of successful registration to your email address." : "به زودی پیام تأیید ثبت نام موفق را به آدرس ایمیل خود دریافت خواهید کرد.",
  "You can also check your order details below." : "همچنین می توانید جزئیات سفارش خود را در زیر بررسی کنید.",
- "at" : "در"
+ "at" : "در",
+ "buy" : "خرید کردن"
 }
 export default fa

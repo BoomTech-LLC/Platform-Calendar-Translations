@@ -389,6 +389,7 @@ let uk = {
  "Credit card" : "Кредитна карта",
  "You will soon receive a confirmation message of successful registration to your email address." : "Незабаром ви отримаєте повідомлення про підтвердження успішної реєстрації на свою електронну адресу.",
  "You can also check your order details below." : "Ви також можете перевірити деталі свого замовлення нижче.",
- "at" : "в"
+ "at" : "в",
+ "buy" : "купувати"
 }
 export default uk

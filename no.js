@@ -389,6 +389,7 @@ let no = {
  "Credit card" : "Kredittkort",
  "You will soon receive a confirmation message of successful registration to your email address." : "Du vil snart motta en bekreftelsesmelding om vellykket registrering på e -postadressen din.",
  "You can also check your order details below." : "Du kan også sjekke bestillingsdetaljene dine nedenfor.",
- "at" : "på"
+ "at" : "på",
+ "buy" : "kjøpe"
 }
 export default no

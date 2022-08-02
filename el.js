@@ -388,6 +388,7 @@ let el = {
  "Credit card" : "Πιστωτική κάρτα",
  "You will soon receive a confirmation message of successful registration to your email address." : "Σύντομα θα λάβετε ένα μήνυμα επιβεβαίωσης επιτυχούς εγγραφής στη διεύθυνση email σας.",
  "You can also check your order details below." : "Μπορείτε επίσης να ελέγξετε τα στοιχεία της παραγγελίας σας παρακάτω.",
- "at" : "στο"
+ "at" : "στο",
+ "buy" : "αγορά"
 }
 export default el

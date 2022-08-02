@@ -388,6 +388,7 @@ let de = {
  "Credit card" : "Kreditkarte",
  "You will soon receive a confirmation message of successful registration to your email address." : "Sie erhalten bald eine Bestätigungsnachricht zur erfolgreichen Registrierung an Ihre E -Mail -Adresse.",
  "You can also check your order details below." : "Sie können auch Ihre Bestelldaten unten überprüfen.",
- "at" : "bei"
+ "at" : "bei",
+ "buy" : "Kaufen"
 }
 export default de
