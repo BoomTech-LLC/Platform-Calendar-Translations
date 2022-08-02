@@ -393,6 +393,7 @@ let sv = {
  "Invalid promo code" : "Ogiltig kampanjkod",
  "Credit card" : "Kreditkort",
  "You will soon receive a confirmation message of successful registration to your email address." : "Du kommer snart att få ett bekräftelsemeddelande om framgångsrik registrering till din e -postadress.",
- "You can also check your order details below." : "Du kan också kontrollera dina beställningsuppgifter nedan."
+ "You can also check your order details below." : "Du kan också kontrollera dina beställningsuppgifter nedan.",
+ "at" : "på"
 }
 export default sv

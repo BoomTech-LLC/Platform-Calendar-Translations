@@ -388,6 +388,7 @@ let pt = {
  "Invalid promo code" : "Código promocional inválido",
  "Credit card" : "Cartão de crédito",
  "You will soon receive a confirmation message of successful registration to your email address." : "Em breve, você receberá uma mensagem de confirmação do registro bem -sucedido no seu endereço de e -mail.",
- "You can also check your order details below." : "Você também pode verificar os detalhes do seu pedido abaixo."
+ "You can also check your order details below." : "Você também pode verificar os detalhes do seu pedido abaixo.",
+ "at" : "no"
 }
 export default pt

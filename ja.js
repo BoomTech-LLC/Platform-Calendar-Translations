@@ -388,6 +388,7 @@ let ja = {
  "Invalid promo code" : "無効なプロモーションコード",
  "Credit card" : "クレジットカード",
  "You will soon receive a confirmation message of successful registration to your email address." : "すぐに、メールアドレスへの登録が成功した確認メッセージを受け取ります。",
- "You can also check your order details below." : "以下の注文の詳細を確認することもできます。"
+ "You can also check your order details below." : "以下の注文の詳細を確認することもできます。",
+ "at" : "で"
 }
 export default ja

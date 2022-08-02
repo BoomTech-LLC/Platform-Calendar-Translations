@@ -383,6 +383,7 @@ let en = {
  "Invalid promo code" : "Invalid promo code",
  "Credit card" : "Credit card",
  "You will soon receive a confirmation message of successful registration to your email address." : "You will soon receive a confirmation message of successful registration to your email address.",
- "You can also check your order details below." : "You can also check your order details below."
+ "You can also check your order details below." : "You can also check your order details below.",
+ "at" : "at"
 }
 export default en

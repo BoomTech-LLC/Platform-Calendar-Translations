@@ -387,6 +387,7 @@ let es = {
  "Invalid promo code" : "Código de promoción no válido",
  "Credit card" : "Tarjeta de crédito",
  "You will soon receive a confirmation message of successful registration to your email address." : "Pronto recibirá un mensaje de confirmación de registro exitoso en su dirección de correo electrónico.",
- "You can also check your order details below." : "También puede verificar los detalles de su pedido a continuación."
+ "You can also check your order details below." : "También puede verificar los detalles de su pedido a continuación.",
+ "at" : "a"
 }
 export default es

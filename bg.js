@@ -387,6 +387,7 @@ let bg = {
  "Invalid promo code" : "Невалиден промо код",
  "Credit card" : "Кредитна карта",
  "You will soon receive a confirmation message of successful registration to your email address." : "Скоро ще получите съобщение за потвърждение за успешна регистрация на вашия имейл адрес.",
- "You can also check your order details below." : "Можете също да проверите данните си за поръчката по -долу."
+ "You can also check your order details below." : "Можете също да проверите данните си за поръчката по -долу.",
+ "at" : "at"
 }
 export default bg

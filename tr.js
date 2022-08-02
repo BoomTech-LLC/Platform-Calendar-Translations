@@ -388,6 +388,7 @@ let tr = {
  "Invalid promo code" : "Geçersiz reklam kodu",
  "Credit card" : "Kredi kartı",
  "You will soon receive a confirmation message of successful registration to your email address." : "Yakında e -posta adresinize başarılı bir kayıt onay mesajı alacaksınız.",
- "You can also check your order details below." : "Sipariş bilgilerinizi aşağıda da kontrol edebilirsiniz."
+ "You can also check your order details below." : "Sipariş bilgilerinizi aşağıda da kontrol edebilirsiniz.",
+ "at" : "-den"
 }
 export default tr

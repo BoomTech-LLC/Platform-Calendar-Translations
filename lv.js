@@ -388,6 +388,7 @@ let lv = {
  "Invalid promo code" : "Nederīgs reklāmas kods",
  "Credit card" : "Kredītkarte",
  "You will soon receive a confirmation message of successful registration to your email address." : "Drīz jūs saņemsit apstiprinājuma ziņojumu par veiksmīgu reģistrāciju uz savu e -pasta adresi.",
- "You can also check your order details below." : "Varat arī pārbaudīt savu pasūtījuma informāciju zemāk."
+ "You can also check your order details below." : "Varat arī pārbaudīt savu pasūtījuma informāciju zemāk.",
+ "at" : "pie"
 }
 export default lv

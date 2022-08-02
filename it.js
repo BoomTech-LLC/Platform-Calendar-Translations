@@ -380,6 +380,7 @@ let it = {
  "Invalid promo code" : "Codice promozionale non valido",
  "Credit card" : "Carta di credito",
  "You will soon receive a confirmation message of successful registration to your email address." : "Presto riceverai un messaggio di conferma della registrazione riuscita al tuo indirizzo email.",
- "You can also check your order details below." : "Di seguito puoi anche controllare i dettagli dell'ordine."
+ "You can also check your order details below." : "Di seguito puoi anche controllare i dettagli dell'ordine.",
+ "at" : "a"
 }
 export default it

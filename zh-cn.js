@@ -388,6 +388,7 @@ let zh = {
  "Invalid promo code" : "无效的促销代码",
  "Credit card" : "信用卡",
  "You will soon receive a confirmation message of successful registration to your email address." : "您很快将收到成功注册到电子邮件地址的确认消息。",
- "You can also check your order details below." : "您也可以在下面查看订单详细信息。"
+ "You can also check your order details below." : "您也可以在下面查看订单详细信息。",
+ "at" : "在"
 }
-export default zh
+export default zh-cn

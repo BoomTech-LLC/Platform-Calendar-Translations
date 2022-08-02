@@ -388,6 +388,7 @@ let no = {
  "Invalid promo code" : "Ugyldig kampanjekode",
  "Credit card" : "Kredittkort",
  "You will soon receive a confirmation message of successful registration to your email address." : "Du vil snart motta en bekreftelsesmelding om vellykket registrering på e -postadressen din.",
- "You can also check your order details below." : "Du kan også sjekke bestillingsdetaljene dine nedenfor."
+ "You can also check your order details below." : "Du kan også sjekke bestillingsdetaljene dine nedenfor.",
+ "at" : "på"
 }
 export default no

@@ -383,6 +383,7 @@ let vi = {
  "Invalid promo code" : "Mã khuyến mại không hợp lệ",
  "Credit card" : "Thẻ tín dụng",
  "You will soon receive a confirmation message of successful registration to your email address." : "Bạn sẽ sớm nhận được tin nhắn xác nhận đăng ký thành công vào địa chỉ email của bạn.",
- "You can also check your order details below." : "Bạn cũng có thể kiểm tra chi tiết đơn đặt hàng của bạn dưới đây."
+ "You can also check your order details below." : "Bạn cũng có thể kiểm tra chi tiết đơn đặt hàng của bạn dưới đây.",
+ "at" : "tại"
 }
 export default vi
