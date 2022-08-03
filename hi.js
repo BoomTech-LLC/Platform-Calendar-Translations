@@ -403,6 +403,7 @@ let hi = {
  "months" : "महीने",
  "years" : "वर्षों",
  "weeks" : "हफ्तों",
- "Copy Event Url" : "कॉपी इवेंट URL"
+ "Copy Event Url" : "कॉपी इवेंट URL",
+ "You can find your e-tickets attached to your email or print them" : "आप अपने ईमेल से जुड़े अपने ई-टिकट पा सकते हैं या उन्हें प्रिंट कर सकते हैं"
 }
 export default hi

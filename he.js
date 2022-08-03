@@ -403,6 +403,7 @@ let he = {
  "months" : "חודשים",
  "years" : "שנים",
  "weeks" : "שבועות",
- "Copy Event Url" : "העתק את כתובת האירוע"
+ "Copy Event Url" : "העתק את כתובת האירוע",
+ "You can find your e-tickets attached to your email or print them" : "אתה יכול למצוא את הכרטיסים האלקטרוניים שלך המחוברים לדוא"ל שלך או להדפיס אותם"
 }
 export default he

@@ -398,6 +398,7 @@ let vi = {
  "months" : "tháng",
  "years" : "năm",
  "weeks" : "tuần",
- "Copy Event Url" : "Sao chép URL sự kiện"
+ "Copy Event Url" : "Sao chép URL sự kiện",
+ "You can find your e-tickets attached to your email or print them" : "Bạn có thể tìm thấy vé điện tử của mình được đính kèm vào email của bạn hoặc in chúng"
 }
 export default vi

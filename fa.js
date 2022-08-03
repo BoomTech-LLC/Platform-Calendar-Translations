@@ -403,6 +403,7 @@ let fa = {
  "months" : "ماه ها",
  "years" : "سال ها",
  "weeks" : "چند هفته",
- "Copy Event Url" : "URL رویداد را کپی کنید"
+ "Copy Event Url" : "URL رویداد را کپی کنید",
+ "You can find your e-tickets attached to your email or print them" : "می توانید بلیط های الکترونیکی خود را که به ایمیل خود ضمیمه شده اند پیدا کنید یا آنها را چاپ کنید"
 }
 export default fa

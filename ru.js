@@ -403,6 +403,7 @@ let ru = {
  "months" : "месяцы",
  "years" : "годы",
  "weeks" : "недели",
- "Copy Event Url" : "Копировать URL"
+ "Copy Event Url" : "Копировать URL",
+ "You can find your e-tickets attached to your email or print them" : "Вы можете найти свои электронные билеты, прикрепленные к вашей электронной почте или распечатать их"
 }
 export default ru

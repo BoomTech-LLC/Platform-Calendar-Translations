@@ -397,5 +397,6 @@ let fr = {
   "years": "années",
   "weeks": "semaines",
   "Copy Event Url": "Copier l'URL de l'événement",
+ "You can find your e-tickets attached to your email or print them" : "Vous pouvez trouver vos creux électroniques joints à votre e-mail ou les imprimer"
 }
 export default fr

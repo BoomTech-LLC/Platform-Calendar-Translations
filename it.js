@@ -395,6 +395,7 @@ let it = {
  "months" : "mesi",
  "years" : "anni",
  "weeks" : "settimane",
- "Copy Event Url" : "Copia URL evento"
+ "Copy Event Url" : "Copia URL evento",
+ "You can find your e-tickets attached to your email or print them" : "Puoi trovare i tuoi biglietti elettronici allegati alla tua e-mail o stamparli"
 }
 export default it

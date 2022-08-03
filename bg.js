@@ -402,6 +402,7 @@ let bg = {
  "months" : "месеци",
  "years" : "години",
  "weeks" : "седмици",
- "Copy Event Url" : "Copy Event URL адрес"
+ "Copy Event Url" : "Copy Event URL адрес",
+ "You can find your e-tickets attached to your email or print them" : "Можете да намерите вашите електронни билети, прикачени към вашия имейл, или да ги отпечатате"
 }
 export default bg

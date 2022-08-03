@@ -403,6 +403,7 @@ let ja = {
  "months" : "数ヶ月",
  "years" : "年",
  "weeks" : "週",
- "Copy Event Url" : "イベントURLをコピーします"
+ "Copy Event Url" : "イベントURLをコピーします",
+ "You can find your e-tickets attached to your email or print them" : "電子メールに添付されているeチケットを見つけるか、印刷することができます"
 }
 export default ja

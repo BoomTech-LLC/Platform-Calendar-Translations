@@ -403,6 +403,7 @@ let lv = {
  "months" : "mēneši",
  "years" : "gadi",
  "weeks" : "nedēļu",
- "Copy Event Url" : "Kopēt notikumu URL"
+ "Copy Event Url" : "Kopēt notikumu URL",
+ "You can find your e-tickets attached to your email or print them" : "Jūs varat atrast e-pasta e-e-e-biļetes vai tos izdrukāt"
 }
 export default lv

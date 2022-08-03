@@ -403,6 +403,7 @@ let ko = {
  "months" : "달",
  "years" : "연령",
  "weeks" : "주",
- "Copy Event Url" : "이벤트 URL 복사"
+ "Copy Event Url" : "이벤트 URL 복사",
+ "You can find your e-tickets attached to your email or print them" : "이메일에 첨부 된 전자 티켓을 찾거나 인쇄 할 수 있습니다."
 }
 export default ko

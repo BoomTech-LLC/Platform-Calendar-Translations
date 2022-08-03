@@ -403,6 +403,7 @@ let nl = {
  "months" : "maanden",
  "years" : "jaar",
  "weeks" : "weken",
- "Copy Event Url" : "Kopieer Event URL"
+ "Copy Event Url" : "Kopieer Event URL",
+ "You can find your e-tickets attached to your email or print them" : "U kunt uw e-tickets aan uw e-mail vinden of afdrukken"
 }
 export default nl

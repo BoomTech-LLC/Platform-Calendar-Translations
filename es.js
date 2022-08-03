@@ -402,6 +402,7 @@ let es = {
  "months" : "meses",
  "years" : "años",
  "weeks" : "semanas",
- "Copy Event Url" : "Copiar URL del evento"
+ "Copy Event Url" : "Copiar URL del evento",
+ "You can find your e-tickets attached to your email or print them" : "Puede encontrar sus boletos electrónicos adjuntos a su correo electrónico o imprimirlos"
 }
 export default es

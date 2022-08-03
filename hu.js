@@ -400,6 +400,7 @@ let hu = {
  "months" : "hónapok",
  "years" : "évek",
  "weeks" : "hetek",
- "Copy Event Url" : "Másolja az esemény URL -jét"
+ "Copy Event Url" : "Másolja az esemény URL -jét",
+ "You can find your e-tickets attached to your email or print them" : "Megtalálhatja az e-mailhez csatolt e-jegyeket, vagy kinyomtathatja azokat"
 }
 export default hu

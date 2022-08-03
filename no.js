@@ -403,6 +403,7 @@ let no = {
  "months" : "måneder",
  "years" : "år",
  "weeks" : "uker",
- "Copy Event Url" : "Kopier hendelses url"
+ "Copy Event Url" : "Kopier hendelses url",
+ "You can find your e-tickets attached to your email or print them" : "Du kan finne e-billedene dine som er knyttet til e-posten din eller skrive dem ut"
 }
 export default no

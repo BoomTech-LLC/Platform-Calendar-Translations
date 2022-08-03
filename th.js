@@ -403,6 +403,7 @@ let th = {
  "months" : "เดือน",
  "years" : "ปี",
  "weeks" : "หลายสัปดาห์",
- "Copy Event Url" : "คัดลอก URL เหตุการณ์"
+ "Copy Event Url" : "คัดลอก URL เหตุการณ์",
+ "You can find your e-tickets attached to your email or print them" : "คุณสามารถค้นหา e-tickets ของคุณที่แนบมากับอีเมลของคุณหรือพิมพ์"
 }
 export default th

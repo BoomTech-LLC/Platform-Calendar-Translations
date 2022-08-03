@@ -408,6 +408,7 @@ let sv = {
  "months" : "månad",
  "years" : "år",
  "weeks" : "Veckor",
- "Copy Event Url" : "Kopiera Event -URL"
+ "Copy Event Url" : "Kopiera Event -URL",
+ "You can find your e-tickets attached to your email or print them" : "Du kan hitta dina e-biljetter kopplade till din e-post eller skriva ut dem"
 }
 export default sv

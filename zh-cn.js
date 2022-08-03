@@ -403,6 +403,7 @@ let zh = {
  "months" : "月份",
  "years" : "年",
  "weeks" : "几周",
- "Copy Event Url" : "复制事件URL"
+ "Copy Event Url" : "复制事件URL",
+ "You can find your e-tickets attached to your email or print them" : "您可以找到附加到电子邮件的电子机票或打印"
 }
 export default zh-cn

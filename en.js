@@ -398,6 +398,7 @@ let en = {
  "months" : "months",
  "years" : "years",
  "weeks" : "weeks",
- "Copy Event Url" : "Copy Event Url"
+ "Copy Event Url" : "Copy Event Url",
+ "You can find your e-tickets attached to your email or print them" : "You can find your e-tickets attached to your email or print them"
 }
 export default en

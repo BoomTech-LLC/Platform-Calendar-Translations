@@ -402,6 +402,7 @@ let da = {
  "months" : "måneder",
  "years" : "flere år",
  "weeks" : "uger",
- "Copy Event Url" : "Kopier begivenheds URL"
+ "Copy Event Url" : "Kopier begivenheds URL",
+ "You can find your e-tickets attached to your email or print them" : "Du kan finde dine e-billetter vedhæftet til din e-mail eller udskrive dem"
 }
 export default da

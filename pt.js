@@ -403,6 +403,7 @@ let pt = {
  "months" : "meses",
  "years" : "anos",
  "weeks" : "semanas",
- "Copy Event Url" : "Copiar URL do evento"
+ "Copy Event Url" : "Copiar URL do evento",
+ "You can find your e-tickets attached to your email or print them" : "Você pode encontrar seus bilhetes eletrônicos anexados ao seu e-mail ou imprimi-los"
 }
 export default pt

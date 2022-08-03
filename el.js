@@ -402,6 +402,7 @@ let el = {
  "months" : "μήνες",
  "years" : "έτη",
  "weeks" : "εβδομάδες",
- "Copy Event Url" : "Αντιγραφή URL συμβάντος"
+ "Copy Event Url" : "Αντιγραφή URL συμβάντος",
+ "You can find your e-tickets attached to your email or print them" : "Μπορείτε να βρείτε τα e-tickets σας συνδεδεμένα με το email σας ή να τα εκτυπώσετε"
 }
 export default el

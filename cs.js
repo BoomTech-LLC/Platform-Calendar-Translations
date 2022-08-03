@@ -402,6 +402,7 @@ let cs = {
  "months" : "měsíce",
  "years" : "roky",
  "weeks" : "týdny",
- "Copy Event Url" : "URL kopírování události"
+ "Copy Event Url" : "URL kopírování události",
+ "You can find your e-tickets attached to your email or print them" : "Najdete své e-tickety připojené k vašemu e-mailu nebo je vytisknout"
 }
 export default cs
