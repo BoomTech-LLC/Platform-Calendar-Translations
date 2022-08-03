@@ -48,6 +48,7 @@ let it = {
   "Default Date": "Data predefinita",
   "year": " anno ",
   "month": " mese ",
+  "mo": " mese ",
   "days": " giorni ",
   "ago": " ago ",
   "ahead": " avanti ",
@@ -388,7 +389,8 @@ let it = {
  "Choose" : "Scegliere",
  "Chosen" : "Scelto",
  "Choose your plan" : "Scegli il tuo piano",
- "week" : "settimana",
+  "week": "settimana",
+  "wk": "settimana",
  "Choose plan cycle" : "Scegli il ciclo del piano"
 }
 export default it

@@ -47,6 +47,7 @@ let en = {
   "Default Date": "Default Date",
   "year": "year",
   "month": "month",
+  "mo": "month",
   "days": "days",
   "ago": "ago",
   "ahead": "ahead",
@@ -391,7 +392,8 @@ let en = {
  "Choose" : "Choose",
  "Chosen" : "Chosen",
  "Choose your plan" : "Choose your plan",
- "week" : "week",
+  "week": "week",
+  "wk": "week",
  "Choose plan cycle" : "Choose plan cycle"
 }
 export default en

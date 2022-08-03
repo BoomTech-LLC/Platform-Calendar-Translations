@@ -49,6 +49,7 @@ let bg = {
   "Default Date": "Дата по подразбиране",
   "year": " година ",
   "month": " месец ",
+  "mo": " месец ",
   "days": " дни ",
   "ago": " преди ",
   "ahead": " напред ",
@@ -395,7 +396,8 @@ let bg = {
  "Choose" : "Избирам",
  "Chosen" : "Избран",
  "Choose your plan" : "Изберете вашия план",
- "week" : "седмица",
+  "week": "седмица",
+  "wk": "седмица",
  "Choose plan cycle" : "Изберете цикъл на плана"
 }
 export default bg

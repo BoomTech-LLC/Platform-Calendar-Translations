@@ -48,6 +48,7 @@ let zh = {
   "Default Date": "默认日期",
   "year": " 年",
   "month": " 月",
+  "mo": " 月",
   "days": " 天",
   "ago": " 以前",
   "ahead": " 领先",
@@ -396,7 +397,8 @@ let zh = {
  "Choose" : "选择",
  "Chosen" : "选择",
  "Choose your plan" : "选择您的计划",
- "week" : "星期",
+  "week": "星期",
+  "wk": "星期",
  "Choose plan cycle" : "选择计划周期"
 }
 export default zh-cn

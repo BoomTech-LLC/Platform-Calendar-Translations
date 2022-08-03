@@ -48,6 +48,7 @@ let ru = {
   "Default Date": "Дата по умолчанию",
   "year": "год",
   "month": "месяц",
+  "mo": "месяц",
   "days": "дней",
   "ago": "тому назад",
   "ahead": "впереди",
@@ -396,7 +397,8 @@ let ru = {
  "Choose" : "Выбирать",
  "Chosen" : "Выбранный",
  "Choose your plan" : "Выберите свой план",
- "week" : "неделя",
+  "week": "неделя",
+  "wk": "неделя",
  "Choose plan cycle" : "Выберите цикл плана"
 }
 export default ru

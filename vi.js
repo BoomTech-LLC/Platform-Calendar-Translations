@@ -47,6 +47,7 @@ let vi = {
   "Default Date": "Ngày mặc định",
   "year": "năm",
   "month": "tháng",
+  "mo": "tháng",
   "days": "ngày",
   "ago": "trước kia",
   "ahead": "phía trước",
@@ -391,7 +392,8 @@ let vi = {
  "Choose" : "Chọn",
  "Chosen" : "Chọn",
  "Choose your plan" : "Chọn kế hoạch của bạn",
- "week" : "tuần",
+  "week": "tuần",
+  "wk": "tuần",
  "Choose plan cycle" : "Chọn Chu kỳ kế hoạch"
 }
 export default vi

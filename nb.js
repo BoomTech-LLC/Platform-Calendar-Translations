@@ -48,6 +48,7 @@ let nb = {
   "Default Date": "Standard dato",
   "year": " år ",
   "month": " måned ",
+  "mo": " måned ",
   "days": " dager ",
   "ago": " siden ",
   "ahead": " fremover ",

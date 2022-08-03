@@ -48,6 +48,7 @@ let he = {
   "Default Date": "תאריך ברירת מחדל",
   "year": " שנה ",
   "month": " חודש ",
+  "mo": " חודש ",
   "days": " ימים ",
   "ago": " לפני ",
   "ahead": " קדימה ",
@@ -396,7 +397,8 @@ let he = {
  "Choose" : "בחר",
  "Chosen" : "נִבחָר",
  "Choose your plan" : "בחר את התוכנית שלך",
- "week" : "שָׁבוּעַ",
+  "week": "שָׁבוּעַ",
+  "wk": "שָׁבוּעַ",
  "Choose plan cycle" : "בחר מחזור תוכנית"
 }
 export default he

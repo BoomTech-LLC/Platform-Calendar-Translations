@@ -49,6 +49,7 @@ let fr = {
   "Default Date": "Date par défaut",
   "year": "année",
   "month": "mois",
+  "mo": "mois",
   "days": "journées",
   "ago": "depuis",
   "ahead": "devant",
@@ -389,7 +390,8 @@ let fr = {
  "Choose" : "Choisir",
  "Chosen" : "Choisi",
  "Choose your plan" : "Choisissez votre plan",
- "week" : "la semaine",
+  "week": "la semaine",
+  "wk": "la semaine",
  "Choose plan cycle" : "Choisissez le cycle du plan"
 }
 export default fr

@@ -48,6 +48,7 @@ let nl = {
   "Default Date": "Standaard Datum",
   "year": " jaar ",
   "month": " maand ",
+  "mo": " maand ",
   "days": " dagen ",
   "ago": " geleden ",
   "ahead": " vooruit ",
@@ -396,7 +397,8 @@ let nl = {
  "Choose" : "Kiezen",
  "Chosen" : "Gekozen",
  "Choose your plan" : "Kies uw plan",
- "week" : "week",
+  "week": "week",
+  "wk": "week",
  "Choose plan cycle" : "Kies de plancyclus"
 }
 export default nl

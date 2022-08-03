@@ -48,6 +48,7 @@ let th = {
   "Default Date": "วันที่เริ่มต้น",
   "year": " ปี",
   "month": " เดือน",
+  "mo": " เดือน",
   "days": " วัน",
   "ago": " ที่ผ่านมา",
   "ahead": " ไปข้างหน้า",
@@ -396,7 +397,8 @@ let th = {
  "Choose" : "เลือก",
  "Chosen" : "เลือกสรร",
  "Choose your plan" : "เลือกแผนของคุณ",
- "week" : "สัปดาห์",
+  "week": "สัปดาห์",
+  "wk": "สัปดาห์",
  "Choose plan cycle" : "เลือกวงจรแผน"
 }
 export default th

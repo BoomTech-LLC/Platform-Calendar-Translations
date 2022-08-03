@@ -48,6 +48,7 @@ let uk = {
   "Default Date": "Дата за замовчуванням",
   "year": " рік ",
   "month": " місяць ",
+  "mo": " місяць ",
   "days": " днів ",
   "ago": " тому ",
   "ahead": " вперед ",
@@ -396,7 +397,8 @@ let uk = {
  "Choose" : "Вибирати",
  "Chosen" : "Обраний",
  "Choose your plan" : "Виберіть свій план",
- "week" : "тиждень",
+  "week": "тиждень",
+  "wk": "тиждень",
  "Choose plan cycle" : "Виберіть цикл плану"
 }
 export default uk

@@ -48,6 +48,7 @@ let tr = {
   "Default Date": "Varsayılan Tarih",
   "year": " yıl ",
   "month": " ay ",
+  "mo": " ay ",
   "days": " günler ",
   "ago": " önce ",
   "ahead": " ileri ",
@@ -396,7 +397,8 @@ let tr = {
  "Choose" : "Seçmek",
  "Chosen" : "Seçilmiş",
  "Choose your plan" : "Planınızı Seçin",
- "week" : "hafta",
+  "week": "hafta",
+  "wk": "hafta",
  "Choose plan cycle" : "Plan döngüsünü seçin"
 }
 export default tr

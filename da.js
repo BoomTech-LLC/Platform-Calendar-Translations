@@ -49,6 +49,7 @@ let da = {
   "Default Date": "Standarddato",
   "year": "år",
   "month": "måned",
+  "mo": "måned",
   "days": "dage",
   "ago": "siden",
   "ahead": "foran",
@@ -395,7 +396,8 @@ let da = {
  "Choose" : "Vælge",
  "Chosen" : "Valgt",
  "Choose your plan" : "Vælg din plan",
- "week" : "uge",
+  "week": "uge",
+  "wk": "uge",
  "Choose plan cycle" : "Vælg plancyklus"
 }
 export default da

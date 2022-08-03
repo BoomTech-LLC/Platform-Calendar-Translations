@@ -49,6 +49,7 @@ let es = {
   "Default Date": "Fecha predeterminada",
   "year": "año",
   "month": "mes",
+  "mo": "mes",
   "days": "dias",
   "ago": "hace",
   "ahead": "adelante",
@@ -395,7 +396,8 @@ let es = {
  "Choose" : "Elegir",
  "Chosen" : "Elegido",
  "Choose your plan" : "Elige tu plan",
- "week" : "semana",
+  "week": "semana",
+  "wk": "semana",
  "Choose plan cycle" : "Elija el ciclo de plan"
 }
 export default es

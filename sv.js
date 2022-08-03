@@ -51,6 +51,7 @@ let sv = {
   "Default Date": "Förinställt datum",
   "year": " år ",
   "month": " månad ",
+  "mo": " månad ",
   "days": " Dagar ",
   "ago": " sedan ",
   "ahead": " framöver",
@@ -401,7 +402,8 @@ let sv = {
  "Choose" : "Välja",
  "Chosen" : "Vald",
  "Choose your plan" : "Välj din plan",
- "week" : "vecka",
+  "week": "vecka",
+  "wk": "vecka",
  "Choose plan cycle" : "Välj plancykel"
 }
 export default sv

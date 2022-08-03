@@ -48,6 +48,7 @@ let ko = {
   "Default Date": "기본 날짜",
   "year": " 년 ",
   "month": " 월 ",
+  "mo": " 월 ",
   "days": " 일 ",
   "ago": " 이전 ",
   "ahead": " 앞으로 ",
@@ -396,7 +397,8 @@ let ko = {
  "Choose" : "선택하다",
  "Chosen" : "선택",
  "Choose your plan" : "계획을 선택하십시오",
- "week" : "주",
+  "week": "주",
+  "wk": "주",
  "Choose plan cycle" : "계획주기를 선택하십시오"
 }
 export default ko

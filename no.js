@@ -48,6 +48,7 @@ let no = {
   "Default Date": "Standard dato",
   "year": " år ",
   "month": " måned ",
+  "mo": " måned ",
   "days": " dager ",
   "ago": " siden ",
   "ahead": " fremover ",
@@ -396,7 +397,8 @@ let no = {
  "Choose" : "Velge",
  "Chosen" : "Valgt ut",
  "Choose your plan" : "Velg planen din",
- "week" : "uke",
+  "week": "uke",
+  "wk": "uke",
  "Choose plan cycle" : "Velg Plan -syklus"
 }
 export default no

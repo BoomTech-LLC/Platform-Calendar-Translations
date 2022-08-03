@@ -49,6 +49,7 @@ let de = {
   "Default Date": "Standarddatum",
   "year": "Jahr",
   "month": "Monat",
+  "mo": "Monat",
   "days": "Tage",
   "ago": "vor",
   "ahead": "voraus",
@@ -395,7 +396,8 @@ let de = {
  "Choose" : "Wählen",
  "Chosen" : "Gewählt",
  "Choose your plan" : "Wählen Sie Ihren Plan",
- "week" : "Woche",
+  "week": "Woche",
+  "wk": "Woche",
  "Choose plan cycle" : "Wählen Sie den Planzyklus"
 }
 export default de

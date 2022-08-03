@@ -47,6 +47,7 @@ let hu = {
   "Default Date": "Alapértelmezett dátum",
   "year": "év",
   "month": "hónap",
+  "mo": "hónap",
   "days": "napok",
   "ago": "előtt",
   "ahead": "előre",
@@ -393,7 +394,8 @@ let hu = {
  "Choose" : "Választ",
  "Chosen" : "Választott",
  "Choose your plan" : "Válassza ki a tervét",
- "week" : "hét",
+  "week": "hét",
+  "wk": "hét",
  "Choose plan cycle" : "Válassza a Planciklus lehetőséget"
 }
 export default hu

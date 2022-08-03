@@ -49,6 +49,7 @@ let cs = {
   "Default Date": "Výchozí datum",
   "year": " rok ",
   "month": " měsíc ",
+  "mo": " měsíc ",
   "days": " dny ",
   "ago": " před ",
   "ahead": " dopředu ",
@@ -395,7 +396,8 @@ let cs = {
  "Choose" : "Vybrat",
  "Chosen" : "Vybrán",
  "Choose your plan" : "Vyberte si svůj plán",
- "week" : "týden",
+  "week": "týden",
+  "wk": "týden",
  "Choose plan cycle" : "Vyberte si cyklus plánu"
 }
 export default cs

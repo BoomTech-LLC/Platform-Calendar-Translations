@@ -48,6 +48,7 @@ let ja = {
   "Default Date": "デフォルトの日付",
   "year": " 年",
   "month": " 月",
+  "mo": " 月",
   "days": " 日数",
   "ago": " 前",
   "ahead": " 先",
@@ -396,7 +397,8 @@ let ja = {
  "Choose" : "選ぶ",
  "Chosen" : "選ばれた",
  "Choose your plan" : "あなたの計画を選択してください",
- "week" : "週",
+  "week": "週",
+  "wk": "週",
  "Choose plan cycle" : "プランサイクルを選択します"
 }
 export default ja

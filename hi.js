@@ -48,6 +48,7 @@ let hi = {
   "Default Date": "डिफ़ॉल्ट तिथि",
   "year": " वर्ष ",
   "month": " महीना ",
+  "mo": " महीना ",
   "days": " दिन ",
   "ago": " पहले ",
   "ahead": " आगे ",
@@ -396,7 +397,8 @@ let hi = {
  "Choose" : "चुनना",
  "Chosen" : "चुना",
  "Choose your plan" : "अपनी योजना चुनें",
- "week" : "सप्ताह",
+  "week": "सप्ताह",
+  "wk": "सप्ताह",
  "Choose plan cycle" : "योजना चक्र चुनें"
 }
 export default hi

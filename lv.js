@@ -49,6 +49,7 @@ let lv = {
   "Default Date": "Noklusējuma datums",
   "year": " gads ",
   "month": " mēnesis ",
+  "mo": " mēnesis ",
   "days": " dienas ",
   "ago": " pirms ",
   "ahead": " priekšā ",
@@ -396,7 +397,8 @@ let lv = {
  "Choose" : "Izvēlēties",
  "Chosen" : "Izvēlēts",
  "Choose your plan" : "Izvēlieties savu plānu",
- "week" : "nedēļa",
+  "week": "nedēļa",
+  "wk": "nedēļa",
  "Choose plan cycle" : "Izvēlieties plāna ciklu"
 }
 export default lv

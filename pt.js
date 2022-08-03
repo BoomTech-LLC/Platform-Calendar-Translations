@@ -48,6 +48,7 @@ let pt = {
   "Default Date": "Data padrão",
   "year": " ano ",
   "month": " mês ",
+  "mo": " mês ",
   "days": " dias ",
   "ago": " ago ",
   "ahead": " à frente ",
@@ -396,7 +397,8 @@ let pt = {
  "Choose" : "Escolher",
  "Chosen" : "Escolhido",
  "Choose your plan" : "Escolha o seu plano",
- "week" : "semana",
+  "week": "semana",
+  "wk": "semana",
  "Choose plan cycle" : "Escolha o ciclo do plano"
 }
 export default pt

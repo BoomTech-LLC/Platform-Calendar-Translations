@@ -47,6 +47,7 @@ let el = {
   "Default Date": "Ημερομηνία προεπιλογής",
   "year": " έτος ",
   "month": " μήνας ",
+  "mo": " μήνας ",
   "days": " ημέρες ",
   "ago": " πριν ",
   "ahead": " μπροστά ",
@@ -395,7 +396,8 @@ let el = {
  "Choose" : "Επιλέγω",
  "Chosen" : "Εκλεκτός",
  "Choose your plan" : "Επιλέξτε το σχέδιό σας",
- "week" : "εβδομάδα",
+  "week": "εβδομάδα",
+  "wk": "εβδομάδα",
  "Choose plan cycle" : "Επιλέξτε κύκλο σχεδίου"
 }
 export default el

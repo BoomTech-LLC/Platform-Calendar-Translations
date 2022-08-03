@@ -48,6 +48,7 @@ let ar = {
   "Default Date": "التاريخ الافتراضي",
   "year": " السنة ",
   "month": " الشهر ",
+  "mo": " الشهر ",
   "days": " الأيام ",
   "ago": " قبل ",
   "ahead": " أمام ",
@@ -389,13 +390,14 @@ let ar = {
  "You will soon receive a confirmation message of successful registration to your email address." : "ستتلقى قريبًا رسالة تأكيد للتسجيل الناجح إلى عنوان بريدك الإلكتروني.",
  "You can also check your order details below." : "يمكنك أيضًا التحقق من تفاصيل طلبك أدناه.",
  "at" : "في",
- "Buy" : "يشتري",
- "Donation" : "هبة",
- "Enter price" : "مَشرُوع",
- "Choose" : "يختار",
- "Chosen" : "اختيار",
- "Choose your plan" : "اختر خطتك",
- "week" : "أسبوع",
- "Choose plan cycle" : "اختر دورة الخطة"
+ "Buy": "يشتري",
+ "Donation": "هبة",
+ "Enter price": "مَشرُوع",
+ "Choose": "يختار",
+ "Chosen": "اختيار",
+ "Choose your plan": "اختر خطتك",
+ "week": "أسبوع",
+ "wk": "أسبوع",
+ "Choose plan cycle": "اختر دورة الخطة"
 }
 export default ar
