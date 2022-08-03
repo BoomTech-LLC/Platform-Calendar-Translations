@@ -404,6 +404,11 @@ let he = {
  "years" : "שנים",
  "weeks" : "שבועות",
  "Copy Event Url" : "העתק את כתובת האירוע",
- "You can find your e-tickets attached to your email or print them" : "אתה יכול למצוא את הכרטיסים האלקטרוניים שלך המחוברים לדוא"ל שלך או להדפיס אותם"
+ "You can find your e-tickets attached to your email or print them" : "אתה יכול למצוא את הכרטיסים האלקטרוניים שלך המחוברים לדוא"ל שלך או להדפיס אותם",
+ "Guest Info" : "מידע על אורח",
+ "Ticket Info" : "מידע על כרטיס",
+ "Ticket name" : "שם כרטיס",
+ "Ticket price" : "מחיר כרטיס",
+ "Ticket ID" : "מזהה כרטיס"
 }
 export default he

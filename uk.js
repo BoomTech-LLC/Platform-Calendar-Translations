@@ -404,6 +404,11 @@ let uk = {
  "years" : "роки",
  "weeks" : "тиждень",
  "Copy Event Url" : "Скопіюйте URL -адресу події",
- "You can find your e-tickets attached to your email or print them" : "Ви можете знайти свої електронні квитки, додані до вашої електронної пошти або надрукувати їх"
+ "You can find your e-tickets attached to your email or print them" : "Ви можете знайти свої електронні квитки, додані до вашої електронної пошти або надрукувати їх",
+ "Guest Info" : "Інформація про гості",
+ "Ticket Info" : "Інформація про квитки",
+ "Ticket name" : "Назва квитка",
+ "Ticket price" : "Ціна квитка",
+ "Ticket ID" : "Ідентифікатор квитка"
 }
 export default uk

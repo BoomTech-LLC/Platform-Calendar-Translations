@@ -404,6 +404,11 @@ let hi = {
  "years" : "वर्षों",
  "weeks" : "हफ्तों",
  "Copy Event Url" : "कॉपी इवेंट URL",
- "You can find your e-tickets attached to your email or print them" : "आप अपने ईमेल से जुड़े अपने ई-टिकट पा सकते हैं या उन्हें प्रिंट कर सकते हैं"
+ "You can find your e-tickets attached to your email or print them" : "आप अपने ईमेल से जुड़े अपने ई-टिकट पा सकते हैं या उन्हें प्रिंट कर सकते हैं",
+ "Guest Info" : "अतिथि जानकारी",
+ "Ticket Info" : "टिकट की जानकारी",
+ "Ticket name" : "टिकट का नाम",
+ "Ticket price" : "टिकट की कीमत",
+ "Ticket ID" : "टिकट आईडी"
 }
 export default hi

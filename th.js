@@ -404,6 +404,11 @@ let th = {
  "years" : "ปี",
  "weeks" : "หลายสัปดาห์",
  "Copy Event Url" : "คัดลอก URL เหตุการณ์",
- "You can find your e-tickets attached to your email or print them" : "คุณสามารถค้นหา e-tickets ของคุณที่แนบมากับอีเมลของคุณหรือพิมพ์"
+ "You can find your e-tickets attached to your email or print them" : "คุณสามารถค้นหา e-tickets ของคุณที่แนบมากับอีเมลของคุณหรือพิมพ์",
+ "Guest Info" : "ข้อมูลแขกรับเชิญ",
+ "Ticket Info" : "ข้อมูลตั๋ว",
+ "Ticket name" : "ชื่อตั๋ว",
+ "Ticket price" : "ราคาตั๋ว",
+ "Ticket ID" : "รหัสตั๋ว"
 }
 export default th

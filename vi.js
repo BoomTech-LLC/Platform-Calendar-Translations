@@ -399,6 +399,11 @@ let vi = {
  "years" : "năm",
  "weeks" : "tuần",
  "Copy Event Url" : "Sao chép URL sự kiện",
- "You can find your e-tickets attached to your email or print them" : "Bạn có thể tìm thấy vé điện tử của mình được đính kèm vào email của bạn hoặc in chúng"
+ "You can find your e-tickets attached to your email or print them" : "Bạn có thể tìm thấy vé điện tử của mình được đính kèm vào email của bạn hoặc in chúng",
+ "Guest Info" : "Thông tin khách",
+ "Ticket Info" : "Thông tin vé",
+ "Ticket name" : "Tên vé",
+ "Ticket price" : "Giá vé",
+ "Ticket ID" : "ID vé"
 }
 export default vi

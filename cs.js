@@ -403,6 +403,11 @@ let cs = {
  "years" : "roky",
  "weeks" : "týdny",
  "Copy Event Url" : "URL kopírování události",
- "You can find your e-tickets attached to your email or print them" : "Najdete své e-tickety připojené k vašemu e-mailu nebo je vytisknout"
+ "You can find your e-tickets attached to your email or print them" : "Najdete své e-tickety připojené k vašemu e-mailu nebo je vytisknout",
+ "Guest Info" : "Informace o hostech",
+ "Ticket Info" : "Informace o lístku",
+ "Ticket name" : "Název lístku",
+ "Ticket price" : "Cena lístku",
+ "Ticket ID" : "ID lístku"
 }
 export default cs

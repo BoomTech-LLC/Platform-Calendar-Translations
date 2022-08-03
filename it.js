@@ -396,6 +396,11 @@ let it = {
  "years" : "anni",
  "weeks" : "settimane",
  "Copy Event Url" : "Copia URL evento",
- "You can find your e-tickets attached to your email or print them" : "Puoi trovare i tuoi biglietti elettronici allegati alla tua e-mail o stamparli"
+ "You can find your e-tickets attached to your email or print them" : "Puoi trovare i tuoi biglietti elettronici allegati alla tua e-mail o stamparli",
+ "Guest Info" : "Informazioni per gli ospiti",
+ "Ticket Info" : "Informazioni sul biglietto",
+ "Ticket name" : "Nome del biglietto",
+ "Ticket price" : "Prezzo del biglietto",
+ "Ticket ID" : "Ticket ID"
 }
 export default it

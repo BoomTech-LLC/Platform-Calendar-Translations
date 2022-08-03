@@ -403,6 +403,11 @@ let el = {
  "years" : "έτη",
  "weeks" : "εβδομάδες",
  "Copy Event Url" : "Αντιγραφή URL συμβάντος",
- "You can find your e-tickets attached to your email or print them" : "Μπορείτε να βρείτε τα e-tickets σας συνδεδεμένα με το email σας ή να τα εκτυπώσετε"
+ "You can find your e-tickets attached to your email or print them" : "Μπορείτε να βρείτε τα e-tickets σας συνδεδεμένα με το email σας ή να τα εκτυπώσετε",
+ "Guest Info" : "Πληροφορίες επισκεπτών",
+ "Ticket Info" : "Πληροφορίες εισιτηρίων",
+ "Ticket name" : "Όνομα εισιτηρίου",
+ "Ticket price" : "Τιμή εισιτηρίου",
+ "Ticket ID" : "Αναγνωριστικό εισιτηρίου"
 }
 export default el

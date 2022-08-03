@@ -401,6 +401,11 @@ let hu = {
  "years" : "évek",
  "weeks" : "hetek",
  "Copy Event Url" : "Másolja az esemény URL -jét",
- "You can find your e-tickets attached to your email or print them" : "Megtalálhatja az e-mailhez csatolt e-jegyeket, vagy kinyomtathatja azokat"
+ "You can find your e-tickets attached to your email or print them" : "Megtalálhatja az e-mailhez csatolt e-jegyeket, vagy kinyomtathatja azokat",
+ "Guest Info" : "Vendéginformáció",
+ "Ticket Info" : "Jegyinformáció",
+ "Ticket name" : "Jegynév",
+ "Ticket price" : "Jegyár",
+ "Ticket ID" : "Jegy -azonosító"
 }
 export default hu

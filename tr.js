@@ -404,6 +404,11 @@ let tr = {
  "years" : "yıllar",
  "weeks" : "haftalar",
  "Copy Event Url" : "Olay URL'sini Kopyala",
- "You can find your e-tickets attached to your email or print them" : "E-biletlerinizi e-postanıza bağlı bulabilir veya yazdırabilirsiniz"
+ "You can find your e-tickets attached to your email or print them" : "E-biletlerinizi e-postanıza bağlı bulabilir veya yazdırabilirsiniz",
+ "Guest Info" : "Konuk Bilgisi",
+ "Ticket Info" : "Bilet bilgileri",
+ "Ticket name" : "Bilet adı",
+ "Ticket price" : "Bilet fiyatı",
+ "Ticket ID" : "Bilet kimliği"
 }
 export default tr

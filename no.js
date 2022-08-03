@@ -404,6 +404,11 @@ let no = {
  "years" : "år",
  "weeks" : "uker",
  "Copy Event Url" : "Kopier hendelses url",
- "You can find your e-tickets attached to your email or print them" : "Du kan finne e-billedene dine som er knyttet til e-posten din eller skrive dem ut"
+ "You can find your e-tickets attached to your email or print them" : "Du kan finne e-billedene dine som er knyttet til e-posten din eller skrive dem ut",
+ "Guest Info" : "Gjesteinfo",
+ "Ticket Info" : "Billettinfo",
+ "Ticket name" : "Billettnavn",
+ "Ticket price" : "Billettpris",
+ "Ticket ID" : "Billett -id"
 }
 export default no

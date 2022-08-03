@@ -403,6 +403,11 @@ let es = {
  "years" : "años",
  "weeks" : "semanas",
  "Copy Event Url" : "Copiar URL del evento",
- "You can find your e-tickets attached to your email or print them" : "Puede encontrar sus boletos electrónicos adjuntos a su correo electrónico o imprimirlos"
+ "You can find your e-tickets attached to your email or print them" : "Puede encontrar sus boletos electrónicos adjuntos a su correo electrónico o imprimirlos",
+ "Guest Info" : "Información de invitado",
+ "Ticket Info" : "Información de boletos",
+ "Ticket name" : "Nombre de la multa",
+ "Ticket price" : "Precio del boleto",
+ "Ticket ID" : "Identificación de entradas"
 }
 export default es

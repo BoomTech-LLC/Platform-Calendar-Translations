@@ -399,6 +399,11 @@ let en = {
  "years" : "years",
  "weeks" : "weeks",
  "Copy Event Url" : "Copy Event Url",
- "You can find your e-tickets attached to your email or print them" : "You can find your e-tickets attached to your email or print them"
+ "You can find your e-tickets attached to your email or print them" : "You can find your e-tickets attached to your email or print them",
+ "Guest Info" : "Guest Info",
+ "Ticket Info" : "Ticket Info",
+ "Ticket name" : "Ticket name",
+ "Ticket price" : "Ticket price",
+ "Ticket ID" : "Ticket ID"
 }
 export default en

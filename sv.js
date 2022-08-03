@@ -409,6 +409,11 @@ let sv = {
  "years" : "år",
  "weeks" : "Veckor",
  "Copy Event Url" : "Kopiera Event -URL",
- "You can find your e-tickets attached to your email or print them" : "Du kan hitta dina e-biljetter kopplade till din e-post eller skriva ut dem"
+ "You can find your e-tickets attached to your email or print them" : "Du kan hitta dina e-biljetter kopplade till din e-post eller skriva ut dem",
+ "Guest Info" : "Gästinformation",
+ "Ticket Info" : "Biljettinformation",
+ "Ticket name" : "Biljettnamn",
+ "Ticket price" : "Biljettpris",
+ "Ticket ID" : "Biljett -ID"
 }
 export default sv

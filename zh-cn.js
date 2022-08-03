@@ -404,6 +404,11 @@ let zh = {
  "years" : "年",
  "weeks" : "几周",
  "Copy Event Url" : "复制事件URL",
- "You can find your e-tickets attached to your email or print them" : "您可以找到附加到电子邮件的电子机票或打印"
+ "You can find your e-tickets attached to your email or print them" : "您可以找到附加到电子邮件的电子机票或打印",
+ "Guest Info" : "来宾信息",
+ "Ticket Info" : "门票信息",
+ "Ticket name" : "票名",
+ "Ticket price" : "票价",
+ "Ticket ID" : "票证ID"
 }
 export default zh-cn

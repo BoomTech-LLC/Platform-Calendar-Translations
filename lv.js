@@ -404,6 +404,11 @@ let lv = {
  "years" : "gadi",
  "weeks" : "nedēļu",
  "Copy Event Url" : "Kopēt notikumu URL",
- "You can find your e-tickets attached to your email or print them" : "Jūs varat atrast e-pasta e-e-e-biļetes vai tos izdrukāt"
+ "You can find your e-tickets attached to your email or print them" : "Jūs varat atrast e-pasta e-e-e-biļetes vai tos izdrukāt",
+ "Guest Info" : "Viesu informācija",
+ "Ticket Info" : "Informācija par biļetēm",
+ "Ticket name" : "Biļetes nosaukums",
+ "Ticket price" : "Biļešu cena",
+ "Ticket ID" : "Biļetes ID"
 }
 export default lv

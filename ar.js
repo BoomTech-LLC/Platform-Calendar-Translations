@@ -403,6 +403,11 @@ let ar = {
  "years" : "سنوات",
  "weeks" : "أسابيع",
  "Copy Event Url" : "نسخ عنوان URL للحدث",
- "You can find your e-tickets attached to your email or print them" : "يمكنك العثور على التذاكر الإلكترونية المرفقة ببريدك الإلكتروني أو طباعتها"
+ "You can find your e-tickets attached to your email or print them" : "يمكنك العثور على التذاكر الإلكترونية المرفقة ببريدك الإلكتروني أو طباعتها",
+ "Guest Info" : "معلومات الضيف",
+ "Ticket Info" : "معلومات التذاكر",
+ "Ticket name" : "اسم التذكرة",
+ "Ticket price" : "سعر التذكرة",
+ "Ticket ID" : "معرف التذاكر"
 }
 export default ar

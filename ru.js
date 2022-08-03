@@ -404,6 +404,11 @@ let ru = {
  "years" : "годы",
  "weeks" : "недели",
  "Copy Event Url" : "Копировать URL",
- "You can find your e-tickets attached to your email or print them" : "Вы можете найти свои электронные билеты, прикрепленные к вашей электронной почте или распечатать их"
+ "You can find your e-tickets attached to your email or print them" : "Вы можете найти свои электронные билеты, прикрепленные к вашей электронной почте или распечатать их",
+ "Guest Info" : "Информация гостя",
+ "Ticket Info" : "Информация о билете",
+ "Ticket name" : "Название билета",
+ "Ticket price" : "Стоимость билета",
+ "Ticket ID" : "Билет идентификатор"
 }
 export default ru

@@ -397,6 +397,11 @@ let fr = {
   "years": "années",
   "weeks": "semaines",
   "Copy Event Url": "Copier l'URL de l'événement",
- "You can find your e-tickets attached to your email or print them" : "Vous pouvez trouver vos creux électroniques joints à votre e-mail ou les imprimer"
+ "You can find your e-tickets attached to your email or print them" : "Vous pouvez trouver vos creux électroniques joints à votre e-mail ou les imprimer",
+ "Guest Info" : "Informations invitées",
+ "Ticket Info" : "Informations sur les billets",
+ "Ticket name" : "Nom de billet",
+ "Ticket price" : "Prix ​​du billet",
+ "Ticket ID" : "ID de billets"
 }
 export default fr

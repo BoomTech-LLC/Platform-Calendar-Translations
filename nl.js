@@ -404,6 +404,11 @@ let nl = {
  "years" : "jaar",
  "weeks" : "weken",
  "Copy Event Url" : "Kopieer Event URL",
- "You can find your e-tickets attached to your email or print them" : "U kunt uw e-tickets aan uw e-mail vinden of afdrukken"
+ "You can find your e-tickets attached to your email or print them" : "U kunt uw e-tickets aan uw e-mail vinden of afdrukken",
+ "Guest Info" : "Gastinformatie",
+ "Ticket Info" : "Ticketinformatie",
+ "Ticket name" : "Ticketnaam",
+ "Ticket price" : "Ticket prijs",
+ "Ticket ID" : "Ticket ID"
 }
 export default nl

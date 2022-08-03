@@ -404,6 +404,11 @@ let fa = {
  "years" : "سال ها",
  "weeks" : "چند هفته",
  "Copy Event Url" : "URL رویداد را کپی کنید",
- "You can find your e-tickets attached to your email or print them" : "می توانید بلیط های الکترونیکی خود را که به ایمیل خود ضمیمه شده اند پیدا کنید یا آنها را چاپ کنید"
+ "You can find your e-tickets attached to your email or print them" : "می توانید بلیط های الکترونیکی خود را که به ایمیل خود ضمیمه شده اند پیدا کنید یا آنها را چاپ کنید",
+ "Guest Info" : "اطلاعات مهمان",
+ "Ticket Info" : "اطلاعات بلیط",
+ "Ticket name" : "نام بلیط",
+ "Ticket price" : "قیمت بلیط",
+ "Ticket ID" : "شناسه بلیط"
 }
 export default fa

@@ -403,6 +403,11 @@ let bg = {
  "years" : "години",
  "weeks" : "седмици",
  "Copy Event Url" : "Copy Event URL адрес",
- "You can find your e-tickets attached to your email or print them" : "Можете да намерите вашите електронни билети, прикачени към вашия имейл, или да ги отпечатате"
+ "You can find your e-tickets attached to your email or print them" : "Можете да намерите вашите електронни билети, прикачени към вашия имейл, или да ги отпечатате",
+ "Guest Info" : "Информация за гостите",
+ "Ticket Info" : "Информация за билета",
+ "Ticket name" : "Име на билета",
+ "Ticket price" : "Цена на билет",
+ "Ticket ID" : "Идентификационен номер на билета"
 }
 export default bg

@@ -403,6 +403,11 @@ let da = {
  "years" : "flere år",
  "weeks" : "uger",
  "Copy Event Url" : "Kopier begivenheds URL",
- "You can find your e-tickets attached to your email or print them" : "Du kan finde dine e-billetter vedhæftet til din e-mail eller udskrive dem"
+ "You can find your e-tickets attached to your email or print them" : "Du kan finde dine e-billetter vedhæftet til din e-mail eller udskrive dem",
+ "Guest Info" : "Gæsteinfo",
+ "Ticket Info" : "Billetinfo",
+ "Ticket name" : "Billetnavn",
+ "Ticket price" : "Billetpris",
+ "Ticket ID" : "Billet -id"
 }
 export default da
