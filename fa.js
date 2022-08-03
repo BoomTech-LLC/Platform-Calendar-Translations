@@ -399,6 +399,10 @@ let fa = {
   "Choose your plan" : "برنامه خود را انتخاب کنید",
   "week": "هفته",
   "wk": "هفته",
-  "Choose plan cycle" : "چرخه برنامه را انتخاب کنید"
+  "Choose plan cycle" : "چرخه برنامه را انتخاب کنید",
+ "months" : "ماه ها",
+ "years" : "سال ها",
+ "weeks" : "چند هفته",
+ "Copy Event Url" : "URL رویداد را کپی کنید"
 }
 export default fa

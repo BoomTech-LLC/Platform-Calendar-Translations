@@ -399,6 +399,10 @@ let hi = {
  "Choose your plan" : "अपनी योजना चुनें",
   "week": "सप्ताह",
   "wk": "सप्ताह",
- "Choose plan cycle" : "योजना चक्र चुनें"
+ "Choose plan cycle" : "योजना चक्र चुनें",
+ "months" : "महीने",
+ "years" : "वर्षों",
+ "weeks" : "हफ्तों",
+ "Copy Event Url" : "कॉपी इवेंट URL"
 }
 export default hi

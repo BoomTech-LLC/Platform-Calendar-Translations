@@ -404,6 +404,10 @@ let sv = {
  "Choose your plan" : "Välj din plan",
   "week": "vecka",
   "wk": "vecka",
- "Choose plan cycle" : "Välj plancykel"
+ "Choose plan cycle" : "Välj plancykel",
+ "months" : "månad",
+ "years" : "år",
+ "weeks" : "Veckor",
+ "Copy Event Url" : "Kopiera Event -URL"
 }
 export default sv

@@ -399,6 +399,10 @@ let th = {
  "Choose your plan" : "เลือกแผนของคุณ",
   "week": "สัปดาห์",
   "wk": "สัปดาห์",
- "Choose plan cycle" : "เลือกวงจรแผน"
+ "Choose plan cycle" : "เลือกวงจรแผน",
+ "months" : "เดือน",
+ "years" : "ปี",
+ "weeks" : "หลายสัปดาห์",
+ "Copy Event Url" : "คัดลอก URL เหตุการณ์"
 }
 export default th

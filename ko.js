@@ -399,6 +399,10 @@ let ko = {
  "Choose your plan" : "계획을 선택하십시오",
   "week": "주",
   "wk": "주",
- "Choose plan cycle" : "계획주기를 선택하십시오"
+ "Choose plan cycle" : "계획주기를 선택하십시오",
+ "months" : "달",
+ "years" : "연령",
+ "weeks" : "주",
+ "Copy Event Url" : "이벤트 URL 복사"
 }
 export default ko

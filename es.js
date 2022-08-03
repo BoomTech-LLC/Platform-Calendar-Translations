@@ -398,6 +398,10 @@ let es = {
  "Choose your plan" : "Elige tu plan",
   "week": "semana",
   "wk": "semana",
- "Choose plan cycle" : "Elija el ciclo de plan"
+ "Choose plan cycle" : "Elija el ciclo de plan",
+ "months" : "meses",
+ "years" : "años",
+ "weeks" : "semanas",
+ "Copy Event Url" : "Copiar URL del evento"
 }
 export default es

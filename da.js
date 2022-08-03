@@ -398,6 +398,10 @@ let da = {
  "Choose your plan" : "Vælg din plan",
   "week": "uge",
   "wk": "uge",
- "Choose plan cycle" : "Vælg plancyklus"
+ "Choose plan cycle" : "Vælg plancyklus",
+ "months" : "måneder",
+ "years" : "flere år",
+ "weeks" : "uger",
+ "Copy Event Url" : "Kopier begivenheds URL"
 }
 export default da

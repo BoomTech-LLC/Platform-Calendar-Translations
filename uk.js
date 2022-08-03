@@ -399,6 +399,10 @@ let uk = {
  "Choose your plan" : "Виберіть свій план",
   "week": "тиждень",
   "wk": "тиждень",
- "Choose plan cycle" : "Виберіть цикл плану"
+ "Choose plan cycle" : "Виберіть цикл плану",
+ "months" : "місяці",
+ "years" : "роки",
+ "weeks" : "тиждень",
+ "Copy Event Url" : "Скопіюйте URL -адресу події"
 }
 export default uk

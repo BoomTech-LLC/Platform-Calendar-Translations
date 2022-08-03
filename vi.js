@@ -394,6 +394,10 @@ let vi = {
  "Choose your plan" : "Chọn kế hoạch của bạn",
   "week": "tuần",
   "wk": "tuần",
- "Choose plan cycle" : "Chọn Chu kỳ kế hoạch"
+ "Choose plan cycle" : "Chọn Chu kỳ kế hoạch",
+ "months" : "tháng",
+ "years" : "năm",
+ "weeks" : "tuần",
+ "Copy Event Url" : "Sao chép URL sự kiện"
 }
 export default vi

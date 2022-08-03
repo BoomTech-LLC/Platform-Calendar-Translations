@@ -399,6 +399,10 @@ let zh = {
  "Choose your plan" : "选择您的计划",
   "week": "星期",
   "wk": "星期",
- "Choose plan cycle" : "选择计划周期"
+ "Choose plan cycle" : "选择计划周期",
+ "months" : "月份",
+ "years" : "年",
+ "weeks" : "几周",
+ "Copy Event Url" : "复制事件URL"
 }
 export default zh-cn

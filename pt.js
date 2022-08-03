@@ -399,6 +399,10 @@ let pt = {
  "Choose your plan" : "Escolha o seu plano",
   "week": "semana",
   "wk": "semana",
- "Choose plan cycle" : "Escolha o ciclo do plano"
+ "Choose plan cycle" : "Escolha o ciclo do plano",
+ "months" : "meses",
+ "years" : "anos",
+ "weeks" : "semanas",
+ "Copy Event Url" : "Copiar URL do evento"
 }
 export default pt

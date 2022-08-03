@@ -398,6 +398,10 @@ let bg = {
  "Choose your plan" : "Изберете вашия план",
   "week": "седмица",
   "wk": "седмица",
- "Choose plan cycle" : "Изберете цикъл на плана"
+ "Choose plan cycle" : "Изберете цикъл на плана",
+ "months" : "месеци",
+ "years" : "години",
+ "weeks" : "седмици",
+ "Copy Event Url" : "Copy Event URL адрес"
 }
 export default bg

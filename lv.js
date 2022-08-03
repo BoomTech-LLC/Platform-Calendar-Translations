@@ -399,6 +399,10 @@ let lv = {
  "Choose your plan" : "Izvēlieties savu plānu",
   "week": "nedēļa",
   "wk": "nedēļa",
- "Choose plan cycle" : "Izvēlieties plāna ciklu"
+ "Choose plan cycle" : "Izvēlieties plāna ciklu",
+ "months" : "mēneši",
+ "years" : "gadi",
+ "weeks" : "nedēļu",
+ "Copy Event Url" : "Kopēt notikumu URL"
 }
 export default lv

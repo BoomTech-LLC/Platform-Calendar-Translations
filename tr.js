@@ -399,6 +399,10 @@ let tr = {
  "Choose your plan" : "Planınızı Seçin",
   "week": "hafta",
   "wk": "hafta",
- "Choose plan cycle" : "Plan döngüsünü seçin"
+ "Choose plan cycle" : "Plan döngüsünü seçin",
+ "months" : "aylar",
+ "years" : "yıllar",
+ "weeks" : "haftalar",
+ "Copy Event Url" : "Olay URL'sini Kopyala"
 }
 export default tr

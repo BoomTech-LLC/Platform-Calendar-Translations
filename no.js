@@ -399,6 +399,10 @@ let no = {
  "Choose your plan" : "Velg planen din",
   "week": "uke",
   "wk": "uke",
- "Choose plan cycle" : "Velg Plan -syklus"
+ "Choose plan cycle" : "Velg Plan -syklus",
+ "months" : "måneder",
+ "years" : "år",
+ "weeks" : "uker",
+ "Copy Event Url" : "Kopier hendelses url"
 }
 export default no

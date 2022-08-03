@@ -399,6 +399,10 @@ let he = {
  "Choose your plan" : "בחר את התוכנית שלך",
   "week": "שָׁבוּעַ",
   "wk": "שָׁבוּעַ",
- "Choose plan cycle" : "בחר מחזור תוכנית"
+ "Choose plan cycle" : "בחר מחזור תוכנית",
+ "months" : "חודשים",
+ "years" : "שנים",
+ "weeks" : "שבועות",
+ "Copy Event Url" : "העתק את כתובת האירוע"
 }
 export default he

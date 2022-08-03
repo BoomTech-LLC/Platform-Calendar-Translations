@@ -391,6 +391,10 @@ let it = {
  "Choose your plan" : "Scegli il tuo piano",
   "week": "settimana",
   "wk": "settimana",
- "Choose plan cycle" : "Scegli il ciclo del piano"
+ "Choose plan cycle" : "Scegli il ciclo del piano",
+ "months" : "mesi",
+ "years" : "anni",
+ "weeks" : "settimane",
+ "Copy Event Url" : "Copia URL evento"
 }
 export default it

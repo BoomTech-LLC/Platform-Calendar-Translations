@@ -396,6 +396,10 @@ let hu = {
  "Choose your plan" : "Válassza ki a tervét",
   "week": "hét",
   "wk": "hét",
- "Choose plan cycle" : "Válassza a Planciklus lehetőséget"
+ "Choose plan cycle" : "Válassza a Planciklus lehetőséget",
+ "months" : "hónapok",
+ "years" : "évek",
+ "weeks" : "hetek",
+ "Copy Event Url" : "Másolja az esemény URL -jét"
 }
 export default hu

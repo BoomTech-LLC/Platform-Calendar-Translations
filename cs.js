@@ -398,6 +398,10 @@ let cs = {
  "Choose your plan" : "Vyberte si svůj plán",
   "week": "týden",
   "wk": "týden",
- "Choose plan cycle" : "Vyberte si cyklus plánu"
+ "Choose plan cycle" : "Vyberte si cyklus plánu",
+ "months" : "měsíce",
+ "years" : "roky",
+ "weeks" : "týdny",
+ "Copy Event Url" : "URL kopírování události"
 }
 export default cs

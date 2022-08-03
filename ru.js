@@ -255,7 +255,7 @@ let ru = {
   "Guests:": "Гости:",
   "Submit": "Разместить",
   "Go to Calendar": "Перейти в календарь",
-  "Registration completed successfully!": "Registration completed successfully!",
+  "Registration completed successfully!": "Регистрация успешно завершена!",
   "Please check your registered email address": "Пожалуйста, проверьте свой зарегистрированный а��рес электронной почты",
   "Add to Calendar": "Добавить в календарь",
   "Share this Event": "Поделиться этим событием",
@@ -341,8 +341,8 @@ let ru = {
   "Single Choice": "Один выбор",
   "Option": "Вариант",
   "Share Event": "Поделиться событием",
-  "Oops! Something went wrong": "Уп!Что-то пошло не так",
-  "We are sorry this event has already taken place": "Мы сожалеем, что это событие уже состоялось",
+  "Oops! Something went wrong": "Упс! Что-то пошло не так",
+  "We are sorry this event has already taken place": "Мы сожалеем, это событие уже состоялось",
   "Back to calendar": "Вернуться в календарь",
   "This field is required": "Это поле обязательно к заполнению",
   "Phone": "Телефон",
@@ -399,6 +399,10 @@ let ru = {
  "Choose your plan" : "Выберите свой план",
   "week": "неделя",
   "wk": "неделя",
- "Choose plan cycle" : "Выберите цикл плана"
+ "Choose plan cycle" : "Выберите цикл плана",
+ "months" : "месяцы",
+ "years" : "годы",
+ "weeks" : "недели",
+ "Copy Event Url" : "Копировать URL"
 }
 export default ru

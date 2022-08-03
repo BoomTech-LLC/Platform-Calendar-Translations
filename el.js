@@ -398,6 +398,10 @@ let el = {
  "Choose your plan" : "Επιλέξτε το σχέδιό σας",
   "week": "εβδομάδα",
   "wk": "εβδομάδα",
- "Choose plan cycle" : "Επιλέξτε κύκλο σχεδίου"
+ "Choose plan cycle" : "Επιλέξτε κύκλο σχεδίου",
+ "months" : "μήνες",
+ "years" : "έτη",
+ "weeks" : "εβδομάδες",
+ "Copy Event Url" : "Αντιγραφή URL συμβάντος"
 }
 export default el

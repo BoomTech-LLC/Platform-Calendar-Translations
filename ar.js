@@ -398,6 +398,10 @@ let ar = {
  "Choose your plan": "اختر خطتك",
  "week": "أسبوع",
  "wk": "أسبوع",
- "Choose plan cycle": "اختر دورة الخطة"
+ "Choose plan cycle": "اختر دورة الخطة",
+ "months" : "الشهور",
+ "years" : "سنوات",
+ "weeks" : "أسابيع",
+ "Copy Event Url" : "نسخ عنوان URL للحدث"
 }
 export default ar

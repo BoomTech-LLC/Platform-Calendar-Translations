@@ -399,6 +399,10 @@ let nl = {
  "Choose your plan" : "Kies uw plan",
   "week": "week",
   "wk": "week",
- "Choose plan cycle" : "Kies de plancyclus"
+ "Choose plan cycle" : "Kies de plancyclus",
+ "months" : "maanden",
+ "years" : "jaar",
+ "weeks" : "weken",
+ "Copy Event Url" : "Kopieer Event URL"
 }
 export default nl

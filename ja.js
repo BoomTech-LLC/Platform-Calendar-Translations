@@ -399,6 +399,10 @@ let ja = {
  "Choose your plan" : "あなたの計画を選択してください",
   "week": "週",
   "wk": "週",
- "Choose plan cycle" : "プランサイクルを選択します"
+ "Choose plan cycle" : "プランサイクルを選択します",
+ "months" : "数ヶ月",
+ "years" : "年",
+ "weeks" : "週",
+ "Copy Event Url" : "イベントURLをコピーします"
 }
 export default ja
