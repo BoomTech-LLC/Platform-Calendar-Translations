@@ -390,6 +390,13 @@ let ru = {
  "You will soon receive a confirmation message of successful registration to your email address." : "Вскоре вы получите подтверждающее сообщение об успешной регистрации на свой адрес электронной почты.",
  "You can also check your order details below." : "Вы также можете проверить данные вашего заказа ниже.",
  "at" : "в",
- "Buy" : "Купить"
+ "Buy" : "Купить",
+ "Donation" : "Пожертвование",
+ "Enter price" : "Предприятие",
+ "Choose" : "Выбирать",
+ "Chosen" : "Выбранный",
+ "Choose your plan" : "Выберите свой план",
+ "week" : "неделя",
+ "Choose plan cycle" : "Выберите цикл плана"
 }
 export default ru

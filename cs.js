@@ -389,6 +389,13 @@ let cs = {
  "You will soon receive a confirmation message of successful registration to your email address." : "Brzy obdržíte potvrzovací zprávu o úspěšné registraci na vaši e -mailovou adresu.",
  "You can also check your order details below." : "Níže můžete také zkontrolovat údaje o vaší objednávce.",
  "at" : "v",
- "Buy" : "Koupit"
+ "Buy" : "Koupit",
+ "Donation" : "Sponzorský dar",
+ "Enter price" : "Podnik",
+ "Choose" : "Vybrat",
+ "Chosen" : "Vybrán",
+ "Choose your plan" : "Vyberte si svůj plán",
+ "week" : "týden",
+ "Choose plan cycle" : "Vyberte si cyklus plánu"
 }
 export default cs

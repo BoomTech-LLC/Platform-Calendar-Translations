@@ -390,6 +390,13 @@ let nl = {
  "You will soon receive a confirmation message of successful registration to your email address." : "U ontvangt binnenkort een bevestigingsbericht van succesvolle registratie van uw e -mailadres.",
  "You can also check your order details below." : "U kunt hieronder ook uw bestelgegevens controleren.",
  "at" : "Bij",
- "Buy" : "Kopen"
+ "Buy" : "Kopen",
+ "Donation" : "Bijdrage",
+ "Enter price" : "Onderneming",
+ "Choose" : "Kiezen",
+ "Chosen" : "Gekozen",
+ "Choose your plan" : "Kies uw plan",
+ "week" : "week",
+ "Choose plan cycle" : "Kies de plancyclus"
 }
 export default nl

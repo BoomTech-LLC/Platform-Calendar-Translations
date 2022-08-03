@@ -390,6 +390,13 @@ let tr = {
  "You will soon receive a confirmation message of successful registration to your email address." : "Yakında e -posta adresinize başarılı bir kayıt onay mesajı alacaksınız.",
  "You can also check your order details below." : "Sipariş bilgilerinizi aşağıda da kontrol edebilirsiniz.",
  "at" : "-den",
- "Buy" : "Satın almak"
+ "Buy" : "Satın almak",
+ "Donation" : "Bağış",
+ "Enter price" : "Girişim",
+ "Choose" : "Seçmek",
+ "Chosen" : "Seçilmiş",
+ "Choose your plan" : "Planınızı Seçin",
+ "week" : "hafta",
+ "Choose plan cycle" : "Plan döngüsünü seçin"
 }
 export default tr

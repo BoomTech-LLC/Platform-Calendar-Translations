@@ -390,6 +390,13 @@ let lv = {
  "You will soon receive a confirmation message of successful registration to your email address." : "Drīz jūs saņemsit apstiprinājuma ziņojumu par veiksmīgu reģistrāciju uz savu e -pasta adresi.",
  "You can also check your order details below." : "Varat arī pārbaudīt savu pasūtījuma informāciju zemāk.",
  "at" : "pie",
- "Buy" : "Iegādāties"
+ "Buy" : "Iegādāties",
+ "Donation" : "Ziedojums",
+ "Enter price" : "Uzņēmums",
+ "Choose" : "Izvēlēties",
+ "Chosen" : "Izvēlēts",
+ "Choose your plan" : "Izvēlieties savu plānu",
+ "week" : "nedēļa",
+ "Choose plan cycle" : "Izvēlieties plāna ciklu"
 }
 export default lv

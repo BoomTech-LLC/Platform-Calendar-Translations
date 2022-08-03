@@ -390,6 +390,13 @@ let pt = {
  "You will soon receive a confirmation message of successful registration to your email address." : "Em breve, você receberá uma mensagem de confirmação do registro bem -sucedido no seu endereço de e -mail.",
  "You can also check your order details below." : "Você também pode verificar os detalhes do seu pedido abaixo.",
  "at" : "no",
- "Buy" : "Comprar"
+ "Buy" : "Comprar",
+ "Donation" : "Doação",
+ "Enter price" : "Empreendimento",
+ "Choose" : "Escolher",
+ "Chosen" : "Escolhido",
+ "Choose your plan" : "Escolha o seu plano",
+ "week" : "semana",
+ "Choose plan cycle" : "Escolha o ciclo do plano"
 }
 export default pt

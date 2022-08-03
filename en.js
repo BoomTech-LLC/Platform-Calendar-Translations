@@ -385,6 +385,13 @@ let en = {
  "You will soon receive a confirmation message of successful registration to your email address." : "You will soon receive a confirmation message of successful registration to your email address.",
  "You can also check your order details below." : "You can also check your order details below.",
  "at" : "at",
- "Buy" : "Buy"
+ "Buy" : "Buy",
+ "Donation" : "Donation",
+ "Enter price" : "Enterprise",
+ "Choose" : "Choose",
+ "Chosen" : "Chosen",
+ "Choose your plan" : "Choose your plan",
+ "week" : "week",
+ "Choose plan cycle" : "Choose plan cycle"
 }
 export default en

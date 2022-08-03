@@ -390,6 +390,13 @@ let hi = {
  "You will soon receive a confirmation message of successful registration to your email address." : "आप जल्द ही अपने ईमेल पते पर सफल पंजीकरण का एक पुष्टिकरण संदेश प्राप्त करेंगे।",
  "You can also check your order details below." : "आप नीचे दिए गए अपने ऑर्डर विवरण भी देख सकते हैं।",
  "at" : "पर",
- "Buy" : "खरीदना"
+ "Buy" : "खरीदना",
+ "Donation" : "दान",
+ "Enter price" : "उद्यम",
+ "Choose" : "चुनना",
+ "Chosen" : "चुना",
+ "Choose your plan" : "अपनी योजना चुनें",
+ "week" : "सप्ताह",
+ "Choose plan cycle" : "योजना चक्र चुनें"
 }
 export default hi

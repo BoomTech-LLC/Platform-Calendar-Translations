@@ -389,6 +389,13 @@ let el = {
  "You will soon receive a confirmation message of successful registration to your email address." : "Σύντομα θα λάβετε ένα μήνυμα επιβεβαίωσης επιτυχούς εγγραφής στη διεύθυνση email σας.",
  "You can also check your order details below." : "Μπορείτε επίσης να ελέγξετε τα στοιχεία της παραγγελίας σας παρακάτω.",
  "at" : "στο",
- "Buy" : "Αγορά"
+ "Buy" : "Αγορά",
+ "Donation" : "Δωρεά",
+ "Enter price" : "Επιχείρηση",
+ "Choose" : "Επιλέγω",
+ "Chosen" : "Εκλεκτός",
+ "Choose your plan" : "Επιλέξτε το σχέδιό σας",
+ "week" : "εβδομάδα",
+ "Choose plan cycle" : "Επιλέξτε κύκλο σχεδίου"
 }
 export default el

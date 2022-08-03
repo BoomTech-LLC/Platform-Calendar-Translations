@@ -390,6 +390,13 @@ let fa = {
  "You will soon receive a confirmation message of successful registration to your email address." : "به زودی پیام تأیید ثبت نام موفق را به آدرس ایمیل خود دریافت خواهید کرد.",
  "You can also check your order details below." : "همچنین می توانید جزئیات سفارش خود را در زیر بررسی کنید.",
  "at" : "در",
- "Buy" : "خرید کردن"
+ "Buy" : "خرید کردن",
+ "Donation" : "اهدای",
+ "Enter price" : "شرکت، پروژه",
+ "Choose" : "انتخاب کنید",
+ "Chosen" : "انتخاب شده",
+ "Choose your plan" : "برنامه خود را انتخاب کنید",
+ "week" : "هفته",
+ "Choose plan cycle" : "چرخه برنامه را انتخاب کنید"
 }
 export default fa

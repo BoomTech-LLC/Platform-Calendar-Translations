@@ -385,6 +385,13 @@ let vi = {
  "You will soon receive a confirmation message of successful registration to your email address." : "Bạn sẽ sớm nhận được tin nhắn xác nhận đăng ký thành công vào địa chỉ email của bạn.",
  "You can also check your order details below." : "Bạn cũng có thể kiểm tra chi tiết đơn đặt hàng của bạn dưới đây.",
  "at" : "tại",
- "Buy" : "Mua"
+ "Buy" : "Mua",
+ "Donation" : "Quyên góp",
+ "Enter price" : "Doanh nghiệp",
+ "Choose" : "Chọn",
+ "Chosen" : "Chọn",
+ "Choose your plan" : "Chọn kế hoạch của bạn",
+ "week" : "tuần",
+ "Choose plan cycle" : "Chọn Chu kỳ kế hoạch"
 }
 export default vi

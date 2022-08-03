@@ -390,6 +390,13 @@ let no = {
  "You will soon receive a confirmation message of successful registration to your email address." : "Du vil snart motta en bekreftelsesmelding om vellykket registrering på e -postadressen din.",
  "You can also check your order details below." : "Du kan også sjekke bestillingsdetaljene dine nedenfor.",
  "at" : "på",
- "Buy" : "Kjøpe"
+ "Buy" : "Kjøpe",
+ "Donation" : "Donasjon",
+ "Enter price" : "Bedriften",
+ "Choose" : "Velge",
+ "Chosen" : "Valgt ut",
+ "Choose your plan" : "Velg planen din",
+ "week" : "uke",
+ "Choose plan cycle" : "Velg Plan -syklus"
 }
 export default no

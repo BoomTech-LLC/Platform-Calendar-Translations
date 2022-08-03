@@ -395,6 +395,13 @@ let sv = {
  "You will soon receive a confirmation message of successful registration to your email address." : "Du kommer snart att få ett bekräftelsemeddelande om framgångsrik registrering till din e -postadress.",
  "You can also check your order details below." : "Du kan också kontrollera dina beställningsuppgifter nedan.",
  "at" : "på",
- "Buy" : "köpa"
+ "Buy" : "köpa",
+ "Donation" : "Donation",
+ "Enter price" : "Företag",
+ "Choose" : "Välja",
+ "Chosen" : "Vald",
+ "Choose your plan" : "Välj din plan",
+ "week" : "vecka",
+ "Choose plan cycle" : "Välj plancykel"
 }
 export default sv

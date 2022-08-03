@@ -390,6 +390,13 @@ let uk = {
  "You will soon receive a confirmation message of successful registration to your email address." : "Незабаром ви отримаєте повідомлення про підтвердження успішної реєстрації на свою електронну адресу.",
  "You can also check your order details below." : "Ви також можете перевірити деталі свого замовлення нижче.",
  "at" : "в",
- "Buy" : "Купувати"
+ "Buy" : "Купувати",
+ "Donation" : "Пожертва",
+ "Enter price" : "Підприємство",
+ "Choose" : "Вибирати",
+ "Chosen" : "Обраний",
+ "Choose your plan" : "Виберіть свій план",
+ "week" : "тиждень",
+ "Choose plan cycle" : "Виберіть цикл плану"
 }
 export default uk

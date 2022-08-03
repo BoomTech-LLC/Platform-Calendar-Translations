@@ -390,6 +390,13 @@ let ja = {
  "You will soon receive a confirmation message of successful registration to your email address." : "すぐに、メールアドレスへの登録が成功した確認メッセージを受け取ります。",
  "You can also check your order details below." : "以下の注文の詳細を確認することもできます。",
  "at" : "で",
- "Buy" : "買う"
+ "Buy" : "買う",
+ "Donation" : "寄付",
+ "Enter price" : "企業",
+ "Choose" : "選ぶ",
+ "Chosen" : "選ばれた",
+ "Choose your plan" : "あなたの計画を選択してください",
+ "week" : "週",
+ "Choose plan cycle" : "プランサイクルを選択します"
 }
 export default ja

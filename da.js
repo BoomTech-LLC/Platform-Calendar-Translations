@@ -389,6 +389,13 @@ let da = {
  "You will soon receive a confirmation message of successful registration to your email address." : "Du modtager snart en bekræftelsesmeddelelse om en vellykket registrering til din e -mail -adresse.",
  "You can also check your order details below." : "Du kan også kontrollere dine ordreoplysninger nedenfor.",
  "at" : "på",
- "Buy" : "Købe"
+ "Buy" : "Købe",
+ "Donation" : "Donation",
+ "Enter price" : "Enterprise",
+ "Choose" : "Vælge",
+ "Chosen" : "Valgt",
+ "Choose your plan" : "Vælg din plan",
+ "week" : "uge",
+ "Choose plan cycle" : "Vælg plancyklus"
 }
 export default da

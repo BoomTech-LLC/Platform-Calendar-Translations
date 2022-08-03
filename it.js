@@ -382,6 +382,13 @@ let it = {
  "You will soon receive a confirmation message of successful registration to your email address." : "Presto riceverai un messaggio di conferma della registrazione riuscita al tuo indirizzo email.",
  "You can also check your order details below." : "Di seguito puoi anche controllare i dettagli dell'ordine.",
  "at" : "a",
- "Buy" : "Acquistare"
+ "Buy" : "Acquistare",
+ "Donation" : "Donazione",
+ "Enter price" : "Impresa",
+ "Choose" : "Scegliere",
+ "Chosen" : "Scelto",
+ "Choose your plan" : "Scegli il tuo piano",
+ "week" : "settimana",
+ "Choose plan cycle" : "Scegli il ciclo del piano"
 }
 export default it

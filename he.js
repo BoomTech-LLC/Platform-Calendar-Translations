@@ -390,6 +390,13 @@ let he = {
  "You will soon receive a confirmation message of successful registration to your email address." : "בקרוב תקבל הודעת אישור של רישום מוצלח לכתובת הדוא\"ל שלך.",
  "You can also check your order details below." : "אתה יכול גם לבדוק את פרטי ההזמנה שלך למטה.",
  "at" : "בְּ-",
- "Buy" : "לִקְנוֹת"
+ "Buy" : "לִקְנוֹת",
+ "Donation" : "תרומה",
+ "Enter price" : "מִפְעָל",
+ "Choose" : "בחר",
+ "Chosen" : "נִבחָר",
+ "Choose your plan" : "בחר את התוכנית שלך",
+ "week" : "שָׁבוּעַ",
+ "Choose plan cycle" : "בחר מחזור תוכנית"
 }
 export default he

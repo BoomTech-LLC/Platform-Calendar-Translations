@@ -389,6 +389,13 @@ let bg = {
  "You will soon receive a confirmation message of successful registration to your email address." : "Скоро ще получите съобщение за потвърждение за успешна регистрация на вашия имейл адрес.",
  "You can also check your order details below." : "Можете също да проверите данните си за поръчката по -долу.",
  "at" : "at",
- "Buy" : "Купува"
+ "Buy" : "Купува",
+ "Donation" : "Дарение",
+ "Enter price" : "Предприятие",
+ "Choose" : "Избирам",
+ "Chosen" : "Избран",
+ "Choose your plan" : "Изберете вашия план",
+ "week" : "седмица",
+ "Choose plan cycle" : "Изберете цикъл на плана"
 }
 export default bg

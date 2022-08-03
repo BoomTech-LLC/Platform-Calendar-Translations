@@ -389,6 +389,13 @@ let de = {
  "You will soon receive a confirmation message of successful registration to your email address." : "Sie erhalten bald eine Bestätigungsnachricht zur erfolgreichen Registrierung an Ihre E -Mail -Adresse.",
  "You can also check your order details below." : "Sie können auch Ihre Bestelldaten unten überprüfen.",
  "at" : "bei",
- "Buy" : "Besorgen"
+ "Buy" : "Besorgen",
+ "Donation" : "Spende",
+ "Enter price" : "Unternehmen",
+ "Choose" : "Wählen",
+ "Chosen" : "Gewählt",
+ "Choose your plan" : "Wählen Sie Ihren Plan",
+ "week" : "Woche",
+ "Choose plan cycle" : "Wählen Sie den Planzyklus"
 }
 export default de
