@@ -403,7 +403,7 @@ let de = {
  "years" : "Jahre",
  "weeks" : "Wochen",
  "Copy Event Url" : "Ereignis -URL kopieren",
- "You can find your e-tickets attached to your email or print them" : "Sie können Ihre E-Tickets finden, die Ihrer E-Mail angeschlossen sind oder sie drucken",
+ "aaa" : "Sie können Ihre E-Tickets finden, die Ihrer E-Mail angeschlossen sind oder sie drucken",
  "Guest Info" : "Gastinfo",
  "Ticket Info" : "Ticketinformationen",
  "Ticket name" : "Ticketame",
