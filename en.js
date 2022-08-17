@@ -388,7 +388,7 @@ let en = {
  "at" : "at",
  "Buy" : "Buy",
  "Donation" : "Donation",
- "Enter price" : "Enterprise",
+ "Enter price" : "Enter price",
  "Choose" : "Choose",
  "Chosen" : "Chosen",
  "Choose your plan" : "Choose your plan",
