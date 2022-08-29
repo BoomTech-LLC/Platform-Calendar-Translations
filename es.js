@@ -408,6 +408,7 @@ let es = {
  "Ticket Info" : "Información de boletos",
  "Ticket name" : "Nombre de la multa",
  "Ticket price" : "Precio del boleto",
- "Ticket ID" : "Identificación de entradas"
+ "Ticket ID" : "Identificación de entradas",
+ "If you have any questions contact to organizer" : "Si tiene alguna pregunta, contacto con el organizador"
 }
 export default es

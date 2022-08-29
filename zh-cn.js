@@ -409,6 +409,7 @@ let zh = {
   "Ticket Info" : "门票信息",
   "Ticket name" : "票名",
   "Ticket price" : "票价",
-  "Ticket ID" : "票证ID"
+  "Ticket ID" : "票证ID",
+ "If you have any questions contact to organizer" : "如果您有任何疑问，请与组织者联系"
 }
 export default zh

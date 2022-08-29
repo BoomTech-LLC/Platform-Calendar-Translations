@@ -409,6 +409,7 @@ let ja = {
  "Ticket Info" : "チケット情報",
  "Ticket name" : "チケット名",
  "Ticket price" : "切符の値段",
- "Ticket ID" : "チケットID"
+ "Ticket ID" : "チケットID",
+ "If you have any questions contact to organizer" : "質問がある場合は、オーガナイザーに連絡してください"
 }
 export default ja

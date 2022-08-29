@@ -408,6 +408,7 @@ let de = {
  "Ticket Info" : "Ticketinformationen",
  "Ticket name" : "Ticketame",
  "Ticket price" : "Ticket Preis",
- "Ticket ID" : "Ticketnummer"
+ "Ticket ID" : "Ticketnummer",
+ "If you have any questions contact to organizer" : "Wenn Sie Fragen haben, wenden Sie sich an den Organisator"
 }
 export default de

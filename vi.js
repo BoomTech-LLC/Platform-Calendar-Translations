@@ -404,6 +404,7 @@ let vi = {
  "Ticket Info" : "Thông tin vé",
  "Ticket name" : "Tên vé",
  "Ticket price" : "Giá vé",
- "Ticket ID" : "ID vé"
+ "Ticket ID" : "ID vé",
+ "If you have any questions contact to organizer" : "Nếu bạn có bất kỳ câu hỏi nào liên hệ với người tổ chức"
 }
 export default vi

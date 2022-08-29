@@ -409,6 +409,7 @@ let tr = {
  "Ticket Info" : "Bilet bilgileri",
  "Ticket name" : "Bilet adı",
  "Ticket price" : "Bilet fiyatı",
- "Ticket ID" : "Bilet kimliği"
+ "Ticket ID" : "Bilet kimliği",
+ "If you have any questions contact to organizer" : "Herhangi bir sorunuz varsa organizatörle iletişime geçin"
 }
 export default tr

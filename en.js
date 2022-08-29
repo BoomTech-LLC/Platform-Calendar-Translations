@@ -404,6 +404,7 @@ let en = {
  "Ticket Info" : "Ticket Info",
  "Ticket name" : "Ticket name",
  "Ticket price" : "Ticket price",
- "Ticket ID" : "Ticket ID"
+ "Ticket ID" : "Ticket ID",
+ "If you have any questions contact to organizer" : "If you have any questions contact to organizer"
 }
 export default en

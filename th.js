@@ -409,6 +409,7 @@ let th = {
  "Ticket Info" : "ข้อมูลตั๋ว",
  "Ticket name" : "ชื่อตั๋ว",
  "Ticket price" : "ราคาตั๋ว",
- "Ticket ID" : "รหัสตั๋ว"
+ "Ticket ID" : "รหัสตั๋ว",
+ "If you have any questions contact to organizer" : "หากคุณมีคำถามใด ๆ ติดต่อผู้จัดงาน"
 }
 export default th
