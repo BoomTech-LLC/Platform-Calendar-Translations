@@ -409,6 +409,7 @@ let no = {
  "Ticket Info" : "Billettinfo",
  "Ticket name" : "Billettnavn",
  "Ticket price" : "Billettpris",
- "Ticket ID" : "Billett -id"
+ "Ticket ID" : "Billett -id",
+ "If you have any questions contact to organizer" : "Hvis du har spørsmål, kontakt til arrangør"
 }
 export default no

@@ -408,6 +408,7 @@ let cs = {
  "Ticket Info" : "Informace o lístku",
  "Ticket name" : "Název lístku",
  "Ticket price" : "Cena lístku",
- "Ticket ID" : "ID lístku"
+ "Ticket ID" : "ID lístku",
+ "If you have any questions contact to organizer" : "Pokud máte nějaké dotazy, kontaktujte organizátora"
 }
 export default cs

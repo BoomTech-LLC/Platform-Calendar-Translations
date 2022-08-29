@@ -409,6 +409,7 @@ let hi = {
  "Ticket Info" : "टिकट की जानकारी",
  "Ticket name" : "टिकट का नाम",
  "Ticket price" : "टिकट की कीमत",
- "Ticket ID" : "टिकट आईडी"
+ "Ticket ID" : "टिकट आईडी",
+ "If you have any questions contact to organizer" : "यदि आपके पास आयोजक से कोई प्रश्न संपर्क है"
 }
 export default hi

@@ -409,6 +409,7 @@ let he = {
  "Ticket Info" : "מידע על כרטיס",
  "Ticket name" : "שם כרטיס",
  "Ticket price" : "מחיר כרטיס",
- "Ticket ID" : "מזהה כרטיס"
+ "Ticket ID" : "מזהה כרטיס",
+ "If you have any questions contact to organizer" : "אם יש לך שאלות קשר למארגן"
 }
 export default he

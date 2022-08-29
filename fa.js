@@ -409,6 +409,7 @@ let fa = {
  "Ticket Info" : "اطلاعات بلیط",
  "Ticket name" : "نام بلیط",
  "Ticket price" : "قیمت بلیط",
- "Ticket ID" : "شناسه بلیط"
+ "Ticket ID" : "شناسه بلیط",
+ "If you have any questions contact to organizer" : "اگر سوالی دارید با سازمان دهنده تماس بگیرید"
 }
 export default fa

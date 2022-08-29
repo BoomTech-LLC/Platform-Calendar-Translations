@@ -409,6 +409,7 @@ let ru = {
  "Ticket Info" : "Информация о билете",
  "Ticket name" : "Название билета",
  "Ticket price" : "Стоимость билета",
- "Ticket ID" : "Билет идентификатор"
+ "Ticket ID" : "Билет идентификатор",
+ "If you have any questions contact to organizer" : "Если у вас есть какие -либо вопросы, свяжитесь с организатором"
 }
 export default ru

@@ -406,6 +406,7 @@ let hu = {
  "Ticket Info" : "Jegyinformáció",
  "Ticket name" : "Jegynév",
  "Ticket price" : "Jegyár",
- "Ticket ID" : "Jegy -azonosító"
+ "Ticket ID" : "Jegy -azonosító",
+ "If you have any questions contact to organizer" : "Ha bármilyen kérdése van, vegye fel a kapcsolatot a szervezővel"
 }
 export default hu

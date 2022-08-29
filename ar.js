@@ -408,6 +408,7 @@ let ar = {
  "Ticket Info" : "معلومات التذاكر",
  "Ticket name" : "اسم التذكرة",
  "Ticket price" : "سعر التذكرة",
- "Ticket ID" : "معرف التذاكر"
+ "Ticket ID" : "معرف التذاكر",
+ "If you have any questions contact to organizer" : "إذا كان لديك أي أسئلة على الاتصال بالمنظم"
 }
 export default ar

@@ -409,6 +409,7 @@ let lv = {
  "Ticket Info" : "Informācija par biļetēm",
  "Ticket name" : "Biļetes nosaukums",
  "Ticket price" : "Biļešu cena",
- "Ticket ID" : "Biļetes ID"
+ "Ticket ID" : "Biļetes ID",
+ "If you have any questions contact to organizer" : "Ja jums ir kādi jautājumi, kontaktējas ar organizatoru"
 }
 export default lv

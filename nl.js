@@ -409,6 +409,7 @@ let nl = {
  "Ticket Info" : "Ticketinformatie",
  "Ticket name" : "Ticketnaam",
  "Ticket price" : "Ticket prijs",
- "Ticket ID" : "Ticket ID"
+ "Ticket ID" : "Ticket ID",
+ "If you have any questions contact to organizer" : "Als u vragen heeft, neem contact op met de organisator"
 }
 export default nl

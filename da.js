@@ -408,6 +408,7 @@ let da = {
  "Ticket Info" : "Billetinfo",
  "Ticket name" : "Billetnavn",
  "Ticket price" : "Billetpris",
- "Ticket ID" : "Billet -id"
+ "Ticket ID" : "Billet -id",
+ "If you have any questions contact to organizer" : "Hvis du har spørgsmål kontakt til arrangør"
 }
 export default da

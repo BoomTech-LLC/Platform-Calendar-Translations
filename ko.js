@@ -409,6 +409,7 @@ let ko = {
  "Ticket Info" : "티켓 정보",
  "Ticket name" : "티켓 이름",
  "Ticket price" : "티켓 가격",
- "Ticket ID" : "티켓 ID"
+ "Ticket ID" : "티켓 ID",
+ "If you have any questions contact to organizer" : "궁금한 점이 있으면 주최자에게 연락하십시오"
 }
 export default ko

@@ -401,6 +401,7 @@ let it = {
  "Ticket Info" : "Informazioni sul biglietto",
  "Ticket name" : "Nome del biglietto",
  "Ticket price" : "Prezzo del biglietto",
- "Ticket ID" : "Ticket ID"
+ "Ticket ID" : "Ticket ID",
+ "If you have any questions contact to organizer" : "Se hai domande contatta per l'organizzatore"
 }
 export default it

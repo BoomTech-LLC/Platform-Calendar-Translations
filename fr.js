@@ -402,6 +402,7 @@ let fr = {
  "Ticket Info" : "Informations sur les billets",
  "Ticket name" : "Nom de billet",
  "Ticket price" : "Prix ​​du billet",
- "Ticket ID" : "ID de billets"
+ "Ticket ID" : "ID de billets",
+ "If you have any questions contact to organizer" : "Si vous avez des questions, contactez l'organisateur"
 }
 export default fr

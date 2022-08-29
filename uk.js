@@ -409,6 +409,7 @@ let uk = {
  "Ticket Info" : "Інформація про квитки",
  "Ticket name" : "Назва квитка",
  "Ticket price" : "Ціна квитка",
- "Ticket ID" : "Ідентифікатор квитка"
+ "Ticket ID" : "Ідентифікатор квитка",
+ "If you have any questions contact to organizer" : "Якщо у вас є якісь питання, контактуйте з організатором"
 }
 export default uk

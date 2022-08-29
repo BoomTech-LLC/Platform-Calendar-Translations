@@ -408,6 +408,7 @@ let el = {
  "Ticket Info" : "Πληροφορίες εισιτηρίων",
  "Ticket name" : "Όνομα εισιτηρίου",
  "Ticket price" : "Τιμή εισιτηρίου",
- "Ticket ID" : "Αναγνωριστικό εισιτηρίου"
+ "Ticket ID" : "Αναγνωριστικό εισιτηρίου",
+ "If you have any questions contact to organizer" : "Εάν έχετε οποιεσδήποτε ερωτήσεις επικοινωνήστε με τον διοργανωτή"
 }
 export default el

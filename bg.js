@@ -408,6 +408,7 @@ let bg = {
  "Ticket Info" : "Информация за билета",
  "Ticket name" : "Име на билета",
  "Ticket price" : "Цена на билет",
- "Ticket ID" : "Идентификационен номер на билета"
+ "Ticket ID" : "Идентификационен номер на билета",
+ "If you have any questions contact to organizer" : "Ако имате въпроси, контакт с организатора"
 }
 export default bg

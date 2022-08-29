@@ -414,6 +414,7 @@ let sv = {
  "Ticket Info" : "Biljettinformation",
  "Ticket name" : "Biljettnamn",
  "Ticket price" : "Biljettpris",
- "Ticket ID" : "Biljett -ID"
+ "Ticket ID" : "Biljett -ID",
+ "If you have any questions contact to organizer" : "Om du har några frågor Kontakt till arrangören"
 }
 export default sv
