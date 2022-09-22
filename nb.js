@@ -179,7 +179,7 @@ let nb = {
   "Card": "Kaart",
   "Guests": "Gjestene",
   "unlimited": "ubegrenset",
-  "Show more": "Vis mer",
+  "Show more": "Bekijk meer",
   "Enable Search": "Aktiver søk",
   "+ Add Event": "+ Legg til hendelseAdministrer og synkroniser",
   "Manage and Sync": "Administrer og synkroniser",
