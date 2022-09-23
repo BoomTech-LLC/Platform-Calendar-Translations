@@ -409,6 +409,12 @@ let ar = {
  "Ticket name" : "اسم التذكرة",
  "Ticket price" : "سعر التذكرة",
  "Ticket ID" : "معرف التذاكر",
- "If you have any questions contact to organizer" : "إذا كان لديك أي أسئلة على الاتصال بالمنظم"
+ "If you have any questions contact to organizer" : "إذا كان لديك أي أسئلة على الاتصال بالمنظم",
+ "If you have any questions contact to organizer" : "إذا كان لديك أي أسئلة على الاتصال بالمنظم",
+ "As soon as event ends" : "بمجرد انتهاء الحدث",
+ "1 day after event ends" : "يوم واحد بعد انتهاء الحدث",
+ "7 days after event ends" : "7 أيام بعد انتهاء الحدث",
+ "14 days after event ends" : "14 يومًا بعد انتهاء الحدث",
+ "30 days after event ends" : "30 يومًا بعد انتهاء الحدث"
 }
 export default ar

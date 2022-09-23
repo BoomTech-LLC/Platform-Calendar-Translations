@@ -410,6 +410,12 @@ let uk = {
  "Ticket name" : "Назва квитка",
  "Ticket price" : "Ціна квитка",
  "Ticket ID" : "Ідентифікатор квитка",
- "If you have any questions contact to organizer" : "Якщо у вас є якісь питання, контактуйте з організатором"
+ "If you have any questions contact to organizer" : "Якщо у вас є якісь питання, контактуйте з організатором",
+ "If you have any questions contact to organizer" : "Якщо у вас є якісь питання, контактуйте з організатором",
+ "As soon as event ends" : "Як тільки подія закінчиться",
+ "1 day after event ends" : "1 день після закінчення події",
+ "7 days after event ends" : "7 днів після закінчення події",
+ "14 days after event ends" : "Через 14 днів після закінчення події",
+ "30 days after event ends" : "Через 30 днів після закінчення події"
 }
 export default uk

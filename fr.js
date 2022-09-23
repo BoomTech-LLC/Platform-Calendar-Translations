@@ -403,6 +403,12 @@ let fr = {
  "Ticket name" : "Nom de billet",
  "Ticket price" : "Prix ​​du billet",
  "Ticket ID" : "ID de billets",
- "If you have any questions contact to organizer" : "Si vous avez des questions, contactez l'organisateur"
+ "If you have any questions contact to organizer" : "Si vous avez des questions, contactez l'organisateur",
+ "If you have any questions contact to organizer" : "Si vous avez des questions, contactez l'organisateur",
+ "As soon as event ends" : "Dès que l'événement se termine",
+ "1 day after event ends" : "1 jour après l'événement se termine",
+ "7 days after event ends" : "7 jours après la fin de l'événement",
+ "14 days after event ends" : "14 jours après la fin de l'événement",
+ "30 days after event ends" : "30 jours après la fin de l'événement"
 }
 export default fr

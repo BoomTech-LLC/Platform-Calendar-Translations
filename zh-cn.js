@@ -410,6 +410,12 @@ let zh = {
   "Ticket name" : "票名",
   "Ticket price" : "票价",
   "Ticket ID" : "票证ID",
- "If you have any questions contact to organizer" : "如果您有任何疑问，请与组织者联系"
+ "If you have any questions contact to organizer" : "如果您有任何疑问，请与组织者联系",
+ "If you have any questions contact to organizer" : "如果您有任何疑问，请与组织者联系",
+ "As soon as event ends" : "事件结束后",
+ "1 day after event ends" : "活动结束后1天",
+ "7 days after event ends" : "活动结束后7天",
+ "14 days after event ends" : "活动结束后14天",
+ "30 days after event ends" : "活动结束后30天"
 }
 export default zh

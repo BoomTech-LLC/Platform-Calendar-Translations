@@ -407,6 +407,12 @@ let hu = {
  "Ticket name" : "Jegynév",
  "Ticket price" : "Jegyár",
  "Ticket ID" : "Jegy -azonosító",
- "If you have any questions contact to organizer" : "Ha bármilyen kérdése van, vegye fel a kapcsolatot a szervezővel"
+ "If you have any questions contact to organizer" : "Ha bármilyen kérdése van, vegye fel a kapcsolatot a szervezővel",
+ "If you have any questions contact to organizer" : "Ha bármilyen kérdése van, vegye fel a kapcsolatot a szervezővel",
+ "As soon as event ends" : "Amint az esemény véget ér",
+ "1 day after event ends" : "1 nappal az esemény vége után",
+ "7 days after event ends" : "7 nappal az esemény vége után",
+ "14 days after event ends" : "14 nappal az esemény vége után",
+ "30 days after event ends" : "30 nappal az esemény vége után"
 }
 export default hu

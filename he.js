@@ -410,6 +410,12 @@ let he = {
  "Ticket name" : "שם כרטיס",
  "Ticket price" : "מחיר כרטיס",
  "Ticket ID" : "מזהה כרטיס",
- "If you have any questions contact to organizer" : "אם יש לך שאלות קשר למארגן"
+ "If you have any questions contact to organizer" : "אם יש לך שאלות קשר למארגן",
+ "If you have any questions contact to organizer" : "אם יש לך שאלות קשר למארגן",
+ "As soon as event ends" : "ברגע שהאירוע מסתיים",
+ "1 day after event ends" : "יום אחד לאחר סיום האירוע",
+ "7 days after event ends" : "7 ימים לאחר סיום האירוע",
+ "14 days after event ends" : "14 יום לאחר סיום האירוע",
+ "30 days after event ends" : "30 יום לאחר סיום האירוע"
 }
 export default he

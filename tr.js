@@ -410,6 +410,12 @@ let tr = {
  "Ticket name" : "Bilet adı",
  "Ticket price" : "Bilet fiyatı",
  "Ticket ID" : "Bilet kimliği",
- "If you have any questions contact to organizer" : "Herhangi bir sorunuz varsa organizatörle iletişime geçin"
+ "If you have any questions contact to organizer" : "Herhangi bir sorunuz varsa organizatörle iletişime geçin",
+ "If you have any questions contact to organizer" : "Herhangi bir sorunuz varsa organizatörle iletişime geçin",
+ "As soon as event ends" : "Olay biter bitmez",
+ "1 day after event ends" : "Olay bittikten 1 gün sonra",
+ "7 days after event ends" : "Olay bittikten 7 gün sonra",
+ "14 days after event ends" : "Olay bittikten 14 gün sonra",
+ "30 days after event ends" : "Olay bittikten 30 gün sonra"
 }
 export default tr

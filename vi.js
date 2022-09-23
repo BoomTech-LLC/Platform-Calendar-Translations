@@ -405,6 +405,12 @@ let vi = {
  "Ticket name" : "Tên vé",
  "Ticket price" : "Giá vé",
  "Ticket ID" : "ID vé",
- "If you have any questions contact to organizer" : "Nếu bạn có bất kỳ câu hỏi nào liên hệ với người tổ chức"
+ "If you have any questions contact to organizer" : "Nếu bạn có bất kỳ câu hỏi nào liên hệ với người tổ chức",
+ "If you have any questions contact to organizer" : "Nếu bạn có bất kỳ câu hỏi nào liên hệ với người tổ chức",
+ "As soon as event ends" : "Ngay khi sự kiện kết thúc",
+ "1 day after event ends" : "1 ngày sau khi sự kiện kết thúc",
+ "7 days after event ends" : "7 ngày sau khi sự kiện kết thúc",
+ "14 days after event ends" : "14 ngày sau khi sự kiện kết thúc",
+ "30 days after event ends" : "30 ngày sau khi sự kiện kết thúc"
 }
 export default vi

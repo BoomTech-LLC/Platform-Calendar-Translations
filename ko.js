@@ -410,6 +410,12 @@ let ko = {
  "Ticket name" : "티켓 이름",
  "Ticket price" : "티켓 가격",
  "Ticket ID" : "티켓 ID",
- "If you have any questions contact to organizer" : "궁금한 점이 있으면 주최자에게 연락하십시오"
+ "If you have any questions contact to organizer" : "궁금한 점이 있으면 주최자에게 연락하십시오",
+ "If you have any questions contact to organizer" : "궁금한 점이 있으면 주최자에게 연락하십시오",
+ "As soon as event ends" : "이벤트가 끝나 자마자",
+ "1 day after event ends" : "이벤트가 끝나고 1 일 후에",
+ "7 days after event ends" : "이벤트가 끝나고 7 일 후",
+ "14 days after event ends" : "이벤트가 끝나고 14 일 후",
+ "30 days after event ends" : "이벤트가 끝나고 30 일 후"
 }
 export default ko

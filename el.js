@@ -409,6 +409,12 @@ let el = {
  "Ticket name" : "Όνομα εισιτηρίου",
  "Ticket price" : "Τιμή εισιτηρίου",
  "Ticket ID" : "Αναγνωριστικό εισιτηρίου",
- "If you have any questions contact to organizer" : "Εάν έχετε οποιεσδήποτε ερωτήσεις επικοινωνήστε με τον διοργανωτή"
+ "If you have any questions contact to organizer" : "Εάν έχετε οποιεσδήποτε ερωτήσεις επικοινωνήστε με τον διοργανωτή",
+ "If you have any questions contact to organizer" : "Εάν έχετε οποιεσδήποτε ερωτήσεις επικοινωνήστε με τον διοργανωτή",
+ "As soon as event ends" : "Μόλις τελειώσει η εκδήλωση",
+ "1 day after event ends" : "1 ημέρα μετά το τέλος της εκδήλωσης",
+ "7 days after event ends" : "7 ημέρες μετά το τέλος της εκδήλωσης",
+ "14 days after event ends" : "14 ημέρες μετά το τέλος της εκδήλωσης",
+ "30 days after event ends" : "30 ημέρες μετά το τέλος της εκδήλωσης"
 }
 export default el

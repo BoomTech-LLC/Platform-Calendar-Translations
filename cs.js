@@ -409,6 +409,12 @@ let cs = {
  "Ticket name" : "Název lístku",
  "Ticket price" : "Cena lístku",
  "Ticket ID" : "ID lístku",
- "If you have any questions contact to organizer" : "Pokud máte nějaké dotazy, kontaktujte organizátora"
+ "If you have any questions contact to organizer" : "Pokud máte nějaké dotazy, kontaktujte organizátora",
+ "If you have any questions contact to organizer" : "Pokud máte nějaké dotazy, kontaktujte organizátora",
+ "As soon as event ends" : "Jakmile událost skončí",
+ "1 day after event ends" : "1 den po skončení akce",
+ "7 days after event ends" : "7 dní po skončení události",
+ "14 days after event ends" : "14 dní po skončení události",
+ "30 days after event ends" : "30 dní po skončení události"
 }
 export default cs

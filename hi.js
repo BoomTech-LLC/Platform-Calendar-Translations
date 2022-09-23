@@ -410,6 +410,12 @@ let hi = {
  "Ticket name" : "टिकट का नाम",
  "Ticket price" : "टिकट की कीमत",
  "Ticket ID" : "टिकट आईडी",
- "If you have any questions contact to organizer" : "यदि आपके पास आयोजक से कोई प्रश्न संपर्क है"
+ "If you have any questions contact to organizer" : "यदि आपके पास आयोजक से कोई प्रश्न संपर्क है",
+ "If you have any questions contact to organizer" : "यदि आपके पास आयोजक से कोई प्रश्न संपर्क है",
+ "As soon as event ends" : "जैसे ही घटना समाप्त हो जाती है",
+ "1 day after event ends" : "घटना समाप्त होने के 1 दिन बाद",
+ "7 days after event ends" : "घटना समाप्त होने के 7 दिन बाद",
+ "14 days after event ends" : "घटना समाप्त होने के 14 दिन बाद",
+ "30 days after event ends" : "घटना समाप्त होने के 30 दिन बाद"
 }
 export default hi

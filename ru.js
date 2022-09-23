@@ -410,6 +410,12 @@ let ru = {
  "Ticket name" : "Название билета",
  "Ticket price" : "Стоимость билета",
  "Ticket ID" : "Билет идентификатор",
- "If you have any questions contact to organizer" : "Если у вас есть какие -либо вопросы, свяжитесь с организатором"
+ "If you have any questions contact to organizer" : "Если у вас есть какие -либо вопросы, свяжитесь с организатором",
+ "If you have any questions contact to organizer" : "Если у вас есть какие -либо вопросы, свяжитесь с организатором",
+ "As soon as event ends" : "Как только событие заканчивается",
+ "1 day after event ends" : "Через 1 день после окончания события",
+ "7 days after event ends" : "7 дней после окончания события",
+ "14 days after event ends" : "Через 14 дней после окончания события",
+ "30 days after event ends" : "Через 30 дней после окончания события"
 }
 export default ru

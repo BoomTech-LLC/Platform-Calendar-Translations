@@ -410,6 +410,12 @@ let lv = {
  "Ticket name" : "Biļetes nosaukums",
  "Ticket price" : "Biļešu cena",
  "Ticket ID" : "Biļetes ID",
- "If you have any questions contact to organizer" : "Ja jums ir kādi jautājumi, kontaktējas ar organizatoru"
+ "If you have any questions contact to organizer" : "Ja jums ir kādi jautājumi, kontaktējas ar organizatoru",
+ "If you have any questions contact to organizer" : "Ja jums ir kādi jautājumi, kontaktējas ar organizatoru",
+ "As soon as event ends" : "Tiklīdz notikums beidzas",
+ "1 day after event ends" : "1 dienu pēc notikuma beigām",
+ "7 days after event ends" : "7 dienas pēc notikuma beigām",
+ "14 days after event ends" : "14 dienas pēc notikuma beigām",
+ "30 days after event ends" : "30 dienas pēc notikuma beigām"
 }
 export default lv

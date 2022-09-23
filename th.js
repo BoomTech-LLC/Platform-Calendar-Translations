@@ -410,6 +410,12 @@ let th = {
  "Ticket name" : "ชื่อตั๋ว",
  "Ticket price" : "ราคาตั๋ว",
  "Ticket ID" : "รหัสตั๋ว",
- "If you have any questions contact to organizer" : "หากคุณมีคำถามใด ๆ ติดต่อผู้จัดงาน"
+ "If you have any questions contact to organizer" : "หากคุณมีคำถามใด ๆ ติดต่อผู้จัดงาน",
+ "If you have any questions contact to organizer" : "หากคุณมีคำถามใด ๆ ติดต่อผู้จัดงาน",
+ "As soon as event ends" : "ทันทีที่เหตุการณ์สิ้นสุดลง",
+ "1 day after event ends" : "1 วันหลังจากเหตุการณ์สิ้นสุดลง",
+ "7 days after event ends" : "7 วันหลังจากเหตุการณ์สิ้นสุดลง",
+ "14 days after event ends" : "14 วันหลังจากเหตุการณ์สิ้นสุดลง",
+ "30 days after event ends" : "30 วันหลังจากเหตุการณ์สิ้นสุดลง"
 }
 export default th

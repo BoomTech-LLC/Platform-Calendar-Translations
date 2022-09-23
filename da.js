@@ -409,6 +409,12 @@ let da = {
  "Ticket name" : "Billetnavn",
  "Ticket price" : "Billetpris",
  "Ticket ID" : "Billet -id",
- "If you have any questions contact to organizer" : "Hvis du har spørgsmål kontakt til arrangør"
+ "If you have any questions contact to organizer" : "Hvis du har spørgsmål kontakt til arrangør",
+ "If you have any questions contact to organizer" : "Hvis du har spørgsmål kontakt til arrangør",
+ "As soon as event ends" : "Så snart begivenheden slutter",
+ "1 day after event ends" : "1 dag efter begivenheden er afsluttet",
+ "7 days after event ends" : "7 dage efter begivenheden er afsluttet",
+ "14 days after event ends" : "14 dage efter begivenheden er afsluttet",
+ "30 days after event ends" : "30 dage efter begivenheden er afsluttet"
 }
 export default da
