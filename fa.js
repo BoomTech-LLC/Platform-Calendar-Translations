@@ -410,6 +410,12 @@ let fa = {
  "Ticket name" : "نام بلیط",
  "Ticket price" : "قیمت بلیط",
  "Ticket ID" : "شناسه بلیط",
- "If you have any questions contact to organizer" : "اگر سوالی دارید با سازمان دهنده تماس بگیرید"
+ "If you have any questions contact to organizer" : "اگر سوالی دارید با سازمان دهنده تماس بگیرید",
+ "If you have any questions contact to organizer" : "اگر سوالی دارید با سازمان دهنده تماس بگیرید",
+ "As soon as event ends" : "به محض پایان رویداد",
+ "1 day after event ends" : "1 روز پس از پایان رویداد",
+ "7 days after event ends" : "7 روز پس از پایان رویداد",
+ "14 days after event ends" : "14 روز پس از پایان رویداد",
+ "30 days after event ends" : "30 روز پس از پایان رویداد"
 }
 export default fa

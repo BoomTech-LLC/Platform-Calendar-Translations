@@ -409,6 +409,12 @@ let bg = {
  "Ticket name" : "Име на билета",
  "Ticket price" : "Цена на билет",
  "Ticket ID" : "Идентификационен номер на билета",
- "If you have any questions contact to organizer" : "Ако имате въпроси, контакт с организатора"
+ "If you have any questions contact to organizer" : "Ако имате въпроси, контакт с организатора",
+ "If you have any questions contact to organizer" : "Ако имате въпроси, контакт с организатора",
+ "As soon as event ends" : "Щом приключи събитието",
+ "1 day after event ends" : "1 ден след приключване на събитието",
+ "7 days after event ends" : "7 дни след приключване на събитието",
+ "14 days after event ends" : "14 дни след приключване на събитието",
+ "30 days after event ends" : "30 дни след приключване на събитието"
 }
 export default bg

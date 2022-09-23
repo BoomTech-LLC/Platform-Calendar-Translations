@@ -410,6 +410,12 @@ let no = {
  "Ticket name" : "Billettnavn",
  "Ticket price" : "Billettpris",
  "Ticket ID" : "Billett -id",
- "If you have any questions contact to organizer" : "Hvis du har spørsmål, kontakt til arrangør"
+ "If you have any questions contact to organizer" : "Hvis du har spørsmål, kontakt til arrangør",
+ "If you have any questions contact to organizer" : "Hvis du har spørsmål, kontakt til arrangør",
+ "As soon as event ends" : "Så snart hendelsen slutter",
+ "1 day after event ends" : "1 dag etter at hendelsen slutter",
+ "7 days after event ends" : "7 dager etter at hendelsen slutter",
+ "14 days after event ends" : "14 dager etter at hendelsen slutter",
+ "30 days after event ends" : "30 dager etter at hendelsen er slutt"
 }
 export default no

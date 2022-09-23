@@ -415,6 +415,12 @@ let sv = {
  "Ticket name" : "Biljettnamn",
  "Ticket price" : "Biljettpris",
  "Ticket ID" : "Biljett -ID",
- "If you have any questions contact to organizer" : "Om du har några frågor Kontakt till arrangören"
+ "If you have any questions contact to organizer" : "Om du har några frågor Kontakt till arrangören",
+ "If you have any questions contact to organizer" : "Om du har några frågor Kontakt till arrangören",
+ "As soon as event ends" : "Så snart händelsen slutar",
+ "1 day after event ends" : "1 dag efter evenemanget slutar",
+ "7 days after event ends" : "7 dagar efter evenemangets slut",
+ "14 days after event ends" : "14 dagar efter evenemangets slut",
+ "30 days after event ends" : "30 dagar efter evenemangets slut"
 }
 export default sv

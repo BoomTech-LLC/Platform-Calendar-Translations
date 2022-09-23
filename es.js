@@ -409,6 +409,12 @@ let es = {
  "Ticket name" : "Nombre de la multa",
  "Ticket price" : "Precio del boleto",
  "Ticket ID" : "Identificación de entradas",
- "If you have any questions contact to organizer" : "Si tiene alguna pregunta, contacto con el organizador"
+ "If you have any questions contact to organizer" : "Si tiene alguna pregunta, contacto con el organizador",
+ "If you have any questions contact to organizer" : "Si tiene alguna pregunta, contacto con el organizador",
+ "As soon as event ends" : "Tan pronto como termine el evento",
+ "1 day after event ends" : "1 día después de que termine el evento",
+ "7 days after event ends" : "7 días después de que termine el evento",
+ "14 days after event ends" : "14 días después de que termine el evento",
+ "30 days after event ends" : "30 días después de que termine el evento"
 }
 export default es

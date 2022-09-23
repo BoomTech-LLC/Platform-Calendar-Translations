@@ -410,6 +410,12 @@ let ja = {
  "Ticket name" : "チケット名",
  "Ticket price" : "切符の値段",
  "Ticket ID" : "チケットID",
- "If you have any questions contact to organizer" : "質問がある場合は、オーガナイザーに連絡してください"
+ "If you have any questions contact to organizer" : "質問がある場合は、オーガナイザーに連絡してください",
+ "If you have any questions contact to organizer" : "質問がある場合は、オーガナイザーに連絡してください",
+ "As soon as event ends" : "イベントが終了するとすぐに",
+ "1 day after event ends" : "イベントが終了してから1日後",
+ "7 days after event ends" : "イベントが終了してから7日後",
+ "14 days after event ends" : "イベントが終了してから14日後",
+ "30 days after event ends" : "イベントが終了してから30日後"
 }
 export default ja

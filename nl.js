@@ -410,6 +410,12 @@ let nl = {
  "Ticket name" : "Ticketnaam",
  "Ticket price" : "Ticket prijs",
  "Ticket ID" : "Ticket ID",
- "If you have any questions contact to organizer" : "Als u vragen heeft, neem contact op met de organisator"
+ "If you have any questions contact to organizer" : "Als u vragen heeft, neem contact op met de organisator",
+ "If you have any questions contact to organizer" : "Als u vragen heeft, neem contact op met de organisator",
+ "As soon as event ends" : "Zodra het evenement eindigt",
+ "1 day after event ends" : "1 dag na het einde van het evenement",
+ "7 days after event ends" : "7 dagen nadat het evenement is afgelopen",
+ "14 days after event ends" : "14 dagen nadat het evenement is afgelopen",
+ "30 days after event ends" : "30 dagen nadat het evenement is afgelopen"
 }
 export default nl
