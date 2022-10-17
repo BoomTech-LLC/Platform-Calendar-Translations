@@ -411,6 +411,7 @@ let en = {
  "1 day after event ends" : "1 day after event ends",
  "7 days after event ends" : "7 days after event ends",
  "14 days after event ends" : "14 days after event ends",
- "30 days after event ends" : "30 days after event ends"
+ "30 days after event ends" : "30 days after event ends",
+ "Menu" : "Menu"
 }
 export default en

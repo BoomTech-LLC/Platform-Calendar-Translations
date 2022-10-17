@@ -416,6 +416,7 @@ let tr = {
  "1 day after event ends" : "Olay bittikten 1 gün sonra",
  "7 days after event ends" : "Olay bittikten 7 gün sonra",
  "14 days after event ends" : "Olay bittikten 14 gün sonra",
- "30 days after event ends" : "Olay bittikten 30 gün sonra"
+ "30 days after event ends" : "Olay bittikten 30 gün sonra",
+ "Menu" : "Menü"
 }
 export default tr

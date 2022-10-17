@@ -416,6 +416,7 @@ let ru = {
  "1 day after event ends" : "Через 1 день после окончания события",
  "7 days after event ends" : "7 дней после окончания события",
  "14 days after event ends" : "Через 14 дней после окончания события",
- "30 days after event ends" : "Через 30 дней после окончания события"
+ "30 days after event ends" : "Через 30 дней после окончания события",
+ "Menu" : "Меню"
 }
 export default ru

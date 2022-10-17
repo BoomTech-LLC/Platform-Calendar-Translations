@@ -421,6 +421,7 @@ let sv = {
  "1 day after event ends" : "1 dag efter evenemanget slutar",
  "7 days after event ends" : "7 dagar efter evenemangets slut",
  "14 days after event ends" : "14 dagar efter evenemangets slut",
- "30 days after event ends" : "30 dagar efter evenemangets slut"
+ "30 days after event ends" : "30 dagar efter evenemangets slut",
+ "Menu" : "Meny"
 }
 export default sv

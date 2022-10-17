@@ -413,6 +413,7 @@ let hu = {
  "1 day after event ends" : "1 nappal az esemény vége után",
  "7 days after event ends" : "7 nappal az esemény vége után",
  "14 days after event ends" : "14 nappal az esemény vége után",
- "30 days after event ends" : "30 nappal az esemény vége után"
+ "30 days after event ends" : "30 nappal az esemény vége után",
+ "Menu" : "Menü"
 }
 export default hu
