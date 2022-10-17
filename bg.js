@@ -415,6 +415,7 @@ let bg = {
  "1 day after event ends" : "1 ден след приключване на събитието",
  "7 days after event ends" : "7 дни след приключване на събитието",
  "14 days after event ends" : "14 дни след приключване на събитието",
- "30 days after event ends" : "30 дни след приключване на събитието"
+ "30 days after event ends" : "30 дни след приключване на събитието",
+ "Menu" : "Меню"
 }
 export default bg

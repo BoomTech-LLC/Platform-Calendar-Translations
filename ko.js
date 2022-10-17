@@ -416,6 +416,7 @@ let ko = {
  "1 day after event ends" : "이벤트가 끝나고 1 일 후에",
  "7 days after event ends" : "이벤트가 끝나고 7 일 후",
  "14 days after event ends" : "이벤트가 끝나고 14 일 후",
- "30 days after event ends" : "이벤트가 끝나고 30 일 후"
+ "30 days after event ends" : "이벤트가 끝나고 30 일 후",
+ "Menu" : "메뉴"
 }
 export default ko

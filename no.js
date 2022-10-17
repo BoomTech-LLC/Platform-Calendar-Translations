@@ -416,6 +416,7 @@ let no = {
  "1 day after event ends" : "1 dag etter at hendelsen slutter",
  "7 days after event ends" : "7 dager etter at hendelsen slutter",
  "14 days after event ends" : "14 dager etter at hendelsen slutter",
- "30 days after event ends" : "30 dager etter at hendelsen er slutt"
+ "30 days after event ends" : "30 dager etter at hendelsen er slutt",
+ "Menu" : "Meny"
 }
 export default no

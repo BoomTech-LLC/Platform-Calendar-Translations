@@ -415,6 +415,7 @@ let el = {
  "1 day after event ends" : "1 ημέρα μετά το τέλος της εκδήλωσης",
  "7 days after event ends" : "7 ημέρες μετά το τέλος της εκδήλωσης",
  "14 days after event ends" : "14 ημέρες μετά το τέλος της εκδήλωσης",
- "30 days after event ends" : "30 ημέρες μετά το τέλος της εκδήλωσης"
+ "30 days after event ends" : "30 ημέρες μετά το τέλος της εκδήλωσης",
+ "Menu" : "Μενού"
 }
 export default el

@@ -416,6 +416,7 @@ let lv = {
  "1 day after event ends" : "1 dienu pēc notikuma beigām",
  "7 days after event ends" : "7 dienas pēc notikuma beigām",
  "14 days after event ends" : "14 dienas pēc notikuma beigām",
- "30 days after event ends" : "30 dienas pēc notikuma beigām"
+ "30 days after event ends" : "30 dienas pēc notikuma beigām",
+ "Menu" : "Ēdienkarte"
 }
 export default lv

@@ -415,6 +415,7 @@ let ar = {
  "1 day after event ends" : "يوم واحد بعد انتهاء الحدث",
  "7 days after event ends" : "7 أيام بعد انتهاء الحدث",
  "14 days after event ends" : "14 يومًا بعد انتهاء الحدث",
- "30 days after event ends" : "30 يومًا بعد انتهاء الحدث"
+ "30 days after event ends" : "30 يومًا بعد انتهاء الحدث",
+ "Menu" : "قائمة الطعام"
 }
 export default ar

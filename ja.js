@@ -416,6 +416,7 @@ let ja = {
  "1 day after event ends" : "イベントが終了してから1日後",
  "7 days after event ends" : "イベントが終了してから7日後",
  "14 days after event ends" : "イベントが終了してから14日後",
- "30 days after event ends" : "イベントが終了してから30日後"
+ "30 days after event ends" : "イベントが終了してから30日後",
+ "Menu" : "メニュー"
 }
 export default ja

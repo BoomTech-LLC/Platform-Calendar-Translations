@@ -416,6 +416,7 @@ let th = {
  "1 day after event ends" : "1 วันหลังจากเหตุการณ์สิ้นสุดลง",
  "7 days after event ends" : "7 วันหลังจากเหตุการณ์สิ้นสุดลง",
  "14 days after event ends" : "14 วันหลังจากเหตุการณ์สิ้นสุดลง",
- "30 days after event ends" : "30 วันหลังจากเหตุการณ์สิ้นสุดลง"
+ "30 days after event ends" : "30 วันหลังจากเหตุการณ์สิ้นสุดลง",
+ "Menu" : "เมนู"
 }
 export default th

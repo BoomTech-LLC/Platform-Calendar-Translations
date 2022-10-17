@@ -408,6 +408,7 @@ let it = {
  "1 day after event ends" : "1 giorno dopo la fine dell'evento",
  "7 days after event ends" : "7 giorni dopo la fine dell'evento",
  "14 days after event ends" : "14 giorni dopo la fine dell'evento",
- "30 days after event ends" : "30 giorni dopo la fine dell'evento"
+ "30 days after event ends" : "30 giorni dopo la fine dell'evento",
+ "Menu" : "Menù"
 }
 export default it
