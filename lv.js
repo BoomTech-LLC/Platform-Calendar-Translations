@@ -417,6 +417,7 @@ let lv = {
  "7 days after event ends" : "7 dienas pēc notikuma beigām",
  "14 days after event ends" : "14 dienas pēc notikuma beigām",
  "30 days after event ends" : "30 dienas pēc notikuma beigām",
- "Menu" : "Ēdienkarte"
+ "Menu" : "Ēdienkarte",
+ "No event for selected date" : "Nav notikumu atlasītajam datumam"
 }
 export default lv

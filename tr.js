@@ -417,6 +417,7 @@ let tr = {
  "7 days after event ends" : "Olay bittikten 7 gün sonra",
  "14 days after event ends" : "Olay bittikten 14 gün sonra",
  "30 days after event ends" : "Olay bittikten 30 gün sonra",
- "Menu" : "Menü"
+ "Menu" : "Menü",
+ "No event for selected date" : "Seçilen tarih için olay yok"
 }
 export default tr

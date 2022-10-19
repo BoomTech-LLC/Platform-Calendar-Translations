@@ -417,6 +417,7 @@ let zh = {
  "7 days after event ends" : "活动结束后7天",
  "14 days after event ends" : "活动结束后14天",
  "30 days after event ends" : "活动结束后30天",
- "Menu" : "菜单"
+ "Menu" : "菜单",
+ "No event for selected date" : "选定日期没有事件"
 }
 export default zh

@@ -417,6 +417,7 @@ let uk = {
  "7 days after event ends" : "7 днів після закінчення події",
  "14 days after event ends" : "Через 14 днів після закінчення події",
  "30 days after event ends" : "Через 30 днів після закінчення події",
- "Menu" : "Меню"
+ "Menu" : "Меню",
+ "No event for selected date" : "Немає події для вибраної дати"
 }
 export default uk

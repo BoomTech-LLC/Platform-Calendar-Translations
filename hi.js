@@ -417,6 +417,7 @@ let hi = {
  "7 days after event ends" : "घटना समाप्त होने के 7 दिन बाद",
  "14 days after event ends" : "घटना समाप्त होने के 14 दिन बाद",
  "30 days after event ends" : "घटना समाप्त होने के 30 दिन बाद",
- "Menu" : "मेन्यू"
+ "Menu" : "मेन्यू",
+ "No event for selected date" : "चयनित तिथि के लिए कोई घटना नहीं"
 }
 export default hi
