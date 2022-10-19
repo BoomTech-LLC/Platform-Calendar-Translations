@@ -416,6 +416,7 @@ let da = {
  "7 days after event ends" : "7 dage efter begivenheden er afsluttet",
  "14 days after event ends" : "14 dage efter begivenheden er afsluttet",
  "30 days after event ends" : "30 dage efter begivenheden er afsluttet",
- "Menu" : "Menu"
+ "Menu" : "Menu",
+ "No event for selected date" : "Ingen begivenhed for den valgte dato"
 }
 export default da

@@ -417,6 +417,7 @@ let he = {
  "7 days after event ends" : "7 ימים לאחר סיום האירוע",
  "14 days after event ends" : "14 יום לאחר סיום האירוע",
  "30 days after event ends" : "30 יום לאחר סיום האירוע",
- "Menu" : "תַפרִיט"
+ "Menu" : "תַפרִיט",
+ "No event for selected date" : "אין אירוע לתאריך שנבחר"
 }
 export default he

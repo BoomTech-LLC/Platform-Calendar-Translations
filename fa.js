@@ -417,6 +417,7 @@ let fa = {
  "7 days after event ends" : "7 روز پس از پایان رویداد",
  "14 days after event ends" : "14 روز پس از پایان رویداد",
  "30 days after event ends" : "30 روز پس از پایان رویداد",
- "Menu" : "منو"
+ "Menu" : "منو",
+ "No event for selected date" : "هیچ رویدادی برای تاریخ انتخاب شده"
 }
 export default fa
