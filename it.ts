@@ -421,6 +421,12 @@ let it = {
  "14 days after event ends" : "14 giorni dopo la fine dell'evento",
  "30 days after event ends" : "30 giorni dopo la fine dell'evento",
  "Menu" : "Menù",
- "No event for selected date" : "Nessun evento per la data selezionata",
+ "No event for selected date" : "Nessun evento per la data selezionata",,
+ "All day event" : "Evento per tutto il giorno",
+ "Location" : "Posizione",
+ "Add location" : "Aggiungi luogo",
+ "The field is required" : "Il campo è richiesto",
+ "Please provide a valid email" : "Per favore inserisci un'email valida",
+ "Please provide a valid url" : "Si prega di fornire un URL valido"
 }
 export default it

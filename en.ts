@@ -423,6 +423,12 @@ let en = {
  "14 days after event ends" : "14 days after event ends",
  "30 days after event ends" : "30 days after event ends",
  "Menu" : "Menu",
- "No event for selected date" : "No event for selected date"
+ "No event for selected date" : "No event for selected date",
+ "All day event" : "All day event",
+ "Location" : "Location",
+ "Add location" : "Add location",
+ "The field is required" : "The field is required",
+ "Please provide a valid email" : "Please provide a valid email",
+ "Please provide a valid url" : "Please provide a valid url"
 }
 export default en

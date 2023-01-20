@@ -429,6 +429,12 @@ let th = {
  "14 days after event ends" : "14 วันหลังจากเหตุการณ์สิ้นสุดลง",
  "30 days after event ends" : "30 วันหลังจากเหตุการณ์สิ้นสุดลง",
  "Menu" : "เมนู",
- "No event for selected date" : "ไม่มีเหตุการณ์สำหรับวันที่ที่เลือก",
+ "No event for selected date" : "ไม่มีเหตุการณ์สำหรับวันที่ที่เลือก",,
+ "All day event" : "เหตุการณ์ตลอดทั้งวัน",
+ "Location" : "ที่ตั้ง",
+ "Add location" : "เพิ่มสถานที่",
+ "The field is required" : "จำเป็นต้องมีฟิลด์",
+ "Please provide a valid email" : "โปรดระบุอีเมลที่ถูกต้อง",
+ "Please provide a valid url" : "โปรดระบุ URL ที่ถูกต้อง"
 }
 export default th

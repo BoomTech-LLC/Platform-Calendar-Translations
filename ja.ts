@@ -429,6 +429,12 @@ let ja = {
  "14 days after event ends" : "イベントが終了してから14日後",
  "30 days after event ends" : "イベントが終了してから30日後",
  "Menu" : "メニュー",
- "No event for selected date" : "選択された日付のイベントはありません",
+ "No event for selected date" : "選択された日付のイベントはありません",,
+ "All day event" : "終日イベント",
+ "Location" : "位置",
+ "Add location" : "場所を追加します",
+ "The field is required" : "フィールドが必要です",
+ "Please provide a valid email" : "有効なメールを提供してください",
+ "Please provide a valid url" : "有効なURLを提供してください"
 }
 export default ja

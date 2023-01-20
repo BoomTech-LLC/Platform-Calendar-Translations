@@ -256,7 +256,6 @@ let he = {
   "Section font": "קטע גופן",
   "Section divider color": "צבע מחלק חתך",
   "Add event": "הוסף אירוע",
-
   "Choose a category": "בחר קטגוריה",
   "Venue name": "שם המקום",
   "Venue phone": "טלפון במקום",
@@ -269,10 +268,8 @@ let he = {
   "Additional Notes": "הערות נוספות",
   "Back": "חזור",
   "Save": "להציל",
-
   "Your event has been submitted": "האירוע שלך הוגש",
   "Event submittion has been failed": "הגשת האירוע נכשלה",
-
   "First Name": "שם פרטי",
   "Last Name": "שם משפחה",
   "Phone Number": "מספר טלפון",
@@ -435,6 +432,12 @@ let he = {
  "14 days after event ends" : "14 יום לאחר סיום האירוע",
  "30 days after event ends" : "30 יום לאחר סיום האירוע",
  "Menu" : "תַפרִיט",
- "No event for selected date" : "אין אירוע לתאריך שנבחר",
+ "No event for selected date" : "אין אירוע לתאריך שנבחר",,
+ "All day event" : "אירוע לכל היום",
+ "Location" : "מקום",
+ "Add location" : "הוסף מיקום",
+ "The field is required" : "השדה נדרש",
+ "Please provide a valid email" : "אנא ספק דוא"ל תקף",
+ "Please provide a valid url" : "אנא ספק כתובת אתר תקפה"
 }
 export default he

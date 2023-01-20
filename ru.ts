@@ -428,6 +428,12 @@ let ru = {
  "14 days after event ends" : "Через 14 дней после окончания события",
  "30 days after event ends" : "Через 30 дней после окончания события",
  "Menu" : "Меню",
- "No event for selected date" : "Нет события для выбранной даты",
+ "No event for selected date" : "Нет события для выбранной даты",,
+ "All day event" : "Событие на весь день",
+ "Location" : "Место нахождения",
+ "Add location" : "Добавить местоположение",
+ "The field is required" : "Поле требуется",
+ "Please provide a valid email" : "Пожалуйста, предоставьте действительный адрес электронной почты",
+ "Please provide a valid url" : "Пожалуйста, предоставьте действительный URL"
 }
 export default ru

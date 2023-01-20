@@ -428,7 +428,12 @@ let ar = {
  "14 days after event ends" : "14 يومًا بعد انتهاء الحدث",
  "30 days after event ends" : "30 يومًا بعد انتهاء الحدث",
  "Menu" : "قائمة الطعام",
- "No event for selected date" : "لا يوجد حدث للتاريخ المحدد",
-
+ "No event for selected date" : "لا يوجد حدث للتاريخ المحدد",,
+ "All day event" : "الحدث طوال اليوم",
+ "Location" : "موقع",
+ "Add location" : "أضف الموقع",
+ "The field is required" : "مطلوب هذا المجال",
+ "Please provide a valid email" : "يرجى تقديم عنوان بريد إلكتروني صالح",
+ "Please provide a valid url" : "يرجى تقديم عنوان URL صالح"
 }
 export default ar
