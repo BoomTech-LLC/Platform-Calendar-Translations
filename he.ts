@@ -432,12 +432,10 @@ let he = {
  "14 days after event ends" : "14 יום לאחר סיום האירוע",
  "30 days after event ends" : "30 יום לאחר סיום האירוע",
  "Menu" : "תַפרִיט",
- "No event for selected date" : "אין אירוע לתאריך שנבחר",,
+ "No event for selected date" : "אין אירוע לתאריך שנבחר",
  "All day event" : "אירוע לכל היום",
- "Location" : "מקום",
  "Add location" : "הוסף מיקום",
  "The field is required" : "השדה נדרש",
- "Please provide a valid email" : "אנא ספק דוא"ל תקף",
  "Please provide a valid url" : "אנא ספק כתובת אתר תקפה"
 }
 export default he

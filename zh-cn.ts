@@ -428,12 +428,10 @@ let zh = {
  "14 days after event ends" : "活动结束后14天",
  "30 days after event ends" : "活动结束后30天",
  "Menu" : "菜单",
- "No event for selected date" : "选定日期没有事件",,
+ "No event for selected date" : "选定日期没有事件",
  "All day event" : "全天的活动",
- "Location" : "地点",
  "Add location" : "添加位置",
  "The field is required" : "需要该字段",
- "Please provide a valid email" : "请提供有效的电子邮件",
  "Please provide a valid url" : "请提供有效的URL"
 }
-export default zh-cn
+export default zh

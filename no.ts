@@ -428,12 +428,10 @@ let no = {
  "14 days after event ends" : "14 dager etter at hendelsen slutter",
  "30 days after event ends" : "30 dager etter at hendelsen er slutt",
  "Menu" : "Meny",
- "No event for selected date" : "Ingen hendelse for valgt dato",,
+ "No event for selected date" : "Ingen hendelse for valgt dato",
  "All day event" : "Heldags hendelse",
- "Location" : "plassering",
  "Add location" : "Legg til plassering",
  "The field is required" : "Feltet er påkrevd",
- "Please provide a valid email" : "Vennligst oppgi en gyldig e -post",
  "Please provide a valid url" : "Vennligst oppgi en gyldig url"
 }
 export default no

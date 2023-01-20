@@ -424,12 +424,10 @@ let hu = {
  "14 days after event ends" : "14 nappal az esemény vége után",
  "30 days after event ends" : "30 nappal az esemény vége után",
  "Menu" : "Menü",
- "No event for selected date" : "Nincs esemény a kiválasztott dátumra",,
+ "No event for selected date" : "Nincs esemény a kiválasztott dátumra",
  "All day event" : "Egész napos esemény",
- "Location" : "Elhelyezkedés",
  "Add location" : "Adj hozzá helyet",
  "The field is required" : "A mező szükséges",
- "Please provide a valid email" : "Kérjük, adjon meg érvényes e -mailt",
  "Please provide a valid url" : "Kérjük, adjon meg egy érvényes URL -t"
 }
 export default hu

@@ -427,12 +427,10 @@ let nl = {
  "14 days after event ends" : "14 dagen nadat het evenement is afgelopen",
  "30 days after event ends" : "30 dagen nadat het evenement is afgelopen",
  "Menu" : "Menu",
- "No event for selected date" : "Geen gebeurtenis voor geselecteerde datum",,
+ "No event for selected date" : "Geen gebeurtenis voor geselecteerde datum",
  "All day event" : "De hele dag evenement",
- "Location" : "Plaats",
  "Add location" : "Voeg locatie toe",
  "The field is required" : "Het veld is verplicht",
- "Please provide a valid email" : "Geef een geldige e -mail op",
  "Please provide a valid url" : "Geef een geldige URL op"
 }
 export default nl

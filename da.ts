@@ -428,12 +428,10 @@ let da = {
  "14 days after event ends" : "14 dage efter begivenheden er afsluttet",
  "30 days after event ends" : "30 dage efter begivenheden er afsluttet",
  "Menu" : "Menu",
- "No event for selected date" : "Ingen begivenhed for den valgte dato",,
+ "No event for selected date" : "Ingen begivenhed for den valgte dato",
  "All day event" : "Hele dagen begivenhed",
- "Location" : "Beliggenhed",
  "Add location" : "Tilføj placering",
  "The field is required" : "Feltet er påkrævet",
- "Please provide a valid email" : "Angiv en gyldig e -mail",
  "Please provide a valid url" : "Angiv en gyldig URL"
 }
 export default da

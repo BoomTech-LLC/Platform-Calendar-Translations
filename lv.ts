@@ -429,12 +429,10 @@ let lv = {
  "14 days after event ends" : "14 dienas pēc notikuma beigām",
  "30 days after event ends" : "30 dienas pēc notikuma beigām",
  "Menu" : "Ēdienkarte",
- "No event for selected date" : "Nav notikumu atlasītajam datumam",,
+ "No event for selected date" : "Nav notikumu atlasītajam datumam",
  "All day event" : "Visu dienu pasākums",
- "Location" : "Atrašanās vieta",
  "Add location" : "Pievienot atrašanās vietu",
  "The field is required" : "Nepieciešams lauks",
- "Please provide a valid email" : "Lūdzu, norādiet derīgu e -pastu",
  "Please provide a valid url" : "Lūdzu, sniedziet derīgu URL"
 }
 export default lv

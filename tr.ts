@@ -428,12 +428,10 @@ let tr = {
  "14 days after event ends" : "Olay bittikten 14 gün sonra",
  "30 days after event ends" : "Olay bittikten 30 gün sonra",
  "Menu" : "Menü",
- "No event for selected date" : "Seçilen tarih için olay yok",,
+ "No event for selected date" : "Seçilen tarih için olay yok",
  "All day event" : "Tüm gün aktivitesi",
- "Location" : "Konum",
  "Add location" : "Konum ekle",
  "The field is required" : "Alan zorunludur",
- "Please provide a valid email" : "Lütfen geçerli bir e -posta sağlayın",
  "Please provide a valid url" : "Lütfen geçerli bir URL sağlayın"
 }
 export default tr

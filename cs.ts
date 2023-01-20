@@ -430,12 +430,10 @@ let cs = {
  "14 days after event ends" : "14 dní po skončení události",
  "30 days after event ends" : "30 dní po skončení události",
  "Menu" : "Jídelní lístek",
- "No event for selected date" : "Žádná událost pro vybrané datum",,
+ "No event for selected date" : "Žádná událost pro vybrané datum",
  "All day event" : "Celodenní akce",
- "Location" : "Umístění",
  "Add location" : "Přidat lokaci",
  "The field is required" : "Pole je vyžadováno",
- "Please provide a valid email" : "Uveďte prosím platný e -mail",
  "Please provide a valid url" : "Uveďte prosím platnou adresu URL"
 }
 export default cs

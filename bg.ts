@@ -430,12 +430,10 @@ let bg = {
  "14 days after event ends" : "14 дни след приключване на събитието",
  "30 days after event ends" : "30 дни след приключване на събитието",
  "Menu" : "Меню",
- "No event for selected date" : "Няма събитие за избрана дата",,
+ "No event for selected date" : "Няма събитие за избрана дата",
  "All day event" : "Целодневно събитие",
- "Location" : "Местоположение",
  "Add location" : "Добави местоположение",
  "The field is required" : "Полето е необходимо",
- "Please provide a valid email" : "Моля, предоставете валиден имейл",
  "Please provide a valid url" : "Моля, предоставете валиден URL адрес"
 }
 export default bg

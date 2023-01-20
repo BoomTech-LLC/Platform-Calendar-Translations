@@ -431,12 +431,10 @@ let hi = {
  "14 days after event ends" : "घटना समाप्त होने के 14 दिन बाद",
  "30 days after event ends" : "घटना समाप्त होने के 30 दिन बाद",
  "Menu" : "मेन्यू",
- "No event for selected date" : "चयनित तिथि के लिए कोई घटना नहीं",,
+ "No event for selected date" : "चयनित तिथि के लिए कोई घटना नहीं",
  "All day event" : "सारे दिन का कार्यक्रम",
- "Location" : "स्थान",
  "Add location" : "स्थान जोड़ना",
  "The field is required" : "क्षेत्र की आवश्यकता है",
- "Please provide a valid email" : "कृपया सही ईमेल पता बताएं",
  "Please provide a valid url" : "कृपया एक वैध URL प्रदान करें"
 }
 export default hi

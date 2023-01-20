@@ -431,12 +431,10 @@ let fa = {
  "14 days after event ends" : "14 روز پس از پایان رویداد",
  "30 days after event ends" : "30 روز پس از پایان رویداد",
  "Menu" : "منو",
- "No event for selected date" : "هیچ رویدادی برای تاریخ انتخاب شده",,
+ "No event for selected date" : "هیچ رویدادی برای تاریخ انتخاب شده",
  "All day event" : "رویداد یک روز کامل",
- "Location" : "محل",
  "Add location" : "مکان را اضافه کنید",
  "The field is required" : "این زمینه مورد نیاز است",
- "Please provide a valid email" : "لطفا یک ایمیل معتبر وارد کنید",
  "Please provide a valid url" : "لطفا یک URL معتبر تهیه کنید"
 }
 export default fa

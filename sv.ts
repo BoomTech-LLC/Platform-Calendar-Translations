@@ -433,12 +433,10 @@ let sv = {
  "14 days after event ends" : "14 dagar efter evenemangets slut",
  "30 days after event ends" : "30 dagar efter evenemangets slut",
  "Menu" : "Meny",
- "No event for selected date" : "Inget evenemang för valt datum",,
+ "No event for selected date" : "Inget evenemang för valt datum",
  "All day event" : "Heldagsevent",
- "Location" : "Plats",
  "Add location" : "Lägg till plats",
  "The field is required" : "Fältet krävs",
- "Please provide a valid email" : "Var god ange en giltig e-postadress",
  "Please provide a valid url" : "Ange en giltig URL"
 }
 export default sv

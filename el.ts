@@ -427,12 +427,10 @@ let el = {
  "14 days after event ends" : "14 ημέρες μετά το τέλος της εκδήλωσης",
  "30 days after event ends" : "30 ημέρες μετά το τέλος της εκδήλωσης",
  "Menu" : "Μενού",
- "No event for selected date" : "Δεν υπάρχει συμβάν για επιλεγμένη ημερομηνία",,
+ "No event for selected date" : "Δεν υπάρχει συμβάν για επιλεγμένη ημερομηνία",
  "All day event" : "Ολοήμερο γεγονός",
- "Location" : "Τοποθεσία",
  "Add location" : "Προσθήκη τοποθεσίας",
  "The field is required" : "Το πεδίο απαιτείται",
- "Please provide a valid email" : "Δώστε ένα έγκυρο email",
  "Please provide a valid url" : "Δώστε μια έγκυρη διεύθυνση URL"
 }
 export default el

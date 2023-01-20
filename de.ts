@@ -427,12 +427,10 @@ let de = {
  "14 days after event ends" : "14 Tage nach Ende des Ereignisses",
  "30 days after event ends" : "30 Tage nach Ende des Ereignisses",
  "Menu" : "Speisekarte",
- "No event for selected date" : "Keine Veranstaltung für das ausgewählte Datum",,
+ "No event for selected date" : "Keine Veranstaltung für das ausgewählte Datum",
  "All day event" : "Ganztägige Veranstaltung",
- "Location" : "Ort",
  "Add location" : "Ort hinzufügen",
  "The field is required" : "Dieses Feld ist erforderlich",
- "Please provide a valid email" : "Bitte geben Sie eine gültige E -Mail an",
  "Please provide a valid url" : "Bitte geben Sie eine gültige URL an"
 }
 export default de
