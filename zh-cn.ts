@@ -440,4 +440,4 @@ let zh = {
  "Bulleted list" : "项目符号列表",
  "Numbered list" : "编号列表"
 }
-export default zh-cn
+export default zh
