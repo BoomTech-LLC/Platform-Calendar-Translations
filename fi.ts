@@ -1,4 +1,20 @@
 let fi = {
+
+
+    
+  /* add event pop-up start*/
+ "e.g. Birthday Party" : "esim.Syntymäpäiväjuhlat",
+ "Organizer" : "Järjestäjä",
+ "Location is going to be announced" : "Sijainti ilmoitetaan",
+ "Add Event" : "Lisätä tapahtumaa",
+ "All Day Event" : "Koko päivän tapahtuma",
+ "Location" : "Sijainti",
+ "General Info" : "Yleiset tiedot",
+ "Description" : "Kuvaus",
+ "Next" : "Seuraava",
+/* add event pop-up end*/
+
+
  "Categories" : "Luokat",
  "Share this event" : "Jaa tämä tapahtuma",
  "Language" : "Kieli",
@@ -106,7 +122,6 @@ let fi = {
  "Border Width" : "Rajan leveys",
  "Border Type" : "Reunatyyppi",
  "Title" : "Otsikko",
- "Description" : "Kuvaus",
  "Background Color" : "Taustaväri",
  "Divider" : "Jakaja",
  "Event Details Font" : "Tapahtumatiedot fontti",
@@ -160,9 +175,9 @@ let fi = {
  "Calendar Name" : "Kalenterin nimi",
  "Write your Calendar name here" : "Kirjoita kalenterimesi tähän",
  "This is not visible to your users. Set names to differentiate your calendars when using the Boom Calendar Sync function." : "Tämä ei ole käyttäjille näkyvä.Aseta nimet kalenterisi erottamiseksi, kun käytetään puomikalenterin synkronointitoimintoa.",
- "General Info" : "Yleiset tiedot",
+
  "Venue" : "Paikka",
- "Organizer" : "Järjestäjä",
+
  "Search" : "Hae",
  "Add to" : "Lisätä",
  "calendar" : "kalenteri",
@@ -171,7 +186,6 @@ let fi = {
  "Add & Share" : "Lisää ja jaa",
  "Map" : "Kartta",
  "Calendar view" : "Kalenterinäkymä",
- "Add Event" : "Lisätä tapahtumaa",
  "Uncategorised" : "Luokittelematon",
  "More" : "Lisää",
  "Less" : "Vähemmän",
@@ -222,8 +236,7 @@ let fi = {
  "Section font" : "Osiofontti",
  "Section divider color" : "Osanjakajan väri",
  "Add event" : "Lisätä tapahtumaa",
- "All Day Event" : "Koko päivän tapahtuma",
- "Location" : "Sijainti",
+
  "Choose a category" : "Valitse kategoria",
  "Venue name" : "Tapahtumapaikan nimi",
  "Venue phone" : "Tapahtumapaikan puhelin",
@@ -240,10 +253,10 @@ let fi = {
  "Additional Notes" : "Lisämerkinnät",
  "Back" : "Takaisin",
  "Save" : "Tallentaa",
- "Next" : "Seuraava",
+
  "Your event has been submitted" : "Tapahtumasi on lähetetty",
  "Event submittion has been failed" : "Tapahtuman lähettäminen on epäonnistunut",
- "e.g. Birthday Party" : "esim.Syntymäpäiväjuhlat",
+
  "First Name" : "Etunimi",
  "Last Name" : "Sukunimi",
  "Phone Number" : "Puhelinnumero",
@@ -334,7 +347,6 @@ let fi = {
  "Delete event" : "Poistaa tapahtuma",
  "Stop repeating on this date" : "Lopeta toistaminen tänä päivänä",
  "Exclude this date" : "Sulje pois tämä päivämäärä",
- "Location is going to be announced" : "Sijainti ilmoitetaan",
  "Fill your personal information" : "Täytä henkilökohtaiset tietosi",
  "Check Box" : "Valintaruutu",
  "Single Choice" : "Yksi valinta",
@@ -346,9 +358,6 @@ let fi = {
  "This field is required" : "Tämä kenttä pitää täyttää",
  "Phone" : "Puhelin",
  "Number field" : "Lukukenttä",
- "Option" : "Vaihtoehto",
- "Check Box" : "Valintaruutu",
- "Single Choice" : "Yksi valinta",
  "Please provide a valid email" : "Anna kelvollinen sähköposti",
  "Select at least one option" : "Valitse vähintään yksi vaihtoehto",
  "Choose tickets to see total value" : "Valitse liput nähdäksesi kokonaisarvon",
@@ -362,15 +371,9 @@ let fi = {
  "Sold Out" : "Loppuunmyyty",
  "Tickets are available" : "Liput ovat saatavilla",
  "Sales End" : "Myyntipää",
- "Buy tickets" : "Osta lippuja",
  "Availible from" : "saatavilla",
  "Go to Orders" : "Mennä käskyihin",
  "Go to Details" : "Siirry yksityiskohtiin",
- "Group ticket" : "Ryhmälippu",
- "Name" : "Nimi",
- "Price" : "Hinta",
- "Order by" : "Tilata",
- "Order ID" : "tilausnumero",
  "Group ticket" : "Ryhmälippu",
  "Name" : "Nimi",
  "Price" : "Hinta",
@@ -409,7 +412,6 @@ let fi = {
  "Ticket name" : "Lipun nimi",
  "Ticket price" : "Lipun hinta",
  "Ticket ID" : "Lipputunnus",
- "If you have any questions contact to organizer" : "Jos sinulla on kysyttävää järjestäjälle",
  "If you have any questions contact to organizer" : "Jos sinulla on kysyttävää järjestäjälle",
  "As soon as event ends" : "Heti kun tapahtuma päättyy",
  "1 day after event ends" : "1 päivä tapahtuman päättymisen jälkeen",

@@ -1,6 +1,6 @@
 {
   "name": "translations",
-  "version": "3.0.13",
+  "version": "0.0.1",
   "description": "",
   "main": "en.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NavasardianMichael/translations.git"
+    "url": "git+https://github.com:BoomTech-LLC/Platform-Calendar-Translations.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NavasardianMichael/translations/issues"
+    "url": "https://github.com:BoomTech-LLC/Platform-Calendar-Translations/issues"
   },
-  "homepage": "https://github.com/NavasardianMichael/translations#readme"
+  "homepage": "https://github.com:BoomTech-LLC/Platform-Calendar-Translations#readme"
 }
