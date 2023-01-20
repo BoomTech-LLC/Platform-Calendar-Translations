@@ -432,6 +432,12 @@ let ar = {
  "All day event" : "الحدث طوال اليوم",
  "Add location" : "أضف الموقع",
  "The field is required" : "مطلوب هذا المجال",
- "Please provide a valid url" : "يرجى تقديم عنوان URL صالح"
+ "Please provide a valid url" : "يرجى تقديم عنوان URL صالح",
+ "Bold" : "عريض",
+ "Italic" : "مائل",
+ "Underline" : "تسطير",
+ "Link" : "وصلة",
+ "Bulleted list" : "قائمة برصاصة",
+ "Numbered list" : "قائمة مرقمة"
 }
 export default ar

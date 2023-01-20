@@ -428,6 +428,12 @@ let hu = {
  "All day event" : "Egész napos esemény",
  "Add location" : "Adj hozzá helyet",
  "The field is required" : "A mező szükséges",
- "Please provide a valid url" : "Kérjük, adjon meg egy érvényes URL -t"
+ "Please provide a valid url" : "Kérjük, adjon meg egy érvényes URL -t",
+ "Bold" : "Bátor",
+ "Italic" : "Dőlt betű",
+ "Underline" : "Aláhúzás",
+ "Link" : "Link",
+ "Bulleted list" : "Ábrázolt lista",
+ "Numbered list" : "Számozott lista"
 }
 export default hu

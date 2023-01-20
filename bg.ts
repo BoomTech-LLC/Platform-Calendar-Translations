@@ -434,6 +434,12 @@ let bg = {
  "All day event" : "Целодневно събитие",
  "Add location" : "Добави местоположение",
  "The field is required" : "Полето е необходимо",
- "Please provide a valid url" : "Моля, предоставете валиден URL адрес"
+ "Please provide a valid url" : "Моля, предоставете валиден URL адрес",
+ "Bold" : "Смел",
+ "Italic" : "Курсив",
+ "Underline" : "Подчертаване",
+ "Link" : "Връзка",
+ "Bulleted list" : "Булиран списък",
+ "Numbered list" : "Номериран списък"
 }
 export default bg

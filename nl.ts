@@ -431,6 +431,12 @@ let nl = {
  "All day event" : "De hele dag evenement",
  "Add location" : "Voeg locatie toe",
  "The field is required" : "Het veld is verplicht",
- "Please provide a valid url" : "Geef een geldige URL op"
+ "Please provide a valid url" : "Geef een geldige URL op",
+ "Bold" : "Stoutmoedig",
+ "Italic" : "Cursief",
+ "Underline" : "Onderstrepen",
+ "Link" : "Koppeling",
+ "Bulleted list" : "Opsloeglijst",
+ "Numbered list" : "Genummerde lijst"
 }
 export default nl

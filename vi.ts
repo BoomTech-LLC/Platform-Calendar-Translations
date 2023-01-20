@@ -426,6 +426,12 @@ let vi = {
  "All day event" : "Sự kiện cả ngày",
  "Add location" : "Thêm vị trí",
  "The field is required" : "cột được yêu cầu",
- "Please provide a valid url" : "Vui lòng cung cấp một URL hợp lệ"
+ "Please provide a valid url" : "Vui lòng cung cấp một URL hợp lệ",
+ "Bold" : "Dũng cảm",
+ "Italic" : "Chữ in nghiêng",
+ "Underline" : "Gạch chân",
+ "Link" : "Liên kết",
+ "Bulleted list" : "Danh sách viên đạn",
+ "Numbered list" : "Danh sách được đánh số"
 }
 export default vi

@@ -432,6 +432,12 @@ let zh = {
  "All day event" : "全天的活动",
  "Add location" : "添加位置",
  "The field is required" : "需要该字段",
- "Please provide a valid url" : "请提供有效的URL"
+ "Please provide a valid url" : "请提供有效的URL",
+ "Bold" : "胆大",
+ "Italic" : "斜体",
+ "Underline" : "强调",
+ "Link" : "关联",
+ "Bulleted list" : "项目符号列表",
+ "Numbered list" : "编号列表"
 }
-export default zh
+export default zh-cn

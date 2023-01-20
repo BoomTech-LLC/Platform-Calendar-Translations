@@ -434,6 +434,12 @@ let cs = {
  "All day event" : "Celodenní akce",
  "Add location" : "Přidat lokaci",
  "The field is required" : "Pole je vyžadováno",
- "Please provide a valid url" : "Uveďte prosím platnou adresu URL"
+ "Please provide a valid url" : "Uveďte prosím platnou adresu URL",
+ "Bold" : "tučně",
+ "Italic" : "Kurzíva",
+ "Underline" : "Zdůraznit",
+ "Link" : "Odkaz",
+ "Bulleted list" : "Seznam s odrážkami",
+ "Numbered list" : "Číslovaný seznam"
 }
 export default cs

@@ -432,6 +432,12 @@ let no = {
  "All day event" : "Heldags hendelse",
  "Add location" : "Legg til plassering",
  "The field is required" : "Feltet er påkrevd",
- "Please provide a valid url" : "Vennligst oppgi en gyldig url"
+ "Please provide a valid url" : "Vennligst oppgi en gyldig url",
+ "Bold" : "Modig",
+ "Italic" : "Kursiv",
+ "Underline" : "Understrek",
+ "Link" : "Lenke",
+ "Bulleted list" : "Bulleted List",
+ "Numbered list" : "Nummerert liste"
 }
 export default no

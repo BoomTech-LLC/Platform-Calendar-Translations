@@ -433,6 +433,12 @@ let th = {
  "All day event" : "เหตุการณ์ตลอดทั้งวัน",
  "Add location" : "เพิ่มสถานที่",
  "The field is required" : "จำเป็นต้องมีฟิลด์",
- "Please provide a valid url" : "โปรดระบุ URL ที่ถูกต้อง"
+ "Please provide a valid url" : "โปรดระบุ URL ที่ถูกต้อง",
+ "Bold" : "ตัวหนา",
+ "Italic" : "เป็นตัวเอียง",
+ "Underline" : "ขีดเส้นใต้",
+ "Link" : "การเชื่อมโยง",
+ "Bulleted list" : "รายการกระสุนปืน",
+ "Numbered list" : "รายการหมายเลข"
 }
 export default th

@@ -432,6 +432,12 @@ let tr = {
  "All day event" : "Tüm gün aktivitesi",
  "Add location" : "Konum ekle",
  "The field is required" : "Alan zorunludur",
- "Please provide a valid url" : "Lütfen geçerli bir URL sağlayın"
+ "Please provide a valid url" : "Lütfen geçerli bir URL sağlayın",
+ "Bold" : "Gözü pek",
+ "Italic" : "İtalik",
+ "Underline" : "Altını çizmek",
+ "Link" : "Bağlantı",
+ "Bulleted list" : "Maddeli liste",
+ "Numbered list" : "Numaralı liste"
 }
 export default tr

@@ -432,6 +432,12 @@ let ru = {
  "All day event" : "Событие на весь день",
  "Add location" : "Добавить местоположение",
  "The field is required" : "Поле требуется",
- "Please provide a valid url" : "Пожалуйста, предоставьте действительный URL"
+ "Please provide a valid url" : "Пожалуйста, предоставьте действительный URL",
+ "Bold" : "Жирный",
+ "Italic" : "Курсив",
+ "Underline" : "Подчеркнуть",
+ "Link" : "Связь",
+ "Bulleted list" : "Маркированный список",
+ "Numbered list" : "Пронумерованный список"
 }
 export default ru

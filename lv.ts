@@ -433,6 +433,12 @@ let lv = {
  "All day event" : "Visu dienu pasākums",
  "Add location" : "Pievienot atrašanās vietu",
  "The field is required" : "Nepieciešams lauks",
- "Please provide a valid url" : "Lūdzu, sniedziet derīgu URL"
+ "Please provide a valid url" : "Lūdzu, sniedziet derīgu URL",
+ "Bold" : "Drosmīgs",
+ "Italic" : "Slīpraksts",
+ "Underline" : "Pasvītrot",
+ "Link" : "Saite",
+ "Bulleted list" : "Ložu saraksts",
+ "Numbered list" : "Numurēts saraksts"
 }
 export default lv

@@ -433,6 +433,12 @@ let ja = {
  "All day event" : "終日イベント",
  "Add location" : "場所を追加します",
  "The field is required" : "フィールドが必要です",
- "Please provide a valid url" : "有効なURLを提供してください"
+ "Please provide a valid url" : "有効なURLを提供してください",
+ "Bold" : "ボールド",
+ "Italic" : "イタリック",
+ "Underline" : "下線",
+ "Link" : "リンク",
+ "Bulleted list" : "箇条書きリスト",
+ "Numbered list" : "番号付きリスト"
 }
 export default ja

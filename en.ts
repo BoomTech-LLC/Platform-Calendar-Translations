@@ -427,6 +427,12 @@ let en = {
  "All day event" : "All day event",
  "Add location" : "Add location",
  "The field is required" : "The field is required",
- "Please provide a valid url" : "Please provide a valid url"
+ "Please provide a valid url" : "Please provide a valid url",
+ "Bold" : "Bold",
+ "Italic" : "Italic",
+ "Underline" : "Underline",
+ "Link" : "Link",
+ "Bulleted list" : "Bulleted list",
+ "Numbered list" : "Numbered list"
 }
 export default en

@@ -433,6 +433,12 @@ let pl = {
  "All day event" : "Wydarzenie przez cały dzień",
  "Add location" : "Dodaj miejsce",
  "The field is required" : "To pole jest wymagane",
- "Please provide a valid url" : "Proszę podać ważny adres URL"
+ "Please provide a valid url" : "Proszę podać ważny adres URL",
+ "Bold" : "Pogrubienie",
+ "Italic" : "italski",
+ "Underline" : "Podkreślać",
+ "Link" : "Połączyć",
+ "Bulleted list" : "Lista opuchniętowa",
+ "Numbered list" : "Numerowana lista"
 }
 export default pl

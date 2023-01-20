@@ -432,6 +432,12 @@ let ko = {
  "All day event" : "하루 종일 이벤트",
  "Add location" : "위치를 추가하십시오",
  "The field is required" : "필드가 필요합니다",
- "Please provide a valid url" : "유효한 URL을 제공하십시오"
+ "Please provide a valid url" : "유효한 URL을 제공하십시오",
+ "Bold" : "용감한",
+ "Italic" : "이탤릭체",
+ "Underline" : "밑줄",
+ "Link" : "링크",
+ "Bulleted list" : "총알 목록",
+ "Numbered list" : "번호가 매겨진 목록"
 }
 export default ko

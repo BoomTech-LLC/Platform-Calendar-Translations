@@ -435,6 +435,12 @@ let fa = {
  "All day event" : "رویداد یک روز کامل",
  "Add location" : "مکان را اضافه کنید",
  "The field is required" : "این زمینه مورد نیاز است",
- "Please provide a valid url" : "لطفا یک URL معتبر تهیه کنید"
+ "Please provide a valid url" : "لطفا یک URL معتبر تهیه کنید",
+ "Bold" : "سرزنده",
+ "Italic" : "وابسته به ایتالیایی",
+ "Underline" : "زیر خط",
+ "Link" : "ارتباط دادن",
+ "Bulleted list" : "لیست گلوله",
+ "Numbered list" : "لیست شماره گذاری شده"
 }
 export default fa

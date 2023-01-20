@@ -436,6 +436,12 @@ let he = {
  "All day event" : "אירוע לכל היום",
  "Add location" : "הוסף מיקום",
  "The field is required" : "השדה נדרש",
- "Please provide a valid url" : "אנא ספק כתובת אתר תקפה"
+ "Please provide a valid url" : "אנא ספק כתובת אתר תקפה",
+ "Bold" : "נוֹעָז",
+ "Italic" : "נטוי",
+ "Underline" : "לָשִׂים דָגֵשׁ",
+ "Link" : "קישור",
+ "Bulleted list" : "רשימה כדורים",
+ "Numbered list" : "רשימה ממוספרת"
 }
 export default he

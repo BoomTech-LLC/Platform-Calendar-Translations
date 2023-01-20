@@ -437,6 +437,12 @@ let sv = {
  "All day event" : "Heldagsevent",
  "Add location" : "Lägg till plats",
  "The field is required" : "Fältet krävs",
- "Please provide a valid url" : "Ange en giltig URL"
+ "Please provide a valid url" : "Ange en giltig URL",
+ "Bold" : "Djärv",
+ "Italic" : "Kursiv",
+ "Underline" : "Understrykning",
+ "Link" : "Länk",
+ "Bulleted list" : "Bulletlista",
+ "Numbered list" : "Numrerad lista"
 }
 export default sv

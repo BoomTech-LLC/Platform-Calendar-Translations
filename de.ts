@@ -431,6 +431,12 @@ let de = {
  "All day event" : "Ganztägige Veranstaltung",
  "Add location" : "Ort hinzufügen",
  "The field is required" : "Dieses Feld ist erforderlich",
- "Please provide a valid url" : "Bitte geben Sie eine gültige URL an"
+ "Please provide a valid url" : "Bitte geben Sie eine gültige URL an",
+ "Bold" : "Deutlich",
+ "Italic" : "Kursiv",
+ "Underline" : "Unterstreichen",
+ "Link" : "Verknüpfung",
+ "Bulleted list" : "Kugelliste",
+ "Numbered list" : "Nummerierte Liste"
 }
 export default de

@@ -432,6 +432,12 @@ let da = {
  "All day event" : "Hele dagen begivenhed",
  "Add location" : "Tilføj placering",
  "The field is required" : "Feltet er påkrævet",
- "Please provide a valid url" : "Angiv en gyldig URL"
+ "Please provide a valid url" : "Angiv en gyldig URL",
+ "Bold" : "Fremhævet",
+ "Italic" : "Kursiv",
+ "Underline" : "Understrege",
+ "Link" : "Link",
+ "Bulleted list" : "Bullet list",
+ "Numbered list" : "Nummereret liste"
 }
 export default da

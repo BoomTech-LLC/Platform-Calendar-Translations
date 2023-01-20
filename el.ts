@@ -431,6 +431,12 @@ let el = {
  "All day event" : "Ολοήμερο γεγονός",
  "Add location" : "Προσθήκη τοποθεσίας",
  "The field is required" : "Το πεδίο απαιτείται",
- "Please provide a valid url" : "Δώστε μια έγκυρη διεύθυνση URL"
+ "Please provide a valid url" : "Δώστε μια έγκυρη διεύθυνση URL",
+ "Bold" : "Τολμηρός",
+ "Italic" : "Πλάγιος",
+ "Underline" : "Υπογραμμίζω",
+ "Link" : "Σύνδεσμος",
+ "Bulleted list" : "Σφυρηλάτηση",
+ "Numbered list" : "Αριθμημένη λίστα"
 }
 export default el

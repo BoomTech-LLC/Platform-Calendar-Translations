@@ -432,6 +432,12 @@ let uk = {
  "All day event" : "Цілий день події",
  "Add location" : "Додайте місце розташування",
  "The field is required" : "Поле потрібно",
- "Please provide a valid url" : "Будь ласка, надайте дійсну URL -адресу"
+ "Please provide a valid url" : "Будь ласка, надайте дійсну URL -адресу",
+ "Bold" : "Сміливий",
+ "Italic" : "Курсив",
+ "Underline" : "Підкреслювати",
+ "Link" : "Зв'язок",
+ "Bulleted list" : "Список бритів",
+ "Numbered list" : "Пронумерований список"
 }
 export default uk

@@ -435,6 +435,12 @@ let hi = {
  "All day event" : "सारे दिन का कार्यक्रम",
  "Add location" : "स्थान जोड़ना",
  "The field is required" : "क्षेत्र की आवश्यकता है",
- "Please provide a valid url" : "कृपया एक वैध URL प्रदान करें"
+ "Please provide a valid url" : "कृपया एक वैध URL प्रदान करें",
+ "Bold" : "निडर",
+ "Italic" : "तिरछा",
+ "Underline" : "रेखांकन",
+ "Link" : "संपर्क",
+ "Bulleted list" : "बुलेटेड सूची",
+ "Numbered list" : "संख्या सूची"
 }
 export default hi
