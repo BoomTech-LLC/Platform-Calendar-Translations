@@ -438,6 +438,7 @@ let da = {
  "Underline" : "Understrege",
  "Link" : "Link",
  "Bulleted list" : "Bullet list",
- "Numbered list" : "Nummereret liste"
+ "Numbered list" : "Nummereret liste",
+ "Add meeting link" : "Tilføj mødelink"
 }
 export default da

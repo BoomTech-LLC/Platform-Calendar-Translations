@@ -437,6 +437,7 @@ let nl = {
  "Underline" : "Onderstrepen",
  "Link" : "Koppeling",
  "Bulleted list" : "Opsloeglijst",
- "Numbered list" : "Genummerde lijst"
+ "Numbered list" : "Genummerde lijst",
+ "Add meeting link" : "Voeg vergaderlink toe"
 }
 export default nl

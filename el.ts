@@ -437,6 +437,7 @@ let el = {
  "Underline" : "Υπογραμμίζω",
  "Link" : "Σύνδεσμος",
  "Bulleted list" : "Σφυρηλάτηση",
- "Numbered list" : "Αριθμημένη λίστα"
+ "Numbered list" : "Αριθμημένη λίστα",
+ "Add meeting link" : "Προσθήκη συνδέσμου συνάντησης"
 }
 export default el

@@ -434,6 +434,7 @@ let hu = {
  "Underline" : "Aláhúzás",
  "Link" : "Link",
  "Bulleted list" : "Ábrázolt lista",
- "Numbered list" : "Számozott lista"
+ "Numbered list" : "Számozott lista",
+ "Add meeting link" : "Találkozó link hozzáadása"
 }
 export default hu

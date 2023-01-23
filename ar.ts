@@ -438,6 +438,7 @@ let ar = {
  "Underline" : "تسطير",
  "Link" : "وصلة",
  "Bulleted list" : "قائمة برصاصة",
- "Numbered list" : "قائمة مرقمة"
+ "Numbered list" : "قائمة مرقمة",
+ "Add meeting link" : "أضف رابط الاجتماع"
 }
 export default ar

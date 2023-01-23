@@ -440,6 +440,7 @@ let bg = {
  "Underline" : "Подчертаване",
  "Link" : "Връзка",
  "Bulleted list" : "Булиран списък",
- "Numbered list" : "Номериран списък"
+ "Numbered list" : "Номериран списък",
+ "Add meeting link" : "Добавете връзката за срещи"
 }
 export default bg

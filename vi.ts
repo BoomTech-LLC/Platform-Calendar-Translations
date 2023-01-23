@@ -432,6 +432,7 @@ let vi = {
  "Underline" : "Gạch chân",
  "Link" : "Liên kết",
  "Bulleted list" : "Danh sách viên đạn",
- "Numbered list" : "Danh sách được đánh số"
+ "Numbered list" : "Danh sách được đánh số",
+ "Add meeting link" : "Thêm liên kết cuộc họp"
 }
 export default vi

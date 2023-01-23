@@ -438,6 +438,7 @@ let ko = {
  "Underline" : "밑줄",
  "Link" : "링크",
  "Bulleted list" : "총알 목록",
- "Numbered list" : "번호가 매겨진 목록"
+ "Numbered list" : "번호가 매겨진 목록",
+ "Add meeting link" : "회의 링크 추가"
 }
 export default ko

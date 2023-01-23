@@ -439,6 +439,7 @@ let lv = {
  "Underline" : "Pasvītrot",
  "Link" : "Saite",
  "Bulleted list" : "Ložu saraksts",
- "Numbered list" : "Numurēts saraksts"
+ "Numbered list" : "Numurēts saraksts",
+ "Add meeting link" : "Pievienojiet sanāksmes saiti"
 }
 export default lv

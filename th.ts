@@ -439,6 +439,7 @@ let th = {
  "Underline" : "ขีดเส้นใต้",
  "Link" : "การเชื่อมโยง",
  "Bulleted list" : "รายการกระสุนปืน",
- "Numbered list" : "รายการหมายเลข"
+ "Numbered list" : "รายการหมายเลข",
+ "Add meeting link" : "เพิ่มลิงค์การประชุม"
 }
 export default th

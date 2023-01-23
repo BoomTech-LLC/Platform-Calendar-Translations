@@ -438,6 +438,7 @@ let tr = {
  "Underline" : "Altını çizmek",
  "Link" : "Bağlantı",
  "Bulleted list" : "Maddeli liste",
- "Numbered list" : "Numaralı liste"
+ "Numbered list" : "Numaralı liste",
+ "Add meeting link" : "Toplantı Bağlantısı Ekle"
 }
 export default tr

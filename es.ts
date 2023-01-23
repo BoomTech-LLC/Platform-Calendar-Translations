@@ -431,6 +431,7 @@ let es = {
  "All day event" : "Evento de todo el día",
  "Add location" : "Agregar Direccion",
  "The field is required" : "El campo es obligatorio",
- "Please provide a valid url" : "Proporcione una URL válida"
+ "Please provide a valid url" : "Proporcione una URL válida",
+ "Add meeting link" : "Agregar enlace de reunión"
 }
 export default es

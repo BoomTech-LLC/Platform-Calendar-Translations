@@ -438,6 +438,7 @@ let ru = {
  "Underline" : "Подчеркнуть",
  "Link" : "Связь",
  "Bulleted list" : "Маркированный список",
- "Numbered list" : "Пронумерованный список"
+ "Numbered list" : "Пронумерованный список",
+ "Add meeting link" : "Добавить ссылку на встречу"
 }
 export default ru

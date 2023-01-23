@@ -437,6 +437,7 @@ let de = {
  "Underline" : "Unterstreichen",
  "Link" : "Verknüpfung",
  "Bulleted list" : "Kugelliste",
- "Numbered list" : "Nummerierte Liste"
+ "Numbered list" : "Nummerierte Liste",
+ "Add meeting link" : "Treffen Link hinzufügen"
 }
 export default de

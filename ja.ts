@@ -439,6 +439,7 @@ let ja = {
  "Underline" : "下線",
  "Link" : "リンク",
  "Bulleted list" : "箇条書きリスト",
- "Numbered list" : "番号付きリスト"
+ "Numbered list" : "番号付きリスト",
+ "Add meeting link" : "会議リンクを追加します"
 }
 export default ja

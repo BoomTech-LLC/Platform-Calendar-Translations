@@ -432,6 +432,7 @@ let fr = {
  "All day event" : "Événement d'une journée",
  "Add location" : "Ajouter un emplacement",
  "The field is required" : "Ce champ est requis",
- "Please provide a valid url" : "Veuillez fournir une URL valide"
+ "Please provide a valid url" : "Veuillez fournir une URL valide",
+ "Add meeting link" : "Ajouter le lien de la réunion"
 }
 export default fr

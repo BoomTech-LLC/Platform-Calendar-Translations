@@ -433,6 +433,7 @@ let en = {
  "Underline" : "Underline",
  "Link" : "Link",
  "Bulleted list" : "Bulleted list",
- "Numbered list" : "Numbered list"
+ "Numbered list" : "Numbered list",
+ "Add meeting link" : "Add meeting link"
 }
 export default en

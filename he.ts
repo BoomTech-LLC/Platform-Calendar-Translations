@@ -442,6 +442,7 @@ let he = {
  "Underline" : "לָשִׂים דָגֵשׁ",
  "Link" : "קישור",
  "Bulleted list" : "רשימה כדורים",
- "Numbered list" : "רשימה ממוספרת"
+ "Numbered list" : "רשימה ממוספרת",
+ "Add meeting link" : "הוסף קישור לפגישה"
 }
 export default he

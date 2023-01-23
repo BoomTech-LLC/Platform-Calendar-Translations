@@ -441,6 +441,7 @@ let fa = {
  "Underline" : "زیر خط",
  "Link" : "ارتباط دادن",
  "Bulleted list" : "لیست گلوله",
- "Numbered list" : "لیست شماره گذاری شده"
+ "Numbered list" : "لیست شماره گذاری شده",
+ "Add meeting link" : "لینک جلسه را اضافه کنید"
 }
 export default fa

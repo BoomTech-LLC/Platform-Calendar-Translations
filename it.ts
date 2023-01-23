@@ -425,6 +425,7 @@ let it = {
  "All day event" : "Evento per tutto il giorno",
  "Add location" : "Aggiungi luogo",
  "The field is required" : "Il campo è richiesto",
- "Please provide a valid url" : "Si prega di fornire un URL valido"
+ "Please provide a valid url" : "Si prega di fornire un URL valido",
+ "Add meeting link" : "Aggiungi il link di incontro"
 }
 export default it

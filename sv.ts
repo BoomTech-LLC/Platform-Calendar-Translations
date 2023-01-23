@@ -443,6 +443,7 @@ let sv = {
  "Underline" : "Understrykning",
  "Link" : "Länk",
  "Bulleted list" : "Bulletlista",
- "Numbered list" : "Numrerad lista"
+ "Numbered list" : "Numrerad lista",
+ "Add meeting link" : "Lägg till möteslänk"
 }
 export default sv

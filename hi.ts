@@ -441,6 +441,7 @@ let hi = {
  "Underline" : "रेखांकन",
  "Link" : "संपर्क",
  "Bulleted list" : "बुलेटेड सूची",
- "Numbered list" : "संख्या सूची"
+ "Numbered list" : "संख्या सूची",
+ "Add meeting link" : "मीटिंग लिंक जोड़ें"
 }
 export default hi

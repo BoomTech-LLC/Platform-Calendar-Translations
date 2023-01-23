@@ -439,6 +439,7 @@ let pl = {
  "Underline" : "Podkreślać",
  "Link" : "Połączyć",
  "Bulleted list" : "Lista opuchniętowa",
- "Numbered list" : "Numerowana lista"
+ "Numbered list" : "Numerowana lista",
+ "Add meeting link" : "Dodaj link spotkań"
 }
 export default pl
