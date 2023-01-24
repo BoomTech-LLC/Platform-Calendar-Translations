@@ -440,6 +440,9 @@ let pl = {
  "Link" : "Połączyć",
  "Bulleted list" : "Lista opuchniętowa",
  "Numbered list" : "Numerowana lista",
- "Add meeting link" : "Dodaj link spotkań"
+ "Add meeting link" : "Dodaj link spotkań",
+ "Choose category" : "Wybierz kategorię",
+ "Cancel" : "Anuluj",
+ "Publish" : "Publikować"
 }
 export default pl

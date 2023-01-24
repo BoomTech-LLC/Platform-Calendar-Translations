@@ -439,6 +439,9 @@ let ru = {
  "Link" : "Связь",
  "Bulleted list" : "Маркированный список",
  "Numbered list" : "Пронумерованный список",
- "Add meeting link" : "Добавить ссылку на встречу"
+ "Add meeting link" : "Добавить ссылку на встречу",
+ "Choose category" : "Выберите категорию",
+ "Cancel" : "Отмена",
+ "Publish" : "Публиковать"
 }
 export default ru

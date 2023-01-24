@@ -439,6 +439,9 @@ let no = {
  "Link" : "Lenke",
  "Bulleted list" : "Bulleted List",
  "Numbered list" : "Nummerert liste",
- "Add meeting link" : "Legg til møtelink"
+ "Add meeting link" : "Legg til møtelink",
+ "Choose category" : "Velg kategori",
+ "Cancel" : "Avbryt",
+ "Publish" : "publisere"
 }
 export default no

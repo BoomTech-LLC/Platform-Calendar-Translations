@@ -426,6 +426,9 @@ let it = {
  "Add location" : "Aggiungi luogo",
  "The field is required" : "Il campo è richiesto",
  "Please provide a valid url" : "Si prega di fornire un URL valido",
- "Add meeting link" : "Aggiungi il link di incontro"
+ "Add meeting link" : "Aggiungi il link di incontro",
+ "Choose category" : "Scegli la categoria",
+ "Cancel" : "Annulla",
+ "Publish" : "Pubblicare"
 }
 export default it

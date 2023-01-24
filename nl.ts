@@ -438,6 +438,9 @@ let nl = {
  "Link" : "Koppeling",
  "Bulleted list" : "Opsloeglijst",
  "Numbered list" : "Genummerde lijst",
- "Add meeting link" : "Voeg vergaderlink toe"
+ "Add meeting link" : "Voeg vergaderlink toe",
+ "Choose category" : "Kies categorie",
+ "Cancel" : "Annuleren",
+ "Publish" : "Publiceren"
 }
 export default nl

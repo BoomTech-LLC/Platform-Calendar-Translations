@@ -444,6 +444,9 @@ let sv = {
  "Link" : "Länk",
  "Bulleted list" : "Bulletlista",
  "Numbered list" : "Numrerad lista",
- "Add meeting link" : "Lägg till möteslänk"
+ "Add meeting link" : "Lägg till möteslänk",
+ "Choose category" : "Välj kategori",
+ "Cancel" : "Annullera",
+ "Publish" : "Publicera"
 }
 export default sv

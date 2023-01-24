@@ -432,6 +432,9 @@ let es = {
  "Add location" : "Agregar Direccion",
  "The field is required" : "El campo es obligatorio",
  "Please provide a valid url" : "Proporcione una URL válida",
- "Add meeting link" : "Agregar enlace de reunión"
+ "Add meeting link" : "Agregar enlace de reunión",
+ "Choose category" : "Elegir la categoría",
+ "Cancel" : "Cancelar",
+ "Publish" : "Publicar"
 }
 export default es

@@ -438,6 +438,9 @@ let de = {
  "Link" : "Verknüpfung",
  "Bulleted list" : "Kugelliste",
  "Numbered list" : "Nummerierte Liste",
- "Add meeting link" : "Treffen Link hinzufügen"
+ "Add meeting link" : "Treffen Link hinzufügen",
+ "Choose category" : "Kategorie auswählen",
+ "Cancel" : "Absagen",
+ "Publish" : "Veröffentlichen"
 }
 export default de

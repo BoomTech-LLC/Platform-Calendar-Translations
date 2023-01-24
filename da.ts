@@ -439,6 +439,9 @@ let da = {
  "Link" : "Link",
  "Bulleted list" : "Bullet list",
  "Numbered list" : "Nummereret liste",
- "Add meeting link" : "Tilføj mødelink"
+ "Add meeting link" : "Tilføj mødelink",
+ "Choose category" : "Vælg kategori",
+ "Cancel" : "Afbestille",
+ "Publish" : "Offentliggøre"
 }
 export default da

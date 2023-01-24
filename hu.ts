@@ -435,6 +435,9 @@ let hu = {
  "Link" : "Link",
  "Bulleted list" : "Ábrázolt lista",
  "Numbered list" : "Számozott lista",
- "Add meeting link" : "Találkozó link hozzáadása"
+ "Add meeting link" : "Találkozó link hozzáadása",
+ "Choose category" : "Válassza a Kategória lehetőséget",
+ "Cancel" : "Megszünteti",
+ "Publish" : "Közzétesz"
 }
 export default hu

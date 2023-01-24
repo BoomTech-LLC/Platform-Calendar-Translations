@@ -439,6 +439,9 @@ let tr = {
  "Link" : "Bağlantı",
  "Bulleted list" : "Maddeli liste",
  "Numbered list" : "Numaralı liste",
- "Add meeting link" : "Toplantı Bağlantısı Ekle"
+ "Add meeting link" : "Toplantı Bağlantısı Ekle",
+ "Choose category" : "Kategori Seçin",
+ "Cancel" : "İptal",
+ "Publish" : "Yayınla"
 }
 export default tr

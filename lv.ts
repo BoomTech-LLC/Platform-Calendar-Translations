@@ -440,6 +440,9 @@ let lv = {
  "Link" : "Saite",
  "Bulleted list" : "Ložu saraksts",
  "Numbered list" : "Numurēts saraksts",
- "Add meeting link" : "Pievienojiet sanāksmes saiti"
+ "Add meeting link" : "Pievienojiet sanāksmes saiti",
+ "Choose category" : "Izvēlieties kategoriju",
+ "Cancel" : "Atcelt",
+ "Publish" : "Publicēt"
 }
 export default lv

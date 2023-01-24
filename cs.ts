@@ -441,6 +441,9 @@ let cs = {
  "Link" : "Odkaz",
  "Bulleted list" : "Seznam s odrážkami",
  "Numbered list" : "Číslovaný seznam",
- "Add meeting link" : "Přidejte odkaz na schůzku"
+ "Add meeting link" : "Přidejte odkaz na schůzku",
+ "Choose category" : "Vyberte kategorii",
+ "Cancel" : "zrušení",
+ "Publish" : "Publikovat"
 }
 export default cs

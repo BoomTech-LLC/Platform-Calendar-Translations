@@ -439,6 +439,9 @@ let uk = {
  "Link" : "Зв'язок",
  "Bulleted list" : "Список бритів",
  "Numbered list" : "Пронумерований список",
- "Add meeting link" : "Додайте посилання на зустріч"
+ "Add meeting link" : "Додайте посилання на зустріч",
+ "Choose category" : "Виберіть категорію",
+ "Cancel" : "Скасувати",
+ "Publish" : "Опублікувати"
 }
 export default uk

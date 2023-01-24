@@ -439,6 +439,9 @@ let ko = {
  "Link" : "링크",
  "Bulleted list" : "총알 목록",
  "Numbered list" : "번호가 매겨진 목록",
- "Add meeting link" : "회의 링크 추가"
+ "Add meeting link" : "회의 링크 추가",
+ "Choose category" : "카테고리를 선택하십시오",
+ "Cancel" : "취소",
+ "Publish" : "게시"
 }
 export default ko

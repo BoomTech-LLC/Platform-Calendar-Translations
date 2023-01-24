@@ -439,6 +439,9 @@ let ar = {
  "Link" : "وصلة",
  "Bulleted list" : "قائمة برصاصة",
  "Numbered list" : "قائمة مرقمة",
- "Add meeting link" : "أضف رابط الاجتماع"
+ "Add meeting link" : "أضف رابط الاجتماع",
+ "Choose category" : "اختر الفئة",
+ "Cancel" : "يلغي",
+ "Publish" : "ينشر"
 }
 export default ar

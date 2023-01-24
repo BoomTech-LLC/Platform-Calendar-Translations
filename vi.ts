@@ -433,6 +433,9 @@ let vi = {
  "Link" : "Liên kết",
  "Bulleted list" : "Danh sách viên đạn",
  "Numbered list" : "Danh sách được đánh số",
- "Add meeting link" : "Thêm liên kết cuộc họp"
+ "Add meeting link" : "Thêm liên kết cuộc họp",
+ "Choose category" : "Chọn danh mục",
+ "Cancel" : "Hủy bỏ",
+ "Publish" : "Công bố"
 }
 export default vi

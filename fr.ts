@@ -433,6 +433,9 @@ let fr = {
  "Add location" : "Ajouter un emplacement",
  "The field is required" : "Ce champ est requis",
  "Please provide a valid url" : "Veuillez fournir une URL valide",
- "Add meeting link" : "Ajouter le lien de la réunion"
+ "Add meeting link" : "Ajouter le lien de la réunion",
+ "Choose category" : "Choisissez la catégorie",
+ "Cancel" : "Annuler",
+ "Publish" : "Publier"
 }
 export default fr

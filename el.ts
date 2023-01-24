@@ -438,6 +438,9 @@ let el = {
  "Link" : "Σύνδεσμος",
  "Bulleted list" : "Σφυρηλάτηση",
  "Numbered list" : "Αριθμημένη λίστα",
- "Add meeting link" : "Προσθήκη συνδέσμου συνάντησης"
+ "Add meeting link" : "Προσθήκη συνδέσμου συνάντησης",
+ "Choose category" : "Επιλέξτε κατηγορία",
+ "Cancel" : "Ματαίωση",
+ "Publish" : "Δημοσιεύω"
 }
 export default el

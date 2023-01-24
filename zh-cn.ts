@@ -439,6 +439,9 @@ let zh = {
  "Link" : "关联",
  "Bulleted list" : "项目符号列表",
  "Numbered list" : "编号列表",
- "Add meeting link" : "添加会议链接"
+ "Add meeting link" : "添加会议链接",
+ "Choose category" : "选择类别",
+ "Cancel" : "取消",
+ "Publish" : "发布"
 }
 export default zh
