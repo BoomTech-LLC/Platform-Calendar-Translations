@@ -30,6 +30,10 @@ let th = {
  "Organizer phone" : "โทรศัพท์ผู้จัดงาน",
  "Organizer email" : "อีเมลผู้จัดงาน",
  "Organizer website" : "เว็บไซต์ผู้จัดงาน",
+ "Add meeting link" : "เพิ่มลิงค์การประชุม",
+ "Choose category" : "เลือกหมวดหมู่",
+ "Cancel" : "ยกเลิก",
+ "Publish" : "เผยแพร่",
   /* add event pop-up end*/
 
 
@@ -440,9 +444,5 @@ let th = {
  "Link" : "การเชื่อมโยง",
  "Bulleted list" : "รายการกระสุนปืน",
  "Numbered list" : "รายการหมายเลข",
- "Add meeting link" : "เพิ่มลิงค์การประชุม",
- "Choose category" : "เลือกหมวดหมู่",
- "Cancel" : "ยกเลิก",
- "Publish" : "เผยแพร่"
 }
 export default th

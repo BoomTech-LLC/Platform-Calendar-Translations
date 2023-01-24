@@ -29,6 +29,10 @@ let it = {
  "Organizer phone" : "Telefono organizzatore",
  "Organizer email" : "Email dell'organizzatore",
  "Organizer website" : "Sito web dell'organizzatore",
+ "Add meeting link" : "Aggiungi il link di incontro",
+ "Choose category" : "Scegli la categoria",
+ "Cancel" : "Annulla",
+ "Publish" : "Pubblicare",
 /* add event pop-up end*/
 
 
@@ -426,9 +430,5 @@ let it = {
  "Add location" : "Aggiungi luogo",
  "The field is required" : "Il campo è richiesto",
  "Please provide a valid url" : "Si prega di fornire un URL valido",
- "Add meeting link" : "Aggiungi il link di incontro",
- "Choose category" : "Scegli la categoria",
- "Cancel" : "Annulla",
- "Publish" : "Pubblicare"
 }
 export default it

@@ -30,6 +30,10 @@ let da = {
  "Organizer phone" : "Arrangørtelefon",
  "Organizer email" : "Arrangør e -mail",
  "Organizer website" : "Arrangørwebsted",
+ "Add meeting link" : "Tilføj mødelink",
+ "Choose category" : "Vælg kategori",
+ "Cancel" : "Afbestille",
+ "Publish" : "Offentliggøre",
 /* add event pop-up end*/
 
 
@@ -439,9 +443,5 @@ let da = {
  "Link" : "Link",
  "Bulleted list" : "Bullet list",
  "Numbered list" : "Nummereret liste",
- "Add meeting link" : "Tilføj mødelink",
- "Choose category" : "Vælg kategori",
- "Cancel" : "Afbestille",
- "Publish" : "Offentliggøre"
 }
 export default da

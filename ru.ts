@@ -29,6 +29,10 @@ let ru = {
  "Organizer phone" : "Организатор телефон",
  "Organizer email" : "Электронная почта организатора",
  "Organizer website" : "Сайт организатора",
+ "Add meeting link" : "Добавить ссылку на встречу",
+ "Choose category" : "Выберите категорию",
+ "Cancel" : "Отмена",
+ "Publish" : "Публиковать",
   /* add event pop-up end*/
 
 
@@ -439,9 +443,5 @@ let ru = {
  "Link" : "Связь",
  "Bulleted list" : "Маркированный список",
  "Numbered list" : "Пронумерованный список",
- "Add meeting link" : "Добавить ссылку на встречу",
- "Choose category" : "Выберите категорию",
- "Cancel" : "Отмена",
- "Publish" : "Публиковать"
 }
 export default ru

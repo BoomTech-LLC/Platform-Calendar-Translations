@@ -30,6 +30,10 @@ let pl = {
  "Organizer phone" : "Telefon organizatora",
  "Organizer email" : "E -mail organizatora",
  "Organizer website" : "Witryna Organizatora",
+ "Add meeting link" : "Dodaj link spotkań",
+ "Choose category" : "Wybierz kategorię",
+ "Cancel" : "Anuluj",
+ "Publish" : "Publikować",
   /* add event pop-up end*/
 
 
@@ -440,9 +444,5 @@ let pl = {
  "Link" : "Połączyć",
  "Bulleted list" : "Lista opuchniętowa",
  "Numbered list" : "Numerowana lista",
- "Add meeting link" : "Dodaj link spotkań",
- "Choose category" : "Wybierz kategorię",
- "Cancel" : "Anuluj",
- "Publish" : "Publikować"
 }
 export default pl

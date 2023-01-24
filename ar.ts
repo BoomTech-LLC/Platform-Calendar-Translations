@@ -29,6 +29,10 @@ let ar = {
  "Organizer phone" : "هاتف منظم",
  "Organizer email" : "البريد الإلكتروني المنظم",
  "Organizer website" : "موقع المنظم",
+ "Add meeting link" : "أضف رابط الاجتماع",
+ "Choose category" : "اختر الفئة",
+ "Cancel" : "يلغي",
+ "Publish" : "ينشر",
 /* add event pop-up end*/
 
 
@@ -439,9 +443,5 @@ let ar = {
  "Link" : "وصلة",
  "Bulleted list" : "قائمة برصاصة",
  "Numbered list" : "قائمة مرقمة",
- "Add meeting link" : "أضف رابط الاجتماع",
- "Choose category" : "اختر الفئة",
- "Cancel" : "يلغي",
- "Publish" : "ينشر"
 }
 export default ar

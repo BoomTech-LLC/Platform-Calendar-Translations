@@ -29,6 +29,10 @@ let no = {
  "Organizer phone" : "Arrangørtelefon",
  "Organizer email" : "Arrangør -e -post",
  "Organizer website" : "Arrangørens nettsted",
+ "Add meeting link" : "Legg til møtelink",
+ "Choose category" : "Velg kategori",
+ "Cancel" : "Avbryt",
+ "Publish" : "publisere",
   /* add event pop-up end*/
 
 
@@ -439,9 +443,5 @@ let no = {
  "Link" : "Lenke",
  "Bulleted list" : "Bulleted List",
  "Numbered list" : "Nummerert liste",
- "Add meeting link" : "Legg til møtelink",
- "Choose category" : "Velg kategori",
- "Cancel" : "Avbryt",
- "Publish" : "publisere"
 }
 export default no

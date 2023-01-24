@@ -29,6 +29,10 @@ let sv = {
  "Organizer phone" : "Arrangörstelefon",
  "Organizer email" : "E -postmeddelande",
  "Organizer website" : "Arrangörwebbplats",
+ "Add meeting link" : "Lägg till möteslänk",
+ "Choose category" : "Välj kategori",
+ "Cancel" : "Annullera",
+ "Publish" : "Publicera",
   /* add event pop-up end*/
 
 
@@ -444,9 +448,5 @@ let sv = {
  "Link" : "Länk",
  "Bulleted list" : "Bulletlista",
  "Numbered list" : "Numrerad lista",
- "Add meeting link" : "Lägg till möteslänk",
- "Choose category" : "Välj kategori",
- "Cancel" : "Annullera",
- "Publish" : "Publicera"
 }
 export default sv

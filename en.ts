@@ -30,6 +30,10 @@ let en = {
  "Organizer phone" : "Organizer phone",
  "Organizer email" : "Organizer email",
  "Organizer website" : "Organizer website",
+ "Add meeting link" : "Add meeting link",
+ "Choose category" : "Choose category",
+ "Cancel" : "Cancel",
+ "Publish" : "Publish",
 /* add event pop-up end*/
 
 
@@ -434,9 +438,5 @@ let en = {
  "Link" : "Link",
  "Bulleted list" : "Bulleted list",
  "Numbered list" : "Numbered list",
- "Add meeting link" : "Add meeting link",
- "Choose category" : "Choose category",
- "Cancel" : "Cancel",
- "Publish" : "Publish"
 }
 export default en

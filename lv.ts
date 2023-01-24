@@ -30,6 +30,10 @@ let lv = {
  "Organizer phone" : "Organizatora tālrunis",
  "Organizer email" : "Organizatora e -pasts",
  "Organizer website" : "Organizatora vietne",
+ "Add meeting link" : "Pievienojiet sanāksmes saiti",
+ "Choose category" : "Izvēlieties kategoriju",
+ "Cancel" : "Atcelt",
+ "Publish" : "Publicēt",
   /* add event pop-up end*/
 
 
@@ -440,9 +444,5 @@ let lv = {
  "Link" : "Saite",
  "Bulleted list" : "Ložu saraksts",
  "Numbered list" : "Numurēts saraksts",
- "Add meeting link" : "Pievienojiet sanāksmes saiti",
- "Choose category" : "Izvēlieties kategoriju",
- "Cancel" : "Atcelt",
- "Publish" : "Publicēt"
 }
 export default lv

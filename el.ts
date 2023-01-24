@@ -29,6 +29,10 @@ let el = {
  "Organizer phone" : "Τηλεφώνου διοργανωτή",
  "Organizer email" : "Διοργανωτής email",
  "Organizer website" : "Ιστοσελίδα διοργανωτή",
+ "Add meeting link" : "Προσθήκη συνδέσμου συνάντησης",
+ "Choose category" : "Επιλέξτε κατηγορία",
+ "Cancel" : "Ματαίωση",
+ "Publish" : "Δημοσιεύω",
 /* add event pop-up end*/
 
 
@@ -438,9 +442,5 @@ let el = {
  "Link" : "Σύνδεσμος",
  "Bulleted list" : "Σφυρηλάτηση",
  "Numbered list" : "Αριθμημένη λίστα",
- "Add meeting link" : "Προσθήκη συνδέσμου συνάντησης",
- "Choose category" : "Επιλέξτε κατηγορία",
- "Cancel" : "Ματαίωση",
- "Publish" : "Δημοσιεύω"
 }
 export default el

@@ -29,6 +29,10 @@ let nl = {
  "Organizer phone" : "Organisator telefoon",
  "Organizer email" : "Organisator -e -mail",
  "Organizer website" : "Organizer website",
+ "Add meeting link" : "Voeg vergaderlink toe",
+ "Choose category" : "Kies categorie",
+ "Cancel" : "Annuleren",
+ "Publish" : "Publiceren",
   /* add event pop-up end*/
 
 
@@ -438,9 +442,5 @@ let nl = {
  "Link" : "Koppeling",
  "Bulleted list" : "Opsloeglijst",
  "Numbered list" : "Genummerde lijst",
- "Add meeting link" : "Voeg vergaderlink toe",
- "Choose category" : "Kies categorie",
- "Cancel" : "Annuleren",
- "Publish" : "Publiceren"
 }
 export default nl

@@ -30,6 +30,10 @@ let hi = {
  "Organizer phone" : "आयोजक फोन",
  "Organizer email" : "आयोजक ईमेल",
  "Organizer website" : "आयोजक वेबसाइट",
+ "Add meeting link" : "मीटिंग लिंक जोड़ें",
+ "Choose category" : "श्रेणी का चयन करें",
+ "Cancel" : "रद्द करना",
+ "Publish" : "प्रकाशित करना",
 /* add event pop-up end*/
 
 
@@ -442,9 +446,5 @@ let hi = {
  "Link" : "संपर्क",
  "Bulleted list" : "बुलेटेड सूची",
  "Numbered list" : "संख्या सूची",
- "Add meeting link" : "मीटिंग लिंक जोड़ें",
- "Choose category" : "श्रेणी का चयन करें",
- "Cancel" : "रद्द करना",
- "Publish" : "प्रकाशित करना"
 }
 export default hi

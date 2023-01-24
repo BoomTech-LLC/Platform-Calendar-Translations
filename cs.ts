@@ -30,6 +30,10 @@ let cs = {
  "Organizer phone" : "Pořadatelský telefon",
  "Organizer email" : "Organizátor e -mail",
  "Organizer website" : "Web organizátora",
+ "Add meeting link" : "Přidejte odkaz na schůzku",
+ "Choose category" : "Vyberte kategorii",
+ "Cancel" : "zrušení",
+ "Publish" : "Publikovat",
 /* add event pop-up end*/
 
 
@@ -441,9 +445,5 @@ let cs = {
  "Link" : "Odkaz",
  "Bulleted list" : "Seznam s odrážkami",
  "Numbered list" : "Číslovaný seznam",
- "Add meeting link" : "Přidejte odkaz na schůzku",
- "Choose category" : "Vyberte kategorii",
- "Cancel" : "zrušení",
- "Publish" : "Publikovat"
 }
 export default cs

@@ -30,6 +30,10 @@ let fr = {
  "Organizer phone" : "Téléphone de l'organisateur",
  "Organizer email" : "E-mail de l'organisateur",
  "Organizer website" : "Site Web de l'organisateur",
+ "Add meeting link" : "Ajouter le lien de la réunion",
+ "Choose category" : "Choisissez la catégorie",
+ "Cancel" : "Annuler",
+ "Publish" : "Publier",
 /* add event pop-up end*/
 
 
@@ -433,9 +437,5 @@ let fr = {
  "Add location" : "Ajouter un emplacement",
  "The field is required" : "Ce champ est requis",
  "Please provide a valid url" : "Veuillez fournir une URL valide",
- "Add meeting link" : "Ajouter le lien de la réunion",
- "Choose category" : "Choisissez la catégorie",
- "Cancel" : "Annuler",
- "Publish" : "Publier"
 }
 export default fr

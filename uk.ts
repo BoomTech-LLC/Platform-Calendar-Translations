@@ -29,6 +29,10 @@ let uk = {
  "Organizer phone" : "Організатор телефон",
  "Organizer email" : "Електронна пошта організатора",
  "Organizer website" : "Веб -сайт організатора",
+ "Add meeting link" : "Додайте посилання на зустріч",
+ "Choose category" : "Виберіть категорію",
+ "Cancel" : "Скасувати",
+ "Publish" : "Опублікувати",
   /* add event pop-up end*/
 
 
@@ -439,9 +443,5 @@ let uk = {
  "Link" : "Зв'язок",
  "Bulleted list" : "Список бритів",
  "Numbered list" : "Пронумерований список",
- "Add meeting link" : "Додайте посилання на зустріч",
- "Choose category" : "Виберіть категорію",
- "Cancel" : "Скасувати",
- "Publish" : "Опублікувати"
 }
 export default uk

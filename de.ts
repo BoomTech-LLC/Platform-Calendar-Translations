@@ -30,6 +30,10 @@ let de = {
  "Organizer phone" : "Organisator Telefon",
  "Organizer email" : "Organizer -E -Mail",
  "Organizer website" : "Organisator -Website",
+ "Add meeting link" : "Treffen Link hinzufügen",
+ "Choose category" : "Kategorie auswählen",
+ "Cancel" : "Absagen",
+ "Publish" : "Veröffentlichen",
 /* add event pop-up end*/
 
   "Categories": "Kategorien",
@@ -438,9 +442,5 @@ let de = {
  "Link" : "Verknüpfung",
  "Bulleted list" : "Kugelliste",
  "Numbered list" : "Nummerierte Liste",
- "Add meeting link" : "Treffen Link hinzufügen",
- "Choose category" : "Kategorie auswählen",
- "Cancel" : "Absagen",
- "Publish" : "Veröffentlichen"
 }
 export default de

@@ -30,6 +30,10 @@ let ja = {
  "Organizer phone" : "オーガナイザー電話",
  "Organizer email" : "オーガナイザーメール",
  "Organizer website" : "主催者のウェブサイト",
+ "Add meeting link" : "会議リンクを追加します",
+ "Choose category" : "カテゴリを選択します",
+ "Cancel" : "キャンセル",
+ "Publish" : "公開",
 /* add event pop-up end*/
 
 
@@ -440,9 +444,5 @@ let ja = {
  "Link" : "リンク",
  "Bulleted list" : "箇条書きリスト",
  "Numbered list" : "番号付きリスト",
- "Add meeting link" : "会議リンクを追加します",
- "Choose category" : "カテゴリを選択します",
- "Cancel" : "キャンセル",
- "Publish" : "公開"
 }
 export default ja

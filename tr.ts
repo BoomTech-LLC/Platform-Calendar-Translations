@@ -29,6 +29,10 @@ let tr = {
  "Organizer phone" : "Organizatör telefon",
  "Organizer email" : "Organizatör e -postası",
  "Organizer website" : "Organizatör web sitesi",
+ "Add meeting link" : "Toplantı Bağlantısı Ekle",
+ "Choose category" : "Kategori Seçin",
+ "Cancel" : "İptal",
+ "Publish" : "Yayınla",
   /* add event pop-up end*/
 
 
@@ -439,9 +443,5 @@ let tr = {
  "Link" : "Bağlantı",
  "Bulleted list" : "Maddeli liste",
  "Numbered list" : "Numaralı liste",
- "Add meeting link" : "Toplantı Bağlantısı Ekle",
- "Choose category" : "Kategori Seçin",
- "Cancel" : "İptal",
- "Publish" : "Yayınla"
 }
 export default tr

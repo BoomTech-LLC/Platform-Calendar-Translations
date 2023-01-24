@@ -30,6 +30,10 @@ let he = {
  "Organizer phone" : "טלפון מארגן",
  "Organizer email" : "דואל מארגן",
  "Organizer website" : "אתר מארגן",
+ "Add meeting link" : "הוסף קישור לפגישה",
+ "Choose category" : "בחרו קטגוריה",
+ "Cancel" : "לְבַטֵל",
+ "Publish" : "לְפַרְסֵם",
 /* add event pop-up end*/
 
 
@@ -443,9 +447,5 @@ let he = {
  "Link" : "קישור",
  "Bulleted list" : "רשימה כדורים",
  "Numbered list" : "רשימה ממוספרת",
- "Add meeting link" : "הוסף קישור לפגישה",
- "Choose category" : "בחרו קטגוריה",
- "Cancel" : "לְבַטֵל",
- "Publish" : "לְפַרְסֵם"
 }
 export default he

@@ -29,6 +29,10 @@ let pt = {
  "Organizer phone" : "Telefone organizador",
  "Organizer email" : "Email do organizador",
  "Organizer website" : "Site do Organizador",
+ "Add meeting link" : "Adicione o link da reunião",
+ "Choose category" : "Escolher categoria",
+ "Cancel" : "Cancelar",
+ "Publish" : "Publicar",
   /* add event pop-up end*/
 
 
@@ -433,9 +437,5 @@ let pt = {
  "Add location" : "Adicionar local",
  "The field is required" : "O campo é obrigatório",
  "Please provide a valid url" : "Forneça um URL válido",
- "Add meeting link" : "Adicione o link da reunião",
- "Choose category" : "Escolher categoria",
- "Cancel" : "Cancelar",
- "Publish" : "Publicar"
 }
 export default pt

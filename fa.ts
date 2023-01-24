@@ -30,6 +30,10 @@ let fa = {
  "Organizer phone" : "تلفن برگزار کننده",
  "Organizer email" : "ایمیل سازمان دهنده",
  "Organizer website" : "وب سایت برگزار کننده",
+ "Add meeting link" : "لینک جلسه را اضافه کنید",
+ "Choose category" : "دسته را انتخاب کنید",
+ "Cancel" : "لغو کردن",
+ "Publish" : "انتشار",
 /* add event pop-up end*/
 
 
@@ -442,9 +446,5 @@ let fa = {
  "Link" : "ارتباط دادن",
  "Bulleted list" : "لیست گلوله",
  "Numbered list" : "لیست شماره گذاری شده",
- "Add meeting link" : "لینک جلسه را اضافه کنید",
- "Choose category" : "دسته را انتخاب کنید",
- "Cancel" : "لغو کردن",
- "Publish" : "انتشار"
 }
 export default fa

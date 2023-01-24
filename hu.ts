@@ -29,6 +29,10 @@ let hu = {
  "Organizer phone" : "Szervező telefon",
  "Organizer email" : "Szervező e -mail",
  "Organizer website" : "Szervező webhely",
+ "Add meeting link" : "Találkozó link hozzáadása",
+ "Choose category" : "Válassza a Kategória lehetőséget",
+ "Cancel" : "Megszünteti",
+ "Publish" : "Közzétesz",
 /* add event pop-up end*/
 
   "Categories": "Kategóriáks",
@@ -435,9 +439,5 @@ let hu = {
  "Link" : "Link",
  "Bulleted list" : "Ábrázolt lista",
  "Numbered list" : "Számozott lista",
- "Add meeting link" : "Találkozó link hozzáadása",
- "Choose category" : "Válassza a Kategória lehetőséget",
- "Cancel" : "Megszünteti",
- "Publish" : "Közzétesz"
 }
 export default hu
