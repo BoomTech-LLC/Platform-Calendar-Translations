@@ -438,5 +438,6 @@ let en = {
  "Link" : "Link",
  "Bulleted list" : "Bulleted list",
  "Numbered list" : "Numbered list",
+ "Website" : "Website"
 }
 export default en

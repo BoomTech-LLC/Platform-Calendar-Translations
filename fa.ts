@@ -446,5 +446,6 @@ let fa = {
  "Link" : "ارتباط دادن",
  "Bulleted list" : "لیست گلوله",
  "Numbered list" : "لیست شماره گذاری شده",
+ "Website" : "سایت اینترنتی"
 }
 export default fa

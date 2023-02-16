@@ -444,5 +444,6 @@ let ja = {
  "Link" : "リンク",
  "Bulleted list" : "箇条書きリスト",
  "Numbered list" : "番号付きリスト",
+ "Website" : "Webサイト"
 }
 export default ja

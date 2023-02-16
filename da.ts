@@ -443,5 +443,6 @@ let da = {
  "Link" : "Link",
  "Bulleted list" : "Bullet list",
  "Numbered list" : "Nummereret liste",
+ "Website" : "Internet side"
 }
 export default da

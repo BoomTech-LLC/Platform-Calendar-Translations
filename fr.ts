@@ -437,5 +437,6 @@ let fr = {
  "Add location" : "Ajouter un emplacement",
  "The field is required" : "Ce champ est requis",
  "Please provide a valid url" : "Veuillez fournir une URL valide",
+ "Website" : "Site Internet"
 }
 export default fr

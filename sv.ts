@@ -448,5 +448,6 @@ let sv = {
  "Link" : "Länk",
  "Bulleted list" : "Bulletlista",
  "Numbered list" : "Numrerad lista",
+ "Website" : "Hemsida"
 }
 export default sv

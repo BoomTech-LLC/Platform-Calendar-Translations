@@ -446,5 +446,6 @@ let bg = {
  "Link" : "Връзка",
  "Bulleted list" : "Булиран списък",
  "Numbered list" : "Номериран списък",
+ "Website" : "Уебсайт"
 }
 export default bg

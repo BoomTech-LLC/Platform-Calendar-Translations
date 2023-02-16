@@ -443,5 +443,6 @@ let tr = {
  "Link" : "Bağlantı",
  "Bulleted list" : "Maddeli liste",
  "Numbered list" : "Numaralı liste",
+ "Website" : "İnternet sitesi"
 }
 export default tr

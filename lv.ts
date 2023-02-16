@@ -444,5 +444,6 @@ let lv = {
  "Link" : "Saite",
  "Bulleted list" : "Ložu saraksts",
  "Numbered list" : "Numurēts saraksts",
+ "Website" : "Vietne"
 }
 export default lv
