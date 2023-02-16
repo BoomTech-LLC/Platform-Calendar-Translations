@@ -437,5 +437,6 @@ let vi = {
  "Link" : "Liên kết",
  "Bulleted list" : "Danh sách viên đạn",
  "Numbered list" : "Danh sách được đánh số",
+ "Website" : "Trang mạng"
 }
 export default vi

@@ -437,5 +437,6 @@ let pt = {
  "Add location" : "Adicionar local",
  "The field is required" : "O campo é obrigatório",
  "Please provide a valid url" : "Forneça um URL válido",
+ "Website" : "Local na rede Internet"
 }
 export default pt

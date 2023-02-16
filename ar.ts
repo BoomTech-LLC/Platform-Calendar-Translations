@@ -443,5 +443,6 @@ let ar = {
  "Link" : "وصلة",
  "Bulleted list" : "قائمة برصاصة",
  "Numbered list" : "قائمة مرقمة",
+ "Website" : "موقع إلكتروني"
 }
 export default ar

@@ -443,5 +443,6 @@ let zh = {
  "Link" : "关联",
  "Bulleted list" : "项目符号列表",
  "Numbered list" : "编号列表",
+ "Website" : "网站"
 }
-export default zh
+export default zh-cn

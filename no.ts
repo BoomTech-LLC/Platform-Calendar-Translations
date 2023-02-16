@@ -443,5 +443,6 @@ let no = {
  "Link" : "Lenke",
  "Bulleted list" : "Bulleted List",
  "Numbered list" : "Nummerert liste",
+ "Website" : "Nettsted"
 }
 export default no

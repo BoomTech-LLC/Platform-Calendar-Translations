@@ -442,5 +442,6 @@ let el = {
  "Link" : "Σύνδεσμος",
  "Bulleted list" : "Σφυρηλάτηση",
  "Numbered list" : "Αριθμημένη λίστα",
+ "Website" : "Δικτυακός τόπος"
 }
 export default el

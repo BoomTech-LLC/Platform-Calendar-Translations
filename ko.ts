@@ -443,5 +443,6 @@ let ko = {
  "Link" : "링크",
  "Bulleted list" : "총알 목록",
  "Numbered list" : "번호가 매겨진 목록",
+ "Website" : "웹 사이트"
 }
 export default ko

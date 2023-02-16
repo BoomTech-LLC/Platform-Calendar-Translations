@@ -447,5 +447,6 @@ let he = {
  "Link" : "קישור",
  "Bulleted list" : "רשימה כדורים",
  "Numbered list" : "רשימה ממוספרת",
+ "Website" : "אתר אינטרנט"
 }
 export default he

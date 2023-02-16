@@ -439,5 +439,6 @@ let hu = {
  "Link" : "Link",
  "Bulleted list" : "Ábrázolt lista",
  "Numbered list" : "Számozott lista",
+ "Website" : "Weboldal"
 }
 export default hu

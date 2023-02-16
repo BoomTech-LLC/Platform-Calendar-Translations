@@ -445,5 +445,6 @@ let cs = {
  "Link" : "Odkaz",
  "Bulleted list" : "Seznam s odrážkami",
  "Numbered list" : "Číslovaný seznam",
+ "Website" : "webová stránka"
 }
 export default cs

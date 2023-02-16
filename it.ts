@@ -430,5 +430,6 @@ let it = {
  "Add location" : "Aggiungi luogo",
  "The field is required" : "Il campo è richiesto",
  "Please provide a valid url" : "Si prega di fornire un URL valido",
+ "Website" : "Sito web"
 }
 export default it

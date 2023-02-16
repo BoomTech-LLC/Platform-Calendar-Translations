@@ -442,5 +442,6 @@ let de = {
  "Link" : "Verknüpfung",
  "Bulleted list" : "Kugelliste",
  "Numbered list" : "Nummerierte Liste",
+ "Website" : "Webseite"
 }
 export default de

@@ -443,5 +443,6 @@ let ru = {
  "Link" : "Связь",
  "Bulleted list" : "Маркированный список",
  "Numbered list" : "Пронумерованный список",
+ "Website" : "Веб-сайт"
 }
 export default ru

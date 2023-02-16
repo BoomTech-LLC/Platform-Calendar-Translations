@@ -444,5 +444,6 @@ let th = {
  "Link" : "การเชื่อมโยง",
  "Bulleted list" : "รายการกระสุนปืน",
  "Numbered list" : "รายการหมายเลข",
+ "Website" : "เว็บไซต์"
 }
 export default th

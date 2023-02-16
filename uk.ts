@@ -443,5 +443,6 @@ let uk = {
  "Link" : "Зв'язок",
  "Bulleted list" : "Список бритів",
  "Numbered list" : "Пронумерований список",
+ "Website" : "Веб -сайт"
 }
 export default uk

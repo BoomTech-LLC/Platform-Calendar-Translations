@@ -446,5 +446,6 @@ let hi = {
  "Link" : "संपर्क",
  "Bulleted list" : "बुलेटेड सूची",
  "Numbered list" : "संख्या सूची",
+ "Website" : "वेबसाइट"
 }
 export default hi

@@ -444,5 +444,6 @@ let pl = {
  "Link" : "Połączyć",
  "Bulleted list" : "Lista opuchniętowa",
  "Numbered list" : "Numerowana lista",
+ "Website" : "Strona internetowa"
 }
 export default pl

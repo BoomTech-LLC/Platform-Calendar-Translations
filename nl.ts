@@ -442,5 +442,6 @@ let nl = {
  "Link" : "Koppeling",
  "Bulleted list" : "Opsloeglijst",
  "Numbered list" : "Genummerde lijst",
+ "Website" : "Website"
 }
 export default nl
