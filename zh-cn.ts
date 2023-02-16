@@ -445,4 +445,4 @@ let zh = {
  "Numbered list" : "编号列表",
  "Website" : "网站"
 }
-export default zh-cn
+export default zh
