@@ -1,4 +1,5 @@
 let el = {
+  "Duplicate event": "Διπλό συμβάν",
   /* add event pop-up start*/
   "e.g. Birthday Party": "π.χ. Πάρτι γενεθλίων",
   Organizer: "Διοργανωτής",

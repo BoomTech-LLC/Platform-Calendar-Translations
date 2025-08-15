@@ -1,4 +1,5 @@
 let lv = {
+  "Duplicate event": "Dublēts pasākums",
   /* add event pop-up start*/
   "e.g. Birthday Party": "piem. Dzimšanas dienas ballīte",
   Organizer: "Organizators",

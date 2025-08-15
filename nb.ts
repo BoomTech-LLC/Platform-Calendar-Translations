@@ -1,4 +1,5 @@
 let nb = {
+  "Duplicate event": "Duplikathendelse",
   /* add event pop-up start*/
   "e.g. Birthday Party": "f.eks. Bursdagsfest",
   Organizer: "Planlegger",

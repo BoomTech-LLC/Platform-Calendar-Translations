@@ -1,4 +1,5 @@
 let fi = {
+  "Duplicate event": "Päällekkäinen tapahtuma",
   /* add event pop-up start*/
   "e.g. Birthday Party": "esim.Syntymäpäiväjuhlat",
   Organizer: "Järjestäjä",

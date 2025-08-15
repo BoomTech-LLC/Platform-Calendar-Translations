@@ -1,4 +1,5 @@
 let es = {
+  "Duplicate event": "Evento duplicado",
   /* add event pop-up start*/
   "e.g. Birthday Party": "p.ej. Fiesta de cumpleaños",
   Organizer: "Organizador",

@@ -1,4 +1,5 @@
 let uk = {
+  "Duplicate event": "Дубльована подія",
   /* add event pop-up start*/
   "e.g. Birthday Party": "наприклад Вечірка на честь дня народження",
   Organizer: "Організатор",

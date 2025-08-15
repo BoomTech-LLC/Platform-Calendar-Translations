@@ -1,4 +1,5 @@
 let cs = {
+  "Duplicate event": "Duplicitní událost",
   /* add event pop-up start*/
   "e.g. Birthday Party": "např. Narozeninová oslava",
   "Add Event": "Přidat událost",

@@ -1,4 +1,5 @@
 let bg = {
+  "Duplicate event": "Дублирано събитие",
   /* add event pop-up start*/
   "e.g. Birthday Party": "напр. Парти за рожден ден",
   "Add Event": "Добавяне на събитие",

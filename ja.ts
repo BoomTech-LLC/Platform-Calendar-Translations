@@ -1,4 +1,5 @@
 let ja = {
+  "Duplicate event": "重複イベント",
   /* add event pop-up start*/
   "e.g. Birthday Party": "例えば。 誕生日会",
   Organizer: "主催者",

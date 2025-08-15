@@ -1,4 +1,5 @@
 let da = {
+  "Duplicate event": "Dubleret begivenhed",
   /* add event pop-up start*/
   "e.g. Birthday Party": "f.eks. Fødselsdagsfest",
   Organizer: "Arrangør",

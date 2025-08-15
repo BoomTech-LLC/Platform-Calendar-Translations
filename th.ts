@@ -1,4 +1,5 @@
 let th = {
+  "Duplicate event": "เหตุการณ์ซ้ำซ้อน",
   /* add event pop-up start*/
   "e.g. Birthday Party": "เช่น. ปาร์ตี้วันเกิด",
   Organizer: "Planlegger",

@@ -1,4 +1,5 @@
 let fa = {
+  "Duplicate event": "رویداد تکراری",
   /* add event pop-up start*/
   "e.g. Birthday Party": "به عنوان مثال. جشن تولد",
   Organizer: "تنظیم کننده",

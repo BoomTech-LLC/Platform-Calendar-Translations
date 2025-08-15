@@ -1,4 +1,5 @@
 let he = {
+  "Duplicate event": "אירוע כפול",
   /* add event pop-up start*/
   "e.g. Birthday Party": "לְמָשָׁל. מסיבת יום הולדת",
   Organizer: "מְאַרגֵן",

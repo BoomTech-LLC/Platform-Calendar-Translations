@@ -1,4 +1,5 @@
 let hi = {
+  "Duplicate event": "डुप्लिकेट ईवेंट",
   /* add event pop-up start*/
   "e.g. Birthday Party": "जैसे जन्मदिन उत्सव",
   Organizer: "व्यवस्था करनेवाला",

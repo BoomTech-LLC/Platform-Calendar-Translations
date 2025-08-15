@@ -1,4 +1,5 @@
 let ko = {
+  "Duplicate event": "중복 이벤트",
   /* add event pop-up start*/
   "e.g. Birthday Party": "예 : 생일 파티",
   Organizer: "조직자",

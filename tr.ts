@@ -1,4 +1,5 @@
 let tr = {
+  "Duplicate event": "Yinelenen etkinlik",
   /* add event pop-up start*/
   "e.g. Birthday Party": "Örneğin. Doğum günü partisi",
   Organizer: "Organizatör",

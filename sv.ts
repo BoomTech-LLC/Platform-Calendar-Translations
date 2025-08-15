@@ -1,4 +1,5 @@
 let sv = {
+  "Duplicate event": "Dubblett händelse",
   /* add event pop-up start*/
   "e.g. Birthday Party": "t.ex. Födelsedagskalas",
   Organizer: "Arrangör",

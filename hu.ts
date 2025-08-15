@@ -1,4 +1,5 @@
 let hu = {
+  "Duplicate event": "Ismétlődő esemény",
   /* add event pop-up start*/
   "e.g. Birthday Party": "például. Szülinapi buli",
   Organizer: "Szervező",

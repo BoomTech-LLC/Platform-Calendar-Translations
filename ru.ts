@@ -1,4 +1,5 @@
 let ru = {
+  "Duplicate event": "Дублирующее событие",
   /* add event pop-up start*/
   "e.g. Birthday Party": "например. День рождения",
   Organizer: "Организатор",

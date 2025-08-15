@@ -1,4 +1,5 @@
 let vi = {
+  "Duplicate event": "Sự kiện trùng lặp",
   /* add event pop-up start*/
   "e.g. Birthday Party": "ví dụ. Tiệc sinh nhật",
   Organizer: "Người tổ chức",

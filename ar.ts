@@ -1,4 +1,5 @@
 let ar = {
+  "Duplicate event": "حدث مكرر",
   /* add event pop-up start*/
   "e.g. Birthday Party": "على سبيل المثال حفلة عيد ميلاد",
   "Add Event": "أضف حدث",
